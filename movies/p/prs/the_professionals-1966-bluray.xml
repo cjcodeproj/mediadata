@@ -1,0 +1,178 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The Professionals</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>043396162150</barcode>
+    <barcode type='isbn' scanlines='false'>1-4248-2882-1</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Professionals</title>
+    <catalog>
+     <copyright>
+      <year>1966</year>
+      <holders>
+       <holder>Pax Enterprises, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Adventure</secondary>
+      <secondary>Western</secondary>
+      <specific>Kidnapping Rescue</specific>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='21227'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H57M29S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A rich man hires a team of hard men to go to Mexico and retrieve his kidnapped wife from a revolutionary soldier.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><co>Mexico</co></place></properNoun>
+       <generic>desert</generic>
+       <generic>mountains</generic>
+       <generic>sand storm</generic>
+      </group>
+      <group>
+       <generic>train</generic>
+       <generic>train derailment</generic>
+       <generic>train robbery</generic>
+       <generic>train tracks</generic>
+       <generic>ore cart</generic>
+      </group>
+      <group>
+       <generic>dynamite</generic>
+       <generic>explosions</generic>
+       <generic>fuse</generic>
+       <generic>dynamite arrows</generic>
+      </group>
+      <group>
+       <generic>gun</generic>
+       <generic>gatling gun</generic>
+       <generic>bow and arrows</generic>
+      </group>
+      <group relevance='2'>
+       <generic>wife</generic>
+       <generic>kidnapping</generic>
+       <generic>ambush</generic>
+       <generic>betrayal</generic>
+       <generic>mission of mercy</generic>
+      </group>
+      <group>
+       <generic>cowboys</generic>
+       <generic>horses</generic>
+       <generic>mules</generic>
+      </group>
+      <group>
+       <generic>scouting</generic>
+       <generic>binoculars</generic>
+       <generic>tracks</generic>
+       <generic>map</generic>
+       <generic>compass</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>fighting injustice</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Richard</gn><fn>Brooks</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Richard</gn><fn>Brooks</fn></writer>
+      <sources>
+       <source>
+        <title>A Mule for the Marquesa</title>
+        <authors>
+         <author><gn>Frank</gn><fn>O'Rourke</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Peter</gn><fn>Zinner</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Conrad</gn><mn>L</mn><fn>Hall</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Burt</gn><fn>Lancaster</fn></actor>
+       <as><fn>Dolworth</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lee</gn><fn>Marvin</fn></actor>
+       <as><fn>Fardan</fn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Ryan</fn></actor>
+       <as><fn>Ehrengard</fn></as>
+      </role>
+      <role>
+       <actor><gn>Woody</gn><fn>Strode</fn></actor>
+       <as><gn>Jake</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jack</gn><fn>Palance</fn></actor>
+       <as><gn>Jesus</gn><fn>Raza</fn></as>
+      </role>
+      <role>
+       <actor><gn>Claudia</gn><fn>Cardinale</fn></actor>
+       <as><gn>Maria</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ralph</gn><fn>Bellamy</fn></actor>
+       <as><gn>Grant</gn></as>
+      </role>
+      <role>
+       <actor><gn>Joe</gn><fn>De Santis</fn></actor>
+       <as><fn>Ortega</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

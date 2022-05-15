@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+  <media>
+   <title>
+    <main>9 to 5</main>
+    <edition>Sexist, Egotistical, Lying, Hopocritical Bigot Edition</edition>
+   </title>
+   <medium>
+    <release>
+     <type><dvd/></type>
+    </release>
+    <productId>
+     <barcode type='upc'>024543231523</barcode>
+    </productId>
+    <productSpecs>
+     <inventory>
+      <case>
+       <dvd/>
+      </case>
+     </inventory>
+    </productSpecs>
+   </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+   <title>9 to 5</title>
+   <catalog>
+    <altTitles>
+     <variantTitle sortable='true'>Nine To Five</variantTitle>
+    </altTitles>
+    <copyright>
+     <year>1980</year>
+     <holders>
+      <holder>Twentieth Century-Fox Film Corporation</holder>
+     </holders>
+    </copyright>
+   </catalog>
+   <classification>
+    <category><fiction/></category>
+    <genres>
+     <primary>Comedy</primary>
+     <secondary>Adventure</secondary>
+     <specific>Workplace Comedy</specific>
+    </genres>
+    <certifications>
+     <certificate ref='25951'>
+      <rating code='R'>Restricted</rating>
+      <agency>
+       <name>MPAA</name>
+       <country>US</country>
+      </agency>
+     </certificate>
+    </certifications>
+   </classification>
+   <technical>
+    <runtime>
+     <overall>PT01H49M16S</overall>
+    </runtime>
+   </technical>
+  <story>
+    <logline>Three office workers live out their revenge fantasies as they kidnap and extort their boss.</logline>
+    <plot><chr>Violet Newsstead</chr>, <chr>Judy Bernly</chr>, and <chr>Doralee Rhodes</chr> are three 
+    office workers who hate their boss, <chr>Franklin Hart, Jr</chr>.  One night, the girls get 
+    together and dream up their own personal revenge fantasies to do him in.  However, an accidental 
+    poisoning gives each woman a chance to live out their fantasy as they are forced to kidnap 
+    their boss and extort him in return for setting the record straight.
+    </plot>
+    <keywords>
+      <group collection='adult'>
+       <generic relevance='5'>drugs</generic>
+       <generic relevance='5'>bondage</generic>
+      </group>
+      <group collection='crime'>
+       <generic relevance='5'>blackmail</generic>
+       <generic relevance='5'>murder</generic>
+       <generic relevance='4'>kidnapping</generic>
+      </group>
+      <generic relevance='2'>workplace</generic>
+      <generic relevance='2'>office work</generic>
+      <generic relevance='1'>hog tying</generic>
+      <generic relevance='3'>typewriter</generic>
+      <generic relevance='3'>office equipment</generic>
+      <generic relevance='2'>poison</generic>
+      <generic relevance='2'>roping</generic>
+      <generic relevance='1'>revenge fantasy</generic>
+      <properNoun relevance='4'><thing>Xerox</thing></properNoun>
+    </keywords>
+    <themes>
+     <theme>friendship</theme>
+     <theme>sexism</theme>
+     <theme>feminism</theme>
+     <theme>revenge</theme>
+    </themes>
+   </story>
+   <crew>
+    <directors>
+     <director><gn>Colin</gn><fn>Higgins</fn></director>
+    </directors>
+    <writers>
+     <writer role='story'><gn>Patricia</gn><fn>Resnick</fn></writer>
+     <writer role='screenplay'><gn>Colin</gn><fn>Higgins</fn></writer>
+    </writers>
+    <editors>
+     <editor><gn>Tim</gn><fn>Board</fn></editor>
+    </editors>
+    <cast>
+     <role billing='1'>
+      <actor><gn>Lily</gn><fn>Tomlin</fn></actor>
+      <as><gn>Violet</gn><fn>Newstead</fn></as>
+     </role>
+     <role billing='1'>
+      <actor><gn>Jane</gn><fn>Fonda</fn></actor>
+      <as><gn>Judy</gn><fn>Bernly</fn></as>
+     </role>
+     <role billing='1'>
+      <actor><gn>Dolly</gn><fn>Parton</fn></actor>
+      <as><gn>Doralee</gn><fn>Rhodes</fn></as>
+     </role>
+     <role billing='2'>
+      <actor><gn>Dabney</gn><fn>Coleman</fn></actor>
+      <as><gn>Franklin</gn><fn>Hart</fn><postTitle>Jr.</postTitle></as>
+     </role>
+    </cast>
+   </crew>
+   </movie>
+  </contents>
+ </media>
+ </medialist>

@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>DOA</main>
+  </title>
+  <medium>
+   <productId>
+    <barcode type='upc'>683904630889</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>DOA</title>
+    <catalog>
+     <copyright>
+      <year>1988</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Mystery</primary>
+      <secondary>Thriller</secondary>
+      <specific>Whodunnit</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H37M32S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <logline>One man goes on a quest to solve a murder.  His own!</logline>
+     <plot>
+      <chr>Dexter Cornell</chr> wakes up one morning to discover that he has been poisoned and will 
+      soon die.  He uses his remaining time to find out who killed him, and why.
+     </plot>
+     <keywords>
+      <generic>poisoning</generic>
+      <generic>college professor</generic>
+      <generic>murder</generic>
+      <generic>manuscript</generic>
+      <generic>novel</generic>
+     </keywords>
+     <themes>
+      <theme>broken trust</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors> 
+      <director><gn>Annabel</gn><fn>Jankel</fn></director>
+      <director><gn>Rocky</gn><fn>Morton</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Charles</gn><mn>Edward</mn><fn>Pogue</fn></writer>
+      <writer role='story'><gn>Charles</gn><mn>Edward</mn><fn>Pogue</fn></writer>
+      <writer role='story'><gn>Russel</gn><fn>Rouse</fn></writer>
+      <writer role='story'><gn>Clarence</gn><fn>Greene</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Raja</gn><fn>Gosnell</fn></editor>
+      <editor><gn>Michael</gn><mn>R</mn><fn>Miller</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Yuri</gn><fn>Neyman</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Dennis</gn><fn>Quaid</fn></actor>
+       <as><gn>Dexter</gn><fn>Cornell</fn></as>
+      </role>
+      <role>
+       <actor><gn>Meg</gn><fn>Ryan</fn></actor>
+       <as><gn>Sydney</gn><fn>Fuller</fn></as>
+      </role>
+      <role>
+       <actor><gn>Charlotte</gn><fn>Rampling</fn></actor>
+       <as><preTitle>Mrs</preTitle><fn>Fitzwaring</fn></as>
+      </role>
+      <role>
+       <actor><gn>Daniel</gn><fn>Stern</fn></actor>
+       <as><gn>Hal</gn><fn>Petersham</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jane</gn><fn>Kaczmarek</fn></actor>
+       <as><gn>Gail</gn><fn>Cornell</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

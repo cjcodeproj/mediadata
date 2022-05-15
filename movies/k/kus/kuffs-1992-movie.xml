@@ -1,0 +1,126 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Kuffs</title>
+    <catalog>
+     <copyright>
+      <year>1992</year>
+      <holders>
+       <holder>Dino De Laurentis Communications</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Comedy</secondary>
+      <specific>Rookie Cop Revenge</specific>
+     </genres>
+     <certifications>
+      <certificate ref='31422'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H41M28S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A slacker inherits his brother's police precinct and then uses it's resources to track down 
+      his brother's killer.  Unfortunately, it takes awhile to get used to the 
+      responsibilities of running a precinct, and protecting his customers.
+     </plot>
+     <keywords>
+      <properNoun><place><ci>San Francisco</ci></place></properNoun>
+      <generic>police officer</generic>
+     </keywords>
+     <themes>
+      <theme>revenge</theme>
+      <theme>justice</theme>
+      <theme>fish out of water</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Bruce</gn><mn>A.</mn><fn>Evans</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Bruce</gn><mn>A.</mn><fn>Evans</fn></writer>
+      <writer><gn>Raynold</gn><fn>Gideon</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Stephen</gn><fn>Semel</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Thomas</gn><fn>Del Ruth</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Christian</gn><fn>Slater</fn></actor>
+       <as><gn>George</gn><fn>Kuffs</fn></as>
+       <as><narrator/></as>
+      </role>
+      <role>
+       <actor><gn>Milla</gn><fn>Jovovich</fn></actor>
+       <as><gn>Maya</gn><fn>Carlton</fn></as>
+      </role>
+      <role>
+       <actor><gn>Bruce</gn><fn>Boxleitner</fn></actor>
+       <as><gn>Brad</gn><fn>Kuffs</fn></as>
+      </role>
+      <role>
+       <actor><gn>Leon</gn><fn>Rippy</fn></actor>
+       <as><fn>Kane</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tony</gn><fn>Goldwyn</fn></actor>
+       <as><gn>Ted</gn><fn>Bukovsky</fn></as>
+      </role>
+      <role>
+       <actor><gn>Joshua</gn><fn>Cadman</fn></actor>
+       <as><gn>Bill</gn><fn>Donnelly</fn></as>
+      </role>
+      <role>
+       <actor><gn>Mary</gn><mn>Ellen</mn><fn>Trainor</fn></actor>
+       <as><gn>Nikki</gn><fn>Allyn</fn></as>
+      </role>
+      <role>
+       <actor><gn>Don</gn><mn>S.</mn><fn>Davis</fn></actor>
+       <as><title>Police Gun Instructor</title></as>
+      </role>
+      <role>
+       <actor><gn>Craig</gn><fn>Benton</fn></actor>
+       <as><title>Paint Store Owner</title></as>
+      </role>
+      <role>
+       <actor><gn>Ashley</gn><fn>Judd</fn></actor>
+       <as><gn>Wife of Paint Store Owner</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ric</gn><mn>Roman</mn><fn>Waugh</fn></actor>
+       <as><title>Hood</title></as>
+      </role>
+      <role>
+       <actor><gn>Steve</gn><fn>Holladay</fn></actor>
+       <as><title>Hood</title></as>
+      </role>
+      <role>
+       <actor><gn>Chad</gn><fn>Randall</fn></actor>
+       <as><title>Hood</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

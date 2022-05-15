@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Bubba Ho-Tep</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>826663171488</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Bubba Ho-Tep</title>
+    <catalog>
+     <copyright>
+      <year>2002</year>
+      <holders>
+       <holder>Starway International, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Horror</primary>
+      <secondary>Comedy</secondary>
+      <secondary>Fantasy</secondary>
+      <specific>Elvis Zombie Adventure</specific>
+      <subgenres>
+       <subgenre>cult movie</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='39906'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H32M19S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Two old men in a retirement home, one who thinks he is Elvis, another who thinks
+      he is JFK, devise a plan to escape the home before they are captured by aliens who
+      have infiltrated the nursing staff.
+     </plot>
+     <keywords>
+      <generic>retirement home</generic>
+      <properNoun><person><gn>Elvis</gn><fn>Presley</fn></person></properNoun>
+      <properNoun><place><st>Texas</st></place></properNoun>
+     </keywords>
+     <themes>
+      <theme>friendship</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Don</gn><fn>Coscarelli</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Don</gn><fn>Coscarelli</fn></writer>
+      <sources>
+       <source>
+        <title>Bubba Ho-Tep</title>
+        <authors>
+         <author><gn>Joe</gn><fn>Lansdale</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Scott</gn><mn>J</mn><fn>Gill</fn></editor>
+      <editor><gn>Donald</gn><fn>Milne</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Adam</gn><fn>Janeiro</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Bruce</gn><fn>Campbell</fn></actor>
+       <as><gn>Elvis</gn><fn>Presley</fn></as>
+       <as><gn>Sebastian</gn><fn>Haff</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ossie</gn><fn>Davis</fn></actor>
+       <as><gn>Jack</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ella</gn><fn>Joyce</fn></actor>
+       <as><title>The Nurse</title></as>
+      </role>
+      <role>
+       <actor><gn>Bob</gn><fn>Ivy</fn></actor>
+       <as><gn>Bubba</gn><fn>Ho-Tep</fn></as>
+      </role>
+      <role>
+       <actor><gn>Daniel</gn><fn>Roebuck</fn></actor>
+       <as><title>Hearse Driver</title></as>
+      </role>
+      <role>
+       <actor><gn>Daniel</gn><fn>Schweiger</fn></actor>
+       <as><title>Hearse Driver</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

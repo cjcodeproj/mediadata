@@ -1,0 +1,150 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Red Planet</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Warner Bros.</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>883299180073</barcode>
+    <barcode type='isbn'>0-7806-7352-2</barcode>
+    <other>
+     <name>unknown</name>
+     <value>3000036953</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Red Planet</title>
+    <catalog>
+     <copyright>
+      <year>2000</year>
+      <holders>
+       <holder>Warner Bros.</holder>
+       <holder>Village Roadshow Films (BVI) Limited</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Sci-Fi</secondary>
+      <specific>Mars Mission</specific>
+     </genres>
+     <certifications>
+      <certificate ref='37855'>
+       <rating code='PG-13'>Parents Stongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H46M29S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Astronauts land on Mars in order to track the progress of experiments designed to restore Earth's atmosphere.  Their 
+      progress is hindered by a crash, an out of control robot, and the discovery of algae eating insects.
+     </plot>
+     <keywords>
+      <properNoun><place><planet>Mars</planet></place></properNoun>
+      <generic>crash</generic>
+      <group>
+       <generic>robot</generic>
+       <generic>space suit</generic>
+       <generic>oxygen</generic>
+       <generic>insects</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>survival</theme>
+      <theme>curiosity</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Anthony</gn><fn>Hoffman</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Chuck</gn><fn>Pfarrer</fn></writer>
+      <writer role='screenplay'><gn>Jonathan</gn><fn>Lemkin</fn></writer>
+      <writer role='story'><gn>Chuck</gn><fn>Pfarrer</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Robert</gn><mn>K.</mn><fn>Lambert</fn></editor>
+      <editor><gn>Dallas</gn><fn>Puett</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Peter</gn><fn>Suschitzky</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Val</gn><fn>Kilmer</fn></actor>
+       <as><fn>Gallagher</fn></as>
+      </role>
+      <role>
+       <actor><gn>Carrie-Anne</gn><fn>Moss</fn></actor>
+       <as><fn>Bowman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tom</gn><fn>Sizemore</fn></actor>
+       <as><fn>Burchenal</fn></as>
+      </role>
+      <role>
+       <actor><gn>Benjamin</gn><fn>Bratt</fn></actor>
+       <as><fn>Santen</fn></as>
+      </role>
+      <role>
+       <actor><gn>Simon</gn><fn>Baker</fn></actor>
+       <as><fn>Pettengil</fn></as>
+      </role>
+      <role>
+       <actor><gn>Terrence</gn><fn>Stamp</fn></actor>
+       <as><fn>Chantilas</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jessica</gn><fn>Morton</fn></actor>
+       <as><title>Website Fan</title></as>
+      </role>
+      <role>
+       <actor><gn>Caroline</gn><fn>Bossi</fn></actor>
+       <as><title>Website Fan</title></as>
+      </role>
+      <role>
+       <actor><gn>Bob</gn><fn>Beill</fn></actor>
+       <as><title>Houston</title><variant>voice</variant></as>
+      </role>
+      <role>
+       <actor><gn>Neil</gn><fn>Ross</fn></actor>
+       <as><title>Space Suit</title><variant>voice</variant></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

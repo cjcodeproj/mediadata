@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>Jagged Edge</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <releaseDate>2011-05-17</releaseDate>
+   </release>
+   <productId>
+    <barcode type='upc'>014381707953</barcode>
+    <sku retailer='amzn' type='asin'>B004LVRQ42</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Jagged Edge</title>
+    <catalog>
+     <copyright>
+      <year>1985</year>
+      <holders>
+       <holder>Columbia Pictures Industries, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Thriller</primary>
+      <secondary>Mystery</secondary>
+      <specific>Legal Defense Thriller</specific>
+     </genres>
+     <certifications>
+      <certificate ref='27757'>
+       <rating code='R'>Restricted</rating>
+        <agency>
+         <name>MPAA</name>
+         <country>US</country>
+        </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H48M42S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A defense lawyer gets involved with her client who is on trial for murder.  It's 
+      a good thing her client is 100% innocent, right?  Well, turns out he's not.
+     </plot>
+     <keywords>
+      <generic>murder</generic>
+      <generic>defense lawyer</generic>
+      <generic>trial</generic>
+      <generic>knife</generic>
+      <generic>typewritter</generic>
+      <generic>investigator</generic>
+     </keywords>
+     <themes>
+      <theme>trust</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Richard</gn><fn>Marquand</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Joe</gn><fn>Eszterhas</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Sean Bartin Conrad</gn><fn>Buff</fn><postTitle>IV</postTitle></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Matthew</gn><mn>F</mn><fn>Leonetti</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Jeff</gn><fn>Bridges</fn></actor>
+       <as><gn>Jack</gn><fn>Forrester</fn></as>
+      </role>
+      <role>
+       <actor><gn>Glenn</gn><fn>Close</fn></actor>
+       <as><gn>Teddy</gn><fn>Barnes</fn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Loggia</fn></actor>
+       <as><gn>Sam</gn><fn>Ransom</fn></as>
+      </role>
+      <role>
+       <actor><gn>Peter</gn><fn>Coyote</fn></actor>
+       <as><gn>Thomas</gn><fn>Kransy</fn></as>
+      </role>
+      <role>
+       <actor><gn>Michael</gn><fn>Dorn</fn></actor>
+       <as><gn>Dan</gn><fn>Hislan</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lance</gn><fn>Henriksen</fn></actor>
+       <as><gn>Frank</gn><fn>Martin</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

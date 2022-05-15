@@ -1,0 +1,159 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>One Crazy Summer</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>883929778157</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>One Crazy Summer</title>
+    <catalog>
+     <copyright>
+      <year>1986</year>
+      <holders>
+       <holder>Warner Bros., Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Comedy</primary>
+      <secondary>Romance</secondary>
+      <specific>Summer Hijinks</specific>
+     </genres>
+     <certifications>
+      <certificate ref='28173'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H33M20S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Two graduating high school seniors visit family on Nantucket Island for a relaxing vacation before going off to college. Along the way, they 
+      run into a lounge singer, who is working to save her father's home from falling into the hands of a greedy land developer.
+     </plot>
+     <keywords>
+      <group>
+        <properNoun><place><ci>Nantucket</ci><st>Massachusetts</st></place></properNoun>
+        <properNoun><place><name>Nantucket Island</name></place></properNoun>
+        <generic>summer</generic>
+        <generic>summer school</generic>
+        <generic>high school graduation</generic>
+        <generic>ferry</generic>
+        <generic>funeral</generic>
+        <generic>mortgage</generic>
+        <generic>live concerts</generic>
+        <generic>basketball</generic>
+        <generic>drive-in movie</generic>
+        <generic>animation</generic>
+        <generic>art school</generic>
+        <generic>fundraising</generic>
+        <generic>regatta</generic>
+        <properNoun><thing>Godzilla</thing></properNoun>
+        <generic>land developer</generic>
+        <generic>movie shoot</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>class differences</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Savage</gn><mn>Steve</mn><fn>Holland</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Savage</gn><mn>Steve</mn><fn>Holland</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Alan</gn><fn>Balsam</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Isidore</gn><fn>Mankofsky</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>John</gn><fn>Cusack</fn></actor>
+       <as><gn>Hoops</gn><fn>McCann</fn></as>
+      </role>
+      <role>
+       <actor><gn>Demi</gn><fn>Moore</fn></actor>
+       <as><gn>Casssandra</gn><fn>Eldridge</fn></as>
+      </role>
+      <role>
+       <actor><gn>Joel</gn><fn>Murray</fn></actor>
+       <as><gn>George</gn><fn>Calamari</fn></as>
+      </role>
+      <role>
+       <actor><gn>Bobcat</gn><fn>Goldthwait</fn></actor>
+       <as><gn>Egg</gn><fn>Storn</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tom</gn><fn>Villard</fn></actor>
+       <as><gn>Clay</gn><fn>Stork</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kristen</gn><fn>Goelz</fn></actor>
+       <as><gn>Squid</gn><fn>Calamari</fn></as>
+      </role>
+      <role>
+       <actor><gn>Curtis</gn><fn>Armstrong</fn></actor>
+       <as><gn>Ack Ack</gn><fn>Raymond</fn></as>
+      </role>
+      <role>
+       <actor><gn>John</gn><fn>Matuszak</fn></actor>
+       <as><gn>Stain</gn></as>
+      </role>
+      <role>
+       <actor><gn>Matt</gn><fn>Mulhern</fn></actor>
+       <as><gn>Teddy</gn><fn>Beckersted</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kimberly</gn><fn>Foster</fn></actor>
+       <as><gn>Cookie</gn><fn>Cambell</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jeremy</gn><fn>Piven</fn></actor>
+       <as><gn>Ty</gn></as>
+      </role>
+      <role>
+       <actor><gn>Joe</gn><fn>Flaherty</fn></actor>
+       <as><preTitle>General</preTitle><fn>Raymond</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

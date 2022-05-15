@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Electra Glide In Blue</title>
+    <catalog>
+     <copyright>
+      <year>1973</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Drama</secondary>
+      <secondary>Comedy</secondary>
+      <specific>Enthusiastic Biker Cop</specific>
+      <subgenres>
+       <subgenre>cult classic</subgenre>
+      </subgenres>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H53M01S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A young, enthusiastic motorcycle officer stumbled into a promotion to detective in order to solve a murder 
+      nobody else is interested in solving.  Along the way he slowly learns that his expectations and idealism
+      have clouded his judgement in how law and order really works.
+     </plot>
+     <keywords>
+      <generic>police officer</generic>
+      <generic>motorcycle officer</generic>
+      <generic>detective</generic>
+      <generic>biker</generic>
+      <generic>masculinity</generic>
+      <generic>murder</generic>
+      <generic>cowboy boots</generic>
+      <generic>suit</generic>
+      <generic>cowboy hat</generic>
+      <generic>desert</generic>
+      <properNoun><thing>Electra Glide</thing></properNoun>
+      <properNoun><entity>Harley Davidson</entity></properNoun>
+     </keywords>
+     <themes>
+      <theme>corruption</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>James</gn><mn>William</mn><fn>Guercio</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Robert</gn><fn>Borris</fn></writer>
+      <writer role='story'><gn>Robert</gn><fn>Borris</fn></writer>
+      <writer role='stpry'><gn>Rupert</gn><fn>Hitzig</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Jim</gn><fn>Benson</fn></editor>
+      <editor><gn>Gerald</gn><mn>B</mn><fn>Greenberg</fn></editor>
+      <editor><gn>John</gn><mn>F</mn><fn>Link</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Conrad</gn><mn>L</mn><fn>Hall</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Robert</gn><fn>Blake</fn></actor>
+       <as><gn>John</gn><fn>Wintergreen</fn></as>
+      </role>
+      <role>
+       <actor><gn>Billy</gn><fn>Green Bush</fn></actor>
+       <as><nick>Zipper</nick></as>
+      </role>
+      <role>
+       <actor><gn>Mitchell</gn><fn>Ryanb</fn></actor>
+       <as><gn>Harve</gn><fn>Poole</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jeannine</gn><fn>Riley</fn></actor>
+       <as><gn>Jolene</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

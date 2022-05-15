@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Maniac Cop</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>654930313398</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Maniac Cop</title>
+    <catalog>
+     <copyright>
+      <year>1988</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Horror</secondary>
+      <specific>Evil Policeman</specific>
+     </genres>
+     <certifications>
+      <certificate ref='28985'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H25M00S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An unknown cop is killing innocent citizens.  A detective scrambles to find out who the killer is, while a street cop works 
+      to clear his name of wrongdoing.
+     </plot>
+     <keywords>
+      <generic>police officer</generic>
+      <generic>law enforcement</generic>
+      <generic>paddy wagon</generic>
+      <generic>billy club</generic>
+      <generic>sword</generic>
+      <generic>handcuffs</generic>
+      <generic>uniform</generic>
+      <properNoun><place><ci>New York City</ci></place></properNoun>
+      <properNoun><event>St. Patrick's Day Parade</event></properNoun>
+     </keywords>
+     <themes>
+      <theme>trust</theme>
+      <theme>authority</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>William</gn><fn>Lustin</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Larry</gn><fn>Cohen</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>David</gn><fn>Kern</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>James</gn><fn>Lemmo</fn></cinemaphotographer>
+      <cinemaphotographer><gn>Vincent</gn><mn>J</mn><fn>Rabe</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Tom</gn><fn>Atkins</fn></actor>
+       <as><gn>Frank</gn><fn>McCrae</fn></as>
+      </role>
+      <role>
+       <actor><gn>Bruce</gn><fn>Campbell</fn></actor>
+       <as><gn>Jack</gn><fn>Forrest</fn></as>
+      </role>
+      <role>
+       <actor><gn>Laurene</gn><fn>Landon</fn></actor>
+       <as><gn>Theresa</gn><fn>Mallory</fn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Z'Dar</fn></actor>
+       <as><gn>Matt</gn><fn>Cordell</fn></as>
+      </role>
+      <role>
+       <actor><gn>Rocky</gn><fn>Giordani</fn></actor>
+       <as><fn>Fowler</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

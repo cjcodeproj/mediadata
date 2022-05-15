@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Barb &amp; Star Go To Vista Del Mar</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>031398326687</barcode>
+    <sku retailer='tgt'>058347095</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Barb &amp; Star Go To Vista Del Mar</title>
+    <catalog>
+     <altTitles>
+      <variantTitle sortable='true'>Barb And Star Go To Vista Del Mar</variantTitle>
+     </altTitles>
+     <copyright>
+      <year>2021</year>
+      <holders>
+       <holder>Lions Gate Films, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Comedy</primary>
+      <specific>Vacation Hijinks</specific>
+     </genres>
+     <certifications>
+      <certificate ref='52267'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H46M59S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+       Two forty-something friends who feel their lives are at a crossroads decide to visit a beach 
+       vacation resort in the hopes of finding love, and making a change in their lives.
+     </plot>
+     <keywords>
+      <generic>vacation resort</generic>
+      <generic>beach drinks</generic>
+      <generic>banana boat</generic>
+      <group relevance='4'>
+       <generic>furniture store</generic>
+       <generic>vacation romance</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>friendship</theme>
+      <theme>finding your voice</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Josh</gn><fn>Greenbaum</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Annie</gn><fn>Mumolo</fn></writer>
+      <writer><gn>Kristen</gn><fn>Wiig</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Steve</gn><fn>Welch</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Toby</gn><fn>Oliver</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Kristen</gn><fn>Wiig</fn></actor>
+       <as><gn>Star</gn></as>
+       <as><gn>Sharon</gn><fn>Gordon Fisherman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Annie</gn><fn>Mumolo</fn></actor>
+       <as><gn>Barb</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jamie</gn><fn>Doran</fn></actor>
+       <as><gn>Edgar</gn><fn>Pagét</fn></as>
+      </role>
+      <role>
+       <actor><gn>Damon</gn><fn>Waynes</fn><postTitle>Jr</postTitle></actor>
+       <as><gn>Darlie</gn><fn>Bunkle</fn></as>
+      </role>
+      <role>
+       <actor><gn>Reyn</gn><fn>Doi</fn></actor>
+       <as><gn>Yoyo</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

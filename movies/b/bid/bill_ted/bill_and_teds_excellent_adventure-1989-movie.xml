@@ -1,0 +1,166 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Bill &amp; Ted's Excellent Adventure</title>
+    <catalog>
+     <altTitles>
+      <variantTitle sortable='true'>Bill And Ted's Excellent Adventure</variantTitle>
+     </altTitles>
+     <copyright>
+      <year>1989</year>
+      <holders>
+       <holder>Nelson Films Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Adventure</primary>
+      <secondary>Comedy</secondary>
+      <specific>Slacker Time Travel Adventure</specific>
+     </genres>
+     <certifications>
+      <certificate ref='29065'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H29M53S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Bill and Ted are visited by time travelers from the future who tell them that their music will 
+      become the cornerstone of a futuristic utopia society on Earth, but in order for that to 
+      happen, they both must get a passing grade on their History presentation.
+     </plot>
+     <keywords>
+      <generic>time machine</generic>
+      <generic>telephone booth</generic>
+      <generic>history class</generic>
+      <generic>oral presentation</generic>
+      <generic>time travel paradox</generic>
+      <properNoun><entity>Circle K</entity></properNoun>
+     </keywords>
+     <themes>
+      <theme>learning responsibility</theme>
+      <theme>friendship</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Stephen</gn><fn>Herek</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Chris</gn><fn>Matheson</fn></writer>
+      <writer><gn>Ed</gn><fn>Solomon</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Larry</gn><fn>Bock</fn></editor>
+      <editor><gn>Patrick</gn><fn>rand</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Tim</gn><fn>Suhrstedt</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>David</gn><fn>Newman</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>Roy</gn><mn>Forge</mn><fn>Smith</fn></productionDesigner>
+      <artDirector><gn>Gordon</gn><fn>White</fn></artDirector>
+      <setDecorator><gn>Jennifer</gn><fn>Williams</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Jill</gn><mn>M.</mn><fn>Ohanneson</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Stanzi</gn><fn>Stokes</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Keanu</gn><fn>Reeves</fn></actor>
+       <as><gn>Ted</gn><nick>Theodore</nick><fn>Logan</fn></as>
+      </role>
+      <role>
+       <actor><gn>Alex</gn><fn>Winter</fn></actor>
+       <as><gn>Bill</gn><mn>S.</mn><fn>Preston</fn></as>
+      </role>
+      <role>
+       <actor><gn>George</gn><fn>Carlin</fn></actor>
+       <as><gn>Rufus</gn></as>
+      </role>
+      <role>
+       <actor><gn>Terry</gn><fn>Camilleri</fn></actor>
+       <as><gn>Napoleon</gn></as>
+      </role>
+      <role>
+       <actor><gn>Dan</gn><fn>Shor</fn></actor>
+       <as><gn>Billy</gn><nick>The Kid</nick></as>
+      </role>
+      <role>
+       <actor><gn>Tony</gn><fn>Steedman</fn></actor>
+       <as><gn>Socrates</gn></as>
+      </role>
+      <role>
+       <actor><gn>Rod</gn><fn>Loomis</fn></actor>
+       <as><fn>Freud</fn></as>
+      </role>
+      <role>
+       <actor><gn>Al</gn><fn>Leong</fn></actor>
+       <as><gn>Genghis</gn><fn>Khan</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jane</gn><fn>Wiedlin</fn></actor>
+       <as><gn>Joan</gn><nick>of Arc</nick></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><mn>V.</mn><fn>Barron</fn></actor>
+       <as><gn>Abraham</gn><fn>Lincoln</fn></as>
+      </role>
+      <role>
+       <actor><gn>Clifford</gn><fn>David</fn></actor>
+       <as><fn>Beethoven</fn></as>
+      </role>
+      <role>
+       <actor><gn>Hal</gn><fn>Landon</fn><postTitle>Jr.</postTitle></actor>
+       <as><preTitle>Captain</preTitle><gn>Logan</gn></as>
+      </role>
+      <role>
+       <actor><gn>Bernie</gn><fn>Casey</fn></actor>
+       <as><preTitle>Mr.</preTitle><fn>Ryan</fn></as>
+      </role>
+      <role>
+       <actor><gn>Amy</gn><fn>Stoch</fn></actor>
+       <as><gn>Missy</gn></as>
+      </role>
+      <role>
+       <actor><gn>J.</gn><mn>Patrick</mn><fn>McNamara</fn></actor>
+       <as><preTitle>Mr.</preTitle><fn>Preston</fn></as>
+      </role>
+      <role>
+       <actor><gn>Frazier</gn><fn>Bain</fn></actor>
+       <as><gn>Deacon</gn></as>
+      </role>
+      <role>
+       <actor><gn>Diane</gn><fn>Franklin</fn></actor>
+       <as><preTitle>Princess</preTitle><gn>Joanna</gn></as>
+      </role>
+      <role>
+       <actor><gn>Kimberley</gn><fn>Kates</fn></actor>
+       <as><preTitle>Princess</preTitle><gn>Elizabeth</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

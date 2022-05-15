@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>Doctor Strange</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>786936852691</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray3d/>
+      <bluray/>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Doctor Strange</title>
+    <catalog>
+     <copyright>
+      <year>2016</year>
+      <holders>
+       <holder>Marvel</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Adventure</primary>
+      <secondary>Action</secondary>
+      <specific>20th Century Wizards</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H54M58S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      After suffering a life altering accident, <chr>Dr Stephen Strange</chr> goes on a quest to find
+      the mystical land of <kw>Kamar-Taj</kw> and discovers a group of sorcerers that are tasked with
+      protecting the planet from mystical threats.
+     </plot>
+     <keywords>
+      <generic>magic</generic>
+      <generic>mystical arts</generic>
+      <properNoun><place><name>Katmandu</name></place></properNoun>
+     </keywords>
+     <themes>
+      <theme>redemption</theme>
+      <theme>finding purpose</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Scott</gn><fn>Derrickson</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Jon</gn><fn>Spaihts</fn></writer>
+      <writer><gn>Scott</gn><fn>Derrickson</fn></writer>
+      <writer><gn>C</gn><mn>Robert</mn><fn>Cargill</fn></writer>
+      <sources>
+       <source>
+        <title>Doctor Strange</title>
+        <authors>
+         <author><gn>Stan</gn><fn>Lee</fn></author>
+         <author><gn>Steve</gn><fn>Ditko</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Sarah</gn><fn>Plisco</fn></editor>
+      <editor><gn>Reg</gn><fn>Poerscout-Edgerton</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Ben</gn><fn>Davis</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Benedict</gn><fn>Cumberbatch</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Stephen</gn><fn>Strange</fn></as>
+      </role>
+      <role>
+       <actor><gn>Chiwetel</gn><fn>Ejiofor</fn></actor>
+       <as><gn>Mordo</gn></as>
+      </role>
+      <role>
+       <actor><gn>Rachel</gn><fn>McAdams</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Christine</gn><fn>Palmer</fn></as>
+      </role>
+      <role>
+       <actor><gn>Benedict</gn><fn>Wong</fn></actor>
+       <as><gn>Wong</gn></as>
+      </role>
+      <role>
+       <actor><gn>Mads</gn><fn>Mikkelsen</fn></actor>
+       <as><gn>Kaecilius</gn></as>
+      </role>
+      <role>
+       <actor><gn>Tilda</gn><fn>Swinton</fn></actor>
+       <as><title>The Ancient One</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>8 Million Ways To Die</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Kino Lorber</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>738329212162</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>8 Million Ways To Die</title>
+    <catalog>
+     <altTitles>
+      <variantTitle sortable='true'>Eight Million Ways To Die</variantTitle>
+     </altTitles>
+     <copyright>
+      <year>1986</year>
+      <holders>
+       <holder>Producers Sales Organization</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Crime</secondary>
+      <specific>80s Cop Detective Thriller</specific>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+       <subgenre>neo noir</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='28102'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H55M37S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A burned out sheriff's deputy stumbles onto a drug smuggling operation, and begins
+      an investigation while trying to keep his personal demons in check.
+     </plot>
+     <keywords>
+      <generic>alcoholism</generic>
+      <generic>police</generic>
+      <properNoun><entity>Los Angeles Sheriffs Department</entity></properNoun>
+      <generic>prostitution</generic>
+      <generic>drug smuggling</generic>
+      <generic>murder</generic>
+      <generic>car chase</generic>
+      <generic>kidnapping</generic>
+      <generic>money laundering</generic>
+     </keywords>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Hal</gn><fn>Ashby</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Oliver</gn><fn>Stone</fn></writer>
+      <writer role='screenplay'><gn>R</gn><mn>Lance</mn><fn>Hill</fn></writer>
+      <writer uncredited='true'><gn>Hal</gn><fn>Ashby</fn></writer>
+      <writer uncredited='true'><gn>Robert</gn><fn>Towne</fn></writer>
+      <sources>
+       <source>
+        <title>8 Million Ways To Die</title>
+        <authors>
+         <author><gn>Lawrence</gn><fn>Block</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Robert</gn><fn>Lawrence</fn></editor>
+      <editor><gn>Stuart</gn><mn>H</mn><fn>Pappe</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Stephen</gn><mn>H</mn><fn>Burum</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Jeff</gn><fn>Bridges</fn></actor>
+       <as><gn>Scugger</gn></as>
+      </role>
+      <role>
+       <actor><gn>Rosanna</gn><fn>Arquette</fn></actor>
+       <as><gn>Sarah</gn></as>
+      </role>
+      <role>
+       <actor><gn>Alenaxdra</gn><fn>Paul</fn></actor>
+       <as><gn>Sunny</gn></as>
+      </role>
+      <role>
+       <actor><gn>Randy</gn><fn>Brooks</fn></actor>
+       <as><gn>Chance</gn></as>
+      </role>
+      <role>
+       <actor><gn>Andy</gn><fn>Garcia</fn></actor>
+       <as><gn>Angel</gn><fn>Maldonado</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

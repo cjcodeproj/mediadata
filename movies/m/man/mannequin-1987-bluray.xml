@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>Mannequin</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>887090112703</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Mannequin</title>
+    <catalog>
+     <copyright>
+      <year>1987</year>
+      <holders>
+       <holder>Gladden Entertainment Corp.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Comedy</primary>
+      <secondary>Romance</secondary>
+      <secondary>Fantasy</secondary>
+      <specific>Finding True Love</specific>
+     </genres>
+     <certifications>
+      <certificate ref='28303'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H30M24S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An aspiring artists finds the mannequin he once created in the window of a failing department store.  After getting a job, 
+      he discovers the mannequin is actually a living person who is under a curse that won't be released until she finds her
+      true love.  Under cover of night, they work together to help his career, and make the department store a success, not realizing they
+      are drawing the attention of business competitors and an overly zealous security guard.
+     </plot>
+     <keywords>
+      <generic>department store</generic>
+      <generic>mannequin</generic>
+      <generic>motorcycle</generic>
+      <generic>visual merchandising</generic>
+      <generic>hang gliding</generic>
+      <properNoun><place><cn>Egypt</cn></place></properNoun>
+      <properNoun><place><ci>Philadelphia</ci></place></properNoun>
+     </keywords>
+     <themes>
+      <theme>romantic wish</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Michael</gn><fn>Gottlieb</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Edward</gn><fn>Rugoff</fn></writer>
+      <writer><gn>Michael</gn><fn>Gottlieb</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Richard</gn><fn>Halsey</fn></editor>
+      <editor><gn>Frank</gn><mn>E</mn><fn>Jimenez</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Tim</gn><fn>Suhrstedt</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Andrew</gn><fn>McCarthy</fn></actor>
+       <as><gn>Jonathan</gn><fn>Switcher</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kim</gn><fn>Cattrall</fn></actor>
+       <as><gn>Emmy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Estelle</gn><fn>Getty</fn></actor>
+       <as><gn>Claire</gn><fn>Timkin</fn></as>
+      </role>
+      <role>
+       <actor><gn>James</gn><fn>Spader</fn></actor>
+       <as><fn>Richards</fn></as>
+      </role>
+      <role>
+       <actor><gn>G</gn><mn>W</mn><fn>Bailey</fn></actor>
+       <as><gn>Felix</gn></as>
+      </role>
+      <role>
+       <actor><gn>Meschach</gn><fn>Taylor</fn></actor>
+       <as><nick>Hollywood</nick></as>
+      </role>
+      <role>
+       <actor><gn>Carole</gn><fn>Davis</fn></actor>
+       <as><gn>Roxie</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

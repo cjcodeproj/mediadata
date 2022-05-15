@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>V.I. Warshawski</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Mill Creek Entertainment</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>683904630254</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='v_i_warshawski-1991-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

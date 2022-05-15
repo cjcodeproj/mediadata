@@ -1,0 +1,272 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Simpsons Movie</title>
+    <catalog>
+     <copyright>
+      <year>2007</year>
+      <holders>
+       <holder>Twentieth Century Fox Film Corporation</holder>
+       <holder>TCF Hungary Film Rights Exploitation Limited Liability Company</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Adventure</primary>
+      <secondary>Comedy</secondary>
+      <specific>Family Saves Town</specific>
+      <subgenres>
+       <subgenre>based on a tv series</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='43622'>
+       <rating code='PG-13'>Parents Stronly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H26M44S</overall>
+     </runtime>
+     <visualFormat>
+      <animation><handDrawn/></animation>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      <chr>Homer Simpson</chr> accidentally causes an environmental disaster in Springfield, leading the town to be enclosed in a
+      gigantic dome, cutting off the town from the rest of the world.  The Simpsons family manages to escape, and build a 
+      new life in Alaska.  But they feel an obligation to return once they realize that the EPA wants to destroy Springfield
+      and everyone in it.
+     </plot>
+     <keywords>
+      <generic>pollution</generic>
+      <generic>domed city</generic>
+      <generic>donuts</generic>
+      <group>
+       <properNoun><entity>EPA</entity></properNoun>
+       <properNoun><entity>NSA</entity></properNoun>
+      </group>
+      <group>
+       <properNoun><place><ci>Springfield</ci></place></properNoun>
+       <properNoun><place><st>Alaska</st></place></properNoun>
+      </group>
+     </keywords>
+     <themes>
+      <theme>responsibility</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>David</gn><fn>Silverman</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>James</gn><mn>L.</mn><fn>Brooks</fn></writer>
+      <writer role='screenplay'><gn>Matt</gn><fn>Groening</fn></writer>
+      <writer role='screenplay'><gn>Al</gn><fn>Jean</fn></writer>
+      <writer role='screenplay'><gn>Ian</gn><fn>Maxtone-Graham</fn></writer>
+      <writer role='screenplay'><gn>George</gn><fn>Meyer</fn></writer>
+      <writer role='screenplay'><gn>David</gn><fn>Mirkin</fn></writer>
+      <writer role='screenplay'><gn>Mike</gn><fn>Reiss</fn></writer>
+      <writer role='screenplay'><gn>Mike</gn><fn>Scully</fn></writer>
+      <writer role='screenplay'><gn>Matt</gn><fn>Selman</fn></writer>
+      <writer role='screenplay'><gn>John</gn><fn>Swartzwelder</fn></writer>
+      <writer role='screenplay'><gn>Jon</gn><fn>Vitti</fn></writer>
+      <writer role='consultant'><gn>Joel</gn><mn>H.</mn><fn>Cohen</fn></writer>
+      <writer role='consultant'><gn>John</gn><fn>Frink</fn></writer>
+      <writer role='consultant'><gn>Tim</gn><fn>Long</fn></writer>
+      <writer role='consultant'><gn>Michael</gn><fn>Price</fn></writer>
+      <sources>
+       <source>
+        <title>The Simpsons</title>
+        <authors>
+         <author uncredited='true'><gn>Matt</gn><fn>Groening</fn></author> <!-- also creator -->
+         <author uncredited='true'><gn>James</gn><mn>L.</mn><fn>Brooks</fn></author>
+         <author uncredited='true'><gn>Sam</gn><fn>Simon</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>John</gn><fn>Carnochan</fn></editor>
+     </editors>
+     <music>
+      <composer><gn>Hans</gn><fn>Zimmer</fn></composer>
+     </music>
+     <artDept>
+      <artDirector><gn>Dima</gn><fn>Malanitchev</fn></artDirector>
+     </artDept>
+     <casting>
+      <director><gn>Barbara</gn><fn>Harris</fn></director>
+      <director uncredited='true'><gn>Micah</gn><fn>Dahlberg</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Dan</gn><fn>Castellaneta</fn></actor>
+       <as><gn>Homer</gn><fn>Simpson</fn></as>
+       <as><gn>Itchy</gn></as>
+       <as><gn>Barney</gn></as>
+       <as><preTitle>Grandpa</preTitle><fn>Simpson</fn></as>
+       <as><title>Stage Manager</title></as>
+       <as><gn>Krusty</gn><nick>The Clown</nick></as>
+       <as><preTitle>Mayor</preTitle><fn>Quimby</fn></as>
+       <as><title>Mayer's Aide</title></as>
+       <as><title>Multi-Eyes Squirrel</title></as>
+       <as><title>Panicky Man</title></as>
+       <as><nick>Sideshow</nick><gn>Mel</gn></as>
+       <as><preTitle>Mr.</preTitle><fn>Teeny</fn></as>
+       <as><title>EPA Official</title></as>
+       <as><title>Kissing Cop</title></as>
+       <as><title>Bear</title></as>
+       <as><title>Boy On Phone</title></as>
+       <as><title>NSA Worker</title></as>
+       <as><title>Officer</title></as>
+       <as><gn>Santa's Little Helper</gn></as>
+       <as><title>Squeaky-Voiced Teen</title></as>
+       <as><preTitle>Groundskeeper</preTitle><gn>Willy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Julie</gn><fn>Kavner</fn></actor>
+       <as><gn>Marge</gn><fn>Simpson</fn></as>
+       <as><gn>Selma</gn><fn>Bouvier</fn></as>
+       <as><gn>Petty</gn><fn>Bouvier</fn></as>
+      </role>
+      <role>
+       <actor><gn>Nancy</gn><fn>Cartwright</fn></actor>
+       <as><gn>Bart</gn><fn>Simpson</fn></as>
+       <as><gn>Maggie</gn><fn>Simpson</fn></as>
+       <as><gn>Ralph</gn><fn>Wiggum</fn></as>
+       <as><gn>Melson</gn><fn>Muntz</fn></as>
+       <as><gn>Todd</gn><fn>Flanders</fn></as>
+       <as><title>TV Daughter</title></as>
+       <as><title>Woman On Phone</title></as>
+      </role>
+      <role>
+       <actor><gn>Yeardley</gn><fn>Smith</fn></actor>
+       <as><gn>Lisa</gn><fn>Simpson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Hank</gn><fn>Azaria</fn></actor>
+       <as><preTitle>Professor</preTitle><fn>Frink</fn></as>
+       <as><title>Comic Book Guy</title></as>
+       <as><gn>Moe</gn><fn>Szyslak</fn></as>
+       <as><preTitle>Chief</preTitle><fn>Wiggum</fn></as>
+       <as><gn>Lou</gn></as>
+       <as><gn>Carl</gn></as>
+       <as><gn>Cletus</gn></as>
+       <as><title>Bumblebee Man</title></as>
+       <as><title>Male EPA Worker</title></as>
+       <as><title>Dome Depot Announcer</title></as>
+       <as><title>Kissing Cop</title></as>
+       <as><title>Carnival Barker</title></as>
+       <as><title>Counter Man</title></as>
+       <as><gn>Apu</gn></as>
+       <as><gn>Drederick</gn><fn>Tatum</fn></as>
+       <as><title>Sea Captain</title></as>
+       <as><title>EPA Passenger</title></as>
+       <as><title>Robot</title></as>
+       <as><preTitle>Dr.</preTitle><gn>Nick</gn><fn>Riviera</fn></as>
+       <as><title>Wise Guy</title></as>
+      </role>
+      <role>
+       <actor><gn>Harry</gn><fn>Shearer</fn></actor>
+       <as><gn>Scratchy</gn></as>
+       <as><preTitle>Mr.</preTitle><fn>Burns</fn></as>
+       <as><preTitle>Reverand</preTitle><fn>Lovejoy</fn></as>
+       <as><gn>Ned</gn><fn>Flanders</fn></as>
+       <as><gn>Lenny</gn></as>
+       <as><nick>Skull</nick></as>
+       <as><preTitle>President</preTitle><gn>Arnold</gn><fn>Schwarzenegger</fn></as>
+       <as><gn>Kent</gn><fn>Brockman</fn></as>
+       <as><preTitle>Principal</preTitle><fn>Skinner</fn></as>
+       <as><preTitle>Dr.</preTitle><fn>Hibbert</fn></as>
+       <as><fn>Smithers</fn></as>
+       <as><title>Toll Booth Man</title></as>
+       <as><title>Guard</title></as>
+       <as><gn>Otto</gn></as>
+       <as><gn>Kang</gn></as>
+      </role>
+      <role>
+       <actor><gn>Pamela</gn><fn>Hayden</fn></actor>
+       <as><gn>Milhouse</gn><fn>Van Houten</fn></as>
+       <as><gn>Rod</gn><fn>Flanders</fn></as>
+       <as><gn>Jimbo</gn></as>
+      </role>
+      <role>
+       <actor><gn>Tress</gn><fn>MacNeille</fn></actor>
+       <as><nick>Booberella</nick></as>
+       <as><title>Sweet Old Lady</title></as>
+       <as><gn>Colin</gn></as>
+       <as><gn>Agnes</gn><fn>Skinner</fn></as>
+       <as><title>Nelson's Mother</title></as>
+       <as><title>Pig</title></as>
+       <as><title>Crazy Cat Lady</title></as>
+       <as><title>Female EPA Worker</title></as>
+       <as><title>G.P.S. Woman</title></as>
+       <as><gn>Cookie</gn><fn>Kwan</fn></as>
+       <as><gn>Lindsey</gn><fn>Naegle</fn></as>
+       <as><title>TV Son</title></as>
+       <as><title>Medicine Woman</title></as>
+       <as><title>Girl On Phone</title></as>
+      </role>
+      <role>
+       <actor><gn>Albert</gn><fn>Brooks</fn></actor>
+       <as><gn>Russ</gn><fn>Cargill</fn></as>
+      </role>
+      <role>
+       <actor><gn>Karl</gn><fn>Weidergott</fn></actor>
+       <as><title>Man</title></as>
+       <as><title>EPA Driver</title></as>
+      </role>
+      <role>
+       <actor><gn>Marcia</gn><fn>Wallace</fn></actor>
+       <as><preTitle>Mrs.</preTitle><fn>Krabappel</fn></as> <!-- scenes deleted -->
+      </role>
+      <role>
+       <actor><gn>Russi</gn><fn>Taylor</fn></actor>
+       <as><gn>Martin</gn><fn>Prince</fn></as>
+      </role>
+      <role>
+       <actor><gn>Phil</gn><fn>Rosenthal</fn></actor>
+       <as><title>TV Dad</title></as>
+      </role>
+      <role>
+       <actor><gn>Bilie Joe</gn><fn>Armstrong</fn></actor>  <!-- green day -->
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Tré</gn><fn>Cool</fn></actor>  <!-- green day -->
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Mike</gn><fn>Dirnt</fn></actor> <!-- green day -->
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Joe</gn><fn>Mantegna</fn></actor>
+       <as><nick>Fat</nick><gn>Tony</gn></as>
+      </role>
+      <role>
+       <actor><gn>Tom</gn><fn>Hanks</fn></actor>
+       <as><self fictionalVariant='true'/></as>
+      </role>
+      <role>
+       <actor><gn>Phil</gn><fn>Collins</fn></actor>
+       <as><title>Singer</title></as>  <!-- uncredited -->
+      </role>
+      <role>
+       <actor><gn>Kian</gn><fn>Gibbs</fn></actor>
+       <as><title>DJ</title></as>  <!-- uncredited -->
+      </role>
+     </cast>
+    </crew>
+   </movie>

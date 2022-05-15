@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Alligator</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>826663219272</barcode>
+    <sku retailer='bby'>6493034</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <bluray/>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Alligator</title>
+    <catalog>
+     <copyright>
+      <year>1980</year>
+      <holders>
+       <holder>Alligator Associated</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Horror</primary>
+      <secondary>Thriller</secondary>
+      <secondary>Sci-Fi</secondary>
+      <specific>Genetic Sewer Monster</specific>
+      <subgenres>
+       <subgenre>cult movie</subgenre>
+      </subgenres>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H30M50S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A baby alligator flushed down the toilet, lives in the sewer until it grows to enormous size from chemicals dumped into the 
+      sewer by a greedy industrialist.
+     </plot>
+     <keywords>
+      <generic>alligator</generic>
+      <generic>police detective</generic>
+      <group>
+       <generic>machine gun</generic>
+       <generic>gun</generic>
+       <generic>grenade</generic>
+       <generic>explosives</generic>
+      </group>   
+      <group>
+       <generic>storm sewer</generic>
+       <generic>sewer</generic>
+       <generic>manhole</generic>
+       <generic>manhole cover</generic>
+       <generic>canal</generic>
+       <generic>toilet</generic>
+      </group>
+      <group>
+       <generic>pharmaceutical company</generic>
+       <generic>chemical dumping</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>corruption</theme>
+      <theme>man vs. nature</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Lewis</gn><fn>Teague</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>John</gn><fn>Sayles</fn></writer>
+      <writer role='story'><gn>John</gn><fn>Sayles</fn></writer>
+      <writer role='story'><gn>Frank Ray</gn><fn>Perilli</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Larry</gn><fn>Bock</fn></editor>
+      <editor><gn>Ron</gn><fn>Medico</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Joseph</gn><fn>Mangine</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Robert</gn><fn>Forster</fn></actor>
+       <as><gn>David</gn></as>
+      </role>
+      <role>
+       <actor><gn>Robin</gn><fn>Riker</fn></actor>
+       <as><gn>Marisa</gn></as>
+      </role>
+      <role>
+       <actor><gn>Michael</gn><mn>V.</mn><fn>Gazzo</fn></actor>
+       <as><preTitle>Chief</preTitle><fn>Clark</fn></as>
+      </role>
+      <role>
+       <actor><gn>Sydney</gn><fn>Lassick</fn></actor>
+       <as><fn>Gutchel</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jack</gn><fn>Carter</fn></actor>
+       <as><title>Mayor</title></as>
+      </role>
+      <role>
+       <actor><gn>Perry</gn><fn>Lang</fn></actor>
+       <as><gn>Kelly</gn></as>
+      </role>
+      <role>
+       <actor><gn>Henry</gn><fn>Silva</fn></actor>
+       <as><gn>Brock</gn></as>
+      </role>
+      <role>
+       <actor><gn>Bart</gn><fn>Braverman</fn></actor>
+       <as><fn>Kemp</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

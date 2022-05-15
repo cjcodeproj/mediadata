@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Jurassic Park Ultimate Trilogy</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>025192089961</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+      <bluray/>
+      <bluray/>
+      <codesheet><service>UltraViolet</service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='jurassic_park-1993-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

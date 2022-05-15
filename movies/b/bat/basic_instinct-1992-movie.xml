@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Basic Instinct</title>
+    <catalog>
+     <copyright>
+      <year>1992</year>
+      <holders>
+       <holder>Carolco</holder>
+       <holder>Le Studio Canal + V.O.F</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Mystery</primary>
+      <secondary>Thriller</secondary>
+      <secondary>Action</secondary>
+      <specific>Homicide Investigation</specific>
+      <subgenres>
+       <subgenre>blockbuster</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='31380'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H8M15S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A cop investigates a brutal murder, but is caught off guard when he falls in love with the primary suspect.
+     </plot>
+     <keywords>
+      <properNoun><place><ci>San Francisco</ci></place></properNoun>
+      <properNoun><entity>San Francisco Police Department</entity></properNoun>
+      <generic>ice pick</generic>
+      <generic>murder</generic>
+      <generic>murder suspect</generic>
+      <generic>police detective</generic>
+      <generic>interrogation</generic>
+      <generic>car chase</generic>
+      <generic>investigation</generic>
+     </keywords>
+     <themes>
+      <theme>risk</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Paul</gn><fn>Verhoeven</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Joe</gn><fn>Esterhas</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Frank</gn><mn>J</mn><fn>Urioste</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Jan</gn><fn>de Bont</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Michael</gn><fn>Douglas</fn></actor>
+       <as><preTitle>Detective</preTitle><gn>Nick</gn><fn>Curran</fn></as>
+      </role>
+      <role>
+       <actor><gn>Sharon</gn><fn>Stone</fn></actor>
+       <as><gn>Catherine</gn><fn>Tramell</fn></as>
+      </role>
+      <role>
+       <actor><gn>George</gn><fn>Dzundza</fn></actor>
+       <as><gn>Gus</gn><fn>Moran</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jeanne</gn><fn>Tripplehorn</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Beth</gn><fn>Garner</fn></as>
+      </role>
+      <role>
+       <actor><gn>Denis</gn><fn>Arndt</fn></actor>
+       <as><preTitle>Lieutenant</preTitle><fn>Walker</fn></as>
+      </role>
+      <role>
+       <actor><gn>Leilani</gn><fn>Sarelle</fn></actor>
+       <as><gn>Roxy</gn><fn>Hardy</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

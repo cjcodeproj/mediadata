@@ -1,0 +1,129 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Spiral</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>031398328490</barcode>
+    <sku retailer='bby'>6465738</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Spiral</title>
+    <catalog>
+     <altTitles>
+      <originalTitle>Spiral: From The Book of Saw</originalTitle>
+     </altTitles>
+     <copyright>
+      <year>2020</year>
+      <holders>
+       <holder>Lionsgate Films, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Horror</primary>
+      <specific>Demented Torture Killer</specific>
+      <subgenres>
+       <subgenre>grindhouse</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='52614'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H33M07S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A police detective matches wits against the new incarnation of a criminal
+      mastermind with a known reputation for retribution, brutality and mutilation.
+      During the course of the investigation he realizes that the past of his
+      fellow officers, including his father, may be the reason the Jigsaw
+      killer is making a comeback.
+     </plot>
+     <keywords>
+      <generic>police department</generic>
+      <generic>murder</generic>
+      <generic>torture</generic>
+      <generic>confession</generic>
+      <group>
+       <generic>police department</generic>
+       <generic>police detective</generic>
+       <generic>crime scene</generic>
+       <generic>policing</generic>
+       <generic>crackdown</generic>
+       <generic>corrupt cops</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>justice</theme>
+      <theme>revenge</theme>
+      <theme>corruption</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Darren</gn><mn>Lynn</mn><fn>Bousam</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Josh</gn><fn>Stolberg</fn></writer>
+      <writer><gn>Pete</gn><fn>Goldfinger</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Dev</gn><fn>Singh</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Jordan</gn><fn>Oram</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Chris</gn><fn>Rock</fn></actor>
+       <as><preTitle>Detective</preTitle><gn>Zeke</gn><fn>Banks</fn></as>
+      </role>
+      <role>
+       <actor><gn>Max</gn><fn>Minghella</fn></actor>
+       <as><preTitle>Detective</preTitle><gn>William</gn><fn>Schenk</fn></as>
+      </role>
+      <role>
+       <actor><gn>Samuel</gn><mn>L</mn><fn>Jackson</fn></actor>
+       <as><gn>Marcus</gn><fn>Banks</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

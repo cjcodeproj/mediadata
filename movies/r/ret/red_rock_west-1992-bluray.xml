@@ -1,0 +1,142 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Red Rock West</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='isbn' scanlines='false'>0767821440</barcode>
+    <barcode type='upc'>043396269798</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Red Rock West</title>
+    <catalog>
+     <copyright>
+      <year>1992</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Thriller</primary>
+      <secondary>Drama</secondary>
+      <setting>Contemporary West</setting>
+      <specific>Mistaken Identity Thriller</specific>
+      <subgenres>
+       <subgenre>noir</subgenre>
+      </subgenres>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H38M05S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A down on his luck oil field worker lookjing for a job is mistaken for a hired killer in a small town bar.  Desperate for cash, he 
+      plays along until his conscious gets the better of him and he warns off the intended target.
+     </plot>
+     <keywords>
+      <generic>murder for hire</generic>
+      <generic>bar</generic>
+      <properNoun><place><st>Wyoming</st></place></properNoun>
+      <generic>desert</generic>
+      <generic>gun</generic>
+      <generic>rifle</generic>
+      <generic>sheriff</generic>
+      <generic>deputy</generic> 
+      <generic>bar</generic>
+      <generic>buried money</generic>
+      <generic>hotel</generic>
+      <generic>train</generic>
+      <generic>leg injury</generic>
+      <generic>cemetary</generic>
+      <generic>hospital</generic>
+      <group relevance='4'>
+        <properNoun><place><st>Texas</st></place></properNoun>
+        <generic>ranch hand</generic>
+        <generic>bank robbery</generic>
+        <generic>oil fields</generic>
+        <generic>western suit</generic>
+        <properNoun><entity>Marines</entity></properNoun>
+      </group>
+      <group>
+       <properNoun><thing>Ford Bronco</thing></properNoun>
+       <properNoun><thing>Cadillac</thing></properNoun>
+       <properNoun><thing>Buick Riviera</thing></properNoun>
+       <generic>delivery truck</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>betrayal</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>John</gn><fn>Dahl</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>John</gn><fn>Dahl</fn></writer>
+      <writer><gn>Rick</gn><fn>Dahl</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Scott</gn><fn>Chestnut</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Marc</gn><fn>Reshovsky</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Nicholas</gn><fn>Cage</fn></actor>
+       <as><gn>Michael</gn></as>
+      </role>
+      <role>
+       <actor><gn>J.T.</gn><fn>Walsh</fn></actor>
+       <as><gn>Wayne</gn></as>
+      </role>
+      <role>
+       <actor><gn>Lara</gn><mn>Flynn</mn><fn>Boyle</fn></actor>
+       <as><gn>Suzanne</gn></as>
+      </role>
+      <role>
+       <actor><gn>Dennis</gn><fn>Hopper</fn></actor>
+       <as><gn>Lyle</gn></as>
+      </role>
+      <role>
+       <actor><gn>Timothy</gn><fn>Carhart</fn></actor>
+       <as><preTitle>Deputy</preTitle><fn>Greytack</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dan</gn><fn>Shor</fn></actor>
+       <as><preTitle>Deputy</preTitle><fn>Bowman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dwight</gn><fn>Yoakam</fn></actor>
+       <as><title>Truck Driver</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

@@ -1,0 +1,122 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Mulholland Drive</title>
+    <catalog>
+     <copyright>
+      <year>2001</year>
+      <holders>
+       <holder>Le Studio Canal Plus</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Mystery</secondary>
+      <secondary>Thriller</secondary>
+      <specific>Memory Loss Thriller</specific>
+      <subgenres>
+       <subgenre>cult movie</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='37982'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT02H27M08S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A woman with amnesia navigates her way around Los Angeles, trying to find out who she is, and what may have happened to her.
+     </plot>
+     <keywords>
+      <properNoun><place><ci>Los Angeles</ci></place></properNoun>
+      <properNoun><place><name>Mulholland Drive</name><ci>Los Angeles</ci></place></properNoun>
+      <properNoun><place><name>Sunset Bloulevard</name><ci>Los Angeles</ci></place></properNoun>
+      <generic>movie industry</generic>
+      <generic>acting</generic>
+      <generic>affair</generic>
+      <generic>amnesia</generic>
+      <generic>affair</generic>
+      <generic>diner</generic>
+     </keywords>
+     <themes>
+      <theme> </theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>David</gn><fn>Lynch</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>David</gn><fn>Lynch</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Mary</gn><fn>Sweeney</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Peter</gn><fn>Deming</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Naomi</gn><fn>Watts</fn></actor>
+       <as><gn>Betty</gn></as>
+       <as><gn>Diane</gn><fn>Selwyn</fn></as>
+      </role>
+      <role>
+       <actor><gn>Laura</gn><fn>Harring</fn></actor>
+       <as><gn>Rita</gn></as>
+       <as><gn>Camilla</gn><fn>Rhodes</fn></as>
+      </role>
+      <role>
+       <actor><gn>Justin</gn><fn>Theroux</fn></actor>
+       <as><gn>Adam</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jeanne</gn><fn>Bates</fn></actor>
+       <as><gn>Irene</gn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Forster</fn></actor>
+       <as><preTitle>Detective</preTitle><fn>McKnight</fn></as>
+      </role>
+      <role>
+       <actor><gn>Brent</gn><fn>Briscoe</fn></actor>
+       <as><preTitle>Detective</preTitle><fn>Domgaard</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ann</gn><fn>Miller</fn></actor>
+       <as><gn>Coco</gn></as>
+      </role>
+      <role>
+       <actor><gn>Mark</gn><fn>Pellegrino</fn></actor>
+       <as><gn>Joe</gn></as>
+      </role>
+      <role>
+       <actor><gn>Billy</gn><mn>Ray</mn><fn>Cyrus</fn></actor>
+       <as><gn>Gene</gn></as>
+      </role>
+      <role>
+       <actor><gn>Monty</gn><fn>Montgomery</fn></actor>
+       <as><title>Cowboy</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

@@ -1,0 +1,139 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>A Star Is Born</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>883929623617</barcode>
+    <sku retailer='bby'>6309632</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>A Star Is Born</title>
+    <catalog>
+     <copyright>
+      <year>2018</year>
+      <holders>
+       <holder>Warner Bros. Entertainment Inc.</holder>
+       <holder>Metro-Goldwyn-Mayer Pictures Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Romance</secondary>
+      <specific>Musician Finds Fame</specific>
+      <subgenres>
+       <subgenre>movie remake</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='51308'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H15M45S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A waitress is mentored by a seasoned musician, and she finds herself dealing with her
+      own sudden success, as well as the musician's downward self-destructive habbits.
+     </plot>
+     <keywords>
+      <generic>country music</generic>
+      <generic>songwriting</generic>
+      <generic>songwriters</generic>
+      <generic>substance abuse</generic>
+      <generic>musical career</generic>
+      <generic>alcoholism</generic>
+     </keywords>
+     <themes>
+      <theme>fame</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Bradley</gn><fn>Cooper</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Eric</gn><fn>Roth</fn></writer>
+      <writer role='screenplay'><gn>Bradley</gn><fn>Cooper</fn></writer>
+      <writer role='screenplay'><gn>Will</gn><fn>Fetters</fn></writer>
+      <sources>
+       <source>
+        <title>A Star Is Born</title>
+        <authors>
+         <author><gn>Moss</gn><fn>Hart</fn></author>
+        </authors>
+       </source>
+       <source>
+        <title>A Star Is Born</title>
+        <authors>
+         <author><gn>John</gn><mn>Gregory</mn><fn>Dunne</fn></author>
+         <author><gn>Joan</gn><fn>Didion</fn></author>
+         <author><gn>Frank</gn><fn>Pierson</fn></author>
+        </authors>
+       </source>
+       <source>
+        <title>A Star Is Born</title>
+        <authors>
+         <author><gn>William</gn><mn>A</mn><fn>Wellman</fn></author>
+         <author><gn>Robert</gn><fn>Carson</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Jay</gn><fn>Cassidy</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Matthew</gn><fn>Libatique</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Lady</gn><fn>Gaga</fn></actor>
+       <as><gn>Ally</gn></as>
+      </role>
+      <role>
+       <actor><gn>Bradley</gn><fn>Cooper</fn></actor>
+       <as><gn>Jack</gn></as>
+      </role>
+      <role>
+       <actor><gn>Sam</gn><fn>Elliot</fn></actor>
+       <as><gn>Bobby</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

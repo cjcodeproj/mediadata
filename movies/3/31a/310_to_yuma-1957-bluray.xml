@@ -1,0 +1,134 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>3:10 To Yuma</main>
+   <edition>Criterion Collection</edition>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>715515105811</barcode>
+    <other>
+     <name>Criterion Spine Number</name>
+     <value>657</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>3:10 To Yuma</title>
+    <catalog>
+     <altTitles>
+      <variantTitle sortable='true'>Three Ten To Yuma</variantTitle>
+     </altTitles>
+     <copyright>
+      <year>1957</year>
+      <holders>
+       <holder>Columbia Pictures Corporation</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Western</primary>
+      <secondary>Thriller</secondary>
+      <specific>Accidental Bounty Hunter</specific>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='18496'>
+       <rating>Approved</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H32M09S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Against his better judgement, a rancher finds takes a job escorting a captured outlaw.
+      He quickly learns that while he has to protect the outlaw from members of his own gang, 
+      he must also prevent the outlaw from corrupting the ideals of his son.
+     </plot>
+     <keywords>
+      <generic>bounty hunter</generic>
+      <generic>horses</generic>
+      <generic>train</generic>
+      <generic>stagecoach</generic>
+      <generic>robbery</generic>
+      <properNoun><place><ci>Yuma</ci><st>Arizona</st></place></properNoun>
+     </keywords>
+     <themes>
+      <theme>doing the right thing</theme>
+      <theme>respect</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Delmer</gn><fn>Daves</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Halsted</gn><fn>Welles</fn></writer>
+      <sources>
+       <source>
+        <title>Three-Ten To Yuma</title>
+        <authors>
+         <author><gn>Elmore</gn><fn>Leonard</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Al</gn><fn>Clark</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Charles</gn><fn>Lawton</fn><postTitle>Jr</postTitle></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Glenn</gn><fn>Ford</fn></actor>
+       <as><gn>Ben</gn><fn>Wade</fn></as>
+      </role>
+      <role>
+       <actor><gn>Van</gn><fn>Helfin</fn></actor>
+       <as><gn>Dan</gn><fn>Evans</fn></as>
+      </role>
+      <role>
+       <actor><gn>Felicia</gn><fn>Farr</fn></actor>
+       <as><gn>Emmy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Leora</gn><fn>Dana</fn></actor>
+       <as><preTitle>Mrs</preTitle><gn>Alice</gn><fn>Evans</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

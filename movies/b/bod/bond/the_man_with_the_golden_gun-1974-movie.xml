@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Man With The Golden Gun</title>
+    <catalog>
+     <copyright>
+      <year>1974</year>
+      <holders>
+       <holder>Danjaq S.A.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Adventure</primary>
+      <secondary>Action</secondary>
+      <secondary>Thriller</secondary>
+      <specific>Bond vs. Assassin</specific>
+      <subgenres>
+       <subgenre>based on a novel</subgenre>
+      </subgenres>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H5M13S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      <chr>James Bond</chr> must find <chr>Scaramanga</chr>, a ruthless assassin 
+      who declares his intention to kill 007 in a letter received at MI-6.  
+      Unfortunately, that sidetracks his current assignment 
+      finding the stolen solar power components that could solve the 
+      energy crisis.
+     </plot>
+     <keywords>
+      <group>
+       <generic>assassin</generic>
+       <generic>solar energy</generic>
+       <properNoun><event>Energy Crisis</event></properNoun>
+      </group>
+      <group>
+       <properNoun><place><ci>Hong Kong</ci></place></properNoun>
+       <generic>sea plane</generic>
+       <generic>private island</generic>
+      </group>
+     </keywords>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Guy</gn><fn>Hamilton</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Richard</gn><fn>Maibaum</fn></writer>
+      <writer><gn>Tom</gn><fn>Mankiewicz</fn></writer>
+      <sources>
+       <source>
+        <title>The Man With The Golden Gun</title>
+        <authors>
+         <author><gn>Ian</gn><fn>Fleming</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Raymond</gn><fn>Poulton</fn></editor>
+      <editor><gn>John</gn><fn>Shirley</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Ted</gn><fn>Moore</fn></cinemaphotographer>
+      <cinemaphotographer><gn>Oswald</gn><fn>Morris</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Roger</gn><fn>Moore</fn></actor>
+       <as><gn>James</gn><fn>Bond</fn></as>
+      </role>
+      <role>
+       <actor><gn>Christopher</gn><fn>Lee</fn></actor>
+       <as><gn>Francisco</gn><fn>Scaramanga</fn></as>
+      </role>
+      <role>
+       <actor><gn>Britt</gn><fn>Ekland</fn></actor>
+       <as><fn>Goodnight</fn></as>
+      </role>
+      <role>
+       <actor><gn>Maud</gn><fn>Adams</fn></actor>
+       <as><gn>Andrea</gn><fn>Anders</fn></as>
+      </role>
+      <role>
+       <actor><gn>Hervé</gn><fn>Villechaize</fn></actor>
+       <as><nick>Nick Nack</nick></as>
+      </role>
+      <role>
+       <actor><gn>Clifton</gn><fn>James</fn></actor>
+       <as><gn>J.</gn><mn>W.</mn><fn>Pepper</fn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Loo</fn></actor>
+       <as><fn>Hai Fat</fn></as>
+      </role>
+      <role>
+       <actor><gn>Soon-Tek</gn><fn>Oh</fn></actor>
+       <as><fn>Hip</fn></as>
+      </role>
+      <role>
+       <actor><gn>Bernard</gn><fn>Lee</fn></actor>
+       <as><nick>M</nick></as>
+      </role>
+      <role>
+       <actor><gn>Lois</gn><fn>Maxwell</fn></actor>
+       <as><fn>Moneypenny</fn></as>
+      </role>
+      <role>
+       <actor><gn>Desmond</gn><fn>Llewelyn</fn></actor>
+       <as><nick>Q</nick></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

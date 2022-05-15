@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>Split Second</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>760137076681</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+       <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Split Second</title>
+    <catalog>
+     <copyright>
+      <year>1992</year>
+      <holders>
+       <holder>XYZ Funding N.V.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Sci-Fi</primary>
+      <secondary>Action</secondary>
+      <specific>Genetic Monsters</specific>
+     </genres>
+     <certifications>
+      <certificate ref='31525'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H30M47S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A cop investigates a series of gruesome killings in London, but soon discovers that 
+      the killer isn't even a human being. 
+     </plot>
+     <keywords>
+      <generic>serial killer</generic>
+      <properNoun><place><ci>London</ci></place></properNoun>
+      <properNoun><place><name>Thames River</name></place></properNoun>
+      <generic>global warming</generic>
+      <generic>distopian future</generic>
+      <generic>police detective</generic>
+      <generic>shotgun</generic>
+      <generic>monster</generic>
+      <properNoun><thing>Jeep CJ-7</thing></properNoun>
+     </keywords>
+     <themes>
+      <theme>fear</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Tony</gn><fn>Maylam</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Gary</gn><mn>Scott</mn><fn>Thompson</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Dan</gn><fn>Rae</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Clive</gn><fn>Tickner</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Rutger</gn><fn>Hauer</fn></actor>
+       <as><gn>Harley</gn><fn>Stone</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kim</gn><fn>Cattrall</fn></actor>
+       <as><gn>Michelle</gn><fn>McLaine</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

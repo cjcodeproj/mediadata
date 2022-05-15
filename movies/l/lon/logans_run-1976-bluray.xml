@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Logan's Run</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>883929073887</barcode>
+    <barcode type='isbn'>1-4198-8230-9</barcode>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>1000098847A</value>
+     <value>1000098847B</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='logans_run-1976-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

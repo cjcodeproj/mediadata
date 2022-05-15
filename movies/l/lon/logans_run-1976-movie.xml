@@ -1,0 +1,146 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Logan's Run</title>
+    <catalog>
+     <copyright>
+      <year>1976</year>
+      <holders>
+       <holder>Metro-Goldwyn-Mayer, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Sci-Fi</primary>
+      <secondary>Action</secondary>
+      <secondary>Adventure</secondary>
+      <specific>Rebelling Against Authority</specific>
+      <subgenres>
+       <subgenre>based on a novel</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='24365'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H58M31S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Logan enforces the law within the domed city, but starts to question the policy of renewal that kills every
+      citizen once they turn 30 years old.
+     </plot>
+     <keywords>
+      <generic>domed city</generic>
+      <generic>computer</generic>
+      <generic>ankh</generic>
+      <group>
+       <generic> </generic>
+       <generic> </generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme> </theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Michael</gn><fn>Anderson</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>David</gn><mn>Zelag</mn><fn>Goodman</fn></writer>
+      <sources>
+       <source>
+        <title>Logan's Run</title>
+        <authors>
+         <author><gn>William</gn><mn>F.</mn><fn>Nolan</fn></author>
+         <author><gn>George</gn><mn>Clayton</mn><fn>Johnson</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Bob</gn><fn>Wyman</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Ernest</gn><fn>Laszlo</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Jerry</gn><fn>Goldsmith</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner uncredited='true'><gn>Dale</gn><fn>Hennesy</fn></productionDesigner>
+      <artDirector><gn>Dale</gn><fn>Hennesy</fn></artDirector>
+      <setDecorator><gn>Robert</gn><fn>De Vestel</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Bill</gn><fn>Thomas</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Jack</gn><fn>Baur</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Michael</gn><fn>York</fn></actor>
+       <as><gn>Logan</gn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Jordan</fn></actor>
+       <as><gn>Francis</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jenny</gn><fn>Agutter</fn></actor>
+       <as><gn>Jessica</gn></as>
+      </role>
+      <role>
+       <actor><gn>Roscoe Lee</gn><fn>Browne</fn></actor>
+       <as><gn>Box</gn></as>
+      </role>
+      <role>
+       <actor><gn>Farrah</gn><fn>Fawcett</fn></actor>
+       <as><gn>Holly</gn></as>
+      </role>
+      <role>
+       <actor><gn>Michael</gn><fn>Anderson</fn><postTitle>Jr.</postTitle></actor>
+       <as><nick>Doc</nick></as>
+      </role>
+      <role>
+       <actor><gn>Peter</gn><fn>Usinov</fn></actor>
+       <as><title>Old Man</title></as>
+      </role>
+      <role>
+       <actor><gn>Randolph</gn><fn>Roberts</fn></actor>
+       <as><title>2nd Santuary Man</title></as>
+      </role>
+      <role>
+       <actor><gn>Lara</gn><fn>Lindsay</fn></actor>
+       <as><title>The Woman Runner</title></as>
+      </role>
+      <role>
+       <actor><gn>Gary</gn><fn>Morgan</fn></actor>
+       <as><gn>Billy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Virginia Ann</gn><fn>Ford</fn></actor>
+       <as><title>The City Computer</title></as>  <!-- uncredited -->
+      </role>
+     </cast>
+    </crew>
+   </movie>

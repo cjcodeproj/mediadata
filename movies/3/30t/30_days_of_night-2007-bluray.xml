@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>30 Days Of Night</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>043396196186</barcode>
+    <barcode type='isbn'>14284862396</barcode>
+    <sku retailer='bby'>8680661</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='30_days_of_night-2007-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

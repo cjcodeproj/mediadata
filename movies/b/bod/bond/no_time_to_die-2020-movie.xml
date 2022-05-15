@@ -1,0 +1,143 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>No Time To Die</title>
+    <catalog>
+     <copyright>
+      <year>2020</year>
+      <holders>
+       <holder>Danjaq, Inc.</holder>
+       <holder>Metro-Goldwyn-Mayer Studios, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Adventure</secondary>
+      <secondary>Thriller</secondary>
+      <specific>New Villain</specific>
+      <subgenres>
+       <subgenre>based on a character</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='52540'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H43M24S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      <chr>James Bond</chr> is retired and alone, living a quiet solitary life, staying below the 
+      radar of Spectre's assassins.  But he is visited by his old friend <chr>Felix LEiter</chr> and 
+      the new <chr>007</chr> because they need his help to track down a scientist who has 
+      created a deadly bioweapon that can kill specific targets based on touch.
+     </plot>
+     <keywords>
+      <properNoun><entity>MI6</entity></properNoun>
+      <properNoun><entity>CIA</entity></properNoun>
+      <generic>nanotechnology</generic>
+      <group>
+       <properNoun><place><ci>Matera</ci><cn>Italy</cn></place></properNoun>
+       <properNoun><place><cn>Cuba</cn></place></properNoun>
+       <properNoun><place><cn>Jamaica</cn></place></properNoun>
+       <properNoun><place><cn>Norway</cn></place></properNoun>
+       <properNoun><place><ci>London</ci></place></properNoun>
+      </group>
+     </keywords>
+     <themes>
+      <theme>revenge</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Cary</gn><mn>Joji</mn><fn>Fukunaga</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Neal</gn><fn>Purvis</fn></writer>
+      <writer role='screenplay'><gn>Robert</gn><fn>Wade</fn></writer>
+      <writer role='screenplay'><gn>Cary</gn><mn>Joji</mn><fn>Fukunaga</fn></writer>
+      <writer role='screenplay'><gn>Phoebe</gn><fn>Waller-Bridge</fn></writer>
+      <writer role='story'><gn>Neal</gn><fn>Purvis</fn></writer>
+      <writer role='story'><gn>Robert</gn><fn>Wade</fn></writer>
+      <writer role='story'><gn>Cary</gn><mn>Joji</mn><fn>Fukunaga</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Tom</gn><fn>Cross</fn></editor>
+      <editor><gn>Elliot</gn><fn>Graham</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Linus</gn><fn>Sandgren</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Daniel</gn><fn>Craig</fn></actor>
+       <as><gn>James</gn><fn>Bond</fn></as>
+      </role>
+      <role>
+       <actor><gn>Léa</gn><fn>Seydoux</fn></actor>
+       <as><gn>Madeleine</gn></as>
+      </role>
+      <role>
+       <actor><gn>Rami</gn><fn>Malek</fn></actor>
+       <as><gn>Lyutsifer</gn><fn>Safin</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lashana</gn><fn>Lynch</fn></actor>
+       <as><gn>Nomi</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ralph</gn><fn>Fiennes</fn></actor>
+       <as><nick>M</nick></as>
+      </role>
+      <role>
+       <actor><gn>Ben</gn><fn>Whishaw</fn></actor>
+       <as><nick>Q</nick></as>
+      </role>
+      <role>
+       <actor><gn>Rory</gn><fn>Kinnear</fn></actor>
+       <as><fn>Tanner</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jeffrey</gn><fn>Wright</fn></actor>
+       <as><gn>Felix</gn><fn>Leiter</fn></as>
+      </role>
+      <role>
+       <actor><gn>Billy</gn><fn>Magnussen</fn></actor>
+       <as><gn>Logan</gn><fn>Ash</fn></as>
+      </role>
+      <role>
+       <actor><gn>Christoph</gn><fn>Waltz</fn></actor>
+       <as><fn>Blofeld</fn></as>
+      </role>
+      <role>
+       <actor><gn>David</gn><fn>Dencik</fn></actor>
+       <as><gn>Valdo</gn><fn>Obruchev</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ana</gn><fn>de Armas</fn></actor>
+       <as><gn>Paloma</gn></as>
+      </role>
+      <role>
+       <actor><gn>Dali</gn><fn>Benssalah</fn></actor>
+       <as><gn>Primo</gn><nick>Cyclops</nick></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

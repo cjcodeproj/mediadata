@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>The Dark Tower</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>043396488120</barcode>
+    <sku retailer='amzn' type='asin'>B0746ZLWPB</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Dark Tower</title>
+    <catalog>
+     <copyright>
+      <year>2017</year>
+      <holders>
+       <holder>Columbia Pictures Industries, Inc.</holder>
+       <holder>MRC II Distribution Company L.P.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Sci-Fi</primary>
+      <secondary>Adventure</secondary>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+       <subgenre>based on a book series</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='50333'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H34M44S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A kid disccovers a portal to a different world where good and evil fight over control of a tower.  If
+      evil wins, the destruction of the tower would open up the gates of hell.
+     </plot>
+     <keywords>
+      <generic>wormholes</generic>
+      <generic>gun</generic>
+      <generic>gunfighter</generic>
+      <generic>tower</generic>
+      <generic>gunfight</generic>
+     </keywords>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Nikolaj</gn><fn>Arcel</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Akiva</gn><fn>Goldsman</fn></writer>
+      <writer role='screenplay'><gn>Jeff</gn><fn>Pinkner</fn></writer>
+      <writer role='screenplay'><gn>Anders</gn><mn>Thomas</mn><fn>Jensen</fn></writer>
+      <writer role='screenplay'><gn>Nikolaj</gn><fn>Arcel</fn></writer>
+      <sources>
+       <source>
+        <title>The Dark Tower: The Gunslinger</title>
+        <authors>
+         <author><gn>Stephen</gn><fn>King</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Alan</gn><mn>Edeard</mn><fn>Bell</fn></editor>
+      <editor><gn>Dan</gn><fn>Zimmerman</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Rasmus</gn><fn>Vidabaek</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Matthew</gn><fn>McConaughey</fn></actor>
+       <as><gn>Walter</gn></as>
+      </role>
+      <role>
+       <actor><gn>Idris</gn><fn>Elda</fn></actor>
+       <as><gn>Roland</gn></as>
+      </role>
+      <role>
+       <actor><gn>Tom</gn><fn>Taylor</fn></actor>
+       <as><gn>Jake</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

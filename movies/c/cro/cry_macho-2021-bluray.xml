@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Cry Macho</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>883929774289</barcode>
+    <sku retailer='bby'>6485281</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Cry Macho</title>
+    <catalog>
+     <copyright>
+      <year>2021</year>
+      <holders>
+       <holder>Warner Bros. Entertainment Inc</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <specific>Old Person Road Trip</specific>
+     </genres>
+     <certifications>
+      <certificate ref='53138'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H43M53S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A grumpy old cowboy is given the job of retrieving his boss' son from Mexico.  He 
+      finds the boy and brings him back, while teaching him some lessons about 
+      respect and standing up for himself.
+     </plot>
+     <keywords>
+      <group>
+       <generic>rooster</generic>
+       <generic>horses</generic>
+       <generic>rodeo</generic>
+       <generic>bucking horse</generic>
+       <generic>horse training</generic>
+      </group>
+      <group>
+       <properNoun><place><cn>Mexico</cn></place></properNoun>
+       <generic>border crossing</generic>
+      </group>
+     </keywords>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Clint</gn><fn>Eastwood</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Nick</gn><fn>Schenk</fn></writer>
+      <writer role='screenplay'><gn>N.</gn><mn>Richard</mn><fn>Nash</fn></writer>
+      <sources>
+       <source>
+        <title>Cry Macho</title>
+        <authors>
+         <author><gn>N.</gn><mn>Richard</mn><fn>Nash</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>David</gn><mn>S.</mn><fn>Cox</fn></editor>
+      <editor><gn>Joel</gn><fn>Cox</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Ben</gn><fn>Davis</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Clint</gn><fn>Eastwood</fn></actor>
+       <as><gn>Mike</gn><fn>Milo</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dwight</gn><fn>Yoakam</fn></actor>
+       <as><gn>Howard</gn><fn>Polk</fn></as>
+      </role>
+      <role>
+       <actor><gn>Eduardo</gn><fn>Minett</fn></actor>
+       <as><gn>Rafo</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

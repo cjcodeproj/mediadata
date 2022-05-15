@@ -1,0 +1,136 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Spectre</title>
+    <catalog>
+     <copyright>
+      <year>2015</year>
+      <holders>
+       <holder>Danjac, LLC</holder>
+       <holder>Metro-Goldwyn-Mayer Studios, Inc</holder>
+       <holder>Columbia Pictures Industries, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Adventure</secondary>
+      <secondary>Thriller</secondary>
+      <specific>Uncovering The Conspiracy</specific>
+      <subgenres>
+       <subgenre>based on characters</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='49732'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H28M6S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      <chr>James Bond</chr> discovers the secret of an underground organization that has managed to infiltrate
+      his own government, MI6, and the Secret Intelligence Servicec.
+     </plot>
+     <keywords>
+      <properNoun><entity>MI6</entity></properNoun>
+      <generic>surveillance</generic>
+      <generic>conspiracy</generic>
+      <generic>terrorist organization</generic>
+      <group>
+       <properNoun><place><ci>London</ci></place></properNoun>
+       <properNoun><place><generic>Thames River</generic></place></properNoun>
+      </group>
+     </keywords>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Sam</gn><fn>Mendes</fn></director>
+     </directors>
+     <writers>
+      <writer role='sceenplay'><gn>John</gn><fn>Logan</fn></writer>
+      <writer role='screenplay'><gn>Neal</gn><fn>Purvis</fn></writer>
+      <writer role='screenplay'><gn>Robert</gn><fn>Wade</fn></writer>
+      <writer role='screenplay'><gn>Jez</gn><fn>Butterworth</fn></writer>
+      <writer role='story'><gn>John</gn><fn>Logan</fn></writer>
+      <writer role='story'><gn>Neal</gn><fn>Purvis</fn></writer>
+      <writer role='story'><gn>Robert</gn><fn>Wade</fn></writer>
+      <sources>
+       <source>
+        <title>Characters</title>
+        <authors>
+         <author><gn>Ian</gn><fn>Flemming</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Lee</gn><fn>Smith</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Hoyte</gn><fn>Van Hoytema</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Daniel</gn><fn>Craig</fn></actor>
+       <as><gn>James</gn><fn>Bond</fn></as>
+      </role>
+      <role>
+       <actor><gn>Christoph</gn><fn>Walz</fn></actor>
+       <as><fn>Blofeld</fn></as>
+      </role>
+      <role>
+       <actor><gn>Léa</gn><fn>Seydoux</fn></actor>
+       <as><gn>Madeleine</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ralph</gn><fn>Fiennes</fn></actor>
+       <as><nick>M</nick></as>
+      </role>
+      <role>
+       <actor><gn>Ben</gn><fn>Whishaw</fn></actor>
+       <as><nick>Q</nick></as>
+      </role>
+      <role>
+       <actor><gn>Naomi</gn><fn>Harris</fn></actor>
+       <as><fn>Moneypenny</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dave</gn><fn>Bautista</fn></actor>
+       <as><gn>Hinx</gn></as>
+      </role>
+      <role>
+       <actor><gn>Andrew</gn><fn>Scott</fn></actor>
+       <as><nick>C</nick></as>
+      </role>
+      <role>
+       <actor><gn>Rory</gn><fn>Kinnear</fn></actor>
+       <as><fn>Tanner</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jesper</gn><fn>Christensen</fn></actor>
+       <as><preTitle>Mr.</preTitle><fn>White</fn></as>
+      </role>
+      <role>
+       <actor><gn>Alessandro</gn><fn>Cremora</fn></actor>
+       <as><gn>Marco</gn><fn>Sciarra</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

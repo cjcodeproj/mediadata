@@ -1,0 +1,148 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Bonnie And Clyde</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>883929113378</barcode>
+    <barcode type='isbn'>1419895028</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Bonnie And Clyde</title>
+    <catalog>
+     <copyright>
+      <year>1967</year>
+      <holders>
+       <holder>Warner Bros-Seven Arts, Inc.</holder>
+       <holder>Tatira-Hiller Productions</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Crime</secondary>
+      <specific>Gangster Lovers</specific>
+      <subgenres>
+       <subgenre>noir</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='21395'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H50M46S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Retelling of the exploits of Bonnie and Clyde, from when the first time they meet, 
+      their bank robberies and eventual fame, until their deaths from an ambush 
+      by the Texas Rangers.
+     </plot>
+     <keywords>
+      <generic>machine gun</generic>
+      <generic>gun</generic>
+      <generic>grenade</generic>
+      <generic>bank robbery</generic>
+      <generic>auto theft</generic>
+      <generic>ambush</generic>
+      <generic>police</generic>
+      <properNoun><event>The Depression</event></properNoun>
+      <properNoun><entity>Texas Rangers</entity></properNoun>
+      <generic>ambush</generic>
+      <generic>auto mechanic</generic>
+     </keywords>
+     <themes>
+      <theme>being bad</theme>
+      <theme>rebellion</theme>
+      <theme>family</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Arthur</gn><fn>Penn</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>David</gn><fn>Newman</fn></writer>
+      <writer><gn>Robert</gn><fn>Benton</fn></writer>
+      <writer uncredited='true'><gn>Robert</gn><fn>Towne</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Dede</gn><fn>Allen</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Burnett</gn><fn>Guffey</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Warren</gn><fn>Beatty</fn></actor>
+       <as><gn>Clyde</gn><fn>Barrow</fn></as>
+      </role>
+      <role>
+       <actor><gn>Faye</gn><fn>Dunaway</fn></actor>
+       <as><gn>Bonnie</gn><fn>Parker</fn></as>
+      </role>
+      <role>
+       <actor><gn>Miochael</gn><mn>J</mn><fn>Pollard</fn></actor>
+       <as><gn>C</gn><mn>W</mn><fn>Moss</fn></as>
+      </role>
+      <role>
+       <actor><gn>Gene</gn><fn>Hackman</fn></actor>
+       <as><gn>Buck</gn><fn>Barrow</fn></as>
+      </role>
+      <role>
+       <actor><gn>Estelle</gn><fn>Parsons</fn></actor>
+       <as><gn>Blanche</gn></as>
+      </role>
+      <role>
+       <actor><gn>Denver</gn><fn>Pyle</fn></actor>
+       <as><gn>Frank</gn><fn>Hammer</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dub</gn><fn>Taylor</fn></actor>
+       <as><gn>Ivan</gn><fn>Moss</fn></as>
+      </role>
+      <role>
+       <actor><gn>Evans</gn><fn>Evans</fn></actor>
+       <as><gn>Velma</gn><fn>Davis</fn></as>
+      </role>
+      <role>
+       <actor><gn>Gene</gn><fn>Wilder</fn></actor>
+       <as><gn>Eugene</gn><fn>Gizzard</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

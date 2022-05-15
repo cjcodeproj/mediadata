@@ -1,0 +1,144 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Thunderheart</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>043396706996</barcode>
+    <barcode type='isbn' scanlines='false'>0-7678-1218-2</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Thunderheart</title>
+    <catalog>
+     <copyright>
+      <year>1992</year>
+      <holders>
+       <holder>Tri-Star Pictures, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Mystery</primary>
+      <secondary>Thriller</secondary>
+      <secondary>Action</secondary>
+      <specific>Indian Murder</specific>
+     </genres>
+     <certifications>
+      <certificate ref='31553'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H59M11S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An FBI agent wrestles with his native heritage while investigating a murder in a South Dakota 
+      community plagued with unrest and hostility.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><st>South Dakota</st></place></properNoun>
+       <properNoun><place><name>Black Hills</name><st>South Dakota</st></place></properNoun>
+       <properNoun><place><name>Badlands</name><st>South Dakota</st></place></properNoun>
+      </group>
+      <group>
+       <properNoun><entity>FBI</entity></properNoun>
+       <generic>gun</generic>
+       <generic>rifle</generic>
+      </group>
+      <group>
+       <generic>indian</generic>
+       <properNoun><entity>Sioux Nation</entity></properNoun>
+      </group>
+      <group>
+        <generic>badger</generic>
+        <generic>motorcycle</generic>
+        <generic>speeding ticket</generic>
+        <generic>helicopter</generic>
+        <generic>uranium</generic>
+        <generic>mining</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>justice</theme>
+      <theme>greed</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Michael</gn><fn>Apted</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>John</gn><fn>Fusco</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Ian</gn><fn>Crawford</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Roger</gn><fn>Deakins</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Val</gn><fn>Kilmer</fn></actor>
+       <as><gn>Ray</gn><fn>Levoi</fn></as>
+      </role>
+      <role>
+       <actor><gn>Sam</gn><fn>Shepard</fn></actor>
+       <as><gn>Frank</gn><fn>Coutelle</fn></as>
+      </role>
+      <role>
+       <actor><gn>Graham</gn><fn>Greene</fn></actor>
+       <as><gn>Walter</gn><fn>Crow Horse</fn></as>
+      </role>
+      <role>
+       <actor><gn>Fred</gn><fn>Ward</fn></actor>
+       <as><gn>Jack</gn><fn>Milton</fn></as>
+      </role>
+      <role>
+       <actor><gn>Fred</gn><fn>Thompson</fn></actor>
+       <as><gn>William</gn><fn>Dawes</fn></as>
+      </role>
+      <role>
+       <actor><gn>Sheila</gn><fn>Tousey</fn></actor>
+       <as><gn>Maggie</gn><fn>Eagle Bear</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ted</gn><fn>Thin Elk</fn></actor>
+       <as><preTitle>Grandpa</preTitle><gn>Sam</gn><fn>Reaches</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Assault On Precinct 13</title>
+    <catalog>
+     <copyright>
+      <year>1976</year>
+      <holders>
+       <holder>CKK Corporation</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Thriller</secondary>
+      <specific>Last Stand Western</specific>
+      <subgenres>
+       <subgenre>cult movie</subgenre>
+       <subgenre>grindhouse</subgenre>
+       <subgenre>modern western</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='24701'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H30M53S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A CHP officer is charged with monitoring the final day of a decomissioned police precinct.  The quiet night is disrupted by 
+      the arrival of a man seeking shelter, not realizing that a street gang wants him dead; and they won't hesitate to kill anyone 
+      who gets in their way.
+     </plot>
+     <keywords>
+      <properNoun><place><ci>Los Angeles</ci></place></properNoun>
+      <group>
+       <generic>gun</generic>
+       <generic>rifle</generic>
+       <generic>shotgun</generic>
+       <generic>silencer</generic>
+       <generic>flares</generic>
+       <generic>knife</generic>
+      </group>
+      <group>
+       <properNoun><entity>Los Angeles Police Department</entity></properNoun>
+       <properNoun><entity>California Highway Patrol</entity></properNoun>
+       <generic>police car</generic>
+       <generic>police helicopter</generic>
+       <generic>police radio</generic>
+       <generic>police precinct</generic>
+       <generic>prisoners</generic>
+       <generic>prisoner transfer</generic>
+      </group>
+      <generic>ice cream truck</generic>
+      <generic>vanilla ice cream</generic>
+      <generic>revenge killing</generic>
+      <generic>witness killing</generic>
+      <generic>phone company</generic>
+     </keywords>
+     <themes>
+      <theme>survival</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>John</gn><fn>Carpenter</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>John</gn><fn>Carpenter</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>John</gn><fn>Carptenter</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Douglas</gn><fn>Knapp</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Austin</gn><fn>Stoker</fn></actor>
+       <as><gn>Ethan</gn><fn>Bishop</fn></as>
+      </role>
+      <role>
+       <actor><gn>Darwin</gn><fn>Joston</fn></actor>
+       <as><gn>Napoleon</gn><fn>Wilson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Laurie</gn><fn>Zimmer</fn></actor>
+       <as><gn>Leigh</gn></as>
+      </role>
+      <role>
+       <actor><gn>Martin</gn><fn>West</fn></actor>
+       <as><fn>Lawson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tony</gn><fn>Burton</fn></actor>
+       <as><fn>Wells</fn></as>
+      </role>
+      <role>
+       <actor><gn>Charles</gn><fn>Cyphers</fn></actor>
+       <as><fn>Starker</fn></as>
+      </role>
+      <role>
+       <actor><gn>Nancy</gn><fn>Kyes</fn></actor>
+       <as><gn>Julie</gn></as>
+      </role>
+      <role>
+       <actor><gn>Peter</gn><fn>Bruni</fn></actor>
+       <as><title>Ice Cream Man</title></as>
+      </role>
+      <role>
+       <actor><gn>Kim</gn><fn>Richards</fn></actor>
+       <as><gn>Kathy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Frank</gn><fn>Doubleday</fn></actor>
+       <as><nick>White Warlord</nick></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

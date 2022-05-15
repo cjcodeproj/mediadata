@@ -1,0 +1,161 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Total Recall</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>031398322757</barcode>
+    <sku retailer='tgt'>058375737</sku>
+    <sku retailer='bby'>6429471</sku>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>58560</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Total Recall</title>
+    <catalog>
+     <copyright>
+      <year>1990</year>
+      <holders>
+       <holder>Carolco Pictures, Inc.</holder>
+       <holder>Carolco International N.V.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Sci-Fi</secondary>
+      <specific>Undercover Thriller</specific>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='30288'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H52M56S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An everyday man who dreams of adventure, visits Rekall, a company that can
+      implant vacation memories in the brain.  After trying to implant a virtual 
+      vacation to the planet Mars, he discovers that he might actually be a secret 
+      agent, who had his memory erased to build a cover identity that would allow 
+      him to infiltrate a group of rebels on Mars.
+     </plot>
+     <keywords>
+      <properNoun><place><planet>Mars</planet></place></properNoun>
+      <generic>implanted memories</generic>
+      <generic>undercover spy</generic>
+      <generic>space travel</generic>
+      <generic>air</generic>
+      <generic>alien civilization</generic>
+      <generic>robotic taxi</generic>
+      <generic>safety deposit box</generic>
+     </keywords>
+     <themes>
+      <theme>truth</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Paul</gn><fn>Verhoeven</fn></director>
+     </directors>
+     <writers>
+      <writer role='story'><gn>Ronald</gn><fn>Schusett</fn></writer>
+      <writer role='story'><gn>Dan</gn><fn>O'Bannon</fn></writer>
+      <writer role='story'><gn>Jon</gn><fn>Povill</fn></writer>
+      <writer role='screenplay'><gn>Ronald</gn><fn>Shusett</fn></writer>
+      <writer role='screenplay'><gn>Dan</gn><fn>O'Bannon</fn></writer>
+      <writer role='screenplay'><gn>Gary</gn><fn>Goldman</fn></writer>
+      <sources>
+       <source>
+        <title>We Can Remember It For You Wholeswale</title>
+        <authors>
+         <author><gn>Philip</gn><mn>K</mn><fn>Dick</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Frank</gn><mn>J</mn><fn>Urioste</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Jost</gn><fn>Vacano</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Arnold</gn><fn>Schwarzenegger</fn></actor>
+       <as><gn>Quaid</gn></as>
+      </role>
+      <role>
+       <actor><gn>Rachel</gn><fn>Ticotin</fn></actor>
+       <as><gn>Melina</gn></as>
+      </role>
+      <role>
+       <actor><gn>Sharon</gn><fn>Stone</fn></actor>
+       <as><gn>Lon</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ronnie</gn><fn>Cox</fn></actor>
+       <as><fn>Cohaagen</fn></as>
+      </role>
+      <role>
+       <actor><gn>Michael</gn><fn>Ironside</fn></actor>
+       <as><fn>Richter</fn></as>
+      </role>
+      <role>
+       <actor><gn>Marshall</gn><fn>Bell</fn></actor>
+       <as><gn>George</gn></as>
+       <as><gn>Kuato</gn></as>
+      </role>
+      <role>
+       <actor><gn>Mel</gn><fn>Johnson</fn><postTitle>Jr</postTitle></actor>
+       <as><gn>Benny</gn></as>
+      </role>
+      <role>
+       <actor><gn>Priscilla</gn><fn>Allen</fn></actor>
+       <as><title>Fat Lady</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+   <xi:include href='total_excess_how_carolco_changed_hollywood-2020-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

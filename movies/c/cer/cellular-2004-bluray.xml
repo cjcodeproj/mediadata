@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Cellular</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>794043157745</barcode>
+    <barcode type='isbn'>0780693477</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Cellular</title>
+    <catalog>
+     <copyright>
+      <year>2004</year>
+      <holders>
+       <holder>LFG Film Produktions GmbH and Co. K.G.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Thriller</secondary>
+      <specific>Lone Man Hostage Rescue</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H34M1S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      <chr>Jessica</chr> is kidnapped, with no understanding of why, or what her kidnappers want. 
+      She manages to use a broken telephone and randomly calls <chr>Ryan</chr>, a complete stranger, who doesn't believe her plight at first.
+      But she can't hang up, and <chr>Ryan</chr> realizes that he could be the only thing keeping <chr>Jessica</chr> alive.
+     </plot>
+     <keywords>
+      <generic>cell phone</generic>
+      <generic relevance='4'>pulse dialing</generic>
+      <properNoun><thing>911</thing></properNoun>
+      <generic>police</generic>
+      <generic>hostage</generic>
+      <generic>corrupt cops</generic>
+      <properNoun><place><ci>Los Angeles</ci></place></properNoun>
+      <properNoun><place><ci>Santa Monica</ci></place></properNoun>
+      <properNoun><place><name>Venice Beach</name></place></properNoun>
+      <generic>murder witness</generic>
+      <generic>cellular video</generic>
+      <generic>beach</generic>
+      <generic>surfing</generic>
+      <properNoun><place><name>Santa Monica Pier</name><ci>Santa Monica</ci><st>CA</st></place></properNoun>
+     </keywords>
+     <themes>
+      <theme>fear</theme>
+      <theme>survival</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>David</gn><mn>R</mn><fn>Ellis</fn></director>
+     </directors>
+     <writers>
+      <writer role='story'><gn>Larry</gn><fn>Cohen</fn></writer>
+      <writer role='screenplay'><gn>Chris</gn><fn>Morgan</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Eric</gn><mn>A</mn><fn>Sears</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Gary</gn><fn>Capo</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Kim</gn><fn>Basinger</fn></actor>
+       <as><gn>Jessica</gn><fn>Martin</fn></as>
+      </role>
+      <role>
+       <actor><gn>Chris</gn><fn>Evans</fn></actor>
+       <as><gn>Ryan</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jason</gn><fn>Statham</fn></actor>
+       <as><gn>Ethan</gn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Burgi</fn></actor>
+       <as><gn>Craig</gn><fn>Martin</fn></as>
+      </role>
+      <role>
+       <actor><gn>William</gn><mn>H</mn><fn>Macy</fn></actor>
+       <as><preTitle>Sgt</preTitle><gn>Bob</gn><fn>Mooney</fn></as>
+      </role>
+      <role>
+       <actor><gn>Adam</gn><mn>Taylor</mn><fn>Gordon</fn></actor>
+       <as><gn>Ricky</gn><fn>Martin</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

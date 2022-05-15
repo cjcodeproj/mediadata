@@ -1,0 +1,183 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Top Gun</title>
+    <catalog>
+     <copyright>
+      <year>1986</year>
+      <holders>
+       <holder>Paramount Pictures Corporation</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Drama</secondary>
+      <specific>Fighter Pilot Adventure</specific>
+      <subgenres>
+       <subgenre>based on a magazine article</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='28069'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H49M35S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Navy pilots Maverick and Goose are sent to the Navy dogfighting school known as Top Gun,
+      in an effort to join an elite squad of fighter pilots.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><entity>US Navy</entity></properNoun>
+       <properNoun><place><name>Naval Air Station Miramar</name></place></properNoun>
+       <properNoun><place><ci>Miramar</ci><st>California</st></place></properNoun>
+       <properNoun><place><ci>San Diego</ci><st>California</st></place></properNoun>
+       <properNoun><place><name>Fightertown USA</name></place></properNoun>
+      </group>
+      <group>
+       <properNoun><thing>Navy Fighter Weaspons School</thing></properNoun>
+       <generic>dogfighting</generic>
+       <generic>trophy</generic>
+       <generic>classroom instruction</generic>
+       <generic>civilian contractor</generic>
+       <generic>security clearance</generic>
+       <generic>tower</generic>
+       <generic>flyby</generic>
+      </group>
+      <group>
+       <properNoun><thing>F-14 Tomcat</thing></properNoun>
+       <properNoun><thing>Mig-28</thing></properNoun>
+       <properNoun><thing>USS Enterprise</thing></properNoun>
+       <properNoun><thing>Pilot</thing></properNoun>
+       <properNoun><thing>Radar Intercept Officer</thing></properNoun>
+       <generic>dogfighting</generic>
+       <generic>flat spin</generic>
+       <generic>jetwash</generic>
+       <generic>ejector seat</generic>
+      </group>
+      <group>
+       <generic>volleyball</generic>
+       <generic>motorcycle</generic>
+       <generic>dinner date</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>guilt</theme>
+      <theme>arrogance</theme>
+      <theme>forgiveness</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Tony</gn><fn>Scott</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Jim</gn><fn>Cash</fn></writer>
+      <writer><gn>Jack</gn><fn>Epps</fn><postTitle>Jr.</postTitle></writer>
+      <writer uncredited='true'><gn>Warren</gn><fn>Skaaren</fn></writer>
+      <sources>
+       <source>
+        <title>Top Gun</title>
+        <authors>
+         <author><gn>Ehud</gn><fn>Yonay</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Chris</gn><fn>Lebenzon</fn></editor>
+      <editor><gn>Billy</gn><fn>Weber</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Jeffrey</gn><mn>L.</mn><fn>Kimball</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Harold</gn><fn>Faltermeyer</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>John</gn><fn>DeCuir</fn><postTitle>Jr.</postTitle></productionDesigner>
+      <artDirector><gn>Tom</gn><fn>Burzinski</fn></artDirector>
+      <setDecorator><gn>Robert</gn><mn>R.</mn><fn>Benton</fn></setDecorator>
+     </artDept>
+     <casting>
+      <director><gn>Margery</gn><fn>Simkin</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Tom</gn><fn>Cruise</fn></actor>
+       <as><preTitle>Lieutenant</preTitle><gn>Pete</gn><nick>Maverick</nick><fn>Mitchell</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kelly</gn><fn>McGillis</fn></actor>
+       <as><gn>Charlotte</gn><nick>Charlie</nick><fn>Blackwood</fn></as>
+      </role>
+      <role>
+       <actor><gn>Val</gn><fn>Kilmer</fn></actor>
+       <as><preTitle>Lieutenant</preTitle><gn>Tom</gn><nick>Iceman</nick><fn>Kazansky</fn></as>
+      </role>
+      <role>
+       <actor><gn>Anthony</gn><fn>Edwards</fn></actor>
+       <as><preTitle>Lieutenant (Junior Grade)</preTitle><gn>Nick</gn><nick>Goose</nick><fn>Bradshaw</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tom</gn><fn>Skerritt</fn></actor>
+       <as><preTitle>Commandeer</preTitle><gn>Mike</gn><nick>Viper</nick><fn>Metcalf</fn></as>
+      </role>
+      <role>
+       <actor><gn>Michael</gn><fn>Ironside</fn></actor>
+       <as><preTitle>Lieutenant Commander</preTitle><gn>Rick</gn><nick>Jester</nick><fn>Heatherly</fn></as>
+      </role>
+      <role>
+       <actor><gn>John</gn><fn>Stockwell</fn></actor>
+       <as><preTitle>Lieutenant</preTitle><gn>Bill</gn><nick>Cougar</nick><fn>Cortell</fn></as>
+      </role>
+      <role>
+       <actor><gn>Barry</gn><fn>Tubb</fn></actor>
+       <as><preTitle>Lieutenant (Junior Grade)</preTitle><gn>Henry</gn><nick>Wolfman</nick><fn>Ruth</fn></as>
+      </role>
+      <role>
+       <actor><gn>Rick</gn><fn>Rossovich</fn></actor>
+       <as><preTitle>Lieutenant (Junior Grade)</preTitle><gn>Ron</gn><nick>Slider</nick><fn>Kerner</fn></as>
+      </role>
+      <role>
+       <actor><gn>Clarence</gn><fn>Gilyard</fn><postTitle>Jr.</postTitle></actor>
+       <as><preTitle>Lieutenant (Junior Grade)</preTitle><gn>Marcus</gn><nick>Sundown</nick><fn>Williams</fn></as>
+      </role>
+      <role>
+       <actor><gn>Whip</gn><fn>Hubley</fn></actor>
+       <as><preTitle>Lieutenant</preTitle><gn>Rick</gn><nick>Hollywood</nick><fn>Neven</fn></as>
+      </role>
+      <role>
+       <actor><gn>James</gn><fn>Tolkan</fn></actor>
+       <as><preTitle>Commander</preTitle><gn>Tom</gn><nick>Stinger</nick><fn>Jardian</fn></as>
+      </role>
+      <role>
+       <actor><gn>Meg</gn><fn>Ryan</fn></actor>
+       <as><gn>Carole</gn><fn>Bradshaw</fn></as>
+      </role>
+      <role>
+       <actor><gn>Adrian</gn><fn>Pasdar</fn></actor>
+       <as><preTitle>Lieutenant</preTitle><gn>Charles</gn><nick>Chipper</nick><fn>Piper</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Rear Window</title>
+    <catalog>
+     <copyright>
+      <year>1954</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Mystery</primary>
+      <secondary>Thriller</secondary>
+      <specific>Witnessing A Murder</specific>
+      <subgenres>
+       <subgenre>classic</subgenre>
+      </subgenres>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H52M32S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A wheelchair bound photographer passes the time by peeping into the windows of his neighbors.  One night he believes he witnesses a 
+      murder, but cannot get his girlfriend, his police officer best friend, or his private nurse to beleive what he saw.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><ci>New York City</ci></place></properNoun>
+       <generic>apartment building</generic>
+       <generic>murder</generic>
+       <generic>buried body</generic>
+       <generic>camera</generic>
+       <generic>flash bulb</generic>
+       <generic>wheelchair</generic>
+       <generic>broken leg</generic>
+       <generic>amateur detective</generic>
+       <generic>trunk</generic>
+       <generic>balcony</generic>
+       <generic>fire escape</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>voyeurism</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Alfred</gn><fn>Hitchcock</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>John</gn><mn>Michael</mn><fn>Hayes</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>George</gn><fn>Tomasini</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Robert</gn><fn>Burks</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>James</gn><fn>Stewart</fn></actor>
+       <as><gn>L.B.</gn><fn>Jefferies</fn></as>
+      </role>
+      <role>
+       <actor><gn>Grace</gn><fn>Kelly</fn></actor>
+       <as><gn>Lisa</gn><fn>Fremont</fn></as>
+      </role>
+      <role>
+       <actor><gn>Wendell</gn><fn>Corey</fn></actor>
+       <as><gn>Tom</gn><fn>Doyle</fn></as>
+      </role>
+      <role>
+       <actor><gn>Thelma</gn><fn>Ritter</fn></actor>
+       <as><gn>Stella</gn></as>
+      </role>
+      <role>
+       <actor><gn>Raymond</gn><fn>Burr</fn></actor>
+       <as><gn>Lars</gn><fn>Thorwald</fn></as>
+      </role>
+      <role>
+       <actor><gn>Judith</gn><fn>Evelyn</fn></actor>
+       <as><preTitle>Miss</preTitle><fn>Lonelyhearts</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ross</gn><fn>Bagdasarian</fn></actor>
+       <as><title>Songwriter</title></as>
+      </role>
+      <role>
+       <actor><gn>Georgine</gn><fn>Darcy</fn></actor>
+       <as><preTitle>Miss</preTitle><fn>Torso</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

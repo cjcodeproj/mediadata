@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The Mean Season</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Olive Films</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>887090101806</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Mean Season</title>
+    <catalog>
+     <copyright>
+      <year>1985</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Thriller</primary>
+      <specific>Reporter Tracks Killer</specific>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+      </subgenres>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H44M09S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A Miami news reporter is reporting on a series of murders, when the killer suddenly reaches out to give him exclusive information.
+     </plot>
+     <keywords>
+      <generic>serial killer</generic>
+      <generic>reporter</generic>
+      <generic>newspaper</generic>
+      <properNoun><place><ci>Miami</ci></place></properNoun>
+     </keywords>
+     <themes>
+      <theme>hubris</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Phillip</gn><fn>Borsos</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Christopher</gn><fn>Crowe</fn></writer>
+      <sources>
+       <source>
+        <title>In The Heat Of The Summer</title>
+        <authors>
+         <author><gn>John</gn><fn>Katzenbach</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Duwayne</gn><fn>Dunham</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Frank</gn><fn>Tidy</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Kurt</gn><fn>Russell</fn></actor>
+       <as><gn>Malcom</gn><fn>Anderson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Mariel</gn><fn>Hemmingway</fn></actor>
+       <as><gn>Christine</gn><fn>Connelly</fn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Jordan</fn></actor>
+       <as><gn>Alan</gn><fn>Delour</fn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Masur</fn></actor>
+       <as><gn>Bill</gn><fn>Nolan</fn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Bradford</fn></actor>
+       <as><gn>Phil</gn><fn>Wilson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Joe</gn><fn>Pantoliano</fn></actor>
+       <as><gn>Andy</gn><fn>Porter</fn></as>
+      </role>
+      <role>
+       <actor><gn>Andy</gn><fn>Garcia</fn></actor>
+       <as><gn>Ray</gn><fn>Martinez</fn></as>
+      </role>
+      <role>
+       <actor><gn>Rose</gn><fn>Portillo</fn></actor>
+       <as><gn>Kathy</gn><fn>Vasquez</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

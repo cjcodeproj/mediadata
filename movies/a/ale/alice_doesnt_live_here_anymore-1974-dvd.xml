@@ -1,0 +1,180 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Alice Doesn't Live Here Anymore</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>085391912125</barcode>
+    <barcode type='isbn' scanlines='false'>0-7909-5832-6</barcode>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>19121A</value>
+     <value>19121B</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Alice Doesn't Live Here Anymore</title>
+    <catalog>
+     <copyright>
+      <year>1974</year>
+      <holders>
+       <holder>Warner Bros., Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <specific>Widow Moves On</specific>
+     </genres>
+     <certifications>
+      <certificate ref='24062'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H51M59S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A widow and her kid start a long journey to Monterey, California in order to rebuild her singing career.  Along the way they find
+      cheap motels, hot deserts, and very weird characters.
+     </plot>
+     <keywords>
+      <group>
+       <generic>widow</generic>
+       <generic>single mother</generic>
+       <generic>funeral</generic>
+       <generic>garage sale</generic>
+       <generic>road trip</generic>
+       <generic>cheap motels</generic>
+       <generic>station wagon</generic>
+      </group>
+      <group>
+       <properNoun><place><ci>Socorro</ci><st>New Mexico</st></place></properNoun>
+       <properNoun><place><ci>Phoenix</ci><st>Arizona</st></place></properNoun>
+       <properNoun><place><ci>Tuscon</ci><st>Arizona</st></place></properNoun>
+       <properNoun><place><ci>Monterey</ci><st>California</st></place></properNoun>
+      </group>
+      <group>
+       <generic>singing</generic>
+       <generic>singing career</generic>
+       <generic>piano bar</generic>
+       <generic>diner</generic>
+       <generic>waitress</generic>
+       <generic>waitressing</generic>
+       <generic>country music</generic>
+       <generic>rock music</generic>
+      </group>
+      <group>
+       <generic>affair</generic>
+       <generic>abusive boyfriend</generic>
+       <generic>dating</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>self-discovery</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Martin</gn><fn>Scorsese</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Robert</gn><fn>Gretchell</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Marcia</gn><fn>Lucas</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Kent</gn><mn>L</mn><fn>Wakeford</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <casting>
+      <casting uncredited='true'><gn>Frank</gn><fn>Kennedy</fn></casting>
+      <casting uncredited='true'><gn>Jim</gn><fn>Martell</fn></casting>
+      <casting uncredited='true'><gn>Barbara</gn><fn>Miller</fn></casting>
+      <casting uncredited='true'><gn>Alan</gn><fn>Shayne</fn></casting>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Ellen</gn><fn>Burstyn</fn></actor>
+       <as><gn>Alice</gn><fn>Hyatt</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kris</gn><fn>Kristofferson</fn></actor>
+       <as><gn>David</gn></as>
+      </role>
+      <role>
+       <actor><gn>Mia</gn><fn>Bendixsen</fn></actor>
+       <as><gn>Alice</gn><variant>age 8</variant></as>
+      </role>
+      <role>
+       <actor><gn>Alfred</gn><fn>Lutter</fn><postTitle>III</postTitle></actor>
+       <as><gn>Tommy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Billy</gn><fn>Green Bush</fn></actor>
+       <as><gn>Donald</gn></as>
+      </role>
+      <role>
+       <actor><gn>Lelia</gn><fn>Goldoni</fn></actor>
+       <as><gn>Bea</gn></as>
+      </role>
+      <role>
+       <actor><gn>Harvey</gn><fn>Keitel</fn></actor>
+       <as><gn>Ben</gn></as>
+      </role>
+      <role>
+       <actor><gn>Lane</gn><fn>Bradbury</fn></actor>
+       <as><gn>Rita</gn></as>
+      </role>
+      <role>
+       <actor><gn>Diane</gn><fn>Ladd</fn></actor>
+       <as><gn>Flo</gn></as>
+      </role>
+      <role>
+       <actor><gn>Vic</gn><fn>Tayback</fn></actor>
+       <as><gn>Mel</gn></as>
+      </role>
+      <role>
+       <actor><gn>Valerie</gn><fn>Curtin</fn></actor>
+       <as><gn>Vera</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jodie</gn><fn>Foster</fn></actor>
+       <as><gn>Audrey</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

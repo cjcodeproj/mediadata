@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The Legend Of Billie Jean</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>043396391925</barcode>
+    <sku retailer='amzn'>63177632596</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case slipcover='true'>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='the_legend_of_billie_jean-1985-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Sharky's Machine</title>
+    <catalog>
+     <copyright>
+      <year>1981</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Drama</secondary>
+      <specific>Vice Investigation</specific>
+      <subgenres>
+       <subgenre>based on a novel</subgenre>
+      </subgenres>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT02H01M43S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A vice detective working seedy prostitution cases stumbles upon 
+      a larger murder conspiracy.  In order to bring the bad guys down
+      he assembles a group of fellow misfit vice detectives and a call
+      girl that has inside information.
+     </plot>
+     <keywords>
+      <group>
+       <generic>vice</generic>
+       <generic>homicide</generic>
+       <generic>conspiracy</generic>
+      </group>
+     </keywords>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Burt</gn><fn>Reynolds</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Gerald</gn><fn>Di Pego</fn></writer>
+      <sources>
+       <source>
+        <title>Sharky's Machine</title>
+        <authors>
+         <author><gn>William</gn><fn>Diehl</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>William</gn><mn>D</mn><fn>Gordean</fn></editor>
+      <editor><gn>Dennis</gn><fn>Virkler</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>William</gn><mn>A</mn><fn>Fraker</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Burt</gn><fn>Reynolds</fn></actor>
+       <as><fn>Sharky</fn></as>
+      </role>
+      <role>
+       <actor><gn>Rachel</gn><fn>Ward</fn></actor>
+       <as><gn>Dominoe</gn></as>
+      </role>
+      <role>
+       <actor><gn>Vittorio</gn><fn>Gassman</fn></actor>
+       <as><gn>Victor</gn></as>
+      </role>
+      <role>
+       <actor><gn>Brian</gn><fn>Keith</fn></actor>
+       <as><fn>Papa</fn></as>
+      </role>
+      <role>
+       <actor><gn>Earl</gn><fn>Holliman</fn></actor>
+       <as><fn>Hotchkins</fn></as>
+      </role>
+      <role>
+       <actor><gn>Charles</gn><fn>Durning</fn></actor>
+       <as><gn>Friscoe</gn></as>
+      </role>
+      <role>
+       <actor><gn>Bernie</gn><fn>Casey</fn></actor>
+       <as><fn>Arch</fn></as>
+      </role>
+      <role>
+       <actor><gn>Henry</gn><fn>Silva</fn></actor>
+       <as><gn>Billy</gn><fn>Score</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

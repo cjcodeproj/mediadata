@@ -1,0 +1,142 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Rampage</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>883929623457</barcode>
+    <sku retailer='bby'>6251756</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case slipcover='false'>
+      <ultrahd/>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Rampage</title>
+    <catalog>
+     <copyright>
+      <year>2018</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Sci-Fi</secondary>
+      <specific>Gigantic Monsters</specific>
+      <subgenres>
+       <subgenre>based on a video game</subgenre>
+      </subgenres>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H47M16S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A primatologist discovers that his favorite gorilla has been exposed to a dangerous chemical, causing him to
+      grow to a gigantic size.  He tracks down the gorilla with the help of a genetic scientist and a government agent
+      who is tracking other animals that all seem to be converging together in Chicago.
+     </plot>
+     <keywords>
+      <properNoun><thing>Ford Bronco</thing></properNoun>
+      <group>
+       <properNoun><place><ci>San Diego</ci><st>California</st></place></properNoun>
+       <properNoun><place><ci>Chicago</ci><st>Illinois</st></place></properNoun>
+       <properNoun><place><st>Wyoming</st></place></properNoun>
+      </group>
+      <group>
+       <generic>genetic manipulation</generic>
+       <generic>mutation</generic>
+      </group>
+      <group>
+       <generic>gorilla</generic>
+       <generic>lizard</generic>
+       <generic>wolf</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>fear</theme>
+      <theme>loss of control</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Brad</gn><fn>Peyton</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Ryan</gn><fn>Engle</fn></writer>
+      <writer role='screenplay'><gn>Carlton</gn><fn>Cuse</fn></writer>
+      <writer role='screenplay'><gn>Ryan</gn><mn>J</mn><fn>Condal</fn></writer>
+      <writer role='screenplay'><gn>Adam</gn><fn>Sztykiel</fn></writer>
+      <writer role='story'><gn>Ryan</gn><fn>Engle</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Bob</gn><fn>DUcsay</fn></editor>
+      <editor><gn>Jim</gn><fn>May</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Jaron</gn><fn>Presant</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Dwayne</gn><fn>Johnson</fn></actor>
+       <as><gn>Davis</gn><fn>Okoye</fn></as>
+      </role>
+      <role>
+       <actor><gn>Naomie</gn><fn>Harris</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Kate</gn><fn>Caldwell</fn></as>
+      </role>
+      <role>
+       <actor><gn>Malin</gn><fn>Akerman</fn></actor>
+       <as><gn>Claire</gn><fn>Wyden</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jeffrey</gn><mn>Dean</mn><fn>Morgan</fn></actor>
+       <as><gn>Harvey</gn><fn>Russell</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jake</gn><fn>Laxy</fn></actor>
+       <as><gn>Brett</gn><fn>Wyden</fn></as>
+      </role>
+      <role>
+       <actor><gn>Joe</gn><fn>Manganiello</fn></actor>
+       <as><fn>Burke</fn></as>
+      </role>
+      <role>
+       <actor><gn>Marley</gn><fn>Shelton</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Kerry</gn><fn>Atkins</fn></as>
+      </role>
+      <role>
+       <actor><gn>P</gn><mn>J</mn><fn>Byrne</fn></actor>
+       <as><fn>Nelson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Demetrius</gn><fn>Grosse</fn></actor>
+       <as><preTitle>Colonel</preTitle><fn>Blake</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

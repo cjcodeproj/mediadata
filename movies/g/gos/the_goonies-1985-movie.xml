@@ -1,0 +1,157 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Goonies</title>
+    <catalog>
+     <copyright>
+      <year>1985</year>
+      <holders>
+       <holder>Warner Bros, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Adventure</primary>
+      <secondary>Action</secondary>
+      <specific>Kids On Bikes Adventure</specific>
+      <subgenres>
+       <subgenre>blockbuster</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='27802'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H53M58S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Seven kids from a small town go on an adventure to find a pirate's treasure, all while avoiding
+      dangerous booby traps, and a trio of criminals that want the treasure for themselves.
+     </plot>
+     <keywords>
+      <group>
+       <generic>treasure map</generic>
+       <generic>pirate treasure</generic>
+       <generic>pirate ship</generic>
+       <generic>treasure</generic>
+      </group>
+      <properNoun><place><ci>Astoria</ci><st>Oregon</st></place></properNoun>
+      <group>
+       <generic>bank robbery</generic>
+       <generic>prison break</generic>
+       <generic>counterfeiting</generic>
+       <generic>interrogation</generic>
+      </group>
+      <group>
+       <generic>bikes</generic>
+       <generic>spy gadgets</generic>
+      </group>
+      <group>
+       <generic>dating</generic>
+       <generic>first kiss</generic>
+       <generic>class differences</generic>
+       <generic>moving</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>friendship</theme>
+      <theme>loyalty</theme>
+      <theme>faith</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Richard</gn><fn>Donner</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Chris</gn><fn>Columbus</fn></writer>
+      <writer role='story'><gn>Steven</gn><fn>Stielberg</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Michael</gn><fn>Kahn</fn></editor>
+      <editor><gn>Steven</gn><fn>Spielberg</fn></editor> <!-- uncredited -->
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Nick</gn><fn>McLean</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Sean</gn><fn>Astin</fn></actor>
+       <as><gn>Mikey</gn></as>
+      </role>
+      <role>
+       <actor><gn>Josh</gn><fn>Brolin</fn></actor>
+       <as><gn>Brand</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jeff</gn><fn>Cohen</fn></actor>
+       <as><nick>Chunk</nick></as>
+      </role>
+      <role>
+       <actor><gn>Corey</gn><fn>Feldman</fn></actor>
+       <as><nick>Mouth</nick></as>
+      </role>
+      <role>
+       <actor><gn>Ke Huy</gn><fn>Quan</fn></actor>
+       <as><nick>Data</nick></as>
+      </role>
+      <role>
+       <actor><gn>Kerri</gn><fn>Green</fn></actor>
+       <as><gn>Andy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Martha</gn><fn>Plimpton</fn></actor>
+       <as><gn>Stef</gn></as>
+      </role>
+      <role>
+       <actor><gn>John</gn><fn>Matuszak</fn></actor>
+       <as><gn>Sloth</gn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Davi</fn></actor>
+       <as><gn>Jake</gn></as>
+      </role>
+      <role>
+       <actor><gn>Joe</gn><fn>Pantoliano</fn></actor>
+       <as><gn>Francis</gn></as>
+      </role>
+      <role>
+       <actor><gn>Anne</gn><fn>Ramsey</fn></actor>
+       <as><nick>Mama</nick><fn>Fratelli</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lupe</gn><fn>Ontiveros</fn></actor>
+       <as><gn>Rosalita</gn></as>
+      </role>
+      <role>
+       <actor><gn>Mary</gn><mn>Ellen</mn><fn>Trainor</fn></actor>
+       <as><preTitle>Mrs.</preTitle><fn>Walsh</fn></as>
+      </role>
+      <role>
+       <actor><gn>Keith</gn><fn>Walker</fn></actor>
+       <as><preTitle>Mr.</preTitle><fn>Walsh</fn></as>
+      </role>
+      <role>
+       <actor><gn>Steve</gn><fn>Antin</fn></actor>
+       <as><gn>Troy</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

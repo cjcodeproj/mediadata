@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The Wizard</main>
+   <edition>Collector's Edition</edition>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Shout Factory</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>826663203950</barcode>
+    <other>
+     <name>Shout Select Spine Number</name>
+     <value>102</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case slipcover='true'>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='the_wizard-1989-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

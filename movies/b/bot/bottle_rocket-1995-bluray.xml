@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Bottle Rocket</main>
+   <edition>The Criterion Collection</edition>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Criterion</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>915515033428</barcode>
+    <other>
+     <name>Criterion Spine Number</name>
+     <value>450</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+      <booklet/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Bottle Rocket</title>
+    <catalog>
+     <copyright>
+      <year>1995</year>
+      <holders>
+       <holder>Columbia Pictures Industries, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Sci-Fi</secondary>
+      <specific>Weird Movie</specific>
+     </genres>
+     <certifications>
+      <certificate ref='33597'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H31M31S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Three bored friends embark on a life of crime by comitting simple robberies.  
+      As their experience grows, they slowly get more overconfident, and 
+      their mistakes become harder to manage.
+     </plot>
+     <keywords>
+      <group>
+       <generic>robbery</generic>
+       <generic>heist</generic>
+       <generic>house robbery</generic>
+       <generic>getaway car</generic>
+       <generic>handgun</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>lack of direction</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Wes</gn><fn>Anderson</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Owen</gn><fn>Wilson</fn></writer>
+      <writer><gn>Wes</gn><fn>Anderson</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>David</gn><fn>Moritz</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Robert</gn><mn>D</mn><fn>Yoeman</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Luke</gn><fn>Wilson</fn></actor>
+       <as><gn>Anthony</gn><fn>Adams</fn></as>
+      </role>
+      <role>
+       <actor><gn>Owen</gn><fn>Wilson</fn></actor>
+       <as><gn>Dignan</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ned</gn><fn>Dowd</fn></actor>
+       <as><preTitle>Dr</preTitle><fn>Nichols</fn></as>
+      </role>
+      <role>
+       <actor><gn>Shea</gn><fn>Fowler</fn></actor>
+       <as><gn>Grace</gn></as>
+      </role>
+      <role>
+       <actor><gn>Haley</gn><fn>Miller</fn></actor>
+       <as><gn>Bernice</gn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Musgrave</fn></actor>
+       <as><gn>Bob</gn><fn>Maplethorpe</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

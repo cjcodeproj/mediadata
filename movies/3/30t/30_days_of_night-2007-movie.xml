@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>30 Days Of Night</title>
+    <catalog>
+     <altTitles>
+      <variantTitle sortable='true'>Thirty Days Of Night</variantTitle>
+     </altTitles>
+     <copyright>
+      <year>2007</year>
+      <holders>
+       <holder>Columbia Pictures Industries, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Horror</secondary>
+      <specific>Vampire Attack</specific>
+      <subgenres>
+       <subgenre>based on a comic</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='42767'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H53M05S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Vampires attack an Alaskan town where the dark winter benefits them.  The
+      Sheriff helps a ragtag group of survivors hold out for the next month
+      in the hopes that daylight will make the vampires go away.
+     </plot>
+     <keywords>
+      <group relevance='2'>
+      <properNoun><place><ci>Barrow</ci><st>Alaska</st></place></properNoun>
+      <generic>vampires</generic>
+      <generic>sheriff</generic>
+      </group>
+      <group>
+       <generic>winter</generic>
+       <generic>snow</generic>
+       <generic>blizzard</generic>
+       <generic>cold</generic>
+       <generic>jail</generic>
+       <generic>snowplow</generic>
+       <generic>power plant</generic>
+       <generic>blood</generic>
+       <generic>grow lamps</generic>
+       <generic>satellite phones</generic>
+       <generic>hiding</generic>
+       <generic>attic</generic>
+       <generic>oil pipeline</generic>
+       <generic>airport</generic>
+       <generic>airplane</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>survival</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>David</gn><fn>Slade</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Steve</gn><fn>Niles</fn></writer>
+      <writer><gn>Stuart</gn><fn>Beattle</fn></writer>
+      <writer><gn>Brian</gn><fn>Nelson</fn></writer>
+      <sources>
+       <source>
+        <title>30 Days Of Night</title>
+        <authors>
+         <author><gn>Steve</gn><fn>Niles</fn></author>
+         <author><gn>Ben</gn><fn>Templesmith</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Art</gn><fn>Jones</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Jo</gn><fn>Willems</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Josh</gn><fn>Hartnett</fn></actor>
+       <as><gn>Eben</gn><fn>Oleson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Melissa</gn><fn>George</fn></actor>
+       <as><gn>Stella</gn><fn>Oleson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Danny</gn><fn>Huston</fn></actor>
+       <as><fn>Marlow</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ben</gn><fn>Foster</fn></actor>
+       <as><title>The Stranger</title></as>
+      </role>
+      <role>
+       <actor><gn>Mark</gn><fn>Boone</fn><postTitle>Junior</postTitle></actor>
+       <as><gn>Beau</gn><fn>Brower</fn></as>
+      </role>
+      <role>
+       <actor><gn>Mark</gn><fn>Rendall</fn></actor>
+       <as><gn>Jake</gn><fn>Oleson</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

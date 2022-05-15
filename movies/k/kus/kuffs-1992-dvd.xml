@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Kuffs</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>025192356629</barcode>
+    <barcode type='isbn' scanlines='false'>0-7832-9151-5</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='kuffs-1992-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

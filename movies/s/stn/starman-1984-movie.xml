@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Starman</title>
+    <catalog>
+     <copyright>
+      <year>1984</year>
+      <holders>
+       <holder>Columbia Pictures Industries</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Sci-Fi</primary>
+      <specific>Alien Trapped On Earth</specific>
+     </genres>
+     <certifications>
+      <certificate ref='27562'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H54M58S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An alien explorer crash lands on Earth and encounters a lonely widow.  He takes on the form of the widow's dead husband, and 
+      forces her to drive to a rendevous point where he can be picked up by others of his kind.  While crossing the country, the alien 
+      is exposed to human culture and slowly learns to adapts while also avoiding the government authorities on their trail.
+     </plot>
+     <keywords>
+      <group>
+       <generic>alient</generic>
+       <generic>extra-terrestrial</generic>
+       <generic>space ship</generic>
+       <properNoun><entity>SETI</entity></properNoun>
+      </group>
+      <group>
+       <generic>road trip</generic>
+       <generic>kidnapping</generic>
+       <generic>diner</generic>
+       <generic>truck stop</generic>
+       <generic>bus stop</generic>
+       <generic>gas station</generic>
+      </group>
+      <group>
+       <properNoun><place><st>Wisconsin</st></place></properNoun>
+       <properNoun><place><st>Arizona</st></place></properNoun>
+       <properNoun><place><name>Meteor Crater</name><st>Arizona</st></place></properNoun>
+       <properNoun><place><ci>Las Vegas</ci><st>Nevada</st></place></properNoun>
+      </group>
+      <group>
+       <properNoun><thing>Ford Mustang</thing></properNoun>
+       <generic>helicopter</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>love</theme>
+      <theme>grief</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>John</gn><fn>Carptenter</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Bruce</gn><mn>A.</mn><fn>Evans</fn></writer>
+      <writer><gn>Raynold</gn><fn>Gideon</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Marion</gn><fn>Rothman</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Donald</gn><mn>M.</mn><fn>Morgan</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Jeff</gn><fn>Bridges</fn></actor>
+       <as><title>Starman</title></as>
+      </role>
+      <role>
+       <actor><gn>Karen</gn><fn>Allen</fn></actor>
+       <as><gn>Jennifer</gn><fn>Hayden</fn></as>
+      </role>
+      <role>
+       <actor><gn>Charles</gn><mn>Martin</mn><fn>Smith</fn></actor>
+       <as><gn>Mark</gn><fn>Shermin</fn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Jaeckel</fn></actor>
+       <as><gn>George</gn><fn>Fox</fn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Phalen</fn></actor>
+       <as><preTitle>Major</preTitle><fn>Bell</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tony</gn><fn>Edwards</fn></actor>
+       <as><preTitle>Sergeant</preTitle><fn>Lemon</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

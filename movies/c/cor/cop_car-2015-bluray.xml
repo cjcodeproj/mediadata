@@ -1,0 +1,157 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Cop Car</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>021592301971</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case slipcover='true'>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Cop Car</title>
+    <catalog>
+     <copyright>
+      <year>2015</year>
+      <holders>
+       <holder>Cop Car LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Thriller</primary>
+      <specific>Kids Find Cop Car</specific>
+     </genres>
+     <certifications>
+      <certificate ref='49267'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H27M57S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Two kids discover a police car in a field and take it for a joy-ride, not knowing that the local sheriff 
+      was using the vehicle to commit a major crime.
+     </plot>
+     <keywords>
+      <group>
+       <generic>farm fields</generic>
+       <generic>rural area</generic>
+       <generic>small town</generic>
+       <generic>chinese restaurant</generic>
+       <generic>dirt roads</generic>
+       <generic>cattle gate</generic>
+       <generic>exurb</generic>
+       <generic>trailer park</generic>
+      </group>
+      <group>
+       <generic>cop car</generic>
+       <generic>sheriff</generic>
+       <generic>eyewitness</generic>
+       <generic>riflle</generic>
+       <generic>shotgun</generic>
+       <generic>gun</generic>
+       <generic>defribulator</generic>
+       <generic>police radio</generic>
+       <generic>dispatcher</generic>
+       <properNoun><thing>Ford Crown Victoria</thing></properNoun>
+      </group>
+      <group>
+       <generic>cocaine</generic>
+       <generic>cash stash</generic>
+       <generic>fake ids</generic>
+       <generic>gold ingot</generic>
+       <generic>dead body</generic>
+       <generic>ambush</generic>
+       <generic>corrupt cop</generic>
+       <generic>gunshot</generic>
+       <generic>stolen vehicle</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>innocence</theme>
+      <theme>corruption</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Jon</gn><fn>Watts</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Jon</gn><fn>Watts</fn></writer>
+      <writer><gn>Christopher</gn><fn>Ford</fn></writer>
+      <writer><gn>Kaden</gn><fn>Selvidge</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Megan</gn><fn>Brooks</fn></editor>
+      <editor><gn>Andrew</gn><fn>Hasse</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Matthew</gn><mn>J</mn><fn>Lloyd</fn></cinemaphotographer>
+      <cinemaphotographer><gn>Larkin</gn><fn>Seiple</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Kevin</gn><fn>Bacon</fn></actor>
+       <as><preTitle>Sheriff</preTitle><fn>Kretzer</fn></as>
+      </role>
+      <role>
+       <actor><gn>James</gn><fn>Freedson-Jackson</fn></actor>
+       <as><gn>Travis</gn></as>
+      </role>
+      <role>
+       <actor><gn>Hays</gn><fn>Wellford</fn></actor>
+       <as><gn>Harrison</gn></as>
+      </role>
+      <role>
+       <actor><gn>Camryn</gn><fn>Manheim</fn></actor>
+       <as><gn>Bev</gn></as>
+      </role>
+      <role>
+       <actor><gn>Shea</gn><fn>Whigham</fn></actor>
+       <as><title>Man</title></as>
+      </role>
+      <role>
+       <actor><gn>Sean</gn><fn>Hartley</fn></actor>
+       <as><title>Motorcycle Cop</title></as>
+      </role>
+      <role>
+       <actor><gn>Kyra</gn><fn>Sedgwick</fn></actor>
+       <as><title>Dispatch</title><variant>voice</variant></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

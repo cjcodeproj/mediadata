@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Wizard</title>
+    <catalog>
+     <copyright>
+      <year>1989</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Adventure</primary>
+      <secondary>Comedy</secondary>
+      <specific>80s Video Game Adventure</specific>
+     </genres>
+     <certifications>
+      <certificate ref=''>
+       <rating code='PH'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H40M10S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      <chr>Corey</chr>, <chr>Jimmy</chr>, and <chr>Haley</chr> run away from their homes and 
+      start a cross-country adventure.  Their goal
+      is to make it to California, where <chr>Jimmy</chr> will enter a video game contest, and win the 
+      $50,000 prize in the hopes it will make all their lives better.  But in order to get there, 
+      they have to avoid their parents, swindlers, bullies, and a crazed detective.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><st>Utah</st></place></properNoun>
+       <properNoun><place><st>California</st></place></properNoun>
+       <properNoun><place><ci>Reno</ci><st>NV</st></place></properNoun>
+       <properNoun><place><name>Universal City Studios</name></place></properNoun>
+      </group>
+      <group>
+       <generic>skateboards</generic>
+       <generic>hitchhiking</generic>
+       <generic>glambling</generic>
+       <generic>hustling</generic>
+       <generic>18 wheeler</generic>
+       <generic>trucker</generic>
+       <generic>drive-in movie theater</generic>
+      </group>
+      <group>
+       <generic>video games</generic>
+       <properNoun><entity>Nintendo</entity></properNoun>
+       <properNoun><thing>Nintendo Entertainment System</thing></properNoun>
+       <properNoun><thing>Power Glove</thing></properNoun>
+       <properNoun><thing>Nintendo Power Magazine</thing></properNoun>
+       <properNoun><thing>The Legend Of Zelda</thing></properNoun>
+       <properNoun><thing>Teenage Mutant Ninga Turtles</thing></properNoun>
+       <properNoun><thing>Ninja Gaiden</thing></properNoun>
+       <properNoun><thing>Double Dragon</thing></properNoun>
+       <generic>video game contest</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>loss</theme>
+      <theme>rebellion</theme>
+      <theme>latchkey kids</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Todd</gn><fn>Holland</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>David</gn><fn>Chisolm</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Tom</gn><fn>Finan</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Robert</gn><mn>D</mn><fn>Yeoman</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Fred</gn><fn>Savage</fn></actor>
+       <as><gn>Corey</gn><fn>Woods</fn></as>
+      </role>
+      <role>
+       <actor><gn>Luke</gn><fn>Edwards</fn></actor>
+       <as><gn>Jimmy</gn><fn>Woods</fn></as>
+       <as><gn>The Wizard</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jenny</gn><fn>Lewis</fn></actor>
+       <as><gn>Haley</gn></as>
+      </role>
+      <role>
+       <actor><gn>Christian</gn><fn>Slater</fn></actor>
+       <as><gn>Nick</gn><fn>Woods</fn></as>
+      </role>
+      <role>
+       <actor><gn>Beau</gn><fn>Bridges</fn></actor>
+       <as><gn>Sam</gn><fn>Woods</fn></as>
+      </role>
+      <role>
+       <actor><gn>Will</gn><fn>Seltzer</fn></actor>
+       <as><fn>Putnam</fn></as>
+      </role>
+      <role>
+       <actor><gn>Wendy</gn><fn>Phillips</fn></actor>
+       <as><gn>Christine</gn><fn>Bateman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Sam</gn><fn>McMurray</fn></actor>
+       <as><fn>Bateman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Beth</gn><fn>Grant</fn></actor>
+       <as><title>Diner Manager</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

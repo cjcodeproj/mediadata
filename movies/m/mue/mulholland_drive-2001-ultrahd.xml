@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Mulholland Drive</main>
+   <edition>The Criterion Collection</edition>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+    <publisher>Criterion</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>715515265812</barcode>
+    <sku retailer='bned'>0715515265812</sku>
+    <other>
+     <name>Criterion Spine Number</name>
+     <value>779</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='mulholland_drive-2001-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

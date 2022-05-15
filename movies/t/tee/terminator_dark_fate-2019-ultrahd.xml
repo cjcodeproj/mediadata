@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>Terminator: Dark Fate</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>032429334084</barcode>
+    <sku retailer='tgt'>058378853</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <foldcase>
+      <ultrahd/>
+      <bluray/>
+      <codesheet/>
+     </foldcase>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Terminator: Dark Fate</title>
+    <catalog>
+     <copyright>
+      <year>2019</year>
+      <holders>
+       <holder>Skydance Productions, LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Sci-Fi</primary>
+      <secondary>Action</secondary>
+      <specific>Prevent Dystopian Future</specific>
+     </genres>
+     <certifications>
+      <certificate ref='52317'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H8M5S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <logline>Sarah Connor must save a new hero in the upcoming robot apocalypse.</logline>
+     <plot>
+      <chr>Sarah Connor</chr> works to protect <chr>Dani Ramos</chr> who is destined to become 
+      a here in the future robot apocalypse.  She is joined by <chr>Grace</chr>, a cyborg from the 
+      future who works for the resistance.
+     </plot>
+     <keywords>
+      <generic>robots</generic>
+      <generic>nuclear war</generic>
+      <generic>artificial intelligence</generic>
+      <generic>time travel</generic>
+     </keywords>
+     <themes>
+      <theme>fate</theme>
+      <theme>destiny</theme>
+      <theme>free will</theme>
+      <theme>survival</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Tim</gn><fn>Miller</fn></director>
+     </directors>
+     <writers>
+      <writer role='story'><gn>James</gn><fn>Camerton</fn></writer>
+      <writer role='story'><gn>Charles</gn><mn>H</mn><fn>Eglee</fn></writer>
+      <writer role='story'><gn>Josh</gn><fn>Friedman</fn></writer>
+      <writer role='story'><gn>David</gn><mn>S</mn><fn>Goyer</fn></writer>
+      <writer role='story'><gn>Justin</gn><fn>Rhodes</fn></writer>
+      <writer role='screenplay'><gn>David</gn><mn>s</mn><fn>Goyer</fn></writer>
+      <writer role='screenplay'><gn>Justin</gn><fn>Rhodes</fn></writer>
+      <writer role='screenplay'><gn>Billy</gn><fn>Ray</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Julian</gn><fn>Clarke</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Ken</gn><fn>Seng</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Linda</gn><fn>Hamilton</fn></actor>
+       <as><gn>Sarah</gn><fn>Connor</fn></as>
+      </role>
+      <role>
+       <actor><gn>Arnold</gn><fn>Schwarzenegger</fn></actor>
+       <as><gn>T-800</gn></as>
+       <as><gn>Carl</gn></as>
+      </role>
+      <role>
+       <actor><gn>Mackenzie</gn><fn>Davis</fn></actor>
+       <as><gn>Grace</gn></as>
+      </role>
+      <role>
+       <actor><gn>Natalia</gn><fn>Reyes</fn></actor>
+       <as><gn>Dani</gn><fn>Ramos</fn></as>
+      </role>
+      <role>
+       <actor><gn>Gabriel</gn><fn>Luna</fn></actor>
+       <as><gn>Gabriel</gn></as>
+       <as><gn>REV-9</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

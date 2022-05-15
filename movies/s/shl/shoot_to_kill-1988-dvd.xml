@@ -1,0 +1,177 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>Shoot To Kill</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>717951005564</barcode>
+    <sku retailer='amzn'>B00008L3UQ</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Shoot To Kill</title>
+    <catalog>
+     <copyright>
+      <year>1988</year>
+      <holders>
+       <holder>Touchstone Pictures</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Thriller</primary>
+      <secondary>Action</secondary>
+      <specific>Cop vs Bad Guy</specific>
+     </genres>
+     <certifications>
+      <certificate ref='28897'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H49M36S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      FBI Agent <chr>Warren Stantin</chr> must do everything possible to track down a ruthless killer, 
+      who has managed to infiltrade an unsuspecting group of outdoorsmen who are hiking the mountains 
+      near the Canadian border.  He is joined by <chr>Jonathan Knox</chr>, an outdoor guide who will 
+      do everything he can to protect his girlfriend who is leading the hikers.
+     </plot>
+     <keywords>
+      <generic>mistaken identity</generic>
+      <generic>wilderness</generic>
+      <generic>manhunt</generic>
+      <generic>mountain</generic>
+      <generic>sniper</generic>
+      <generic>bear</generic>
+     </keywords>
+     <themes>
+      <theme>survival</theme>
+      <theme>pursuit of justice</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Roger</gn><fn>Spottiswoode</fn></director>
+     </directors>
+     <writers>
+      <writer role='story'><gn>Harv</gn><fn>Zimmel</fn></writer>
+      <writer role='screenplay'><gn>Harv</gn><fn>Zimmel</fn></writer>
+      <writer role='screenplay'><gn>Michael</gn><fn>Burton</fn></writer>
+      <writer role='screenplay'><gn>Daniel</gn><fn>Petrie</fn><postTitle>Jr</postTitle></writer>
+     </writers>
+     <editors>
+      <editor><gn>George</gn><fn>Bowers</fn></editor>
+      <editor><gn>Garth</gn><fn>Craven</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Michael</gn><fn>Chapman</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Sidney</gn><fn>Poitier</fn></actor>
+       <as><gn>Warren</gn><fn>Stantin</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tom</gn><fn>Berenger</fn></actor>
+       <as><gn>Jonathan</gn><fn>Knox</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kirstie</gn><fn>Alley</fn></actor>
+       <as><gn>Sarah</gn><fn>Rennell</fn></as>
+      </role>
+      <role>
+       <actor><gn>Clancy</gn><fn>Brown</fn></actor>
+       <as><gn>Steve</gn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Maser</fn></actor>
+       <as><gn>Norman</gn></as>
+      </role>
+      <role>
+       <actor><gn>Andrew</gn><fn>Robinson</fn></actor>
+       <as><gn>Harvey</gn></as>
+      </role>
+      <role>
+       <actor><gn>Kevin</gn><fn>Scannell</fn></actor>
+       <as><gn>Ben</gn></as>
+      </role>
+      <role>
+       <actor><gn>Frederick</gn><fn>Coffin</fn></actor>
+       <as><gn>Ralph</gn></as>
+      </role>
+      <role>
+       <actor><gn>Michael</gn><fn>MacRae</fn></actor>
+       <as><fn>Fournier</fn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Lesser</fn></actor>
+       <as><fn>Minelli</fn></as>
+      </role>
+      <role>
+       <actor><gn>Milton</gn><fn>Selzer</fn></actor>
+       <as><preTitle>Mr.</preTitle><fn>Berger</fn></as>
+      </role>
+      <role>
+       <actor><gn>Les</gn><fn>Lannom</fn></actor>
+       <as><preTitle>Sheriff</preTitle><fn>Arnett</fn></as>
+      </role>
+      <role>
+       <actor><gn>Walter</gn><fn>Marsh</fn></actor>
+       <as><gn>Sam</gn><fn>Baker</fn></as>
+      </role>
+      <role>
+       <actor><gn>Frank</gn><mn>C.</mn><fn>Turner</fn></actor>
+       <as><gn>Crilly</gn></as>
+      </role>
+      <role>
+       <actor><gn>Sam</gn><fn>Hiona</fn></actor>
+       <as><preTitle>Superintendent</preTitle><fn>Hsu</fn></as>
+      </role>
+      <role>
+       <actor><gn>Michael</gn><fn>Chapman</fn></actor>
+       <as><title>Lawyer</title></as>
+      </role>
+      <role>
+       <actor><gn>Janet</gn><fn>Rotblatt</fn></actor>
+       <as><preTitle>Mrs.</preTitle><fn>Berger</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ken</gn><fn>Camroux-Taylor</fn></actor>
+       <as><fn>Denham</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

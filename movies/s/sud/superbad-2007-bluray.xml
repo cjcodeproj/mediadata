@@ -1,0 +1,175 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Superbad</main>
+   <edition>2 Disc Unrated Extended Edition</edition>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>043396199217</barcode>
+    <barcode type='isbn' scanlines='false'>1-4248-6516-6</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Superbad</title>
+    <catalog>
+     <copyright>
+      <year>2007</year>
+      <holders>
+       <holder>Columbia Pictures Industries, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Comedy</primary>
+      <specific>Teen Alcohol Shenanigans</specific>
+     </genres>
+     <certifications>
+      <certificate ref='43293'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H58M40S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Three high schoolers score an invite to the last cool party of their senior year.  But in
+      order to get in, they need to score some alcohol.  It's no problem because <chr>Fogell</chr>
+      just scored a fake ID.  The pre-party booze run quickly gets out of control as 
+      they try to navigate their way around crooks, cops, crazy people, in order to get there.
+     </plot>
+     <keywords>
+      <group>
+       <generic>party</generic>
+       <generic>high school party</generic>
+       <generic>alcohol</generic>
+       <generic>drugs</generic>
+       <generic>sex</generic>
+       <generic>safe sex</generic>
+       <generic>vomit</generic>
+       <generic>city bus</generic>
+      </group>
+      <group>
+       <generic>high school</generic>
+       <generic>end of the school year</generic>
+       <generic>graduation</generic>
+       <properNoun><thing>Dartmouth College</thing></properNoun>
+       <generic relevance='4'>shop class</generic>
+       <generic relevance='4'>gym class</generic>
+      </group>
+      <group>
+       <generic>liquor store robbery</generic>
+       <generic>robbery</generic>
+       <generic>hit and run accident</generic>
+       <generic>fake ID</generic>
+       <properNoun><place><st>Hawaii</st></place></properNoun>
+      </group>
+      <group>
+       <generic>cops</generic>
+       <generic>bad cops</generic>
+       <generic>guns</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>friendship</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Greg</gn><fn>Mottola</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Seth</gn><fn>Rogen</fn></writer>
+      <writer><gn>Evan</gn><fn>Goldberg</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>William</gn><fn>Kerr</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Russ</gn><mn>T</mn><fn>Alsobrook</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Jonah</gn><fn>Hill</fn></actor>
+       <as><gn>Seth</gn></as>
+      </role>
+      <role>
+       <actor><gn>Michael</gn><fn>Cera</fn></actor>
+       <as><gn>Evan</gn></as>
+      </role>
+      <role>
+       <actor><gn>Christopher</gn><fn>Mintz-Plasse</fn></actor>
+       <as><fn>Fogell</fn></as>
+       <as><nick>McLovin</nick></as>
+      </role>
+      <role>
+       <actor><gn>Bill</gn><fn>Hader</fn></actor>
+       <as><preTitle>Officer</preTitle><fn>Slater</fn></as>
+      </role>
+      <role>
+       <actor><gn>Seth</gn><fn>Rogen</fn></actor>
+       <as><preTitle>Offier</preTitle><fn>Michaels</fn></as>
+      </role>
+      <role>
+       <actor><gn>Martha</gn><fn>MacIsaac</fn></actor>
+       <as><gn>Becca</gn></as>
+      </role>
+      <role>
+       <actor><gn>Emma</gn><fn>Stone</fn></actor>
+       <as><gn>Jules</gn></as>
+      </role>
+      <role>
+       <actor><gn>Aviva</gn><fn>Baumann</fn></actor>
+       <as><gn>Nicola</gn></as>
+      </role>
+      <role>
+       <actor><gn>Joe</gn><fn>Lo Truglio</fn></actor>
+       <as><gn>Francis</gn><nick>The Driver</nick></as>
+      </role>
+      <role>
+       <actor><gn>Kevin</gn><fn>Corrigan</fn></actor>
+       <as><gn>Mark</gn></as>
+      </role>
+      <role>
+       <actor><gn>Clement</gn><fn>Blake</fn></actor>
+       <as><title>Homeless Guy</title></as>
+      </role>
+      <role>
+       <actor><gn>Erica</gn><mn>Vittina</mn><fn>Phillips</fn></actor>
+       <as><title>Liquor Store Cashier</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

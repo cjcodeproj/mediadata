@@ -1,0 +1,135 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Raw Courage</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Scorpion</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>738329243647</barcode>
+    <sku retailer='amzn' type='asin'>B0833W7526</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Raw Courage</title>
+    <catalog>
+     <altTitles>
+      <originalTitle>Courage</originalTitle>
+     </altTitles>
+     <copyright>
+      <year>1984</year>
+      <holders>
+       <holder>Adams Apple Film Company</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Thriller</primary>
+      <secondary>Drama</secondary>
+      <specific>Running From The Bad Guys</specific>
+     </genres>
+     <certifications>
+      <certificate ref='27266'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H30M14S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Long distance runners going cross desert in Arizona end up racing for their lives as they are chased down by a group of crazed survivalists.
+     </plot>
+     <keywords>
+      <generic>jogging</generic>
+      <generic>militia</generic>
+      <group>
+       <generic>navigation</generic>
+       <generic>map</generic>
+       <generic>canteen</generic>
+       <generic>watering hole</generic>
+       <generic>off road running</generic>
+       <generic>mountain climbing</generic>
+       <generic>camping</generic>
+      </group>
+      <group>
+       <generic>dirt bikes</generic>
+       <generic>horses</generic>
+       <generic>murder</generic>
+       <generic>survival</generic>
+       <generic>sabotage</generic>
+       <generic>hiding</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>courage</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Robert</gn><mn>L</mn><fn>Rosen</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Mary</gn><fn>Cox</fn></writer>
+      <writer><gn>Ronny</gn><fn>Cox</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Steve</gn><fn>Polvika</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Frank</gn><mn>P</mn><fn>Flynn</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Ronny</gn><fn>Cox</fn></actor>
+       <as><gn>Pete</gn><fn>Canfield</fn></as>
+      </role>
+      <role>
+       <actor><gn>Art</gn><fn>Hindle</fn></actor>
+       <as><gn>Roger</gn><fn>Bower</fn></as>
+      </role>
+      <role>
+       <actor><gn>M</gn><mn>Emmet</mn><fn>Walsh</fn></actor>
+       <as><preTitle>Colonel</preTitle><fn>Crouse</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tim</gn><fn>Maier</fn></actor>
+       <as><gn>Craig</gn><fn>Jensen</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lois</gn><fn>Chiles</fn></actor>
+       <as><gn>Ruth</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

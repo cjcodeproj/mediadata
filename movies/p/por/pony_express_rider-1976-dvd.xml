@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Pong Express Rider</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>096009566592</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Pony Express Rider</title>
+    <catalog>
+     <copyright>
+      <year>1976</year>
+      <holders>
+       <holder>Gold Rush Family Ltd.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Western</primary>
+      <specific>Kid Seeks Revenge</specific>
+     </genres>
+     <certifications>
+      <certificate ref='24709'>
+       <rating code='G'>General Audiences</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H35M56S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A kid joins the legency Pony Express delivery service as a means to get 
+      revenge against the men who killed his father.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><entity>The Pony Express</entity></properNoun>
+       <generic>mail</generic>
+       <generic>mail delivery</generic>
+       <generic>horse</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>vengence</theme>
+      <theme>maturity</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Robert</gn><fn>Totten</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Dan</gn><fn>Greer</fn></writer>
+      <writer><gn>Hal</gn><fn>Harrison</fn></writer>
+      <writer><gn>Robert</gn><fn>Totten</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Marsh</gn><fn>Hendry</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Bernie</gn><fn>Abramson</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Robert</gn><mn>O.</mn><fn>Ragland</fn></composer>
+     </music>
+     <artDept>
+      <artDirector><gn>Elayne</gn><mn>Barbara</mn><fn>Ceder</fn></artDirector>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Firstname</gn><fn>Lastname</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director uncredited='true'><gn>Henry</gn><fn>Rackin</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Stewart</gn><fn>Petersen</fn></actor>
+       <as><gn>Jimmie</gn><mn>D.</mn><fn>Richardson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Henry</gn><fn>Wilcoxn</fn></actor>
+       <as><gn>Trevor</gn><fn>Kingman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Buck</gn><fn>Taylor</fn></actor>
+       <as><gn>Bovey</gn><fn>Kingman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Maureen</gn><fn>McCormick</fn></actor>
+       <as><gn>Rose</gn><nick>of Sharon</nick></as>
+      </role>
+      <role>
+       <actor><gn>Ken</gn><fn>Curtis</fn></actor>
+       <as><gn>Jed</gn><fn>Richardson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Slim</gn><fn>Pickens</fn></actor>
+       <as><gn>Bob</gn><fn>Jay</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dub</gn><fn>Taylor</fn></actor>
+       <as><nick>Boomer</nick><fn>Riley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ace</gn><fn>Reid</fn></actor>
+       <as><nick>Bullfrog</nick><fn>Fry</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jack</gn><fn>Elam</fn></actor>
+       <as><nick>Crazy</nick><gn>Charlie</gn></as>
+      </role>
+      <role>
+       <actor><gn>Larry</gn><mn>D.</mn><fn>Mann</fn></actor>
+       <as><fn>Blackmore</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

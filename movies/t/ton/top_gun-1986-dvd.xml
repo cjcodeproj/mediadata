@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Top Gun</main>
+   <edition>Special Collector's Edition</edition>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>097360563849</barcode>
+    <barcode type='isbn' scanlines='false'>0-7921-9090-4</barcode>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>05638A</value>
+     <value>05638B</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='top_gun-1986-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

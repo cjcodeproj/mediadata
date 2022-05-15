@@ -1,0 +1,168 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Birdcage</title>
+    <catalog>
+     <copyright>
+      <year>1996</year>
+      <holders>
+       <holder>United Artists Pictures, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Comedy</primary>
+      <specific>Meet The Parents</specific>
+      <subgenres>
+       <subgenre>cult classic</subgenre>
+       <subgenre>based on a film</subgenre>
+       <subgenre>adapted to a novel</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='34100'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H54M13S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A gay couple put on an elaborate charade for the benefit of their son who is trying 
+      to make an impression with his fiance's conservative political parents.  The effort
+      takes a heavy emotional toll on everyone, as they struggle to balance their own 
+      love and acceptance of each other.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><ci>Miami</ci><st>Florida</st></place></properNoun>
+       <properNoun relevance='4'><place><st>Ohio</st></place></properNoun>
+      </group>
+      <group>
+       <generic>marriage</generic>
+       <generic>fiance</generic>
+      </group>
+      <group>
+       <generic>cabaret</generic>
+       <generic>drag queen</generic>
+       <generic>gay bar</generic>
+       <generic>live performance</generic>
+      </group>
+      <group>
+       <generic>dinner party</generic>
+      </group>
+      <group relevance='4'>
+       <generic>political scandal</generic>
+       <generic>paparazzi</generic>
+       <generic>photographer</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>acceptance</theme>
+      <theme>fish out of water</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Mike</gn><fn>Nichols</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Elaine</gn><fn>May</fn></writer>
+      <sources>
+       <source>
+        <title>La Cage Aux Folles</title>
+        <authors>
+         <author><gn>Jean</gn><fn>Poiret</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Arthur</gn><fn>Schmidt</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Emmanuel</gn><fn>Lubezki</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <artDept>
+      <productionDesigner><gn>Bo</gn><fn>Welch</fn></productionDesigner>
+      <artDirector><gn>Tom</gn><fn>Duffield</fn></artDirector>
+      <setDecorator><gn>Cheryl</gn><fn>Carasik</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Ann</gn><fn>ROth</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Ellen</gn><fn>Lewis</fn></director>
+      <director><gn>Juliet</gn><fn>Taylor</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Robin</gn><fn>Williams</fn></actor>
+       <as><gn>Armand</gn><fn>Goldman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Gene</gn><fn>Hackman</fn></actor>
+       <as><preTitle>Senator</preTitle><fn>Keeley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Nathan</gn><fn>Lane</fn></actor>
+       <as><gn>Albert</gn></as>
+      </role>
+      <role>
+       <actor><gn>Dianne</gn><fn>Wiest</fn></actor>
+       <as><gn>Louise</gn><fn>Keeley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dan</gn><fn>Futterman</fn></actor>
+       <as><gn>Val</gn><fn>Goldman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Calista</gn><fn>Flockhart</fn></actor>
+       <as><gn>Barbara</gn><fn>Keeley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Hank</gn><fn>Azaria</fn></actor>
+       <as><gn>Agador</gn></as>
+      </role>
+      <role>
+       <actor><gn>Christine</gn><fn>Baranski</fn></actor>
+       <as><gn>Katharine</gn></as>
+      </role>
+      <role>
+       <actor><gn>Tom</gn><fn>McGowan</fn></actor>
+       <as><gn>Harry</gn><fn>Radman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Grant</gn><fn>Heslov</fn></actor>
+       <as><title>Photographer</title></as>
+      </role>
+      <role>
+       <actor><gn>Kirby</gn><fn>Mitchell</fn></actor>
+       <as><title>Chauffeur</title></as>
+      </role>
+      <role>
+       <actor><gn>James</gn><fn>Lally</fn></actor>
+       <as><title>Stage Manager</title></as>
+      </role>
+      <role>
+       <actor><gn>Luca</gn><fn>Tommassini</fn></actor>
+       <as><nick>Celsius</nick></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

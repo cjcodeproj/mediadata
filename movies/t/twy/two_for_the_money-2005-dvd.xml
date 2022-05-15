@@ -1,0 +1,144 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Two For The Money</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>025192849527</barcode>
+    <barcode type='isbn' scanlines='false'>1-4170-7036-6</barcode>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>28495</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Two For The Money</title>
+    <catalog>
+     <copyright>
+      <year>2005</year>
+      <holders>
+       <holder>Morgan Creek</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Crime</secondary>
+      <secondary>Sport</secondary>
+      <specific>Sports Betting</specific>
+     </genres>
+     <certifications>
+      <certificate ref='41905'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H2M34S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An injured football player gets work in the high stakes sports betting industry and 
+      discovers that he's a natural at it.  Things go great, until they don't, and he
+      realizes that the stakes are a lot higher than he realized.
+     </plot>
+     <keywords>
+      <generic>sports</generic>
+      <generic>gambling</generic>
+      <generic>sports betting</generic>
+      <generic>telephone</generic>
+      <generic>spreadsheets</generic>
+     </keywords>
+     <themes>
+      <theme>arrogance</theme>
+      <theme>hubris</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>D.</gn><mn>J.</mn><fn>Caruso</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Dan</gn><fn>Gilroy</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Glen</gn><fn>Scantlebury</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Conrad</gn><mn>W.</mn><fn>Hall</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Al</gn><fn>Pacino</fn></actor>
+       <as><gn>Walter</gn></as>
+      </role>
+      <role>
+       <actor><gn>Matthew</gn><fn>McConaughey</fn></actor>
+       <as><gn>Brandon</gn></as>
+      </role>
+      <role>
+       <actor><gn>Rene</gn><fn>Russo</fn></actor>
+       <as><gn>Toni</gn></as>
+      </role>
+      <role>
+       <actor><gn>Armand</gn><fn>Assante</fn></actor>
+       <as><gn>Novian</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jeremy</gn><fn>Piven</fn></actor>
+       <as><gn>Jerry</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jaimie</gn><fn>King</fn></actor>
+       <as><gn>Alexandria</gn></as>
+      </role>
+      <role>
+       <actor><gn>Kevin</gn><fn>Chapman</fn></actor>
+       <as><nick>Southie</nick></as>
+      </role>
+      <role>
+       <actor><gn>Ralph</gn><fn>Garman</fn></actor>
+       <as><gn>Reggie</gn></as>
+      </role>
+      <role>
+       <actor><gn>Gedde</gn><fn>Watanabe</fn></actor>
+       <as><gn>Milton</gn></as>
+      </role>
+      <role>
+       <actor><gn>Carly</gn><fn>Pope</fn></actor>
+       <as><gn>Tammy</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

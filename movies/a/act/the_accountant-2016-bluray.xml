@@ -1,0 +1,140 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The Accountant</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>883929480937</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+      <codesheet><service>Ultraviolet</service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Accountant</title>
+    <catalog>
+     <copyright>
+      <year>2016</year>
+      <holders>
+       <holder>Warner Bros.</holder>
+       <holder>RatPac-Dune Entertainment LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Thriller</secondary>
+      <specific>Smart Hitman</specific>
+     </genres>
+     <certifications>
+      <certificate ref='50028'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H7M54S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An exceptional accountant for hire takes down drug dealers by getting in to their financial records, or
+      just by killing them.
+     </plot>
+     <keywords>
+      <generic>accountant</generic>
+      <generic>accounting</generic>
+      <generic>autism</generic>
+      <generic>prison</generic>
+      <generic>brothers</generic>
+      <generic>financial crimes</generic>
+      <properNoun><entity>US Treasury</entity></properNoun>
+      <properNoun><entity>FBI</entity></properNoun>
+      <properNoun><person><gn>Jackson</gn><fn>Pollock</fn></person></properNoun>
+      <properNoun><person><gn>Elliot</gn><fn>Ness</fn></person></properNoun>
+      <generic>camper</generic>
+      <generic>mentoring</generic>
+      <generic>shell company</generic>
+      <generic>taxes</generic>
+     </keywords>
+     <themes>
+      <theme>revenge</theme>
+      <theme>justice</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Gavin</gn><fn>O'Connor</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Bill</gn><fn>Dubuque</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Richard</gn><fn>Pearson</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Seamus</gn><fn>McGarvey</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Ben</gn><fn>Affleck</fn></actor>
+       <as><gn>Christian</gn><fn>Wolff</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ana</gn><fn>Kendrick</fn></actor>
+       <as><gn>Dana</gn><fn>Cummings</fn></as>
+      </role>
+      <role>
+       <actor><gn>J</gn><mn>K</mn><fn>Simmons</fn></actor>
+       <as><gn>Ray</gn><fn>King</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jeffrey</gn><fn>Tambor</fn></actor>
+       <as><gn>Francis</gn><fn>Silverberg</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jon</gn><fn>Bernthal</fn></actor>
+       <as><gn>Brax</gn></as>
+      </role>
+      <role>
+       <actor><gn>Cynthia</gn><fn>Addai-Robinson</fn></actor>
+       <as><gn>Marybeth</gn><fn>Medina</fn></as>
+      </role>
+      <role>
+       <actor><gn>John</gn><fn>Lithgow</fn></actor>
+       <as><gn>Lamar</gn><fn>Blackburn</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jean</gn><fn>Smart</fn></actor>
+       <as><gn>Rita</gn><fn>Blackburn</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

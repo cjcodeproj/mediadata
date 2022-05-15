@@ -1,0 +1,167 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Evil Under The Sun</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>738329249052</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Evil Under The Sun</title>
+    <catalog>
+     <copyright>
+      <year>1981</year>
+      <holders>
+       <holder>Titan Productions</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Mystery</primary>
+      <specific>Vacation Murder Mystery</specific>
+      <subgenres>
+       <subgenre>whodunnit</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='26461'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H56M48S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      <chr>Hercule Poirot</chr> must investigate a murder of a wealthy socialite at an island resort 
+      where everybody is a suspect, because again, everybody knew the victim, and they hated her for 
+      one reason or another.
+     </plot>
+     <keywords>
+      <group>
+       <generic>island</generic>
+       <generic>island resort</generic>
+       <generic>boat</generic>
+       <generic>beach</generic>
+       <generic>hotel</generic>
+       <properNoun><place><cn>France</cn></place></properNoun>
+       <generic>yacht</generic>
+       <generic>pedalo</generic>
+      </group>
+      <group>
+       <generic>murder</generic>
+       <generic>strangulation</generic>
+       <generic>alibi</generic>
+       <generic>witness</generic>
+       <generic>theft</generic>
+       <generic>insurance fraud</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>greed</theme>
+      <theme>jealousy</theme>
+      <theme>revenge</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Guy</gn><fn>Hamilton</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Anthony</gn><fn>Shaffer</fn></writer>
+      <writer uncredited='true'><gn>Barry</gn><fn>Sandler</fn></writer>
+      <sources>
+       <source>
+        <title>Evil Under The Sun</title>
+        <authors>
+         <author><gn>Agatha</gn><fn>Christie</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Richard</gn><fn>Marden</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Christopher</gn><fn>Challis</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Peter</gn><fn>Usinov</fn></actor>
+       <as><gn>Hercule</gn><fn>Poirot</fn></as>
+      </role>
+      <role>
+       <actor><gn>Colin</gn><fn>Blakely</fn></actor>
+       <as><preTitle>Sir</preTitle><gn>Horace</gn><fn>Blatt</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jane</gn><fn>Birkin</fn></actor>
+       <as><gn>Christina</gn><fn>Redfern</fn></as>
+      </role>
+      <role>
+       <actor><gn>Nicholas</gn><fn>Clay</fn></actor>
+       <as><gn>Patrick</gn><fn>Redfern</fn></as>
+      </role>
+      <role>
+       <actor><gn>Maggie</gn><fn>Smith</fn></actor>
+       <as><gn>Daphne</gn><fn>Castle</fn></as>
+      </role>
+      <role>
+       <actor><gn>Roddy</gn><fn>McDowall</fn></actor>
+       <as><gn>Rex</gn><fn>Brewster</fn></as>
+      </role>
+      <role>
+       <actor><gn>Sylvia</gn><fn>Miles</fn></actor>
+       <as><gn>Myra</gn><fn>Gardener</fn></as>
+      </role>
+      <role>
+       <actor><gn>James</gn><fn>Mason</fn></actor>
+       <as><gn>Odell</gn><fn>Gardener</fn></as>
+      </role>
+      <role>
+       <actor><gn>Denis</gn><fn>Quilley</fn></actor>
+       <as><gn>Kenneth</gn><fn>Marshall</fn></as>
+      </role>
+      <role>
+       <actor><gn>Diana</gn><fn>Rigg</fn></actor>
+       <as><gn>Arlena</gn><mn>Stuart</mn><fn>Marshall</fn></as>
+      </role>
+      <role>
+       <actor><gn>Emily</gn><fn>Hone</fn></actor>
+       <as><gn>Linda</gn><fn>Marshall</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

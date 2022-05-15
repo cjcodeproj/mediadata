@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Rad</title>
+    <catalog>
+     <copyright>
+      <year>1986</year>
+      <holders>
+       <holder>Talia Film II. LTD</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Drama</secondary>
+      <secondary>Sport</secondary>
+      <specific>BMX Challenge</specific>
+     </genres>
+     <certifications>
+      <certificate ref='28078'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H32M55S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A small town teenager gets the opportunity to race in an extreme BMX racing event, competing
+      against well known BMX bikers.  Unfortunately, his skills are not appreciated by the 
+      corporate juggernauts who want their own riders to win.
+     </plot>
+     <keywords>
+      <group>
+       <generic>bike</generic>
+       <generic>bmx bike</generic>
+       <generic>sponsorship</generic>
+       <generic>dirt bike track</generic>
+       <generic>small town</generic>
+       <generic>helmet</generic>
+       <generic>school dance</generic>
+       <generic>parade</generic>
+       <generic>paper route</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme> </theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Hal</gn><fn>Needham</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Sam</gn><fn>Bernard</fn></writer>
+      <writer><gn>Geoffrey</gn><fn>Edwards</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Carl</gn><fn>Kress</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Richard</gn><fn>Leiterman</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Bill</gn><fn>Allen</fn></actor>
+       <as><gn>Cru</gn></as>
+      </role>
+      <role>
+       <actor><gn>Lori</gn><fn>Loughlin</fn></actor>
+       <as><gn>Christian</gn></as>
+      </role>
+      <role>
+       <actor><gn>Talia</gn><fn>Shire</fn></actor>
+       <as><preTitle>Mrs.</preTitle><fn>Jones</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ray</gn><fn>Walston</fn></actor>
+       <as><gn>Burton</gn><fn>Timmer</fn></as>
+      </role>
+      <role>
+       <actor><gn>Alfie</gn><fn>Wise</fn></actor>
+       <as><gn>Eliott</gn><fn>Dole</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jack</gn><fn>Weston</fn></actor>
+       <as><gn>Duke</gn><fn>Best</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

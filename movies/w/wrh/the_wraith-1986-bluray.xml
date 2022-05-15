@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The Wraith</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>031398327745</barcode>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>59196</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+      <codesheet><service>Lionsgate</service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Wraith</title>
+    <catalog>
+     <copyright>
+      <year>1986</year>
+      <holders>
+       <holder>Turbo Productions, Inc.</holder>
+      </holders>
+     </copyright>
+     <ucIndex>
+      <value>1</value>
+     </ucIndex>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Horror</secondary>
+      <specific>Ghost Racing</specific>
+      <subgenres>
+       <subgenre>cult classic</subgenre>
+      </subgenres>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H32M30S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A young man is reincarnated as a super ghost car, seeking revenge against the 
+      street racing gang that killed him long ago, killing them off one by one.
+     </plot>
+     <keywords>
+      <generic>desert</generic>
+      <generic>cars</generic>
+      <generic>car crash</generic>
+      <generic>street racing</generic>
+      <generic>drive-in restaurant</generic>
+      <generic>restaurant cook</generic>
+      <generic>brother</generic>
+      <properNoun><place><st>Arizona</st></place></properNoun>
+      <group collection='vehicles'>
+        <properNoun><thing>Dodge Turbo Interceptor</thing></properNoun>
+        <properNoun><thing>Pontiac TransAm</thing></properNoun>
+      </group>
+     </keywords>
+     <themes>
+      <theme>revenge</theme>
+      <theme>justice</theme>
+      <theme>lawlessness</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Mike</gn><fn>Marvin</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Mike</gn><fn>Marvin</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Scott</gn><fn>Conrad</fn></editor>
+      <editor><gn>Gary</gn><fn>Rocklen</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Reed</gn><fn>Smoot</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Charlie</gn><fn>Sheen</fn></actor>
+       <as><gn>Jake</gn><fn>Kasey</fn></as>
+       <as><title>The Wraith</title></as>
+      </role>
+      <role>
+       <actor><gn>Nick</gn><fn>Cassavetes</fn></actor>
+       <as><gn>Packard</gn><fn>Walsh</fn></as>
+      </role>
+      <role>
+       <actor><gn>Randy</gn><fn>Quaid</fn></actor>
+       <as><preTitle>Sheriff</preTitle><fn>Loomis</fn></as>
+      </role>
+      <role>
+       <actor><gn>Matthew</gn><fn>Barry</fn></actor>
+       <as><gn>Billy</gn><fn>Hankins</fn></as>
+      </role>
+      <role>
+       <actor><gn>Sherilyn</gn><fn>Fenn</fn></actor>
+       <as><gn>Keri</gn><fn>Johnson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Clint</gn><fn>Howard</fn></actor>
+       <as><nick>Rughead</nick></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

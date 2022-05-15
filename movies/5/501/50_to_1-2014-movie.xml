@@ -1,0 +1,126 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>50 to 1</title>
+    <catalog>
+     <altTitles>
+      <variantTitle sortable='true'>Fifty To One</variantTitle>
+     </altTitles>
+     <copyright>
+      <year>2014</year>
+      <holders>
+       <holder>Ten FUrlongs LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Adventure</secondary>
+      <specific>Horse Racing Adventure</specific>
+      <subgenres>
+       <subgenre>based on a true story</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='48692'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H50M44S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Based on a true story, two cowboys manage an unlikely race horse that 
+      ends up qualifying for the Kentucky Derby.
+     </plot>
+     <keywords>
+      <group>
+       <generic>horse racing</generic>
+       <properNoun><event>Kentucky Derby</event></properNoun>
+       <properNoun><event>Churchhill Downs</event></properNoun>
+       <generic>horse</generic>
+       <generic>quarter horse</generic>
+       <generic>thorogubred</generic>
+       <generic>horse training</generic>
+      </group>
+      <generic>cowboy</generic>
+      <generic>underdog</generic>
+      <generic>long shot</generic>
+     </keywords>
+     <themes>
+      <theme>friendship</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Jim</gn><fn>Wilson</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Faith</gn><fn>Conroy</fn></writer>
+      <writer><gn>Jim</gn><fn>Wilson</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Ben</gn><fn>Callahan</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Tim</gn><fn>Suhrstedt</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Skeet</gn><fn>Ulrich</fn></actor>
+       <as><gn>Chip</gn><fn>Woolley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Christian</gn><fn>Kane</fn></actor>
+       <as><gn>Mark</gn><fn>Allen</fn></as>
+      </role>
+      <role>
+       <actor><gn>William</gn><fn>Devane</fn></actor>
+       <as><gn>Leonard</gn><nick>Doc</nick><fn>Blach</fn></as>
+      </role>
+      <role>
+       <actor><gn>Madelyn</gn><fn>Deutch</fn></actor>
+       <as><gn>Alex</gn></as>
+      </role>
+      <role>
+       <actor><gn>Todd</gn><fn>Lowe</fn></actor>
+       <as><gn>Kelly</gn></as>
+      </role>
+      <role>
+       <actor><gn>David</gn><fn>Atkinson</fn></actor>
+       <as><gn>Bill</gn><fn>Woolley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Calvin</gn><fn>Borel</fn></actor>
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Bruce</gn><mn>Wayne</mn><fn>Eckelman</fn></actor>
+       <as><gn>Bob</gn><fn>Baffert</fn></as>
+      </role>
+      <role>
+       <actor><gn>Hugo</gn><fn>Perez</fn></actor>
+       <as><gn>Miguel</gn></as>
+      </role>
+      <role>
+       <actor><gn>Eloy</gn><fn>Casados</fn></actor>
+       <as><gn>Charlie</gn><fn>Figueroa</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

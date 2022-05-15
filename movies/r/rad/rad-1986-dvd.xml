@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Rad</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+    <publisher>Mill Creek</publisher>
+   </release>
+   <productId>
+    <nobarcodes/>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='rad-1986-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

@@ -1,0 +1,160 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>Kiss Kiss Bang Bang</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>012569829480</barcode>
+    <sku retailer='bned'>0012569829480</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Kiss Kiss Bang Bang</title>
+    <catalog>
+     <copyright>
+      <year>2020</year>
+      <holders>
+       <holder>Warner Bros. Entertainment Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Comedy</secondary>
+      <secondary>Mystery</secondary>
+      <specific>Amateur Detective Noir</specific>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='41234'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H42M42S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A small time criminal's life spins out of control after he is mistaken for a movie actor and is
+      told he won the lead role in a detective movie.  He is thrust into Hollywood parties, detective
+      lessons, murder plots, sex scandals, dead bodies; but along the way he meets an old friend
+      from his childhood, who unknowingly plays a big part in the mystery he has been investigating.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><ci>Los Angeles</ci></place></properNoun>
+       <properNoun><place><name>MacArthur Park</name><ci>Los Angeles</ci></place></properNoun>
+      </group>
+      <group>
+       <generic>gay</generic>
+       <generic>gay kiss</generic>
+       <generic>gay detective</generic>
+       <generic>private eye</generic>
+       <generic>surveillance</generic>
+      </group>
+      <group>
+       <generic>pulp fiction</generic>
+       <generic>pulp detective novels</generic>
+      </group>
+      <group>
+       <properNoun><place><ci>Hollywood</ci></place></properNoun>
+       <generic>audition</generic>
+       <generic>script reading</generic>
+       <generic>screen test</generic>
+       <properNoun relevance='4'><thing>Xanadu</thing></properNoun>
+      </group>
+      <group>
+       <generic>gun</generic>
+       <generic>severed finger</generic>
+       <generic>torture</generic>
+       <generic>burglary</generic>
+       <generic>interrogation</generic>
+       <generic>hospital</generic>
+       <generic>mental hospital</generic>
+       <generic>casket</generic>
+       <generic>gunshot</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>mistaken identity</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Shane</gn><fn>Black</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Shane</gn><fn>Black</fn></writer>
+      <sources>
+       <source>
+        <title>Bodies Are Where You Find Them</title>
+        <authors>
+         <author><gn>Brett</gn><fn>Halliday</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Jim</gn><fn>Page</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Michael</gn><fn>Barrett</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Robert</gn><fn>Downey</fn><postTitle>Jr</postTitle></actor>
+       <as><gn>Harry</gn><fn>Lockhart</fn></as>
+       <as><narrator/></as>
+      </role>
+      <role>
+       <actor><gn>Val</gn><fn>Kilmer</fn></actor>
+       <as><gn>Gay</gn><fn>Perry</fn></as>
+      </role>
+      <role>
+       <actor><gn>Michelle</gn><fn>Monaghan</fn></actor>
+       <as><gn>Harmony</gn><mn>Faith</mn><fn>Lane</fn></as>
+      </role>
+      <role>
+       <actor><gn>Corbin</gn><fn>Bernsen</fn></actor>
+       <as><gn>Harlan</gn><fn>Dexter</fn></as>
+      </role>
+      <role>
+       <actor><gn>Larry</gn><fn>Miller</fn></actor>
+       <as><gn>Dabney</gn><fn>Shaw</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

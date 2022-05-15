@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>North By Northwest</title>
+    <catalog>
+     <copyright>
+      <year>1959</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Adventure</primary>
+      <secondary>Thriller</secondary>
+      <secondary>Mystery</secondary>
+      <specific>Mistaken Identity</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H16M25S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An advertising executive is mistaken for a spy, finds himself on the run
+      as both foreign agents are after him, as well as civilian authorities.  The
+      only ally he gains on his adventure is a woman who believes his crazy
+      story.
+     </plot>
+     <keywords>
+      <properNoun><entity>United Nations</entity></properNoun>
+      <properNoun><place><name>Mount Rushmore</name></place></properNoun>
+      <properNoun><place><ci>New York City</ci></place></properNoun>
+      <properNoun><place><st>South Dakota</st></place></properNoun>
+      <properNoun><place><ci>Chicago</ci><st>Illinois</st></place></properNoun>
+      <generic>macguffin</generic>
+      <generic>mistaken identity</generic>
+      <generic>auction</generic>
+      <group>
+       <generic>crop dusting</generic>
+       <generic>corn field</generic>
+      </group>
+      <group>
+       <generic>spy</generic>
+       <generic>foreign agents</generic>
+      </group>
+      <group>
+       <generic>murder</generic>
+       <generic>murder attempt</generic>
+       <generic>knife</generic>
+       <generic>gun</generic>
+       <generic>staged muder</generic>
+       <generic>blank cartridges</generic>
+      </group>
+      <group>
+       <generic>train</generic>
+       <generic>dining car</generic>
+       <generic>tunnel</generic>
+       <generic>airplane</generic>
+       <generic>airport</generic>
+       <properNoun><entity>Norwest Airlines</entity></properNoun>
+      </group>
+     </keywords>
+     <themes>
+      <theme>unlikely hero</theme>
+      <theme>mistaken identity</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Alfred</gn><fn>Hitchcock</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Ernest</gn><fn>Lehman</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>George</gn><fn>Tomasini</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Robert</gn><fn>Burks</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Cary</gn><fn>Grant</fn></actor>
+       <as><gn>Roger</gn><fn>Thornhill</fn></as>
+      </role>
+      <role>
+       <actor><gn>Eva</gn><mn>Marie</mn><fn>Saint</fn></actor>
+       <as><gn>Eve</gn><fn>Kendall</fn></as>
+      </role>
+      <role>
+       <actor><gn>James</gn><fn>Mason</fn></actor>
+       <as><gn>Phillip</gn><fn>Vandamm</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

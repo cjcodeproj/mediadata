@@ -1,0 +1,222 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Scream</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>191329206140</barcode>
+    <sku retailer='bby'>6474743</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Scream</title>
+    <catalog>
+     <copyright>
+      <year>1996</year>
+      <holders>
+       <holder>Miramax Film Corp.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Horror</primary>
+      <secondary>Comedy</secondary>
+      <secondary>Mystery</secondary>
+      <specific>Who's The Killer?</specific>
+      <subgenres>
+       <subgenre>blockbuster</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='34995'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H51M01S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A teenage girl is being stalked by a crazed serial killer who calls up his victims beforehand to torment them.  She tries
+      to figure out who is after her, while dealing with her friends who are either partying or trying to compartmentalize the 
+      murders into the genre of horror movies.
+     </plot>
+     <keywords>
+      <group>
+       <generic>murder</generic>
+       <generic>knife</generic>
+       <generic>hunting knife</generic>
+       <generic>sheriff</generic>
+       <generic>deputy</generic>
+       <generic>news media</generic>
+       <generic>news van</generic>
+       <generic>high school</generic>
+       <generic>curfew</generic>
+       <generic>house party</generic>
+       <generic>VHS tapes</generic>
+       <generic>video rental store</generic>
+       <generic>camera</generic>
+       <generic>hidden camera</generic>
+       <generic>cameraman</generic>
+       <generic>movie tropes</generic>
+       <generic>telephone</generic>
+       <generic>cordless phone</generic>
+       <generic>red herring</generic>
+       <generic>adultry</generic>
+       <generic>cell phone</generic>
+      </group>
+      <group collection='movie refs'>
+       <properNoun><thing>Halloween</thing></properNoun> 
+       <properNoun><thing>Friday The 13th</thing></properNoun> 
+       <properNoun><thing>Basic Instinct</thing></properNoun> 
+       <properNoun><thing>Silence Of The Lambs</thing></properNoun> 
+       <properNoun><thing>Nightmare On Elm Street</thing></properNoun> 
+       <properNoun><thing>Evil Dead</thing></properNoun> 
+       <properNoun><thing>Hellraiser</thing></properNoun> 
+       <properNoun><thing>All The Right Moves</thing></properNoun> 
+       <properNoun><thing>Candyman</thing></properNoun> 
+       <properNoun><thing>Prom Night</thing></properNoun> 
+       <properNoun><thing>Frankenstein</thing></properNoun> 
+       <properNoun><thing>The Hallow</thing></properNoun> 
+       <properNoun><thing>Terror Train</thing></properNoun> 
+       <properNoun><thing>The Town That Dreaded Sundown</thing></properNoun> 
+       <properNoun><thing>The Fog</thing></properNoun> 
+       <properNoun><thing>Trading Places</thing></properNoun> 
+       <properNoun><thing>Psycho</thing></properNoun> 
+       <properNoun><thing>Smoke</thing></properNoun>
+       <properNoun><thing>The Howling</thing></properNoun> 
+       <properNoun><thing>Carrie</thing></properNoun>
+       <properNoun><person><gn>Wes</gn><fn>Carpenter</fn></person></properNoun>
+       <properNoun><person><gn>Jamie Lee</gn><fn>Curtis</fn></person></properNoun>
+       <properNoun><person><gn>Sharon</gn><fn>Stone</fn></person></properNoun>
+       <properNoun><person><gn>Jodie</gn><fn>Foster</fn></person></properNoun>
+       <properNoun><person><gn>Ricki</gn><fn>Lake</fn></person></properNoun>
+       <properNoun><person><gn>Meg</gn><fn>Ryan</fn></person></properNoun>
+      </group>
+     </keywords>
+     <themes>
+      <theme>grief</theme>
+      <theme>redemption</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Wes</gn><fn>Craven</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Kevin</gn><fn>Williamson</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Patrick</gn><fn>Lussier</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Mark</gn><fn>Irwin</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Neve</gn><fn>Campbell</fn></actor>
+       <as><gn>Sidney</gn></as>
+      </role>
+      <role>
+       <actor><gn>Courtney</gn><fn>Cox</fn></actor>
+       <as><gn>Gale</gn><fn>Weathers</fn></as>
+      </role>
+      <role>
+       <actor><gn>David</gn><fn>Arquette</fn></actor>
+       <as><preTitle>Deputy</preTitle><fn>Dewey</fn></as>
+      </role>
+      <role>
+       <actor><gn>Skeet</gn><fn>Ulrich</fn></actor>
+       <as><gn>Billy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Drew</gn><fn>Barrymore</fn></actor>
+       <as><gn>Casey</gn></as>
+      </role>
+      <role>
+       <actor><gn>Roger</gn><fn>Jackson</fn></actor>
+       <as><title>Phone Voice</title><variant>voice</variant></as>
+      </role>
+      <role>
+       <actor><gn>Kevin</gn><mn>Patrick</mn><fn>Walls</fn></actor>
+       <as><gn>Steve</gn></as>
+      </role>
+      <role>
+       <actor><gn>W</gn><mn>Earl</mn><fn>Brown</fn></actor>
+       <as><gn>Kenny</gn></as>
+      </role>
+      <role>
+       <actor><gn>Rose</gn><fn>McGowan</fn></actor>
+       <as><gn>Tatum</gn></as>
+      </role>
+      <role>
+       <actor><gn>Lois</gn><fn>Saunders</fn></actor>
+       <as><preTitle>Mrs</preTitle><fn>Tate</fn></as>
+      </role>
+      <role>
+       <actor><gn>Joseph</gn><fn>Whipp</fn></actor>
+       <as><preTitle>Sheriff</preTitle><fn>Burke</fn></as>
+      </role>
+      <role>
+       <actor><gn>Matthew</gn><fn>Lillard</fn></actor>
+       <as><gn>Stuart</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jamie</gn><fn>Kennedy</fn></actor>
+       <as><gn>Randy</gn></as>
+      </role>
+      <role>
+       <actor><gn>David</gn><fn>Booth</fn></actor>
+       <as><title>Casey's Father</title></as>
+      </role>
+      <role>
+       <actor><gn>Carla</gn><fn>Hatley</fn></actor>
+       <as><title>Casey's Mother</title></as>
+      </role>
+      <role>
+       <actor><gn>Liev</gn><fn>Schreiber</fn></actor>
+       <as><gn>Cotton</gn><fn>Weary</fn></as>
+      </role>
+      <role>
+       <actor><gn>Henry</gn><fn>Winkler</fn></actor>
+       <as><preTitle>Principal</preTitle><gn>Arthur</gn><fn>Himbry</fn></as>
+      </role>
+      <role>
+       <actor><gn>Wes</gn><fn>Craven</fn></actor>
+       <as><gn>Fred</gn><nick>The Janitor</nick></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

@@ -1,0 +1,164 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Disclosure</title>
+    <catalog>
+     <copyright>
+      <year>1994</year>
+      <holders>
+       <holder>Warner Bros.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Thriller</secondary>
+      <specific>Sexual Harassment Mystery</specific>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='33475'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H8M7S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A male tech executive, on a rising career path, suddenly experiences sexual harassment by his new female boss.  Facing the
+      possible loss of his career, he fights back by filing a lawsuit, and working to uncover the mystery of why he was 
+      harassed in the first place.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><ci>Seattle</ci><st>Washington</st></place></properNoun>
+       <properNoun><place><name>Downtown Seattle Transit Tunnel</name><ci>Seattle</ci></place></properNoun>
+       <generic>city bus</generic>
+       <generic>ferry</generic>
+      </group>
+      <group>
+       <generic>virtual reality</generic>
+       <generic>CD Rom</generic>
+       <generic>cell phone</generic>
+       <generic>answering machine</generic>
+      </group>
+      <group>
+       <generic>product manager</generic>
+       <generic>manufacturing</generic>
+       <generic>tech compnay</generic>
+       <properNoun><place><cn>Malaysia</cn></place></properNoun>
+      </group>
+      <group>
+       <generic>sexual harassment</generic>
+       <generic>lawsuit</generic>
+       <generic>arbitration</generic>
+       <generic>deposition</generic>
+       <generic>lawyer</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme> </theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Barry</gn><fn>Levinson</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Paul</gn><fn>Attanasio</fn></writer>
+      <sources>
+       <source>
+        <title>Disclosure</title>
+        <authors>
+         <author><gn>Michael</gn><fn>Crichton</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Stu</gn><fn>Linder</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Tony</gn><fn>Pierce-Roberts</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Ennio</gn><fn>Morricone</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>Neil</gn><fn>Spisak</fn></productionDesigner>
+      <artDirector><gn>Charles</gn><mn>William</mn><fn>Green</fn></artDirector>
+      <artDirector><gn>Richard</gn><fn>Toyon</fn></artDirector>
+      <setDecorator><gn>Garrett</gn><fn>Kewis</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Gloria</gn><fn>Gresham</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Ellen</gn><fn>Chenoweth</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Michael</gn><fn>Douglas</fn></actor>
+       <as><gn>Tom</gn><fn>Sanders</fn></as>
+      </role>
+      <role>
+       <actor><gn>Demi</gn><fn>Moore</fn></actor>
+       <as><gn>Meredith</gn><fn>Johnson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Donald</gn><fn>Sutherland</fn></actor>
+       <as><gn>Bob</gn><fn>Garvin</fn></as>
+      </role>
+      <role>
+       <actor><gn>Caroline</gn><fn>Goodall</fn></actor>
+       <as><gn>Susan</gn><fn>Hendler</fn></as>
+      </role>
+      <role>
+       <actor><gn>Roma</gn><fn>Maffia</fn></actor>
+       <as><gn>Catherine</gn><fn>Alvarez</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dylan</gn><fn>Baker</fn></actor>
+       <as><gn>Phillip</gn><fn>Blackburn</fn></as>
+      </role>
+      <role>
+       <actor><gn>Rosemary</gn><fn>Forsyth</fn></actor>
+       <as><gn>Stephanie</gn><fn>Kaplan</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dennis</gn><fn>Miller</fn></actor>
+       <as><gn>Mark</gn><fn>Lewyn</fn></as>
+      </role>
+      <role>
+       <actor><gn>Suzie</gn><fn>Plakson</fn></actor>
+       <as><gn>Mary Ann</gn><fn>Hunter</fn></as>
+      </role>
+      <role>
+       <actor><gn>Nicholas</gn><fn>Sadler</fn></actor>
+       <as><gn>Don</gn><fn>Cherry</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jacqueline</gn><fn>Kim</fn></actor>
+       <as><gn>Cindy</gn><fn>Chang</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

@@ -1,0 +1,143 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The Life &amp; Times Of Judge Roy Bean</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>888574645328</barcode>
+    <sku retailer='amzn' type='asin'>B07F1SQZ7K</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Life &amp; Times Of Judge Roy Bean</title>
+    <catalog>
+     <altTitles>
+      <variantTitle sortable='true'>The Life And Times Of Judge Roy Bean</variantTitle>
+     </altTitles>
+     <copyright>
+      <year>1972</year>
+       <holders>
+        <holder>Coleytown Productions, Inc.</holder>
+        <holder>The First Artists Production Company, LTD.</holder>
+        <holder>National General Pictures Corporation</holder>
+       </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Western</primary>
+      <secondary>Drama</secondary>
+      <specific>Tall Tales</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT02H03M18S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      The story of Judge Roy Bean, a man who builds up an old western town by first killing off 
+      the first round of criminals, and then builds it up by taking in drifters and travelers
+      looking to settle.  He fosters the town's growth while dispensing his own style of justice,
+      while dreaming of meeting his favorite actress, Lily Langtree. 
+     </plot>
+     <keywords>
+      <properNoun><place><name>Pecos River</name></place></properNoun>
+      <properNoun><place><st>Texas</st></place></properNoun>
+      <generic>progress</generic>
+      <generic>noose</generic>
+      <generic>law</generic>
+      <generic>law book</generic>
+      <generic>brothel</generic>
+      <generic>gun</generic>
+      <generic>rifle</generic>
+      <generic>bible</generic>
+      <generic>bible verse</generic>
+      <generic>graveyard</generic>
+      <generic>bear</generic>
+      <generic>horse</generic>
+      <generic>train station</generic>
+      <generic>hanging</generic>
+     </keywords>
+     <themes>
+      <theme>self righteousness</theme>
+      <theme>empire building</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>John</gn><fn>Huston</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>John</gn><fn>Milius</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Hugh</gn><mn>S</mn><fn>Fowler</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Richard</gn><fn>Moore</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Paul</gn><fn>Newman</fn></actor>
+       <as><preTitle>Judge</preTitle><gn>Roy</gn><fn>Bean</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ava</gn><fn>Gardner</fn></actor>
+       <as><gn>Lilee</gn><fn>Langtry</fn></as>
+      </role>
+      <role>
+       <actor><gn>Victoria</gn><fn>Principal</fn></actor>
+       <as><gn>Maria</gn><fn>Elena</fn></as>
+      </role>
+      <role>
+       <actor><gn>Anthony</gn><fn>Perkins</fn></actor>
+       <as><preTitle>Rev</preTitle><fn>LaSalle</fn></as>
+      </role>
+      <role>
+       <actor><gn>John</gn><fn>Huston</fn></actor>
+       <as><gn>Grizzly</gn><fn>Adams</fn></as>
+      </role>
+      <role>
+       <actor><gn>Roy</gn><fn>Jensen</fn></actor>
+       <as><title>Outlaw</title></as>
+      </role>
+      <role>
+       <actor><gn>Gary</gn><fn>Combs</fn></actor>
+       <as><title>Outlaw</title></as>
+      </role>
+      <role>
+       <actor><gn>Bennie</gn><mn>E</mn><fn>Dobbins</fn></actor>
+       <as><title>Outlaw</title></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Farnsworth</fn></actor>
+       <as><title>Outlaw</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

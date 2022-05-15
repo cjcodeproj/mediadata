@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Take This Job And Shove It</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Kino Lorber</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>738329254018</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Take This Job And Shove It</title>
+    <catalog>
+     <copyright>
+      <year>1981</year>
+      <holders>
+       <holder>Cinema Group, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Comedy</primary>
+      <specific>Job Dissatisfaction Comedy</specific>
+     </genres>
+     <certifications>
+      <certificate ref='26334'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H40M9S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An executive returns to his hometown to modernize a local brewery, but clashes with old friends when they reject
+      the changes he proposes.  To make matters worse, he discovers that his improvements have made the plant ripe
+      for an aquisition.
+     </plot>
+     <keywords>
+      <generic>beer</generic>
+      <generic>brewery</generic>
+      <generic>monster truck</generic>
+      <generic>bar</generic>
+      <properNoun><place><ci>Dubuke</ci><st>Iowa</st></place></properNoun>
+      <properNoun><thing>Bigfoot</thing></properNoun>
+     </keywords>
+     <themes>
+      <theme>workers vs boss</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Gus</gn><fn>Trikonis</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Barry</gn><fn>Schneider</fn></writer>
+      <writer role='story'><gn>Jeffrey</gn><fn>Bernini</fn></writer>
+      <writer role='story'><gn>Barry</gn><fn>Schneider</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Richard</gn><fn>Belding</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>James</gn><fn>Devis</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Robert</gn><fn>Hayes</fn></actor>
+       <as><gn>Frank</gn><fn>Macklin</fn></as>
+      </role>
+      <role>
+       <actor><gn>Barbara</gn><fn>Hershey</fn></actor>
+       <as><gn>JM</gn><fn>Halstead</fn></as>
+      </role>
+      <role>
+       <actor><gn>David</gn><fn>Keith</fn></actor>
+       <as><gn>Harry</gn><fn>Meade</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tim</gn><fn>Thomerson</fn></actor>
+       <as><gn>Ray</gn><fn>Binkowski</fn></as>
+      </role>
+      <role>
+       <actor><gn>Art</gn><fn>Carney</fn></actor>
+       <as><gn>Charlie</gn><fn>Pickett</fn></as>
+      </role>
+      <role>
+       <actor><gn>Eddie</gn><fn>Albert</fn></actor>
+       <as><gn>Samuel</gn><fn>Ellison</fn></as>
+      </role>
+      <role>
+       <actor><gn>Martin</gn><fn>Mull</fn></actor>
+       <as><gn>Dick</gn><fn>Ebersol</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

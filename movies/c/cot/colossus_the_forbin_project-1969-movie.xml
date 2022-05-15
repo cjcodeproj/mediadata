@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Colossus: The Forbin Project</title>
+    <catalog>
+     <copyright>
+      <year>1969</year>
+      <holders>
+       <holder>Universal Pictures</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Sci-Fi</primary>
+      <secondary>Thriller</secondary>
+      <specific>Artificail Intelligence Takeover</specific>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='22037'>
+       <rating code='M'></rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H40M4S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A brilliant computer scientists creates an artificial intelligence that will manage all nuclear war operations for the United States, but 
+      is shocked to discover that the Soviet Union has also created an intelligence for the same purpose; therefore destroying any advantage 
+      the US might have during a nuclear war.  Things get worse when the intelligences start to work together and create a plan to take control 
+      of the world.
+     </plot>
+     <keywords>
+      <generic>artificial intelligence</generic>
+      <properNoun><place><co>United States</co></place></properNoun>
+      <properNoun><place><co>Russia</co></place></properNoun>
+      <generic>nuclear weapons</generic>
+      <generic>surveillance</generic>
+      <generic>cold war</generic>
+     </keywords>
+     <themes>
+      <theme>hubris</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Joseph</gn><fn>Sargent</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>James</gn><fn>Bridges</fn></writer>
+      <sources>
+       <source>
+        <title>Colossus</title>
+        <authors>
+         <author><gn>D</gn><mn>F</mn><fn>Jones</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Folmar</gn><fn>Blangsted</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Gene</gn><fn>Polito</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Eric</gn><fn>Braeden</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Charles</gn><fn>Forbin</fn></as>
+      </role>
+      <role>
+       <actor><gn>Susan</gn><fn>Clark</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Cleo</gn><fn>Markham</fn></as>
+      </role>
+      <role>
+       <actor><gn>Gordon</gn><fn>Pinsent</fn></actor>
+       <as><title>The President</title></as>
+      </role>
+      <role>
+       <actor><gn>William</gn><fn>Schallert</fn></actor>
+       <as><preTitle>CIA Director</preTitle><fn>Grauber</fn></as>
+      </role>
+      <role>
+       <actor><gn>Leonid</gn><fn>Rostoff</fn></actor>
+       <as><title>Russian Chairman</title></as>
+      </role>
+      <role>
+       <actor><gn>Georg</gn><mn>Stanford</mn><fn>Brown</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>John</gn><fn>Fischer</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

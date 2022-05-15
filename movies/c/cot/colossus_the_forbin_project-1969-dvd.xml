@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Colossus: The Forbin Project</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+    <publisher>Universal</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>025192620423</barcode>
+    <barcode type='isbn' scanlines='false'>1417026871</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='colossus_the_forbin_project-1969-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

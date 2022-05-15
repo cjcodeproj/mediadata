@@ -1,0 +1,135 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Deliverance</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>085391142775</barcode>
+    <barcode type='isbn' scanlines='false'>1-4198-5940-9</barcode>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>114277A</value>
+     <value>114277B</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Deliverance</title>
+    <catalog>
+     <copyright>
+      <year>1972</year>
+      <holders>
+       <holder>Warner Bros. Inc</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Adventure</primary>
+      <secondary>Thriller</secondary>
+      <specific>The Wrong River</specific>
+      <subgenres>
+       <subgenre>based on a novel</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='23062'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H49M2S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Four men plan an adventurous weekend trip canoeing down a river in the mountains.  But the local population doesn't take too kindly to the visitors
+      and their vacationing attitude.
+     </plot>
+     <keywords>
+      <generic>weekend trip</generic>
+      <generic>canoe</generic>
+      <group>
+       <generic>bowfishing</generic>
+       <generic>river</generic>
+       <generic>rapids</generic>
+       <generic>small town</generic>
+       <generic>rural area</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>arrogance</theme>
+      <theme>hubris</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>John</gn><fn>Boorman</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>James</gn><fn>Dickey</fn></writer>
+      <writer><gn>John</gn><fn>Boorman</fn></writer>
+      <sources>
+       <source>
+        <title>Deliverance</title>
+        <authors>
+         <author><gn>James</gn><fn>Dickey</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Tom</gn><fn>Priestley</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Vilmos</gn><fn>Zsigmond</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Burt</gn><fn>Reynolds</fn></actor>
+       <as><gn>Lewis</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jon</gn><fn>Voight</fn></actor>
+       <as><gn>Ed</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ned</gn><fn>Beatty</fn></actor>
+       <as><gn>Bobby</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ronny</gn><fn>Cox</fn></actor>
+       <as><gn>Drew</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

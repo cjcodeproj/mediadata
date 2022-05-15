@@ -1,0 +1,154 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The Hollow Point</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <releaseDate>2017-01-17</releaseDate>
+   </release>
+   <productId>
+    <barcode type='upc'>031398259893</barcode>
+    <sku retailer='amzn' type='asin'>B01LTHWXZC</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case slipcover='true'>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Hollow Point</title>
+    <catalog>
+     <copyright>
+      <year>2016</year>
+      <holders>
+       <holder>Carrion Road Productions LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Crime</secondary>
+      <secondary>Thriller</secondary>
+      <specific>Lone Sheriff</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H37M10S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A small town deputy discovers a smuggling operation shipping ammunition down 
+      to Mexico for the drug cartels.  Unfortunately, some of the towns people are
+      involved in the operation, so getting help stopping the shipments isn't going
+      to happen anytime soon.  Most people in the town wish he would just stop
+      digging where he doesn't need to.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><st>Arizona</st></place></properNoun>
+       <generic>border</generic>
+       <generic>small town</generic>
+       <generic>smuggling</generic>
+       <generic>roadside memorial marker</generic>
+       <generic>exurb</generic>
+       <generic>housing development</generic>
+       <generic>hospital</generic>
+       <generic>used car lot</generic>
+      </group>
+      <group>
+        <generic>sheriff</generic>
+        <generic>deputy</generic>
+        <generic>cop car</generic>
+        <generic>prison</generic>
+        <generic>prison guard</generic>
+      </group>
+      <group>
+       <generic>gun</generic>
+       <generic>shotgun</generic>
+       <generic>smoke grenade</generic>
+       <generic>machete</generic>
+       <generic>sledgehammer</generic>
+       <generic>ammunition</generic>
+      </group>
+      <group>
+        <generic>dismemberd hand</generic>
+        <generic>broken foot</generic>
+        <generic>fist fight</generic>
+        <generic>hostages</generic>
+        <generic>shootout</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>corruption</theme>
+      <theme>desperation</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Gonzalo</gn><fn>López-Gallego</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Nils</gn><fn>Lyew</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Gonzalo</gn><fn>López-Gallego</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>José</gn><mn>David</mn><fn>Montero</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Patrick</gn><fn>Wilson</fn></actor>
+       <as><gn>Wallace</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ian</gn><fn>McShane</fn></actor>
+       <as><gn>Leland</gn></as>
+      </role>
+      <role>
+       <actor><gn>John</gn><fn>Leguizamo</fn></actor>
+       <as><gn>Atticus</gn></as>
+      </role>
+      <role>
+       <actor><gn>Lynn</gn><fn>Collins</fn></actor>
+       <as><gn>Marla</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jim</gn><fn>Belushi</fn></actor>
+       <as><gn>Shep</gn><fn>Diaz</fn></as>
+      </role>
+      <role>
+       <actor><gn>Karli</gn><fn>Hall</fn></actor>
+       <as><gn>Lilly</gn></as>
+      </role>
+      <role>
+       <actor><gn>David</gn><mn>H</mn><fn>Stevens</fn></actor>
+       <as><gn>Ken</gn><fn>Mercy</fn></as>
+      </role>
+      <role>
+       <actor><gn>Derek</gn><fn>Boone</fn></actor>
+       <as><gn>Samuel</gn><fn>Gibbons</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

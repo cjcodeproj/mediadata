@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>Contagion</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>88392919765</barcode>
+    <barcode type='isbm' scanlines='false'>078067734X</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+      <dvd/>
+      <codesheet><service>UltraViolet</service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Contagion</title>
+    <catalog>
+     <copyright>
+      <year>2011</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Thriller</primary>
+      <secondary>Drama</secondary>
+      <secondary>Action</secondary>
+      <specific>Pandemic Thriller</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H46M25S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <logline>Medical professionals fight a global pandemic</logline>
+     <plot>
+      Medical experts from around the world must battle a pandemic, before the situation 
+      gets seriously out of control.  A mutating gene, beaurocracy, Internet disinformation 
+      grifters, food shortages, and general panic do not make things easier.
+     </plot>
+     <keywords>
+      <generic>pandemic</generic>
+      <properNoun><entity>CDC</entity></properNoun>
+      <properNoun><entity>Homeland Security</entity></properNoun>
+      <group>
+       <generic>immunity</generic>
+       <generic>vaccine</generic>
+      </group>
+      <group>
+       <properNoun><place><ci>Chicago</ci></place></properNoun>
+       <properNoun><place><ci>Minneapolis</ci><st>Minnesota</st></place></properNoun>
+       <properNoun><place><ci>Atlanta</ci><st>Georgia</st></place></properNoun>
+       <properNoun><place><ci>San Francisco</ci><st>California</st></place></properNoun>
+      </group>
+     </keywords>
+     <themes>
+      <theme>fear</theme>
+      <theme>uncertainly</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Steve</gn><fn>Soderbergh</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Scott</gn><mn>Z</mn><fn>Burns</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Stephen</gn><fn>Mirrione</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Steve</gn><fn>Soderbergh</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Gwyneth</gn><fn>Paltrow</fn></actor>
+       <as><gn>Beth</gn><fn>Emhoff</fn></as>
+      </role>
+      <role>
+       <actor><gn>Matt</gn><fn>Damon</fn></actor>
+       <as><gn>Mitch</gn><fn>Emhoff</fn></as>
+      </role>
+      <role>
+       <actor><gn>Laurence</gn><fn>Fishburne</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Ellis</gn><fn>Cheever</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jude</gn><fn>Law</fn></actor>
+       <as><gn>Alan</gn><fn>Krumwiede</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kate</gn><fn>Winslet</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Erin</gn><fn>Mears</fn></as>
+      </role>
+      <role>
+       <actor><gn>Enrico</gn><fn>Colantoni</fn></actor>
+       <as><gn>Dennis</gn><fn>French</fn></as>
+      </role>
+      <role>
+       <actor><gn>Elliiot</gn><fn>Gould</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Ian</gn><fn>Sussman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Bryan</gn><fn>Cranston</fn></actor>
+       <as><preTitle>Rear Admiral</preTitle><gn>Lyle</gn><fn>Haggerty</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

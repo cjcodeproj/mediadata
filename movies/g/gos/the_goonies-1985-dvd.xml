@@ -1,0 +1,32 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The Goonies</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>085391163145</barcode>
+    <barcode type='isbn' scanlines='false'>1-4198-5512-3</barcode>
+    <other>
+     <name>Proof Of Purcahse</name>
+     <value>116314A</value>
+     <value>116314B</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='the_goonies-1985-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

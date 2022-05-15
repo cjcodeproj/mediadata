@@ -1,0 +1,136 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Sleepless In Seattle</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>043396016323</barcode>
+    <barcode type='isbn'>1404939415</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Sleepless In Seattle</title>
+    <catalog>
+     <copyright>
+      <year>1993</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Romance</primary>
+      <secondary>Comedy</secondary>
+      <specific>Cross Country Romance</specific>
+      <subgenres>
+       <subgenre>blockbuster</subgenre>
+      </subgenres>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H44M59S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A widowed architech moves to Seattle after his wife dies, where he can focus on raising his kid.  But his kid wants him to 
+      fall in love with a woman from Baltimore that heard their story on a late night radio talk show.
+     </plot>
+     <keywords>
+      <generic>radio psychiatrist</generic>
+      <generic>radio show</generic>
+      <generic>widow</generic>
+      <generic>single parent</generic>
+      <generic>airplane</generic>
+      <generic>houseboat</generic>
+      <generic>architect</generic>
+      <generic>private investigator</generic>
+      <generic>background check</generic>
+      <properNoun><thing>Lexus-Nexus</thing></properNoun>
+      <properNoun><place><ci>Seattle</ci></place></properNoun>
+      <properNoun><place><ci>Chicago</ci></place></properNoun>
+      <properNoun><place><ci>Baltimore</ci></place></properNoun>
+      <properNoun><place><name>Empire State Building</name></place></properNoun>
+      <properNoun><event>Christmas</event></properNoun>
+      <properNoun><event>Valentine's Day</event></properNoun>
+      <group>
+       <generic>dating</generic>
+       <generic>wedding</generic>
+       <generic>wedding planning</generic>
+       <generic>engagement</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>finding true love</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Nora</gn><fn>Ephron</fn></director>
+     </directors>
+     <writers>
+      <writer role='story'><gn>Jeff</gn><fn>Arch</fn></writer>
+      <writer role='screenplay'><gn>Nora</gn><fn>Ephron</fn></writer>
+      <writer role='screenplay'><gn>David</gn><mn>S</mn><fn>Ward</fn></writer>
+      <writer role='screenplay'><gn>Jeff</gn><fn>Arch</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Robert</gn><mn>M</mn><fn>Reitano</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Sven</gn><fn>Nykvist</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Tom</gn><fn>Hanks</fn></actor>
+       <as><gn>Sam</gn><fn>Baldwin</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ross</gn><fn>Malinger</fn></actor>
+       <as><gn>Jonah</gn><fn>Baldwin</fn></as>
+      </role>
+      <role>
+       <actor><gn>Meg</gn><fn>Ryan</fn></actor>
+       <as><gn>Annie</gn><fn>Reed</fn></as>
+      </role>
+      <role>
+       <actor><gn>Bill</gn><fn>Pullman</fn></actor>
+       <as><gn>Walter</gn></as>
+      </role>
+      <role>
+       <actor><gn>David</gn><fn>Hyde Pierce</fn></actor>
+       <as><gn>Dennis</gn><fn>Reed</fn></as>
+      </role>
+      <role>
+       <actor><gn>Rosie</gn><fn>O'Donnell</fn></actor>
+       <as><gn>Becky</gn></as>
+      </role>
+      <role>
+       <actor><gn>Caroline</gn><fn>Aaron</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Marsha</gn><fn>Fieldstone</fn><variant>voice</variant></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

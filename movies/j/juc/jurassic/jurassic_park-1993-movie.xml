@@ -1,0 +1,147 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Jurassic Park</title>
+    <catalog>
+     <copyright>
+      <year>1993</year>
+      <holders>
+       <holder>Universal City Studios, Inc.</holder>
+       <holder>Amblin Entertainment, Inc.</holder>
+      </holders>
+     </copyright>
+     <!-- country of first publication: US -->
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Sci-Fi</secondary>
+      <specific>Out Of Control Dinosaurs</specific>
+      <subgenres>
+       <subgenre>blockbuster</subgenre>
+       <subgenre>based on a book</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='32451'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT02H06M36S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Three scientists are asked to evaluate a private island resort, which turns out to be an amusement park featuring 
+      clones of living dinosaurs.  Unfortunately, they find out that the park's control systems are inadequate to contain
+      the creatures, and they find themselves stuck in the resort with no way to get out.
+     </plot>
+     <keywords>
+      <group>
+        <generic>island</generic>
+        <generic>paleantologist</generic>
+        <generic>helicopter</generic>
+        <generic>espionage</generic>
+        <generic>sabotage</generic>
+        <generic>zoo</generic>
+        <generic>amusement park</generic>
+        <properNoun><thing>UNIX</thing></properNoun>
+      </group>
+      <group>
+       <generic>dinosaurs</generic>
+       <properNoun><thing>Tyrannosaurus Rex</thing></properNoun>
+       <properNoun><thing>Brontosaurus</thing></properNoun>
+       <properNoun><thing>Velociraptor</thing></properNoun>
+       <properNoun><thing>Triceratops</thing></properNoun>
+       <properNoun><thing>Dilophosaurus</thing></properNoun>
+       <properNoun><thing>Gallimimus</thing></properNoun>
+      </group>
+     </keywords>
+     <themes>
+      <theme>hubris</theme>
+      <theme>illusions</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Steven</gn><fn>Spielberg</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>David</gn><fn>Koepp</fn></writer>
+      <writer><gn>Michael</gn><fn>Crichton</fn></writer>
+      <sources>
+       <source>
+        <title>Jurassic Park</title>
+        <authors>
+         <author><gn>Michael</gn><fn>Crichton</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Michael</gn><fn>Kahn</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Dean</gn><fn>Cundey</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Sam</gn><fn>Neill</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Alan</gn><fn>Grant</fn></as>
+      </role>
+      <role>
+       <actor><gn>Laura</gn><fn>Dern</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Ellie</gn><fn>Sattler</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jeff</gn><fn>Goldblum</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Ian</gn><fn>Malcom</fn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Attenborough</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>John</gn><fn>Hammond</fn></as>
+      </role>
+      <role>
+       <actor><gn>Bob</gn><fn>Peck</fn></actor>
+       <as><gn>Robert</gn><fn>Muldoon</fn></as>
+      </role>
+      <role>
+       <actor><gn>Martin</gn><fn>Ferrero</fn></actor>
+       <as><gn>Donald</gn><fn>Gennaro</fn></as>
+      </role>
+      <role>
+       <actor><gn>BD</gn><fn>Wong</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Henry</gn><fn>Wu</fn></as>
+      </role>
+      <role>
+       <actor><gn>Joseph</gn><fn>Mazzello</fn></actor>
+       <as><gn>Tim</gn><fn>Murphy</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ariana</gn><fn>Richards</fn></actor>
+       <as><gn>Lex</gn><fn>Murphy</fn></as>
+      </role>
+      <role>
+       <actor><gn>Samuel</gn><mn>L</mn><fn>Jackson</fn></actor>
+       <as><gn>Ray</gn><fn>Arnold</fn></as>
+      </role>
+      <role>
+       <actor><gn>Wayne</gn><fn>Knight</fn></actor>
+       <as><gn>Dennis</gn><fn>Nedry</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

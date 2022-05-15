@@ -1,0 +1,134 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Legend Of Billie Jean</title>
+    <catalog>
+     <copyright>
+      <year>1985</year>
+      <holders>
+       <holder>Tri-Star Pictures, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Drama</secondary>
+      <specific>Runaway Kids</specific>
+     </genres>
+     <certifications>
+      <certificate ref='27559'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H35M07S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Four kids are on the run after an accidental confrontation.  Along the way they find themselves becoming 
+      folk heroes to other youth who feel disenfranchised by the adults in charge of the system.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><st>Texas</st></place></properNoun>
+       <properNoun><place><ci>Corpus Cristi</ci><st>Texas</st></place></properNoun>
+      </group>
+      <group>
+       <generic>station wagon</generic>
+       <generic>gun</generic>
+       <generic>scooter</generic>
+       <generic>trailer</generic>
+       <generic>trailer park</generic>
+       <generic>shopping mall</generic>
+       <generic>police detective</generic>
+       <generic>walkie talkies</generic>
+       <generic>marbles</generic>
+       <generic>fake gun</generic>
+       <generic>prepared statement</generic>
+       <properNoun><thing>Honda Elite</thing></properNoun>
+       <properNoun><person><gn>Jeanne</gn><fn>d'Arc</fn></person></properNoun>
+       <!-- Need a way to do "Joan Of Arc" -->
+       <generic>haircut</generic>
+       <generic>radio station</generic>
+      </group>
+      <group>
+        <generic>kidnapping</generic>
+        <generic>runaway</generic>
+        <generic>shooting</generic>
+        <generic>breaking and entering</generic>
+        <generic>reward</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme> </theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Matthew</gn><fn>Robbins</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Mark</gn><fn>Rosenthal</fn></writer>
+      <writer><gn>Lawrence</gn><fn>Konner</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Cynthia</gn><fn>Scheider</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Jeffrey</gn><mn>L</mn><fn>Kimball</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Helen</gn><fn>Slater</fn></actor>
+       <as><gn>Billie Jean</gn></as>
+      </role>
+      <role>
+       <actor><gn>Christian</gn><fn>Slater</fn></actor>
+       <as><gn>Binx</gn></as>
+      </role>
+      <role>
+       <actor><gn>Keith</gn><fn>Gordon</fn></actor>
+       <as><gn>Lloyd</gn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Bradford</fn></actor>
+       <as><fn>Pyatt</fn></as>
+      </role>
+      <role>
+       <actor><gn>Peter</gn><fn>Coyote</fn></actor>
+       <as><fn>Ringwald</fn></as>
+      </role>
+      <role>
+       <actor><gn>Martha</gn><fn>Gehman</fn></actor>
+       <as><gn>Ophelia</gn></as>
+      </role>
+      <role>
+       <actor><gn>Yeardley</gn><fn>Smith</fn></actor>
+       <as><gn>Putter</gn></as>
+      </role>
+      <role>
+       <actor><gn>Dean</gn><fn>Stockwell</fn></actor>
+       <as><fn>Muldaur</fn></as>
+      </role>
+      <role>
+       <actor><gn>Barry</gn><fn>Tubb</fn></actor>
+       <as><gn>Hubie</gn><fn>Pyatt</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

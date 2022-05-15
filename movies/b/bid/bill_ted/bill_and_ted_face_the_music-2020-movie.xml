@@ -1,0 +1,174 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Bill &amp; Ted Face The Music</title>
+    <catalog>
+     <altTitles>
+      <variantTitle sortable='true'>Bill And Ted Face The Music</variantTitle>
+     </altTitles>
+     <copyright>
+      <year>2020</year>
+      <holders>
+       <holder>Bill &amp; Ted FTM, LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Adventure</primary>
+      <secondary>Comedy</secondary>
+      <specific>Slacker Adult Adventure</specific>
+      <subgenres>
+       <subgenre>sequel</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='52761'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H31M56S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      Now adults, Bill and Ted struggle to write the music they believed would bring about a new era
+      of peace and prosperity.  They decide to travel to the future to see if they can meet their 
+      older selves as a way to get the music, while their two daughters also time travel to meet
+      the music influences that were important to Bill and Ted while they were growing up.
+     </plot>
+     <keywords>
+      <generic>time travel</generic>
+      <generic>time paradox</generic>
+      <generic>meeting yourself</generic>
+      <group>
+       <generic>music</generic>
+       <generic>music influencers</generic>
+       <generic>songwriting</generic>
+      </group>
+      <group>
+       <properNoun><person><gn>Death</gn></person></properNoun>
+      </group>
+      <group>
+       <generic>wedding</generic>
+       <generic>marriage</generic>
+       <generic>marriage counseling</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme> </theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Dean</gn><fn>Parisot</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Chris</gn><fn>Matheson</fn></writer>
+      <writer><gn>Ed</gn><fn>Solomon</fn></writer>
+      <sources>
+       <source>
+        <title>Characters</title>
+        <authors>
+         <author><gn>Chris</gn><fn>Matheson</fn></author>
+         <author><gn>Ed</gn><fn>Solomon</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Don</gn><fn>Zimmerman</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Shelly</gn><fn>Johnson</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Mark</gn><fn>Isham</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>Melanie</gn><fn>Jones</fn></productionDesigner>
+      <artDirector><gn>Zak</gn><fn>Faust</fn></artDirector>
+      <setDecorator><gn>Selina</gn><fn>van den Brink</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Jennifer</gn><fn>Starzyk</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Nicole</gn><fn>Abellera</fn></director>
+      <director><gn>Jeanne</gn><fn>McCarthy</fn></director>
+      <director><gn>Leslie</gn><fn>Woo</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Keanu</gn><fn>Reeves</fn></actor>
+       <as><gn>Ted</gn></as>
+      </role>
+      <role>
+       <actor><gn>Alex</gn><fn>Winter</fn></actor>
+       <as><gn>Bill</gn></as>
+      </role>
+      <role>
+       <actor><gn>Kristen</gn><fn>Schaal</fn></actor>
+       <as><gn>Kelly</gn></as>
+      </role>
+      <role>
+       <actor><gn>Samara</gn><fn>Weaving</fn></actor>
+       <as><gn>Thea</gn></as>
+      </role>
+      <role>
+       <actor><gn>Bridgette</gn><fn>Lundy-Paine</fn></actor>
+       <as><gn>Billie</gn></as>
+      </role>
+      <role>
+       <actor><gn>William</gn><fn>Sadler</fn></actor>
+       <as><title>Death</title></as>
+      </role>
+      <role>
+       <actor><gn>Anthony</gn><fn>Carrigan</fn></actor>
+       <as><gn>Dennis</gn><mn>Caleb</mn><fn>McCoy</fn></as>
+      </role>
+      <role>
+       <actor><gn>Erinn</gn><fn>Hayes</fn></actor>
+       <as><gn>Elizabeth</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jayma</gn><fn>Mays</fn></actor>
+       <as><gn>Joanna</gn></as>
+      </role>
+      <role>
+       <actor><gn>Hal</gn><fn>Landon</fn><postTitle>Jr.</postTitle></actor>
+       <as><preTitle>Chief</preTitle><fn>Logan</fn></as>
+      </role>
+      <role>
+       <actor><gn>Beck</gn><fn>Bennett</fn></actor>
+       <as><gn>Deacon</gn></as>
+      </role>
+      <role>
+       <actor><gn>Kid</gn><fn>Cudi</fn></actor>  <!-- stage name -->
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Amy</gn><fn>Stoch</fn></actor>
+       <as><gn>Missy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Holland</gn><fn>Taylor</fn></actor>
+       <as><title>The Great Leader</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

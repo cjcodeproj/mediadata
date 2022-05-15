@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Bill And Ted's Most Excellent Double Feature</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Shout Factory</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>826663171082</barcode>
+    <sku retailer='tgt'>058397212</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='bill_and_teds_excellent_adventure-1989-movie.xml'/>
+   <xi:include href='bill_and_teds_bogus_journey-1991-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

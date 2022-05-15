@@ -1,0 +1,178 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Only The Brave</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>043396514706</barcode>
+    <sku retailer='bby'>6144919</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case slipcover='true'>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Only The Brave</title>
+    <catalog>
+     <copyright>
+      <year>2017</year>
+      <holders>
+       <holder>No Exit Film, LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Drama</secondary>
+      <secondary>Biography</secondary>
+      <specific>Firefighter Story</specific>
+      <subgenres>
+       <subgenre>based on an article</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='51037'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H14M03S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A young man joins an elite group of firefighters that tackle forest fires 
+      in Arizona.  He learns the ropes quickly, and helps them battle some 
+      of the toughest fires in the area.
+     </plot>
+     <keywords>
+      <group>
+       <generic>fightfighters</generic>
+       <generic>firefighting</generic>
+       <generic>forest fires</generic>
+      </group>
+      <properNoun><place><ci>Prescott</ci><st>Arizona</st></place></properNoun>
+     </keywords>
+     <themes>
+      <theme>duty</theme>
+      <theme>redemption</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Joseph</gn><fn>Kosinski</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Ken</gn><fn>Nolan</fn></writer>
+      <writer><gn>Eric</gn><mn>Warren</mn><fn>Singer</fn></writer>
+      <sources>
+       <source>
+        <title>No Exit</title>
+        <authors>
+         <author><gn>Sean</gn><fn>Flynn</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Billy</gn><fn>Fox</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Claudio</gn><fn>Miranda</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Joseph</gn><fn>Trapanese</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>Kevin</gn><fn>Kavanaugh</fn></productionDesigner>
+      <artDirector><gn>Marisa</gn><fn>Frantz</fn></artDirector>
+      <artDirector><gn>David</gn><fn>Meyer</fn></artDirector>
+      <setDecorator><gn>Meg</gn><fn>Everist</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Louise</gn><fn>Mingenbach</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Jo Edna</gn><fn>Boldin</fn></director>
+      <director><gn>Ronna</gn><fn>Kress</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Josh</gn><fn>Brolin</fn></actor>
+       <as><gn>Eric</gn><fn>Marsh</fn></as>
+      </role>
+      <role>
+       <actor><gn>Miles</gn><fn>Teller</fn></actor>
+       <as><gn>Brendan</gn><fn>McDonough</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jeff</gn><fn>Bridges</fn></actor>
+       <as><gn>Duane</gn><fn>Steinbrink</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jennifer</gn><fn>Connelly</fn></actor>
+       <as><gn>Amanda</gn><fn>Marsh</fn></as>
+      </role>
+      <role>
+       <actor><gn>James</gn><mn>Badge</mn><fn>Dale</fn></actor>
+       <as><gn>Jesse</gn><fn>Steed</fn></as>
+      </role>
+      <role>
+       <actor><gn>Taylor</gn><fn>Kitsch</fn></actor>
+       <as><gn>Christopher</gn><fn>MacKenzie</fn></as>
+      </role>
+      <role>
+       <actor><gn>Andie</gn><fn>MacDowell</fn></actor>
+       <as><gn>Marvel</gn><fn>Steinbrink</fn></as>
+      </role>
+      <role>
+       <actor><gn>Geoff</gn><fn>Stults</fn></actor>
+       <as><gn>Travis</gn><fn>Turbyfill</fn></as>
+      </role>
+      <role>
+       <actor><gn>Alex</gn><fn>Russell</fn></actor>
+       <as><gn>Andrew</gn><fn>Ashcraft</fn></as>
+      </role>
+      <role>
+       <actor><gn>Thad</gn><fn>Luckinbill</fn></actor>
+       <as><gn>Scott</gn><fn>Norris</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ben</gn><fn>Hardy</fn></actor>
+       <as><gn>Wade</gn><fn>Parker</fn></as>
+      </role>
+      <role>
+       <actor><gn>Scott</gn><fn>Haze</fn></actor>
+       <as><gn>Clayton</gn><fn>Whitted</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

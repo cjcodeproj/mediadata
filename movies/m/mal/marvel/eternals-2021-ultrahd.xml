@@ -1,0 +1,171 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Eternals</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>786936881349</barcode>
+    <sku retailer='bby'>6487916</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Eternals</title>
+    <catalog>
+     <copyright>
+      <year>2021</year>
+      <holders>
+       <holder>Marvel</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Adventure</secondary>
+      <secondary>Sci-Fi</secondary>
+      <specific>Immortal Beings On Earth</specific>
+      <subgenres>
+       <subgenre>based on a comic book</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='53410'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H35M50S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A team of robots work towards subtly advancing the human race throughout history, while protecting them
+      from an alien entity; not realizing that their entire purpose may lead to the eventual destruction of mankind.
+     </plot>
+     <keywords>
+      <group>
+       <generic>ancient history</generic>
+       <generic>cultural development</generic>
+      </group>
+      <group>
+       <generic>robots</generic>
+       <generic>memory reset</generic>
+       <generic>immortality</generic>
+       <generic>energy weapons</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>guidance</theme>
+      <theme>self awareness</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Chloé</gn><fn>Zhao</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Chloé</gn><fn>Zhao</fn></writer>
+      <writer role='screenplay'><gn>Patrick</gn><fn>Burleigh</fn></writer>
+      <writer role='screenplay'><gn>Ryan</gn><fn>Firpo</fn></writer>
+      <writer role='screenplay'><gn>Kaz</gn><fn>Firpo</fn></writer>
+      <writer role='story'><gn>Ryan</gn><fn>Firpo</fn></writer>
+      <writer role='story'><gn>Kaz</gn><fn>FIrpo</fn></writer>
+      <sources>
+       <source>
+        <title>The Eternals</title>
+        <authors>
+         <author><gn>Jack</gn><fn>Kirby</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Dylan</gn><fn>Tichenor</fn></editor>
+      <editor><gn>Craig</gn><fn>Wood</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Ben</gn><fn>Davis</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Gemma</gn><fn>Chan</fn></actor>
+       <as><gn>Sersi</gn></as>
+      </role>
+      <role>
+       <actor><gn>Richard</gn><fn>Madden</fn></actor>
+       <as><gn>Ikaris</gn></as>
+      </role>
+      <role>
+       <actor><gn>Angelina</gn><fn>Jolie</fn></actor>
+       <as><gn>Thena</gn></as>
+      </role>
+      <role>
+       <actor><gn>Selma</gn><fn>Hayek</fn></actor>
+       <as><gn>Ajak</gn></as>
+      </role>
+      <role>
+       <actor><gn>Kit</gn><fn>Harrington</fn></actor>
+       <as><gn>Dane</gn><fn>Whitman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kumail</gn><fn>Nanjiani</fn></actor>
+       <as><gn>Kingo</gn></as>
+      </role>
+      <role>
+       <actor><gn>Lia</gn><fn>McHugh</fn></actor>
+       <as><gn>Sprite</gn></as>
+      </role>
+      <role>
+       <actor><gn>Brian</gn><mn>Tyree</mn><fn>Henry</fn></actor>
+       <as><gn>Phastos</gn></as>
+      </role>
+      <role>
+       <actor><gn>Lauren</gn><fn>Ridloff</fn></actor>
+       <as><gn>Makkari</gn></as>
+      </role>
+      <role>
+       <actor><gn>Barry</gn><fn>Keoghan</fn></actor>
+       <as><gn>Druig</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ma</gn><fn>Dong-seok</fn></actor>
+       <as><gn>Gilgamesh</gn></as>
+      </role>
+      <role>
+       <actor><gn>Harish</gn><fn>Patel</fn></actor>
+       <as><gn>Karun</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

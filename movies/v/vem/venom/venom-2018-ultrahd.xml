@@ -1,0 +1,149 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Venom</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+    <releaseDate>2018-12-18</releaseDate>
+   </release>
+   <productId>
+    <barcode type='upc'>043396530218</barcode>
+    <sku retailer='amzn' type='asin'>B07HSMCMMD</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Venom</title>
+    <catalog>
+     <copyright>
+      <year>2018</year>
+      <holders>
+       <holder>Columbia Pictures INdustries, Inc.</holder>
+       <holder>Tencent Pictures (USA) LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Sci-Fi</secondary>
+      <specific>Alien Superhero</specific>
+      <subgenres>
+       <subgenre>based on a comic series</subgenre>
+       <subgenre>based on a comic book character</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='51435'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H52M8S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An self-centered investigative reporter, with a career spiraling out of control accidentally becomes the host to an alien symbiote creature
+      that constantly needs to eat flesh in order to survive.  Pairing up together, they form a reluctant bond as they try to 
+      figure out how the aliens arrived on Earth, and got into the hands of a private space industrialist.
+     </plot>
+     <keywords>
+      <generic>symbiote</generic>
+      <generic>news reporter</generic>
+      <generic>space shuttle</generic>
+      <generic>bodega</generic>
+     </keywords>
+     <themes>
+      <theme>cooperation</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Ruben</gn><fn>Fleischer</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Jeff</gn><fn>Pinkner</fn></writer>
+      <writer role='screenplay'><gn>Scott</gn><fn>Rosenberg</fn></writer>
+      <writer role='screenplay'><gn>Kelly</gn><fn>Marcel</fn></writer>
+      <writer role='story'><gn>Jeff</gn><fn>Pinkner</fn></writer>
+      <writer role='story'><gn>Scott</gn><fn>Rosenberg</fn></writer>
+      <sources>
+       <source>
+        <title>Venon</title>
+        <authors>
+         <author><gn>Todd</gn><fn>McFarlane</fn></author>
+         <author><gn>David</gn><fn>Michelinie</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Alan</gn><fn>Baumgarten</fn></editor>
+      <editor><gn>Maryann</gn><fn>Brandon</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Matthew</gn><fn>Libatique</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Tom</gn><fn>Hardy</fn></actor>
+       <as><gn>Eddie</gn><fn>Brock</fn></as>
+       <as><gn>Venom</gn></as>
+      </role>
+      <role>
+       <actor><gn>Michelle</gn><fn>Williams</fn></actor>
+       <as><gn>Anne</gn><fn>Waying</fn></as>
+      </role>
+      <role>
+       <actor><gn>Riz</gn><fn>Ahmed</fn></actor>
+       <as><gn>Carlton</gn><fn>Drake</fn></as>
+       <as><gn>Riot</gn></as>
+      </role>
+      <role>
+       <actor><gn>Scott</gn><fn>Haze</fn></actor>
+       <as><preTitle>Security Chief</preTitle><gn>Roland</gn><fn>Treece</fn></as>
+      </role>
+      <role>
+       <actor><gn>Reid</gn><fn>Scott</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Dan</gn><fn>Lewis</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jenny</gn><fn>Slate</fn></actor>
+       <as><preTitle>Dr</preTitle><gn>Dora</gn><fn>Skirth</fn></as>
+      </role>
+      <role>
+       <actor><gn>Peggy</gn><fn>Lu</fn></actor>
+       <as><preTitle>Mrs</preTitle><fn>Chen</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

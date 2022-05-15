@@ -1,0 +1,156 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Death On The Nile</title>
+    <catalog>
+     <copyright>
+      <year>2020</year>
+      <holders>
+       <holder>20th Century Studios</holder>
+       <holder>TSG Entertainment Finance LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Mystery</primary>
+      <specific>Boat Mystery</specific>
+      <subgenres>
+       <subgenre>whodunnit</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='52577'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H6M57S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      <chr>Hercule Poirot</chr> must investigate the murder of a wealthy socialite who was killed
+      on a river boat, which is tricky, because pretty much everyone on that boat hated her for 
+      one reason or another.
+     </plot>
+     <keywords>
+      <generic>boat</generic>
+      <generic>river cruise</generic>
+      <generic>murder</generic>
+      <group>
+       <properNoun><place><cn>Egypt</cn></place></properNoun>
+       <properNoun relevance='4'><place><ci>London</ci></place></properNoun>
+      </group>
+      <group>
+       <generic> </generic>
+       <generic> </generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme> </theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Kenneth</gn><fn>Branagh</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Michael</gn><fn>Green</fn></writer>
+      <sources>
+       <source>
+        <title>Death On The Nile</title>
+        <authors>
+         <author><gn>Agatha</gn><fn>Christie</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Úna</gn><mn>Ní</mn><fn>Dhonghaíle</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Haris</gn><fn>Zambarloukos</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Patrick</gn><fn>Doyle</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>Jim</gn><fn>Clay</fn></productionDesigner>
+      <artDirector><gn>Andrew</gn><fn>Ackland-Snow</fn></artDirector>
+      <artDirector><gn>Ravi</gn><fn>Bansal</fn></artDirector>
+      <artDirector><gn>Steve</gn><fn>Lawrence</fn></artDirector>
+      <artDirector><gn>Katrina</gn><fn>Mackay</fn></artDirector>
+      <artDirector><gn>Dominic</gn><fn>Masters</fn></artDirector>
+      <artDirector><gn>Mike</gn><fn>Stallion</fn></artDirector>
+      <artDirector><gn>Stephen</gn><fn>Swain</fn></artDirector>
+      <setDecorator><gn>Abi</gn><fn>Groves</fn></setDecorator>
+      <setDecorator><gn>Amanda</gn><fn>Willgrave</fn></setDecorator>  <!-- florist -->
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Paco</gn><fn>Delgado</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Lucy</gn><fn>Bevan</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Kenneth</gn><fn>Branagh</fn></actor>
+       <as><gn>Hercule</gn><fn>Poirot</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tom</gn><fn>Bateman</fn></actor>
+       <as><fn>Bouc</fn></as>
+      </role>
+      <role>
+       <actor><gn>Annette</gn><fn>Bening</fn></actor>
+       <as><gn>Euphemia</gn><fn>Bouc</fn></as>
+      </role>
+      <role>
+       <actor><gn>Gal</gn><fn>Gadot</fn></actor>
+       <as><gn>Linnet</gn><fn>Ridgeway</fn></as>
+      </role>
+      <role>
+       <actor><gn>Arnie</gn><fn>Hammer</fn></actor>
+       <as><gn>Simon</gn><fn>Doyle</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jennifer</gn><fn>Saunders</fn></actor>
+       <as><gn>Marie</gn><fn>Van Schuyler</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dawn</gn><fn>French</fn></actor>
+       <as><fn>Bowers</fn></as>
+      </role>
+      <role>
+       <actor><gn>Russell</gn><fn>Brand</fn></actor>
+       <as><fn>Windlesham</fn></as>
+      </role>
+      <role>
+       <actor><gn>Sophie</gn><fn>Okonedo</fn></actor>
+       <as><gn>Salome</gn><fn>Otterbourne</fn></as>
+      </role>
+      <role>
+       <actor><gn>Letitia</gn><fn>Wright</fn></actor>
+       <as><gn>Rosalie</gn><fn>Otterbourne</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ali</gn><fn>Fazal</fn></actor>
+       <as><fn>Katchadourian</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

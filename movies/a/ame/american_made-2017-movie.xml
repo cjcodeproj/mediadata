@@ -1,0 +1,156 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>American Made</title>
+    <catalog>
+     <copyright>
+      <year>2017</year>
+      <holders>
+       <holder>CCP MENA Film Holdings II LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Comedy</secondary>
+      <secondary>Crime</secondary>
+      <specific>Drug Running Pilot</specific>
+      <subgenres>
+       <subgenre>based on a true story</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='51109'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H54M53S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A small time airline pilot finds himself recruited by the CIA, for the purpose of 
+      unauthorized flights.  Most of his work involves bringing drugs into America
+      from Columbia, delivering money to Noriega, running guns, and laundering cash.
+     </plot>
+     <keywords>
+      <generic>pilot</generic>
+      <properNoun><entity>Central Intelligence Agency</entity></properNoun>
+      <properNoun><entity>Drug Enforcement Agency</entity></properNoun>
+      <properNoun><entity>Federal Bureau of Investigation</entity></properNoun>
+      <properNoun><event>Iran/Contra Affair</event></properNoun>
+      <properNoun><place><cn>Columbia</cn></place></properNoun>
+      <properNoun><place><ci>Mena</ci><st>Arkansas</st></place></properNoun>
+     </keywords>
+     <themes>
+      <theme>greed</theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Doug</gn><fn>Liman</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Gary</gn><fn>Spinelli</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Andrew</gn><fn>Mondshein</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>César</gn><fn>Charlone</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Christopher</gn><fn>Beck</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>Dan</gn><fn>Weil</fn></productionDesigner>
+      <artDirector><gn>Patricia</gn><fn>Arango</fn></artDirector>
+      <artDirector><gn>Elizabeth</gn><fn>Cummings</fn></artDirector>
+      <artDirector><gn>Christina</gn><fn>Eunji Kim</fn></artDirector>
+      <artDirector><gn>Justin</gn><fn>O'Neal Miller</fn></artDirector>
+      <artDirector><gn>Thomas</gn><fn>Minton</fn></artDirector>
+      <artDirector><gn>María</gn><mn>Fernanda</mn><fn>Muñoz</fn></artDirector>
+      <setDecorator><gn>Kelly</gn><fn>Burney</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Kym</gn><fn>Barrett</fn></costumeDesigner>
+      <costumeDesigner><gn>Jenny</gn><fn>Gering</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Mindy</gn><fn>Marin</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Tom</gn><fn>Cruise</fn></actor>
+       <as><gn>Barry</gn><fn>Seal</fn></as>
+      </role>
+      <role>
+       <actor><gn>Domhall</gn><fn>Gleeson</fn></actor>
+       <as><gn>Monty</gn><nick>Schafer</nick></as>
+      </role>
+      <role>
+       <actor><gn>Sarah</gn><fn>Wright</fn></actor>
+       <as><gn>Lucy</gn><fn>Seal</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jesse</gn><fn>Plemons</fn></actor>
+       <as><preTitle>Sheriff</preTitle><fn>Downing</fn></as>
+      </role>
+      <role>
+       <actor><gn>Caleb</gn><mn>Landry</mn><fn>Jones</fn></actor>
+       <as><gn>J.</gn><mn>B.</mn></as>
+      </role>
+      <role>
+       <actor><gn>Lola</gn><fn>Kirke</fn></actor>
+       <as><gn>Judy</gn><fn>Downing</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jayma</gn><fn>Mays</fn></actor>
+       <as><gn>Dana</gn><fn>Sibota</fn></as>
+      </role>
+      <role>
+       <actor><gn>Alejandro</gn><fn>Edda</fn></actor>
+       <as><gn>Jorge</gn><fn>Ochao</fn></as>
+      </role>
+      <role>
+       <actor><gn>Benito</gn><fn>Martinez</fn></actor>
+       <as><gn>James</gn><fn>Rangel</fn></as>
+      </role>
+      <role>
+       <actor><gn>E.</gn><mn>Roger</mn><fn>Mitchell</fn></actor>
+       <as><preTitle>Agent</preTitle><gn>Craig</gn><fn>McCall</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jed</gn><fn>Rees</fn></actor>
+       <as><gn>Louis</gn><fn>Finkle</fn></as>
+      </role>
+      <role>
+       <actor><gn>Fredy</gn><fn>Yate</fn></actor>
+       <as><gn>Carlos</gn><fn>Lehder</fn></as>
+      </role>
+      <role>
+       <actor><gn>Mauricio</gn><fn>Mejía</fn></actor>
+       <as><gn>Pablo</gn><fn>Escobar</fn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Farrior</fn></actor>
+       <as><gn>Oliver</gn><fn>North</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

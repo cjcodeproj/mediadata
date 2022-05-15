@@ -1,0 +1,135 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>8 Seconds</title>
+    <catalog>
+     <altTitles>
+      <variantTitle sortable='true'>Eight Seconds</variantTitle>
+     </altTitles>
+     <copyright>
+      <year>1994</year>
+      <holders>
+       <holder>New Line Productions, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Sport</secondary>
+      <secondary>Biography</secondary>
+      <specific>Story Of Lane Frost</specific>
+     </genres>
+     <certifications>
+      <certificate ref='32454'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H44M22S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      The story of Lane Frost, from starting out as a PRCA cowboy, his rise to fame, 
+      his NFR victory, the challenge of riding <kw>Red Rock</kw>,  until his death
+      at Cheyenne.
+     </plot>
+     <keywords>
+      <generic>rodeo</generic>
+      <generic>bull riding</generic>
+      <generic>cowboy</generic>
+      <group>
+       <properNoun><entity>PRCA</entity></properNoun>
+       <properNoun><event>Cheyenne Fronteir Days</event></properNoun>
+      </group>
+      <properNoun><thing>Whataburger</thing></properNoun>
+     </keywords>
+     <themes>
+      <theme> </theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>John</gn><mn>G.</mn><fn>Avildsen</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Monte</gn><fn>Merrick</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>J.</gn><mn>Douglas</mn><fn>Seelig</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Victor</gn><fn>Hammer</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Bill</gn><fn>Conti</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>William</gn><mn>J.</mn><fn>Cassidy</fn></productionDesigner>
+      <artDirector><gn>John</gn><fn>Frick</fn></artDirector>
+      <setDecorator><gn>Jenny</gn><mn>C.</mn><fn>Patrick</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Deena</gn><fn>Appel</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Caro</gn><fn>Jones</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Luke</gn><fn>Perry</fn></actor>
+       <as><gn>Lane</gn><fn>Frost</fn></as>
+      </role>
+      <role>
+       <actor><gn>James</gn><fn>Rebhorn</fn></actor>
+       <as><gn>Clyde</gn><fn>Frost</fn></as>
+      </role>
+      <role>
+       <actor><gn>Carrie</gn><fn>Snodgress</fn></actor>
+       <as><gn>Elsie</gn><fn>Frost</fn></as>
+      </role>
+      <role>
+       <actor><gn>Stephen</gn><fn>Baldwin</fn></actor>
+       <as><gn>Tuff</gn><fn>Hedeman</fn></as>
+      </role>
+      <role>
+       <actor><gn>Red</gn><fn>Mitchell</fn></actor>
+       <as><gn>Cody</gn><fn>Lambert</fn></as>
+      </role>
+      <role>
+       <actor><gn>Cynthia</gn><fn>Geary</fn></actor>
+       <as><gn>Kelly</gn><fn>Frost</fn></as>
+      </role>
+      <role>
+       <actor><gn>Linden</gn><fn>Ashby</fn></actor>
+       <as><gn>Martin</gn><fn>Hudson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Clint</gn><fn>Burkey</fn></actor>
+       <as><gn>Travis</gn></as>
+      </role>
+      <role>
+       <actor><gn>Cameron</gn><fn>Finley</fn></actor>
+       <as><gn>Lane</gn><fn>Frost</fn><variant>young</variant></as>
+      </role>
+      <role>
+       <actor><gn>Dustin</gn><fn>Mayfield</fn></actor>
+       <as><gn>Lane</gn><fn>Frost</fn><variant>teenager</variant></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

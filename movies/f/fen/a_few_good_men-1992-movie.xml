@@ -1,0 +1,176 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>A Few Good Men</title>
+    <catalog>
+     <copyright>
+      <year>1992</year>
+      <holders>
+       <holder>Columbia Pictures Industries, Inc.</holder>
+       <holder>Castle Rock Entertainment</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Thriller</secondary>
+      <specific>Military Courtroom Drama</specific>
+      <subgenres>
+       <subgenre>based on a play</subgenre>
+       <subgenre>courtroom movie</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='31954'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H18M1S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A JAG lawyer is tasked with defending two Marines who killed a member of their own squad.
+      They admit to doing it, but it was done under orders.
+     </plot>
+     <keywords>
+      <generic>murder</generic>
+      <group>
+       <properNoun><entity>US Navy</entity></properNoun>
+       <properNoun><entity>US Marines</entity></properNoun>
+       <properNoun><entity>Naval Investigative Service</entity></properNoun>
+       <properNoun><place><name>Naval Station Guantanamo Bay</name></place></properNoun>
+      </group>
+      <group>
+       <generic>court room</generic>
+       <generic>trial</generic>
+       <generic>judge</generic>
+       <generic>witness</generic>
+       <generic>deposition</generic>
+       <generic>expert witness</generic>
+       <generic>testimony</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>duty</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Rob</gn><fn>Reiner</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Aaron</gn><fn>Sorkin</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Robert</gn><fn>Leighton</fn></editor>
+      <editor><gn>Steven</gn><fn>Nevius</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Robert</gn><fn>Richardson</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Marc</gn><fn>Shaiman</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>J.</gn><mn>Michael</mn><fn>Riva</fn></productionDesigner>
+      <artDirector><gn>David</gn><mn>F.</mn><fn>Klassen</fn></artDirector>
+      <setDecorator><gn>Michael</gn><fn>Taylor</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Gloria</gn><fn>Gresham</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Janet</gn><fn>Hirshenson</fn></director>
+      <director><gn>Jane</gn><fn>Jenkins</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Tom</gn><fn>Cruise</fn></actor>
+       <as><preTitle>Lt.</preTitle><gn>Daniel</gn><fn>Kaffe</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jack</gn><fn>Nicholson</fn></actor>
+       <as><preTitle>Col.</preTitle><gn>Nathan</gn><mn>R.</mn><fn>Jessep</fn></as>
+      </role>
+      <role>
+       <actor><gn>Demi</gn><fn>Moore</fn></actor>
+       <as><preTitle>Lt. Cdr.</preTitle><gn>JoAnne</gn><fn>Galloway</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kevin</gn><fn>Bacon</fn></actor>
+       <as><preTitle>Capt.</preTitle><gn>Jack</gn><fn>Ross</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kevin</gn><fn>Pollak</fn></actor>
+       <as><preTitle>Lt.</preTitle><gn>Sam</gn><fn>Weinberg</fn></as>
+      </role>
+      <role>
+       <actor><gn>James</gn><fn>Marshall</fn></actor>
+       <as><preTitle>Pfc.</preTitle><gn>Louden</gn><fn>Downey</fn></as>
+      </role>
+      <role>
+       <actor><gn>J.</gn><mn>T.</mn><fn>Walsh</fn></actor>
+       <as><preTitle>Lt. Col.</preTitle><gn>Matthew</gn><mn>Andrew</mn><fn>Markinson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Christopher</gn><fn>Guest</fn></actor>
+       <as><preTitle>Dr.</preTitle><fn>Stone</fn></as>
+      </role>
+      <role>
+       <actor><gn>J.</gn><mn>A.</mn><fn>Preston</fn></actor>
+       <as><preTitle>Judge</preTitle><gn>Julius</gn><mn>Alexander</mn><fn>Randolph</fn></as>
+      </role>
+      <role>
+       <actor><gn>Matt</gn><fn>Craven</fn></actor>
+       <as><preTitle>Lt.</preTitle><gn>Dave</gn><fn>Spradling</fn></as>
+      </role>
+      <role>
+       <actor><gn>Wolfgang</gn><fn>Bodison</fn></actor>
+       <as><preTitle>Lance Cpl.</preTitle><gn>Harold</gn><mn>W.</mn><fn>Dawson</fn></as>
+      </role>
+      <role>
+       <actor><gn>Xander</gn><fn>Berkeley</fn></actor>
+       <as><preTitle>Capt.</preTitle><fn>Whitaker</fn></as>
+      </role>
+      <role>
+       <actor><gn>John</gn><mn>M.</mn><fn>Jackson</fn></actor>
+       <as><preTitle>Capt.</preTitle><gn>West</gn></as>
+      </role>
+      <role>
+       <actor><gn>Noah</gn><fn>Wyle</fn></actor>
+       <as><preTitle>Cpl.</preTitle><gn>Jeffrey</gn><fn>Barnes</fn></as>
+      </role>
+      <role>
+       <actor><gn>Cuba</gn><fn>Gooding</fn><postTitle>Jr.</postTitle></actor>
+       <as><preTitle>Cpl.</preTitle><gn>Carl</gn><fn>Hammaker</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lawrence</gn><fn>Lowe</fn></actor>
+       <as><title>Baliff</title></as>
+      </role>
+      <role>
+       <actor><gn>joshua</gn><fn>Malina</fn></actor>
+       <as><gn>Tom</gn></as>
+      </role>
+      <role>
+       <actor><gn>Aaron</gn><fn>Sorkin</fn></actor>
+       <as><title>Man in Bar</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>8 Seconds</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>794043478321</barcode>
+    <barcode type='isbn' scanlines='false'>0-7806-2689-3</barcode>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>N4783A</value>
+     <value>N4783B</value>
+     <value>N4783C</value>
+     <value>N4783D</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <snapcase>
+      <dvd/>
+     </snapcase>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='8_seconds-1994-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

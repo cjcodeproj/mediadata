@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Total Excess: How Carolco Changed Hollywood</title>
+    <catalog>
+     <copyright>
+      <year>2020</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><nonfiction/></category>
+     <genres>
+      <primary>Documentary</primary>
+      <specific>Hollywood Tell-All</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT59M</overall> <!-- non-exact -->
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      The story about the rise and fall of Carolco, the movie production company that
+      rose to prominance with films like <kw>First Blood</kw>, but lost it all on huge flops like
+      <kw>Cuthroat Island</kw>.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><thing>First Blood</thing></properNoun>
+       <properNoun><thing>Cuthroat Island</thing></properNoun>
+       <properNoun><thing>Basic Instinct</thing></properNoun>
+       <properNoun><thing>Total Recall</thing></properNoun>
+       <properNoun><thing>Terminator 2</thing></properNoun>
+       <properNoun><thing>Showgirls</thing></properNoun>
+      </group>
+      <group>
+       <properNoun><entity>Carolco</entity></properNoun>
+       <properNoun><entity>Cannon</entity></properNoun>
+      </group>
+     </keywords>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Daniel</gn><fn>Griffith</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>C.</gn><mn>Courtney</mn><fn>Joyner</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Daniel</gn><fn>Griffith</fn></editor>
+     </editors>
+     <cast>
+      <role>
+       <actor><gn>Larry</gn><fn>Blamire</fn></actor>
+       <as><narrator/></as>
+      </role>
+      <role>
+       <actor><gn>Paul</gn><fn>Verhoeven</fn></actor>
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Michael</gn><fn>Douglas</fn></actor>
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Mark</gn><fn>Goldblatt</fn></actor>
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Oliver</gn><fn>Stone</fn></actor>
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Townson</fn></actor>
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>David</gn><mn>J</mn><fn>Moore</fn></actor>
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Latham Brown</fn></actor>
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Mark</gn><fn>Helfrich</fn></actor>
+       <as><self/></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

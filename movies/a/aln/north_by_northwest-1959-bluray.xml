@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>North By Northwest</main>
+   <edition>50th Anniversary Edition</edition>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>883929064953</barcode>
+    <barcode type='isbn' scanlines='false'>1419880543</barcode>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>1000092477A</value>
+     <value>1000092477B</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <digibook>
+      <bluray/>
+      <booklet/>
+     </digibook>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='north_by_northwest-1959-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

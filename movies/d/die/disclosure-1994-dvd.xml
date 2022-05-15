@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Disclosure</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+    <publisher>Warner Bros.</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>085391357520</barcode>
+    <barcode type='isbn'>0-7907-3097-9</barcode>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>13575A</value>
+     <value>13575V</value>
+     <value>13575C</value>
+     <value>13575D</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <snapcase>
+      <dvd/>
+     </snapcase>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='disclosure-1994-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

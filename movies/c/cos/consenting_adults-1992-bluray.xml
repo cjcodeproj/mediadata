@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Consenting Adults</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Mill Creek Entertainment</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>683904630278</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='consenting_adults-1992-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

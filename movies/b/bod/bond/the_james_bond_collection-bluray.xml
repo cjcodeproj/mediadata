@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The James Bond Collection</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>8839043465708</barcode>
+    <sku retailer='bby'>5579333</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <box>
+      <case>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+      </case>
+      <case>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+      </case>
+      <case>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+       <bluray/>
+      </case>
+     </box>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='the_man_with_the_golden_gun-1974-movie.xml'/>
+   <xi:include href='spectre-2015-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

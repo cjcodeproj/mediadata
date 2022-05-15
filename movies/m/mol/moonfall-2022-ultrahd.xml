@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Moonfall</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>031398333470</barcode>
+    <sku retailer='bby'>6499334</sku>
+    <other>
+     <name>Lionsgate Proof Of Purchase</name>
+     <value>59814</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <xi:include href='moonfall-2022-movie.xml'/>
+  </contents>
+ </media>
+</medialist>

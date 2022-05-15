@@ -1,0 +1,170 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>The Nice Guys</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>883929530793</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+      <dvd/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Nice Guys</title>
+    <catalog>
+     <copyright>
+      <year>2016</year>
+      <holders>
+       <holder>Nice Guys, LLC</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Comedy</secondary>
+      <secondary>Mystery</secondary>
+      <specific>70s Private Eyes</specific>
+     </genres>
+     <certifications>
+      <certificate ref='50049'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H55M57S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A private investigator and a muscle for hire guy stumble across a huge 
+      conspiracy in 1970s Los Angeles that somehow involves both the automotive 
+      industry, and the adult film industry.
+     </plot>
+     <keywords>
+      <properNoun><place><ci>Los Angeles</ci><st>California</st></place></properNoun>
+      <group>
+       <generic>movie industry</generic>
+       <generic>adult films</generic>
+       <generic>movie director</generic>
+       <generic>industry party</generic>
+      </group>
+      <group>
+       <generic>auto show</generic>
+       <generic>automotive industry</generic>
+       <generic>pollution</generic>
+       <properNoun><event>The Gas Crisis</event></properNoun>
+       <generic>fuel efficiency</generic>
+      </group>
+      <group>
+       <generic>private investigator</generic>
+       <generic>enforcer</generic>
+       <generic>gun</generic>
+       <generic>shotgun</generic>
+       <generic>explosion</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>friendship</theme>
+      <theme>doing the right thing</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Shane</gn><fn>Black</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Shane</gn><fn>Black</fn></writer>
+      <writer><gn>Anthony</gn><fn>Bagarozzi</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Joel</gn><fn>Negron</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Philippe</gn><fn>Rousselot</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Russell</gn><fn>Crowe</fn></actor>
+       <as><gn>Jackson</gn><fn>Healy</fn></as>
+      </role>
+      <role>
+       <actor><gn>Ryan</gn><fn>Gosling</fn></actor>
+       <as><gn>Holland</gn><fn>March</fn></as>
+      </role>
+      <role>
+       <actor><gn>Angourie</gn><fn>Rice</fn></actor>
+       <as><gn>Holly</gn><fn>March</fn></as>
+      </role>
+      <role>
+       <actor><gn>Matt</gn><fn>Bomer</fn></actor>
+       <as><gn>John Boy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Margaret</gn><fn>Qualley</fn></actor>
+       <as><gn>Amelia</gn><fn>Kuttner</fn></as>
+      </role>
+      <role>
+       <actor><gn>Yaya</gn><fn>DaCosta</fn></actor>
+       <as><gn>Tally</gn></as>
+      </role>
+      <role>
+       <actor><gn>Keith</gn><fn>David</fn></actor>
+       <as><title>Older Guy</title></as>
+      </role>
+      <role>
+       <actor><gn>Beau</gn><fn>Knapp</fn></actor>
+       <as><nick>Blueface</nick></as>
+      </role>
+      <role>
+       <actor><gn>Lois</gn><fn>Smith</fn></actor>
+       <as><preTitle>Mrs.</preTitle><fn>Glenn</fn></as>
+      </role>
+      <role>
+       <actor><gn>Murielle</gn><fn>Telio</fn></actor>
+       <as><nick>Misty Mountains</nick></as>
+      </role>
+      <role>
+       <actor><gn>Gil</gn><fn>Gerard</fn></actor>
+       <as><gn>Bergen</gn><fn>Paulsen</fn></as>
+      </role>
+      <role>
+       <actor><gn>Daisy</gn><fn>Tahan</fn></actor>
+       <as><gn>Jessica</gn></as>
+      </role>
+      <role>
+       <actor><gn>Kim</gn><fn>Basinger</fn></actor>
+       <as><gn>Judith</gn><fn>Kuttner</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

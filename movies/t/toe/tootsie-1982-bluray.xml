@@ -1,0 +1,155 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Tootsie</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+    <publisher>Criterion</publisher>
+   </release>
+   <productId>
+    <barcode type='upc'>715515123419</barcode>
+    <other>
+     <name>Criterion Spine Number</name>
+     <value>738</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Tootsie</title>
+    <catalog>
+     <copyright>
+      <year>1992</year>
+      <holders>
+       <holder>Columbia Pictures Industries, Inc</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Comedy</primary>
+      <secondary>Drama</secondary>
+      <secondary>Romance</secondary>
+      <specific>Desperate Actor</specific>
+     </genres>
+     <certifications>
+      <certificate ref='26870'>
+       <rating code='PG'>Parental Guidance Suggested</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H56M21S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A washed up actor finds himself resorting to impersonating a woman, and accidentally finds success when he 
+      lands a lead female role in a television soap opera.  But things become complicated when he falls in 
+      love with one co-worker, while another makes flirtatius advantages, and one of his best platonic friends 
+      falls in love with him.
+     </plot>
+     <keywords>
+      <generic>cross dressing</generic>
+      <generic>actor</generic>
+      <generic>soap opera</generic>
+      <generic>acting classes</generic>
+      <generic>false identity</generic>
+      <generic>agent</generic>
+     </keywords>
+     <themes>
+      <theme>acceptance</theme>
+      <theme>empathy</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Sydney</gn><fn>Pollack</fn></director>
+     </directors>
+     <writers>
+      <writer role='stpry'><gn>Don</gn><fn>McGuire</fn></writer>
+      <writer role='story'><gn>Larry</gn><fn>Gelbart</fn></writer>
+      <writer role='screenplay'><gn>Larry</gn><fn>Gelbart</fn></writer>
+      <writer role='screenplay'><gn>Murray</gn><fn>Schisgal</fn></writer>
+      <writer uncredited='true'><gn>Barry</gn><fn>Levinson</fn></writer>
+      <writer uncredited='true'><gn>Robert</gn><fn>Garland</fn></writer>
+      <writer uncredited='true'><gn>Robert</gn><fn>Kaufman</fn></writer>
+      <writer uncredited='true'><gn>Elaine</gn><fn>May</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Fredric</gn><fn>Steinkamp</fn></editor>
+      <editor><gn>William</gn><fn>Steinkamp</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Owen</gn><fn>Roizman</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Dustin</gn><fn>Hoffman</fn></actor>
+       <as><gn>Michael</gn><fn>Dorsey</fn></as>
+       <as><gn>Dorothy</gn><fn>Michaels</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jessica</gn><fn>Lange</fn></actor>
+       <as><gn>Julie</gn></as>
+      </role>
+      <role>
+       <actor><gn>Teri</gn><fn>Garr</fn></actor>
+       <as><gn>Sandy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Dabney</gn><fn>Coleman</fn></actor>
+       <as><gn>Ron</gn></as>
+      </role>
+      <role>
+       <actor><gn>Charles</gn><fn>Durning</fn></actor>
+       <as><gn>Les</gn></as>
+      </role>
+      <role>
+       <actor><gn>Bill</gn><fn>Murray</fn></actor>
+       <as><gn>Jeff</gn></as>
+      </role>
+      <role>
+       <actor><gn>Sydney</gn><fn>Pollack</fn></actor>
+       <as><gn>George</gn><fn>Fields</fn></as>
+      </role>
+      <role>
+       <actor><gn>George</gn><fn>Gaynes</fn></actor>
+       <as><gn>John</gn><fn>Van Horn</fn></as>
+      </role>
+      <role>
+       <actor><gn>Geena</gn><fn>Davis</fn></actor>
+       <as><gn>April</gn></as>
+      </role>
+      <role>
+       <actor><gn>Doris</gn><fn>Belack</fn></actor>
+       <as><gn>Rita</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

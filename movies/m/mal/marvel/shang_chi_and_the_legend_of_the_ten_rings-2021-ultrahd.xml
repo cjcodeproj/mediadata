@@ -1,0 +1,169 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Shang-Chi And The Legend Of The Ten Rings</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>786936871456</barcode>
+    <sku retailer='bby'>6482794</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Shang-Chi And The Legend Of The Ten Rings</title>
+    <catalog>
+     <copyright>
+      <year>2021</year>
+      <holders>
+       <holder>Marvel</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Adventure</secondary>
+      <secondary>Fantasy</secondary>
+      <specific>Coming Of Age Adventure</specific>
+      <subgenres>
+       <subgenre>based on the comic series</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='53309'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H12M20S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      <chr>Shang-Chi</chr> travels to China to protect his family, after he is unexpectly attacked in San Francisco.  Along 
+      the way, he has to confront his family's legacy, which he has always avoided.  His best friend joins him 
+      on the trip, and they embark on an adventure to find a hidden village where two mythical creatures rest: 
+      The Great Protector, and the Dweller In Darkness.  <chr>Shang-Chi</chr> trains with the villagers in 
+      order to prevent the Dweller from rising up and spreading his evil influence.
+     </plot>
+     <keywords>
+      <properNoun><place><ci>San Francisco</ci></place></properNoun>
+      <properNoun><place><cn>China</cn></place></properNoun>
+      <group>
+       <generic>family</generic>
+       <generic>migration</generic>
+       <generic>family history</generic>
+       <generic>legend</generic>
+       <generic>storytelling</generic>
+      </group>
+      <group>
+       <generic>city bus</generic>
+       <generic>bus fight</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>destiny</theme>
+      <theme>forgiveness</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Destin</gn><mn>Daniel</mn><fn>Cretton</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>David</gn><fn>Callaham</fn></writer>
+      <writer><gn>Destin</gn><mn>Daniel</mn><fn>Cretton</fn></writer>
+      <writer><gn>Andrew</gn><fn>Lanham</fn></writer>
+      <sources>
+       <source>
+         <title>Characters</title>
+         <authors>
+          <author><gn>Steve</gn><fn>Englehart</fn></author>
+          <author><gn>Jim</gn><fn>Starlin</fn></author>
+         </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Elísabet</gn><fn>Ronaldsdóttir</fn></editor>
+      <editor><gn>Nat</gn><fn>Sanders</fn></editor>
+      <editor><gn>Harry</gn><fn>Yoon</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Bill</gn><fn>Pope</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Simu</gn><fn>Liu</fn></actor>
+       <as><gn>Shaun</gn></as>
+       <as><gn>Shang-Chi</gn></as>
+      </role>
+      <role>
+       <actor><gn>Tony</gn><mn>Chiu-Wai</mn><fn>Leung</fn></actor>
+       <as><gn>Xu</gn><fn>Wenwu</fn></as>
+      </role>
+      <role>
+       <actor><gn>Awkwafina</gn></actor>
+       <as><gn>Katy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ben</gn><fn>Kingsley</fn></actor>
+       <as><gn>Trevor</gn><fn>Slattery</fn></as>
+      </role>
+      <role>
+       <actor><gn>Meng'er</gn><fn>Zhang</fn></actor>
+       <as><gn>Xialing</gn></as>
+      </role>
+      <role>
+       <actor><gn>Fala</gn><fn>Chen</fn></actor>
+       <as><gn>Li</gn></as>
+      </role>
+      <role>
+       <actor><gn>Michelle</gn><fn>Yeoh</fn></actor>
+       <as><gn>Ying</gn><fn>Nan</fn></as>
+      </role>
+      <role>
+       <actor><gn>Wah</gn><fn>Yuen</fn></actor>
+       <as><preTitle>Master</preTitle><gn>Guang</gn><fn>Bo</fn></as>
+      </role>
+      <role>
+       <actor><gn>Florian</gn><fn>Munteanu</fn></actor>
+       <as><nick>Razor Fist</nick></as>
+      </role>
+      <role>
+       <actor><gn>Andy</gn><fn>Le</fn></actor>
+       <as><nick>Death Dealer</nick></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

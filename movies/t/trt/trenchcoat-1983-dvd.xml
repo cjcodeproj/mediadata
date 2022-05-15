@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media'>
+ <media>
+  <title>
+   <main>Trenchcoat</main>
+  </title>
+  <medium>
+   <release>
+    <type><dvd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>786936823240</barcode>
+    <sku retailer='amzn' type='asin'>B0071PTABW</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <dvd/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Trenchcoat</title>
+    <catalog>
+     <copyright>
+      <year>1983</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Mystery</primary>
+      <secondary>Comedy</secondary>
+      <specific>Detective Caper</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H31M00S</overall>
+     </runtime>
+    </technical>
+    <story>
+     <logline>An aspiring mystery novelist finds herself caught up in a real mystery in Malta.</logline>
+     <plot>
+      <chr>Mickey Raymond</chr> wants to be a mystery writer.  So she travels off to Malta for 
+      inspiration, and suddenly finds herself caught up in a spy caper by accident.
+     </plot>
+     <keywords>
+      <generic>mystery writer</generic>
+      <generic>kidnapping</generic>
+      <generic>spying</generic>
+      <properNoun><place><co>Malta</co></place></properNoun>
+      <generic>car chase</generic>
+     </keywords>
+     <themes>
+      <theme>fantasy becomes reality</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Michael</gn><fn>Tuchner</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Jeffrey</gn><fn>Price</fn></writer>
+      <writer><gn>Peter</gn><mn>S</mn><fn>Seaman</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Frank</gn><mn>J</mn><fn>Urioste</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Tonio</gn><fn>Delli Colli</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Margot</gn><fn>Kidder</fn></actor>
+       <as><gn>Mickey</gn><fn>Raymond</fn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Hayes</fn></actor>
+       <as><gn>Terry</gn><fn>Leonard</fn></as>
+      </role>
+      <role>
+       <actor><gn>David</gn><fn>Suchet</fn></actor>
+       <as><preTitle>Inspector</preTitle><fn>Stagnos</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

@@ -1,0 +1,211 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Pulp Fiction</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>031398144359</barcode>
+    <other>
+     <name>Lionsgate Proof Of Purchase</name>
+     <value>44870</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Pulp Fiction</title>
+    <catalog>
+     <copyright>
+      <year>1994</year>
+      <holders>
+       <holder>Miramax Films</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Crime</secondary>
+      <specific>Crime Anthology</specific>
+      <subgenres>
+       <subgenre>cult classic</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='33107'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT02H34M27S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+       A collection of gritty short stories involving gangsters, hitmen, mob bosses, 
+       boxers,  and thieves who discover their lives are connected by unexpected 
+       coincidences and happenstance.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><ci>Los Angeles</ci></place></properNoun>
+       <generic>restaurant</generic>
+       <generic>diner</generic>
+       <generic>robbery</generic>
+      </group>
+      <group>
+        <generic>briefcase</generic>
+        <generic>gun</generic>
+        <generic>foot massage</generic>
+        <generic>shooting</generic>
+        <generic>fast food restaurant</generic>
+      </group>
+      <group>
+       <generic>date</generic>
+       <generic>theme restaurant</generic>
+       <generic>hamburger</generic>
+       <generic>steak</generic>
+       <generic>shake</generic>
+       <generic>drugs</generic>
+       <generic>overdose</generic>
+       <generic>television pilot</generic>
+       <properNoun><thing>Adrenaline</thing></properNoun>
+      </group>
+      <group>
+       <generic>watch</generic>
+       <generic>boxing</generic>
+       <generic>sports betting</generic>
+       <generic>corruption</generic>
+       <generic>getaway</generic>
+       <generic>car crash</generic>
+       <generic>shotgun</generic>
+       <generic>kidnapping</generic>
+       <generic>bondage</generic>
+       <generic>hammer</generic>
+       <generic>chainsaw</generic>
+       <generic>samauri sword</generic>
+      </group>
+      <group>
+       <generic>accidental shooting</generic>
+       <generic>blood stains</generic>
+       <generic>cleanup</generic>
+       <generic>junkyard</generic>
+      </group>
+     </keywords>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Quentin</gn><fn>Tarantino</fn></director>
+     </directors>
+     <writers>
+      <writer role='screenplay'><gn>Quentin</gn><fn>Tarantino</fn></writer>
+      <writer role='story'><gn>Roger</gn><fn>Avery</fn></writer>
+      <writer role='story'><gn>Quentin</gn><fn>Tarantino</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Sally</gn><fn>Menke</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Andrzej</gn><fn>Sekula</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>John</gn><fn>Travolta</fn></actor>
+       <as><gn>Vincent</gn><fn>Vega</fn></as>
+      </role>
+      <role>
+       <actor><gn>Uma</gn><fn>Thurman</fn></actor>
+       <as><gn>Mia</gn><fn>Wallace</fn></as>
+      </role>
+      <role>
+       <actor><gn>Samuel</gn><mn>L</mn><fn>Jackson</fn></actor>
+       <as><gn>Jules</gn><fn>Winnfield</fn></as>
+      </role>
+      <role>
+       <actor><gn>Harvey</gn><fn>Keitel</fn></actor>
+       <as><gn>Winston</gn><fn>Wolf</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tim</gn><fn>Roth</fn></actor>
+       <as><nick>Pumpkin</nick></as>
+      </role>
+      <role>
+       <actor><gn>Amanda</gn><fn>Plumber</fn></actor>
+       <as><nick>Honey Bunny</nick></as>
+      </role>
+      <role>
+       <actor><gn>Maria</gn><fn>de Medeiros</fn></actor>
+       <as><gn>Fabienne</gn></as>
+      </role>
+      <role>
+       <actor><gn>Ving</gn><fn>Rhames</fn></actor>
+       <as><gn>Marsellus</gn><fn>Wallace</fn></as>
+      </role>
+      <role>
+       <actor><gn>Eric</gn><fn>Stolz</fn></actor>
+       <as><gn>Lance</gn></as>
+      </role>
+      <role>
+       <actor><gn>Rosanna</gn><fn>Arquette</fn></actor>
+       <as><gn>Jody</gn></as>
+      </role>
+      <role>
+       <actor><gn>Christopher</gn><fn>Walken</fn></actor>
+       <as><preTitle>Captain</preTitle><fn>Koons</fn></as>
+      </role>
+      <role>
+       <actor><gn>Bruce</gn><fn>Willis</fn></actor>
+       <as><gn>Butch</gn><fn>Coolidge</fn></as>
+      </role>
+      <role>
+       <actor><gn>Steve</gn><fn>Buscemi</fn></actor>
+       <as><gn>Buddy</gn><fn>Holly</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kathy</gn><fn>Griffin</fn></actor>
+       <as><self/></as>
+      </role>
+      <role>
+       <actor><gn>Duane</gn><fn>Whitaker</fn></actor>
+       <as><gn>Maynard</gn></as>
+      </role>
+      <role>
+       <actor><gn>Peter</gn><fn>Greene</fn></actor>
+       <as><gn>Zed</gn></as>
+      </role>
+      <role>
+       <actor><gn>Quentin</gn><fn>Tarantino</fn></actor>
+       <as><gn>Jimmie</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

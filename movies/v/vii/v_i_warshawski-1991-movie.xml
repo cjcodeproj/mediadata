@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>V.I. Warshawski</title>
+    <catalog>
+     <copyright>
+      <year>1991</year>
+      <holders>
+       <holder>Hollywood Pictures Company</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Comedy</secondary>
+      <specific>Detective Story</specific>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+       <subgenre>based on a book series</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='31342'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H28M50S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+     V.I. Warshawski investigates the murder of a hockey player, but gets side-tracked when 
+     she must also babysit the hockey player's defiant teenage neice.  The investigation gets 
+     tricky when it turns out the murder may be tied to an inheritance dispute and a big
+     real estate deal.
+     </plot>
+     <keywords>
+      <generic>private detective</generic>
+      <properNoun><place><ci>Chicago</ci></place></properNoun>
+      <generic>inheritance</generic>
+     </keywords>
+     <themes>
+      <theme> </theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Jeff</gn><fn>Kanew</fn></director>
+     </directors>
+     <writers>
+      <writer role='story'><gn>Edward</gn><fn>Taylor</fn></writer>
+      <writer role='screenplay'><gn>Edward</gn><fn>Taylor</fn></writer>
+      <writer role='screenplay'><gn>David</gn><mn>Aaron</mn><fn>Cohen</fn></writer>
+      <writer role='screenplay'><gn>Nick</gn><fn>Thiel</fn></writer>
+      <sources>
+       <source>
+        <title>V.I. Warshawski novels</title>
+        <authors>
+         <author><gn>Sara</gn><fn>Paretsky</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Debra</gn><fn>Neil-Fisher</fn></editor>
+      <editor><gn>Carroll</gn><mn>Timothy</mn><fn>O'Meara</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Jan</gn><fn>Kiesser</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Kathleen</gn><fn>Turner</fn></actor>
+       <as><gn>Vic</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jay</gn><mn>O.</mn><fn>Sanders</fn></actor>
+       <as><gn>Murray</gn></as>
+      </role>
+      <role>
+       <actor><gn>Charles</gn><fn>Durning</fn></actor>
+       <as><preTitle>Lt.</preTitle><fn>Mallory</fn></as>
+      </role>
+      <role>
+       <actor><gn>Angela</gn><fn>Goethals</fn></actor>
+       <as><gn>Kat</gn></as>
+      </role>
+      <role>
+       <actor><gn>Nancy</gn><fn>Paul</fn></actor>
+       <as><gn>Paige</gn></as>
+      </role>
+      <role>
+       <actor><gn>Frederick</gn><fn>Coffin</fn></actor>
+       <as><fn>Horton</fn></as>
+      </role>
+      <role>
+       <actor><gn>Charles</gn><fn>McCaughan</fn></actor>
+       <as><fn>Trumble</fn></as>
+      </role>
+      <role>
+       <actor><gn>Stephen</gn><fn>Meadows</fn></actor>
+       <as><nick>Boom-Boom</nick></as>
+      </role>
+      <role>
+       <actor><gn>Wayne</gn><fn>Knight</fn></actor>
+       <as><fn>Smeissen</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lynnie</gn><fn>Godfrey</fn></actor>
+       <as><gn>Sal</gn></as>
+      </role>
+      <role>
+       <actor><gn>Anne</gn><fn>Pitoniak</fn></actor>
+       <as><gn>Lotty</gn></as>
+      </role>
+      <role>
+       <actor><gn>Stephen</gn><fn>Root</fn></actor>
+       <as><gn>Mickey</gn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Jennifer 8</title>
+    <catalog>
+     <altTitles>
+      <variantTitle sortable='true'>Jennifer Eight</variantTitle>
+     </altTitles>
+     <copyright>
+      <year>1992</year>
+      <holders>
+       <holder>Paramount Pictures Corporation</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Mystery</primary>
+      <secondary>Drama</secondary>
+      <specific>Murder Mystery</specific>
+      <subgenres>
+       <subgenre>whodunnit</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='31597'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT2H5M10S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A big city police detective investigates a multiple murder case in a small town, and falls in love 
+      with a blind woman who possibly witnessed the crime.
+     </plot>
+     <keywords>
+      <group>
+       <generic>murder</generic>
+       <generic>school for blind people</generic>
+       <generic>police detective</generic>
+      </group>
+      <group>
+       <generic> </generic>
+       <generic> </generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme> </theme>
+      <theme> </theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Bruce</gn><fn>Robinson</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Bruce</gn><fn>Robinson</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Conrad</gn><fn>Buff</fn><postTitle>IV</postTitle></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Conrad</gn><mn>L.</mn><fn>Hall</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Andy</gn><fn>Garcia</fn></actor>
+       <as><gn>John</gn><fn>Berlin</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lance</gn><fn>Henriksen</fn></actor>
+       <as><gn>Freddy</gn><fn>Ross</fn></as>
+      </role>
+      <role>
+       <actor><gn>Uma</gn><fn>Thurman</fn></actor>
+       <as><gn>Helena</gn></as>
+      </role>
+      <role>
+       <actor><gn>Graham</gn><fn>Beckel</fn></actor>
+       <as><gn>John</gn><fn>Taylor</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kathy</gn><fn>Baker</fn></actor>
+       <as><gn>Margie</gn><fn>Ross</fn></as>
+      </role>
+      <role>
+       <actor><gn>Kevin</gn><fn>Conway</fn></actor>
+       <as><fn>Citrine</fn></as>
+      </role>
+      <role>
+       <actor><gn>John</gn><fn>Malkovich</fn></actor>
+       <as><fn>St. Anne</fn></as>
+      </role>
+      <role>
+       <actor><gn>Perry</gn><fn>Lang</fn></actor>
+       <as><fn>Travis</fn></as>
+      </role>
+      <role>
+       <actor><gn>Nicholas</gn><fn>Love</fn></actor>
+       <as><fn>Bisley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Michael</gn><fn>O'Neill</fn></actor>
+       <as><fn>Serato</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

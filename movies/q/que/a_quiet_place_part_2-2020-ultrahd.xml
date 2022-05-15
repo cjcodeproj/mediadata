@@ -1,0 +1,139 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>A Quiet Place: Part 2</main>
+  </title>
+  <medium>
+   <release>
+    <type><ultrahd/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>032429338181</barcode>
+    <sku retailer='bby'>6405338</sku>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <ultrahd/>
+      <bluray/>
+      <codesheet><service> </service></codesheet>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>A Quiet Place: Part 2</title>
+    <catalog>
+     <copyright>
+      <year>2020</year>
+      <holders>
+       <holder>Paramount Pictures Corporation</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Sci-Fi</secondary>
+      <specific>Alien Occupation</specific>
+      <subgenres>
+       <subgenre>sequel</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='52468'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H37M00S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      The Abbott fanily continue to run from the alien invaders that have taken over the 
+      Earth, and discover that there may be a colony of surviving humans on a remote island.
+     </plot>
+     <keywords>
+      <generic>deafness</generic>
+      <generic>space aliens</generic>
+      <generic>audio feedback</generic>
+      <generic>alien invasion</generic>
+      <generic>quietness</generic>
+      <generic>water</generic>
+      <generic>island</generic>
+      <generic>radio station</generic>
+     </keywords>
+     <themes>
+      <theme>survival</theme>
+      <theme>adapting</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>John</gn><fn>Krasinski</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>John</gn><fn>Krasinski</fn></writer>
+      <sources>
+       <source>
+        <title>Characters</title>
+        <authors>
+         <author><gn>Bryan</gn><fn>Woods</fn></author>
+         <author><gn>Scott</gn><fn>Beck</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Michael</gn><mn>P</mn><fn>Shawver</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Polly</gn><fn>Morgan</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Emily</gn><fn>Blunt</fn></actor>
+       <as><gn>Evelyn</gn><fn>Abbott</fn></as>
+      </role>
+      <role>
+       <actor><gn>Millicent</gn><fn>Simmonds</fn></actor>
+       <as><gn>Regan</gn><fn>Abbott</fn></as>
+      </role>
+      <role>
+       <actor><gn>Cillian</gn><fn>Murphy</fn></actor>
+       <as><gn>Emmett</gn></as>
+      </role>
+      <role>
+       <actor><gn>Noah</gn><fn>Jupe</fn></actor>
+       <as><gn>Marcus</gn><fn>Abbott</fn></as>
+      </role>
+      <role>
+       <actor><gn>John</gn><fn>Krasinski</fn></actor>
+       <as><gn>Lee</gn><fn>Abbott</fn></as>
+      </role>
+      <role>
+       <actor><gn>Djimon</gn><fn>Hounsou</fn></actor>
+       <as><title>Man on Island</title></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

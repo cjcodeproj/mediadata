@@ -1,0 +1,188 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>The Paper</title>
+    <catalog>
+     <copyright>
+      <year>1994</year>
+      <holders>
+       <holder>Universal City Studios, Inc.</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Comedy</secondary>
+      <specific>Inner Workings Of A Newspaper</specific>
+     </genres>
+     <certifications>
+      <certificate ref='32905'>
+       <rating code='R'>Restricted</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H51M14S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A New York newspaper <kw>editor</kw> works through a busy day that includes a job interview with a competitor, 
+      the usual staff complaints, unforgiving management, and a breaking story about a suspicious murder and a bad
+      police bust.
+     </plot>
+     <keywords>
+      <generic>newspaper</generic>
+      <generic>tabloid</generic>
+      <properNoun><place><ci>New York City</ci></place></properNoun>
+      <generic> </generic>
+      <generic> </generic>
+      <group>
+       <generic>murder</generic>
+       <generic>false arrest</generic>
+       <generic>arraignment</generic>
+       <properNoun><entity>New York Police Department</entity></properNoun>
+      </group>
+      <group>
+       <generic>office work</generic>
+       <generic>staff meeting</generic>
+       <generic>job interview</generic>
+      </group>
+      <group>
+       <generic>reporter</generic>
+       <generic>editor</generic>
+       <generic>publisher</generic>
+       <generic>photographer</generic>
+       <generic>columnist</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>love of the job</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Ron</gn><fn>Howard</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>David</gn><fn>Koepp</fn></writer>
+      <writer><gn>Stephen</gn><fn>Koepp</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Daniel</gn><mn>P.</mn><fn>Hanley</fn></editor>
+      <editor><gn>Mike</gn><fn>Hill</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>John</gn><fn>Seale</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Randy</gn><fn>Newman</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>Todd</gn><fn>Hallowell</fn></productionDesigner>
+      <artDirector><gn>Maher</gn><fn>Ahmed</fn></artDirector>
+      <setDecorator><gn>Debra</gn><fn>Schutt</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Rota</gn><fn>Ryack</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Janet</gn><fn>Hirshenson</fn></director>
+      <director><gn>Jane</gn><fn>Jenkins</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Michael</gn><fn>Keaton</fn></actor>
+       <as><gn>Henry</gn><fn>Hackett</fn></as>
+      </role>
+      <role>
+       <actor><gn>Robert</gn><fn>Duvall</fn></actor>
+       <as><gn>Bernie</gn><fn>White</fn></as>
+      </role>
+      <role>
+       <actor><gn>Glenn</gn><fn>Close</fn></actor>
+       <as><gn>Alicia</gn><fn>Clark</fn></as>
+      </role>
+      <role>
+       <actor><gn>Marisa</gn><fn>Tomei</fn></actor>
+       <as><gn>Martha</gn><fn>Hackett</fn></as>
+      </role>
+      <role>
+       <actor><gn>Randy</gn><fn>Quaid</fn></actor>
+       <as><gn>Michael</gn><fn>McDougal</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jason</gn><fn>Robards</fn></actor>
+       <as><gn>Graham</gn><fn>Keighley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jason</gn><fn>Alexander</fn></actor>
+       <as><gn>Marion</gn><fn>Sandusky</fn></as>
+      </role>
+      <role>
+       <actor><gn>Spalding</gn><fn>Gray</fn></actor>
+       <as><gn>Paul</gn><fn>Bladden</fn></as>
+      </role>
+      <role>
+       <actor><gn>Catherine</gn><fn>O'Hara</fn></actor>
+       <as><gn>Susan</gn></as>
+      </role>
+      <role>
+       <actor><gn>Lynne</gn><fn>Thigpen</fn></actor>
+       <as><gn>Janet</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jack</gn><fn>Kehoe</fn></actor>
+       <as><gn>Phil</gn></as>
+      </role>
+      <role>
+       <actor><gn>Roma</gn><fn>Maffia</fn></actor>
+       <as><gn>Carmen</gn></as>
+      </role>
+      <role>
+       <actor><gn>Clint</gn><fn>Howard</fn></actor>
+       <as><gn>Ray</gn><fn>Blaisch</fn></as>
+      </role>
+      <role>
+       <actor><gn>Geoffrey</gn><fn>Owens</fn></actor>
+       <as><gn>Lou</gn></as>
+      </role>
+      <role>
+       <actor><gn>Amelia</gn><fn>Campbell</fn></actor>
+       <as><gn>Robin</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jill</gn><fn>Hennessy</fn></actor>
+       <as><gn>Deanne</gn><fn>White</fn></as>
+      </role>
+      <role>
+       <actor><gn>William</gn><fn>Prince</fn></actor>
+       <as><gn>Howard</gn><fn>Hackett</fn></as>
+      </role>
+      <role>
+       <actor><gn>Augusta</gn><fn>Dabney</fn></actor>
+       <as><gn>Sarah</gn><fn>Hackett</fn></as>
+      </role>
+      <role>
+       <actor><gn>Bruce</gn><fn>Altman</fn></actor>
+       <as><gn>Carl</gn></as>
+      </role>
+      <role>
+       <actor><gn>Jack</gn><fn>McGee</fn></actor>
+       <as><fn>Wilder</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

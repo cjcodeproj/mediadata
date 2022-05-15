@@ -1,0 +1,120 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Stone Cold</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>887090102209</barcode>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Stone Cold</title>
+    <catalog>
+     <copyright>
+      <year>1991</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Action</primary>
+      <secondary>Crime</secondary>
+      <specific>Undercover Biker Fed</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H32M24S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      An tough cop is recruited by the FBI to go undercover with a dangerous biker gang that specializes in drugs, 
+      prositition, guns, and terror.
+     </plot>
+     <keywords>
+      <group>
+       <properNoun><place><st>Alabama</st></place></properNoun>
+       <properNoun><place><st>Mississippi</st></place></properNoun>
+       <properNoun relevance='4'><place><st>Florida</st></place></properNoun>
+      </group>
+      <group>
+        <properNoun><entity>FBI</entity></properNoun>
+        <generic>biker gang</generic>
+        <generic>motorcycle</generic>
+        <generic>guns</generic>
+        <generic>helicopter</generic>
+        <generic>drugs</generic>
+        <generic>mafia</generic>
+        <generic>leather duster</generic>
+        <generic>shotgun</generic>
+        <generic synonym='lizard'>nile monitor</generic>
+        <generic>supermarket robbery</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>evil</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Craig</gn><mn>R</mn><fn>Baxley</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Walter</gn><fn>Doniger</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>Larry</gn><fn>Bock</fn></editor>
+      <editor><gn>Mark</gn><fn>Helfrich</fn></editor>
+      <editor><gn>Edward</gn><mn>A</mn><fn>Warschilka</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Alexander</gn><fn>Gruszynski</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Brian</gn><fn>Bosworth</fn></actor>
+       <as><gn>Joe</gn><fn>Huff</fn></as>
+       <as><gn>John</gn><fn>Stone</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lance</gn><fn>Henriksen</fn></actor>
+       <as><nick>Chains</nick><fn>Cooper</fn></as>
+      </role>
+      <role>
+       <actor><gn>William</gn><fn>Forsythe</fn></actor>
+       <as><nick>Ice</nick></as>
+      </role>
+      <role>
+       <actor><gn>Arabella</gn><fn>Holzbog</fn></actor>
+       <as><gn>Nancy</gn></as>
+      </role>
+      <role>
+       <actor><gn>Sam</gn><fn>McMurray</fn></actor>
+       <as><fn>Lance</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>

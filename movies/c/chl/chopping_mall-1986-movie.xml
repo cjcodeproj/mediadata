@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Chopping Mall</title>
+    <catalog>
+     <altTitles>
+      <originalTitle>Killbots</originalTitle>
+     </altTitles>
+     <copyright>
+      <year>1986</year>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Horror</primary>
+      <secondary>Sci-Fi</secondary>
+      <specific>Killer Robots</specific>
+     </genres>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT01H16M30S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <logline>Teens become trapped in a mall, and must fight off three killer security robots.</logline>
+     <plot>
+       A group of friends stay at a mall after hours to party, but are suddenly attacked by the mall security 
+       <kw>robots</kw> and trapped with no way to escape.  They must collectively use their wits to outsmart 
+       their mechanical killers.
+     </plot>
+     <keywords>
+      <generic>shopping mall</generic>
+      <generic>robots</generic>
+      <properNoun><place><name>Galeria Mall</name></place></properNoun>
+      <generic>dynomite</generic>
+      <generic>shotgun</generic>
+      <group collection='gore'>
+       <generic>exploding head</generic>
+       <generic>electrocution</generic>
+       <generic>explosions</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>survival</theme>
+      <theme>technology</theme>
+      <theme>automation</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Jim</gn><fn>Wynorski</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>Jim</gn><fn>Wynorski</fn></writer>
+      <writer><gn>Steve</gn><fn>Mitchell</fn></writer>
+     </writers>
+     <editors>
+      <editor><gn>leslie</gn><fn>Rosenthal</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Tom</gn><fn>Richmond</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <cast>
+      <role>
+       <actor><gn>Kelli</gn><fn>Maroney</fn></actor>
+       <as><gn>Alison</gn><fn>Parks</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tony</gn><fn>O'Dell</fn></actor>
+       <as><gn>Ferdy</gn><fn>Meisel</fn></as>
+      </role>
+      <role>
+       <actor><gn>Rusell</gn><fn>Todd</fn></actor>
+       <as><gn>Rick</gn><fn>Stanton</fn></as>
+      </role>
+      <role>
+       <actor><gn>Karrie</gn><fn>Emerson</fn></actor>
+       <as><gn>Linda</gn><fn>Stanton</fn></as>
+      </role>
+      <role>
+       <actor><gn>Barbara</gn><fn>Crampton</fn></actor>
+       <as><gn>Suzie</gn><fn>Lynn</fn></as>
+      </role>
+      <role>
+       <actor><gn>Nick</gn><fn>Segal</fn></actor>
+       <as><gn>Greg</gn><fn>Williams</fn></as>
+      </role>
+      <role>
+       <actor><gn>John</gn><fn>Terlesky</fn></actor>
+       <as><gn>Mike</gn><fn>Brennan</fn></as>
+      </role>
+      <role>
+       <actor><gn>Suzee</gn><fn>Slater</fn></actor>
+       <as><gn>Leslie</gn><fn>Todd</fn></as>
+      </role>
+      <role>
+       <actor><gn>Dick</gn><fn>Miller</fn></actor>
+       <as><gn>Walter</gn><fn>Paisley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Paul</gn><fn>Bartel</fn></actor>
+       <as><gn>Paul</gn><fn>Bland</fn></as>
+      </role>
+      <role>
+       <actor><gn>Mark</gn><fn>Waronov</fn></actor>
+       <as><gn>Mary</gn><fn>Bland</fn></as>
+      </role>
+      <role>
+       <actor><gn>Gerrit</gn><fn>Graham</fn></actor>
+       <as><preTitle>Technician</preTitle><fn>Nessler</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jim</gn><fn>Wynorski</fn></actor>
+       <as><title>Killbots</title><variant>voice</variant></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>

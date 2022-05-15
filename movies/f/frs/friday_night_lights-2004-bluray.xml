@@ -1,0 +1,187 @@
+<?xml version='1.0'?>
+<medialist xmlns='http://vectortron.com/xml/media/media' xmlns:xi='http://www.w3.org/2001/XInclude'>
+ <media>
+  <title>
+   <main>Friday Night Lights</main>
+  </title>
+  <medium>
+   <release>
+    <type><bluray/></type>
+   </release>
+   <productId>
+    <barcode type='upc'>025195055604</barcode>
+    <other>
+     <name>Proof Of Purchase</name>
+     <value>61106523</value>
+    </other>
+   </productId>
+   <productSpecs>
+    <inventory>
+     <case>
+      <bluray/>
+     </case>
+    </inventory>
+   </productSpecs>
+  </medium>
+  <contents>
+   <movie xmlns='http://vectortron.com/xml/media/movie'>
+    <title>Friday Night Lights</title>
+    <catalog>
+     <copyright>
+      <year>2004</year>
+      <holders>
+       <holder>MDBF Filmgesellschaft mbH &amp; Co. KG</holder>
+       <holder>Universal Studios</holder>
+      </holders>
+     </copyright>
+    </catalog>
+    <classification>
+     <category><fiction/></category>
+     <genres>
+      <primary>Drama</primary>
+      <secondary>Action</secondary>
+      <secondary>Sports</secondary>
+      <specific>Texas Highschool Football</specific>
+      <subgenres>
+       <subgenre>based on a book</subgenre>
+       <subgenre>adapted to a tv series</subgenre>
+      </subgenres>
+     </genres>
+     <certifications>
+      <certificate ref='41170'>
+       <rating code='PG-13'>Parents Strongly Cautioned</rating>
+       <agency>
+        <name>MPAA</name>
+        <country>US</country>
+       </agency>
+      </certificate>
+     </certifications>
+    </classification>
+    <technical>
+     <runtime>
+      <overall>PT1H57M39S</overall>
+     </runtime>
+     <visualFormat>
+      <liveAction/>
+      <palette>
+       <color/>
+      </palette>
+     </visualFormat>
+    </technical>
+    <story>
+     <plot>
+      A look at the lives of a small town Texas football team, where football and winning is everything,
+      and being a great player is the only opportunity to get out of Dillon.
+     </plot>
+     <keywords>
+      <properNoun><place><ci>Dillon</ci><st>Texas</st></place></properNoun>
+      <group>
+       <generic>football</generic>
+       <generic>high school football</generic>
+       <generic>football stadium</generic>
+       <generic>high school</generic>
+       <generic>football coach</generic>
+      </group>
+      <group>
+       <generic>friends</generic>
+       <generic>relationships</generic>
+       <generic>father/son relationship</generic>
+      </group>
+     </keywords>
+     <themes>
+      <theme>responsibility</theme>
+      <theme>growing up</theme>
+     </themes>
+    </story>
+    <crew>
+     <directors>
+      <director><gn>Peter</gn><fn>Berg</fn></director>
+     </directors>
+     <writers>
+      <writer><gn>David</gn><mn>Aaron</mn><fn>Cohen</fn></writer>
+      <writer><gn>Peter</gn><fn>Berg</fn></writer>
+      <sources>
+       <source>
+        <title>Friday Night Lights: A Town, a Team, and a Dream</title>
+        <authors>
+         <author><gn>Buzz</gn><fn>Bissinger</fn></author>
+        </authors>
+       </source>
+      </sources>
+     </writers>
+     <editors>
+      <editor><gn>Gabrielle</gn><fn>Fasulo</fn></editor>
+      <editor><gn>Colby</gn><fn>Parker</fn><postTitle>Jr.</postTitle></editor>
+      <editor><gn>Brian</gn><fn>Reitzell</fn></editor>
+      <editor><gn>David</gn><fn>Torn</fn></editor>
+     </editors>
+     <cinemaphotographers>
+      <cinemaphotographer><gn>Tobias</gn><mn>A.</mn><fn>Schliessler</fn></cinemaphotographer>
+     </cinemaphotographers>
+     <music>
+      <composer><gn>Brian</gn><fn>Reitzell</fn></composer>
+      <composer><gn>David</gn><fn>Torn</fn></composer>
+     </music>
+     <artDept>
+      <productionDesigner><gn>Sharon</gn><fn>Seymour</fn></productionDesigner>
+      <artDirector><gn>Peter</gn><fn>Borck</fn></artDirector>
+      <setDecorator><gn>Carla</gn><fn>Curry</fn></setDecorator>
+     </artDept>
+     <wardrobe>
+      <costumeDesigner><gn>Susan</gn><fn>Matheson</fn></costumeDesigner>
+     </wardrobe>
+     <casting>
+      <director><gn>Janet</gn><fn>Hirshenson</fn></director>
+      <director><gn>Jane</gn><fn>Jenkins</fn></director>
+     </casting>
+     <cast>
+      <role>
+       <actor><gn>Billy Bob</gn><fn>Thornton</fn></actor>
+       <as><preTitle>Coach</preTitle><gn>Gary</gn><fn>Gaines</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lucas</gn><fn>Black</fn></actor>
+       <as><gn>Mike</gn><fn>Winchell</fn></as>
+      </role>
+      <role>
+       <actor><gn>Garrett</gn><fn>Hedlund</fn></actor>
+       <as><gn>Don</gn><fn>Billingsley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Derek</gn><fn>Luke</fn></actor>
+       <as><gn>Boobie</gn><fn>Miles</fn></as>
+      </role>
+      <role>
+       <actor><gn>Jay</gn><fn>Hernandez</fn></actor>
+       <as><gn>Brian</gn><fn>Chavez</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lee</gn><fn>Jackson</fn></actor>
+       <as><gn>Ivory</gn><fn>Christian</fn></as>
+      </role>
+      <role>
+       <actor><gn>Lee</gn><fn>Thompson Young</fn></actor>
+       <as><gn>Chris</gn><fn>Comer</fn></as>
+      </role>
+      <role>
+       <actor><gn>Tim</gn><fn>McGraw</fn></actor>
+       <as><gn>Charles</gn><fn>Billingsley</fn></as>
+      </role>
+      <role>
+       <actor><gn>Grover</gn><fn>Coulson</fn></actor>
+       <as><gn>L.</gn><mn>V.</mn><fn>Miles</fn></as>
+      </role>
+      <role>
+       <actor><gn>Connie</gn><fn>Britton</fn></actor>
+       <as><gn>Sharon</gn><fn>Gaines</fn></as>
+      </role>
+      <role>
+       <actor><gn>Connie</gn><fn>Cooper</fn></actor>
+       <as><preTitle>Mrs.</preTitle><fn>Winchell</fn></as>
+      </role>
+     </cast>
+    </crew>
+   </movie>
+  </contents>
+ </media>
+</medialist>
