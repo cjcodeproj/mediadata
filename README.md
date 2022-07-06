@@ -17,6 +17,7 @@ Depending on what you want to do with the data, you may want to clone one or bot
 the other repositories listed below.
 
 | Repository | Purpose |
+| --- | --- |
 | [vtmedia-schema](https://github.com/cjcodeproj/vtmedia-schema) | Validation of data using XML tools |
 | [medialibrary](https://github.com/cjcodeproj/medialibrary) | Examination of data using Python code |
 
