@@ -30,6 +30,12 @@ Downloading the Python code will pull in the data and organize it into data stru
 modify the Python code base, just install it as a module into your local module path.
 
 
+# Branches
+
+The `main` branch of the repository will always be usable with the `main` branches of the schema and 
+Python code repository.  The `development` branch will almost always be consistent with the development
+branches of the code.
+
 # Validation testing code
 
 The `bin` directory includes one program for testing the XML files.  If you download the XML Schema, you 
