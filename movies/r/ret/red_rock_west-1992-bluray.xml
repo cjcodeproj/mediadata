@@ -124,11 +124,11 @@
       </role>
       <role>
        <actor><gn>Timothy</gn><fn>Carhart</fn></actor>
-       <as><preTitle>Deputy</preTitle><fn>Greytack</fn></as>
+       <as><prefix>Deputy</prefix><fn>Greytack</fn></as>
       </role>
       <role>
        <actor><gn>Dan</gn><fn>Shor</fn></actor>
-       <as><preTitle>Deputy</preTitle><fn>Bowman</fn></as>
+       <as><prefix>Deputy</prefix><fn>Bowman</fn></as>
       </role>
       <role>
        <actor><gn>Dwight</gn><fn>Yoakam</fn></actor>

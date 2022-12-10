@@ -100,19 +100,19 @@
      <cast>
       <role>
        <actor><gn>Sam</gn><fn>Neill</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Alan</gn><fn>Grant</fn></as>
+       <as><prefix>Dr</prefix><gn>Alan</gn><fn>Grant</fn></as>
       </role>
       <role>
        <actor><gn>Laura</gn><fn>Dern</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Ellie</gn><fn>Sattler</fn></as>
+       <as><prefix>Dr</prefix><gn>Ellie</gn><fn>Sattler</fn></as>
       </role>
       <role>
        <actor><gn>Jeff</gn><fn>Goldblum</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Ian</gn><fn>Malcom</fn></as>
+       <as><prefix>Dr</prefix><gn>Ian</gn><fn>Malcom</fn></as>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Attenborough</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>John</gn><fn>Hammond</fn></as>
+       <as><prefix>Dr</prefix><gn>John</gn><fn>Hammond</fn></as>
       </role>
       <role>
        <actor><gn>Bob</gn><fn>Peck</fn></actor>
@@ -124,7 +124,7 @@
       </role>
       <role>
        <actor><gn>BD</gn><fn>Wong</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Henry</gn><fn>Wu</fn></as>
+       <as><prefix>Dr</prefix><gn>Henry</gn><fn>Wu</fn></as>
       </role>
       <role>
        <actor><gn>Joseph</gn><fn>Mazzello</fn></actor>

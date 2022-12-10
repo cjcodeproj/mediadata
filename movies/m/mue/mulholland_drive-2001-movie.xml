@@ -95,11 +95,11 @@
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Forster</fn></actor>
-       <as><preTitle>Detective</preTitle><fn>McKnight</fn></as>
+       <as><prefix>Detective</prefix><fn>McKnight</fn></as>
       </role>
       <role>
        <actor><gn>Brent</gn><fn>Briscoe</fn></actor>
-       <as><preTitle>Detective</preTitle><fn>Domgaard</fn></as>
+       <as><prefix>Detective</prefix><fn>Domgaard</fn></as>
       </role>
       <role>
        <actor><gn>Ann</gn><fn>Miller</fn></actor>

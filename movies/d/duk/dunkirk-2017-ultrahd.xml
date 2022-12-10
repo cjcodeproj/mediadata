@@ -122,7 +122,7 @@
       </role>
       <role>
        <actor><gn>Mark</gn><fn>Rylance</fn></actor>
-       <as><preTitle>Mr.</preTitle><fn>Dawson</fn></as>
+       <as><prefix>Mr.</prefix><fn>Dawson</fn></as>
       </role>
       <role>
        <actor><gn>Tom</gn><fn>Glynn-Carney</fn></actor>
@@ -174,7 +174,7 @@
       </role>
       <role>
        <actor><gn>Kenneth</gn><fn>Branagh</fn></actor>
-       <as><preTitle>Commander</preTitle><fn>Bolton</fn></as>
+       <as><prefix>Commander</prefix><fn>Bolton</fn></as>
       </role>
       <role>
        <actor><gn>Tom</gn><fn>Nolan</fn></actor>
@@ -182,7 +182,7 @@
       </role>
       <role>
        <actor><gn>James</gn><fn>D'Arcy</fn></actor>
-       <as><preTitle>Colonel</preTitle><fn>Winnant</fn></as>
+       <as><prefix>Colonel</prefix><fn>Winnant</fn></as>
       </role>
       <role>
        <actor><gn>Matthew</gn><fn>Marsh</fn></actor>

@@ -95,7 +95,7 @@
      <cast>
       <role>
        <actor><gn>Benedict</gn><fn>Cumberbatch</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Stephen</gn><fn>Strange</fn></as>
+       <as><prefix>Dr</prefix><gn>Stephen</gn><fn>Strange</fn></as>
       </role>
       <role>
        <actor><gn>Chiwetel</gn><fn>Ejiofor</fn></actor>
@@ -103,7 +103,7 @@
       </role>
       <role>
        <actor><gn>Rachel</gn><fn>McAdams</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Christine</gn><fn>Palmer</fn></as>
+       <as><prefix>Dr</prefix><gn>Christine</gn><fn>Palmer</fn></as>
       </role>
       <role>
        <actor><gn>Benedict</gn><fn>Wong</fn></actor>

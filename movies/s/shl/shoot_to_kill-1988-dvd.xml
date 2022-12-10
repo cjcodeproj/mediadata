@@ -139,11 +139,11 @@
       </role>
       <role>
        <actor><gn>Milton</gn><fn>Selzer</fn></actor>
-       <as><preTitle>Mr.</preTitle><fn>Berger</fn></as>
+       <as><prefix>Mr.</prefix><fn>Berger</fn></as>
       </role>
       <role>
        <actor><gn>Les</gn><fn>Lannom</fn></actor>
-       <as><preTitle>Sheriff</preTitle><fn>Arnett</fn></as>
+       <as><prefix>Sheriff</prefix><fn>Arnett</fn></as>
       </role>
       <role>
        <actor><gn>Walter</gn><fn>Marsh</fn></actor>
@@ -155,7 +155,7 @@
       </role>
       <role>
        <actor><gn>Sam</gn><fn>Hiona</fn></actor>
-       <as><preTitle>Superintendent</preTitle><fn>Hsu</fn></as>
+       <as><prefix>Superintendent</prefix><fn>Hsu</fn></as>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>Chapman</fn></actor>
@@ -163,7 +163,7 @@
       </role>
       <role>
        <actor><gn>Janet</gn><fn>Rotblatt</fn></actor>
-       <as><preTitle>Mrs.</preTitle><fn>Berger</fn></as>
+       <as><prefix>Mrs.</prefix><fn>Berger</fn></as>
       </role>
       <role>
        <actor><gn>Ken</gn><fn>Camroux-Taylor</fn></actor>

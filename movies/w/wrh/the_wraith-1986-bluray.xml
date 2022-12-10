@@ -111,7 +111,7 @@
       </role>
       <role>
        <actor><gn>Randy</gn><fn>Quaid</fn></actor>
-       <as><preTitle>Sheriff</preTitle><fn>Loomis</fn></as>
+       <as><prefix>Sheriff</prefix><fn>Loomis</fn></as>
       </role>
       <role>
        <actor><gn>Matthew</gn><fn>Barry</fn></actor>

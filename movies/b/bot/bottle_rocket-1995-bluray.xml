@@ -109,7 +109,7 @@
       </role>
       <role>
        <actor><gn>Ned</gn><fn>Dowd</fn></actor>
-       <as><preTitle>Dr</preTitle><fn>Nichols</fn></as>
+       <as><prefix>Dr</prefix><fn>Nichols</fn></as>
       </role>
       <role>
        <actor><gn>Shea</gn><fn>Fowler</fn></actor>

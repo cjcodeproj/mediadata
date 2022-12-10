@@ -112,7 +112,7 @@
       <role>
        <actor><gn>Alex</gn><fn>Winter</fn></actor>
        <as><gn>Bill</gn></as>
-       <as><preTitle>Granny</preTitle><fn>Preston</fn></as>
+       <as><prefix>Granny</prefix><fn>Preston</fn></as>
       </role>
       <role>
        <actor><gn>William</gn><fn>Sadler</fn></actor>
@@ -120,7 +120,7 @@
       </role>
       <role>
        <actor><gn>Pam</gn><fn>Grier</fn></actor>
-       <as><preTitle>Ms.</preTitle><fn>Wardroe</fn></as>
+       <as><prefix>Ms.</prefix><fn>Wardroe</fn></as>
       </role>
       <role>
        <actor><gn>George</gn><fn>Carlin</fn></actor>
@@ -132,11 +132,11 @@
       </role>
       <role>
        <actor><gn>Jim</gn><fn>Martin</fn></actor>
-       <as><preTitle>Sir</preTitle><gn>James</gn><fn>Martin</fn></as>
+       <as><prefix>Sir</prefix><gn>James</gn><fn>Martin</fn></as>
       </role>
       <role>
        <actor><gn>Hal</gn><fn>Landon</fn><postTitle>Jr.</postTitle></actor>
-       <as><preTitle>Captain</preTitle><fn>Logan</fn></as>
+       <as><prefix>Captain</prefix><fn>Logan</fn></as>
       </role>
       <role>
        <actor><gn>Anette</gn><fn>Azcuy</fn></actor>
@@ -148,7 +148,7 @@
       </role>
       <role>
        <actor><gn>Chelcie</gn><fn>Ross</fn></actor>
-       <as><preTitle>Colonel</preTitle><fn>Oats</fn></as>
+       <as><prefix>Colonel</prefix><fn>Oats</fn></as>
       </role>
       <role>
        <actor><gn>Taj</gn><fn>Mahal</fn></actor> <!-- stage name -->
@@ -164,7 +164,7 @@
       </role>
       <role>
        <actor><gn>J.</gn><mn>Patrick</mn><fn>McNamara</fn></actor>
-       <as><preTitle>Mr.</preTitle><fn>Preston</fn></as>
+       <as><prefix>Mr.</prefix><fn>Preston</fn></as>
       </role>
      </cast>
     </crew>

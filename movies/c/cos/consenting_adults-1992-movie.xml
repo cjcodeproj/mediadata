@@ -122,7 +122,7 @@
       </role>
       <role>
        <actor><gn>Lonnie</gn><mn>R.</mn><fn>Smith</fn><postTitle>Jr.</postTitle></actor>
-       <as><preTitle>Dr.</preTitle><fn>Pettering</fn></as>
+       <as><prefix>Dr.</prefix><fn>Pettering</fn></as>
       </role>
      </cast>
     </crew>

@@ -142,11 +142,11 @@
       </role>
       <role>
        <actor><gn>Mary</gn><mn>Ellen</mn><fn>Trainor</fn></actor>
-       <as><preTitle>Mrs.</preTitle><fn>Walsh</fn></as>
+       <as><prefix>Mrs.</prefix><fn>Walsh</fn></as>
       </role>
       <role>
        <actor><gn>Keith</gn><fn>Walker</fn></actor>
-       <as><preTitle>Mr.</preTitle><fn>Walsh</fn></as>
+       <as><prefix>Mr.</prefix><fn>Walsh</fn></as>
       </role>
       <role>
        <actor><gn>Steve</gn><fn>Antin</fn></actor>

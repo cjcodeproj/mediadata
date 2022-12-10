@@ -77,7 +77,7 @@
      <cast>
       <role>
        <actor><gn>Michael</gn><fn>Douglas</fn></actor>
-       <as><preTitle>Detective</preTitle><gn>Nick</gn><fn>Curran</fn></as>
+       <as><prefix>Detective</prefix><gn>Nick</gn><fn>Curran</fn></as>
       </role>
       <role>
        <actor><gn>Sharon</gn><fn>Stone</fn></actor>
@@ -89,11 +89,11 @@
       </role>
       <role>
        <actor><gn>Jeanne</gn><fn>Tripplehorn</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Beth</gn><fn>Garner</fn></as>
+       <as><prefix>Dr</prefix><gn>Beth</gn><fn>Garner</fn></as>
       </role>
       <role>
        <actor><gn>Denis</gn><fn>Arndt</fn></actor>
-       <as><preTitle>Lieutenant</preTitle><fn>Walker</fn></as>
+       <as><prefix>Lieutenant</prefix><fn>Walker</fn></as>
       </role>
       <role>
        <actor><gn>Leilani</gn><fn>Sarelle</fn></actor>

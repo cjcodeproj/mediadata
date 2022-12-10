@@ -83,11 +83,11 @@
      <cast>
       <role>
        <actor><gn>Eric</gn><fn>Braeden</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Charles</gn><fn>Forbin</fn></as>
+       <as><prefix>Dr</prefix><gn>Charles</gn><fn>Forbin</fn></as>
       </role>
       <role>
        <actor><gn>Susan</gn><fn>Clark</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Cleo</gn><fn>Markham</fn></as>
+       <as><prefix>Dr</prefix><gn>Cleo</gn><fn>Markham</fn></as>
       </role>
       <role>
        <actor><gn>Gordon</gn><fn>Pinsent</fn></actor>
@@ -95,7 +95,7 @@
       </role>
       <role>
        <actor><gn>William</gn><fn>Schallert</fn></actor>
-       <as><preTitle>CIA Director</preTitle><fn>Grauber</fn></as>
+       <as><prefix>CIA Director</prefix><fn>Grauber</fn></as>
       </role>
       <role>
        <actor><gn>Leonid</gn><fn>Rostoff</fn></actor>
@@ -103,7 +103,7 @@
       </role>
       <role>
        <actor><gn>Georg</gn><mn>Stanford</mn><fn>Brown</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>John</gn><fn>Fischer</fn></as>
+       <as><prefix>Dr</prefix><gn>John</gn><fn>Fischer</fn></as>
       </role>
      </cast>
     </crew>

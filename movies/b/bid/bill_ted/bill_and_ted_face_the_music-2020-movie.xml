@@ -151,7 +151,7 @@
       </role>
       <role>
        <actor><gn>Hal</gn><fn>Landon</fn><postTitle>Jr.</postTitle></actor>
-       <as><preTitle>Chief</preTitle><fn>Logan</fn></as>
+       <as><prefix>Chief</prefix><fn>Logan</fn></as>
       </role>
       <role>
        <actor><gn>Beck</gn><fn>Bennett</fn></actor>

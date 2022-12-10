@@ -87,7 +87,7 @@
       </role>
       <role>
        <actor><gn>Talia</gn><fn>Shire</fn></actor>
-       <as><preTitle>Mrs.</preTitle><fn>Jones</fn></as>
+       <as><prefix>Mrs.</prefix><fn>Jones</fn></as>
       </role>
       <role>
        <actor><gn>Ray</gn><fn>Walston</fn></actor>

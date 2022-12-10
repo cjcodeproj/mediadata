@@ -137,7 +137,7 @@
      <cast>
       <role>
        <actor><gn>Billy Bob</gn><fn>Thornton</fn></actor>
-       <as><preTitle>Coach</preTitle><gn>Gary</gn><fn>Gaines</fn></as>
+       <as><prefix>Coach</prefix><gn>Gary</gn><fn>Gaines</fn></as>
       </role>
       <role>
        <actor><gn>Lucas</gn><fn>Black</fn></actor>
@@ -177,7 +177,7 @@
       </role>
       <role>
        <actor><gn>Connie</gn><fn>Cooper</fn></actor>
-       <as><preTitle>Mrs.</preTitle><fn>Winchell</fn></as>
+       <as><prefix>Mrs.</prefix><fn>Winchell</fn></as>
       </role>
      </cast>
     </crew>

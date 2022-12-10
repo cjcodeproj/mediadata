@@ -135,11 +135,11 @@
       </role>
       <role>
        <actor><gn>Hal</gn><fn>Landon</fn><postTitle>Jr.</postTitle></actor>
-       <as><preTitle>Captain</preTitle><gn>Logan</gn></as>
+       <as><prefix>Captain</prefix><gn>Logan</gn></as>
       </role>
       <role>
        <actor><gn>Bernie</gn><fn>Casey</fn></actor>
-       <as><preTitle>Mr.</preTitle><fn>Ryan</fn></as>
+       <as><prefix>Mr.</prefix><fn>Ryan</fn></as>
       </role>
       <role>
        <actor><gn>Amy</gn><fn>Stoch</fn></actor>
@@ -147,7 +147,7 @@
       </role>
       <role>
        <actor><gn>J.</gn><mn>Patrick</mn><fn>McNamara</fn></actor>
-       <as><preTitle>Mr.</preTitle><fn>Preston</fn></as>
+       <as><prefix>Mr.</prefix><fn>Preston</fn></as>
       </role>
       <role>
        <actor><gn>Frazier</gn><fn>Bain</fn></actor>
@@ -155,11 +155,11 @@
       </role>
       <role>
        <actor><gn>Diane</gn><fn>Franklin</fn></actor>
-       <as><preTitle>Princess</preTitle><gn>Joanna</gn></as>
+       <as><prefix>Princess</prefix><gn>Joanna</gn></as>
       </role>
       <role>
        <actor><gn>Kimberley</gn><fn>Kates</fn></actor>
-       <as><preTitle>Princess</preTitle><gn>Elizabeth</gn></as>
+       <as><prefix>Princess</prefix><gn>Elizabeth</gn></as>
       </role>
      </cast>
     </crew>

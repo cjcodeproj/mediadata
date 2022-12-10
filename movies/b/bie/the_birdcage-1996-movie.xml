@@ -117,7 +117,7 @@
       </role>
       <role>
        <actor><gn>Gene</gn><fn>Hackman</fn></actor>
-       <as><preTitle>Senator</preTitle><fn>Keeley</fn></as>
+       <as><prefix>Senator</prefix><fn>Keeley</fn></as>
       </role>
       <role>
        <actor><gn>Nathan</gn><fn>Lane</fn></actor>

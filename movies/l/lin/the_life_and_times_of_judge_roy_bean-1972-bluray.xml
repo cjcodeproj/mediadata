@@ -101,7 +101,7 @@
      <cast>
       <role>
        <actor><gn>Paul</gn><fn>Newman</fn></actor>
-       <as><preTitle>Judge</preTitle><gn>Roy</gn><fn>Bean</fn></as>
+       <as><prefix type='honorific'>Judge</prefix><gn>Roy</gn><fn>Bean</fn></as>
       </role>
       <role>
        <actor><gn>Ava</gn><fn>Gardner</fn></actor>
@@ -113,7 +113,7 @@
       </role>
       <role>
        <actor><gn>Anthony</gn><fn>Perkins</fn></actor>
-       <as><preTitle>Rev</preTitle><fn>LaSalle</fn></as>
+       <as><prefix type='honorific'>Rev</prefix><fn>LaSalle</fn></as>
       </role>
       <role>
        <actor><gn>John</gn><fn>Huston</fn></actor>

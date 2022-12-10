@@ -144,7 +144,7 @@
       </role>
       <role>
        <actor><gn>Lois</gn><fn>Smith</fn></actor>
-       <as><preTitle>Mrs.</preTitle><fn>Glenn</fn></as>
+       <as><prefix>Mrs.</prefix><fn>Glenn</fn></as>
       </role>
       <role>
        <actor><gn>Murielle</gn><fn>Telio</fn></actor>

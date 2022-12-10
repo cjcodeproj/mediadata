@@ -115,15 +115,15 @@
        <as><gn>Homer</gn><fn>Simpson</fn></as>
        <as><gn>Itchy</gn></as>
        <as><gn>Barney</gn></as>
-       <as><preTitle>Grandpa</preTitle><fn>Simpson</fn></as>
+       <as><prefix>Grandpa</prefix><fn>Simpson</fn></as>
        <as><title>Stage Manager</title></as>
        <as><gn>Krusty</gn><nick>The Clown</nick></as>
-       <as><preTitle>Mayor</preTitle><fn>Quimby</fn></as>
+       <as><prefix>Mayor</prefix><fn>Quimby</fn></as>
        <as><title>Mayer's Aide</title></as>
        <as><title>Multi-Eyes Squirrel</title></as>
        <as><title>Panicky Man</title></as>
        <as><nick>Sideshow</nick><gn>Mel</gn></as>
-       <as><preTitle>Mr.</preTitle><fn>Teeny</fn></as>
+       <as><prefix>Mr.</prefix><fn>Teeny</fn></as>
        <as><title>EPA Official</title></as>
        <as><title>Kissing Cop</title></as>
        <as><title>Bear</title></as>
@@ -132,7 +132,7 @@
        <as><title>Officer</title></as>
        <as><gn>Santa's Little Helper</gn></as>
        <as><title>Squeaky-Voiced Teen</title></as>
-       <as><preTitle>Groundskeeper</preTitle><gn>Willy</gn></as>
+       <as><prefix>Groundskeeper</prefix><gn>Willy</gn></as>
       </role>
       <role>
        <actor><gn>Julie</gn><fn>Kavner</fn></actor>
@@ -156,10 +156,10 @@
       </role>
       <role>
        <actor><gn>Hank</gn><fn>Azaria</fn></actor>
-       <as><preTitle>Professor</preTitle><fn>Frink</fn></as>
+       <as><prefix>Professor</prefix><fn>Frink</fn></as>
        <as><title>Comic Book Guy</title></as>
        <as><gn>Moe</gn><fn>Szyslak</fn></as>
-       <as><preTitle>Chief</preTitle><fn>Wiggum</fn></as>
+       <as><prefix>Chief</prefix><fn>Wiggum</fn></as>
        <as><gn>Lou</gn></as>
        <as><gn>Carl</gn></as>
        <as><gn>Cletus</gn></as>
@@ -174,21 +174,21 @@
        <as><title>Sea Captain</title></as>
        <as><title>EPA Passenger</title></as>
        <as><title>Robot</title></as>
-       <as><preTitle>Dr.</preTitle><gn>Nick</gn><fn>Riviera</fn></as>
+       <as><prefix>Dr.</prefix><gn>Nick</gn><fn>Riviera</fn></as>
        <as><title>Wise Guy</title></as>
       </role>
       <role>
        <actor><gn>Harry</gn><fn>Shearer</fn></actor>
        <as><gn>Scratchy</gn></as>
-       <as><preTitle>Mr.</preTitle><fn>Burns</fn></as>
-       <as><preTitle>Reverand</preTitle><fn>Lovejoy</fn></as>
+       <as><prefix>Mr.</prefix><fn>Burns</fn></as>
+       <as><prefix>Reverand</prefix><fn>Lovejoy</fn></as>
        <as><gn>Ned</gn><fn>Flanders</fn></as>
        <as><gn>Lenny</gn></as>
        <as><nick>Skull</nick></as>
-       <as><preTitle>President</preTitle><gn>Arnold</gn><fn>Schwarzenegger</fn></as>
+       <as><prefix>President</prefix><gn>Arnold</gn><fn>Schwarzenegger</fn></as>
        <as><gn>Kent</gn><fn>Brockman</fn></as>
-       <as><preTitle>Principal</preTitle><fn>Skinner</fn></as>
-       <as><preTitle>Dr.</preTitle><fn>Hibbert</fn></as>
+       <as><prefix>Principal</prefix><fn>Skinner</fn></as>
+       <as><prefix>Dr.</prefix><fn>Hibbert</fn></as>
        <as><fn>Smithers</fn></as>
        <as><title>Toll Booth Man</title></as>
        <as><title>Guard</title></as>
@@ -229,7 +229,7 @@
       </role>
       <role>
        <actor><gn>Marcia</gn><fn>Wallace</fn></actor>
-       <as><preTitle>Mrs.</preTitle><fn>Krabappel</fn></as> <!-- scenes deleted -->
+       <as><prefix>Mrs.</prefix><fn>Krabappel</fn></as> <!-- scenes deleted -->
       </role>
       <role>
        <actor><gn>Russi</gn><fn>Taylor</fn></actor>

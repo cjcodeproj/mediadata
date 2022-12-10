@@ -106,11 +106,11 @@
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Phalen</fn></actor>
-       <as><preTitle>Major</preTitle><fn>Bell</fn></as>
+       <as><prefix>Major</prefix><fn>Bell</fn></as>
       </role>
       <role>
        <actor><gn>Tony</gn><fn>Edwards</fn></actor>
-       <as><preTitle>Sergeant</preTitle><fn>Lemon</fn></as>
+       <as><prefix>Sergeant</prefix><fn>Lemon</fn></as>
       </role>
      </cast>
     </crew>

@@ -101,70 +101,70 @@
      <cast>
       <role>
        <actor><gn>Tom</gn><fn>Cruise</fn></actor>
-       <as><preTitle>Lt.</preTitle><gn>Daniel</gn><fn>Kaffe</fn></as>
+       <as><prefix type='rank'>Lt.</prefix><gn>Daniel</gn><fn>Kaffe</fn></as>
       </role>
       <role>
        <actor><gn>Jack</gn><fn>Nicholson</fn></actor>
-       <as><preTitle>Col.</preTitle><gn>Nathan</gn><mn>R.</mn><fn>Jessep</fn></as>
+       <as><prefix type='rank'>Col.</prefix><gn>Nathan</gn><mn>R.</mn><fn>Jessep</fn></as>
       </role>
       <role>
        <actor><gn>Demi</gn><fn>Moore</fn></actor>
-       <as><preTitle>Lt. Cdr.</preTitle><gn>JoAnne</gn><fn>Galloway</fn></as>
+       <as><prefix type='rank'>Lt. Cdr.</prefix><gn>JoAnne</gn><fn>Galloway</fn></as>
       </role>
       <role>
        <actor><gn>Kevin</gn><fn>Bacon</fn></actor>
-       <as><preTitle>Capt.</preTitle><gn>Jack</gn><fn>Ross</fn></as>
+       <as><prefix type='rank'>Capt.</prefix><gn>Jack</gn><fn>Ross</fn></as>
       </role>
       <role>
        <actor><gn>Kevin</gn><fn>Pollak</fn></actor>
-       <as><preTitle>Lt.</preTitle><gn>Sam</gn><fn>Weinberg</fn></as>
+       <as><prefix type='rank'>Lt.</prefix><gn>Sam</gn><fn>Weinberg</fn></as>
       </role>
       <role>
        <actor><gn>James</gn><fn>Marshall</fn></actor>
-       <as><preTitle>Pfc.</preTitle><gn>Louden</gn><fn>Downey</fn></as>
+       <as><prefix type='rank'>Pfc.</prefix><gn>Louden</gn><fn>Downey</fn></as>
       </role>
       <role>
        <actor><gn>J.</gn><mn>T.</mn><fn>Walsh</fn></actor>
-       <as><preTitle>Lt. Col.</preTitle><gn>Matthew</gn><mn>Andrew</mn><fn>Markinson</fn></as>
+       <as><prefix type='rank'>Lt. Col.</prefix><gn>Matthew</gn><mn>Andrew</mn><fn>Markinson</fn></as>
       </role>
       <role>
        <actor><gn>Christopher</gn><fn>Guest</fn></actor>
-       <as><preTitle>Dr.</preTitle><fn>Stone</fn></as>
+       <as><prefix type='professional'>Dr.</prefix><fn>Stone</fn></as>
       </role>
       <role>
        <actor><gn>J.</gn><mn>A.</mn><fn>Preston</fn></actor>
-       <as><preTitle>Judge</preTitle><gn>Julius</gn><mn>Alexander</mn><fn>Randolph</fn></as>
+       <as><prefix type='honorific'>Judge</prefix><gn>Julius</gn><mn>Alexander</mn><fn>Randolph</fn></as>
       </role>
       <role>
        <actor><gn>Matt</gn><fn>Craven</fn></actor>
-       <as><preTitle>Lt.</preTitle><gn>Dave</gn><fn>Spradling</fn></as>
+       <as><prefix type='rank'>Lt.</prefix><gn>Dave</gn><fn>Spradling</fn></as>
       </role>
       <role>
        <actor><gn>Wolfgang</gn><fn>Bodison</fn></actor>
-       <as><preTitle>Lance Cpl.</preTitle><gn>Harold</gn><mn>W.</mn><fn>Dawson</fn></as>
+       <as><prefix type='rank'>Lance Cpl.</prefix><gn>Harold</gn><mn>W.</mn><fn>Dawson</fn></as>
       </role>
       <role>
        <actor><gn>Xander</gn><fn>Berkeley</fn></actor>
-       <as><preTitle>Capt.</preTitle><fn>Whitaker</fn></as>
+       <as><prefix type='rank'>Capt.</prefix><fn>Whitaker</fn></as>
       </role>
       <role>
        <actor><gn>John</gn><mn>M.</mn><fn>Jackson</fn></actor>
-       <as><preTitle>Capt.</preTitle><gn>West</gn></as>
+       <as><prefix type='rank'>Capt.</prefix><gn>West</gn></as>
       </role>
       <role>
        <actor><gn>Noah</gn><fn>Wyle</fn></actor>
-       <as><preTitle>Cpl.</preTitle><gn>Jeffrey</gn><fn>Barnes</fn></as>
+       <as><prefix type='rank'>Cpl.</prefix><gn>Jeffrey</gn><fn>Barnes</fn></as>
       </role>
       <role>
        <actor><gn>Cuba</gn><fn>Gooding</fn><postTitle>Jr.</postTitle></actor>
-       <as><preTitle>Cpl.</preTitle><gn>Carl</gn><fn>Hammaker</fn></as>
+       <as><prefix type='rank'>Cpl.</prefix><gn>Carl</gn><fn>Hammaker</fn></as>
       </role>
       <role>
        <actor><gn>Lawrence</gn><fn>Lowe</fn></actor>
        <as><title>Baliff</title></as>
       </role>
       <role>
-       <actor><gn>joshua</gn><fn>Malina</fn></actor>
+       <actor><gn>Joshua</gn><fn>Malina</fn></actor>
        <as><gn>Tom</gn></as>
       </role>
       <role>

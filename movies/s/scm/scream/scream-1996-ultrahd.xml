@@ -152,7 +152,7 @@
       </role>
       <role>
        <actor><gn>David</gn><fn>Arquette</fn></actor>
-       <as><preTitle>Deputy</preTitle><fn>Dewey</fn></as>
+       <as><prefix>Deputy</prefix><fn>Dewey</fn></as>
       </role>
       <role>
        <actor><gn>Skeet</gn><fn>Ulrich</fn></actor>
@@ -180,11 +180,11 @@
       </role>
       <role>
        <actor><gn>Lois</gn><fn>Saunders</fn></actor>
-       <as><preTitle>Mrs</preTitle><fn>Tate</fn></as>
+       <as><prefix>Mrs</prefix><fn>Tate</fn></as>
       </role>
       <role>
        <actor><gn>Joseph</gn><fn>Whipp</fn></actor>
-       <as><preTitle>Sheriff</preTitle><fn>Burke</fn></as>
+       <as><prefix>Sheriff</prefix><fn>Burke</fn></as>
       </role>
       <role>
        <actor><gn>Matthew</gn><fn>Lillard</fn></actor>
@@ -208,7 +208,7 @@
       </role>
       <role>
        <actor><gn>Henry</gn><fn>Winkler</fn></actor>
-       <as><preTitle>Principal</preTitle><gn>Arthur</gn><fn>Himbry</fn></as>
+       <as><prefix>Principal</prefix><gn>Arthur</gn><fn>Himbry</fn></as>
       </role>
       <role>
        <actor><gn>Wes</gn><fn>Craven</fn></actor>

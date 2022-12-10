@@ -89,7 +89,7 @@
       </role>
       <role>
        <actor><gn>Judith</gn><fn>Evelyn</fn></actor>
-       <as><preTitle>Miss</preTitle><fn>Lonelyhearts</fn></as>
+       <as><prefix>Miss</prefix><fn>Lonelyhearts</fn></as>
       </role>
       <role>
        <actor><gn>Ross</gn><fn>Bagdasarian</fn></actor>
@@ -97,7 +97,7 @@
       </role>
       <role>
        <actor><gn>Georgine</gn><fn>Darcy</fn></actor>
-       <as><preTitle>Miss</preTitle><fn>Torso</fn></as>
+       <as><prefix>Miss</prefix><fn>Torso</fn></as>
       </role>
      </cast>
     </crew>

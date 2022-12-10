@@ -123,7 +123,7 @@
      <cast>
       <role>
        <actor><gn>Kevin</gn><fn>Bacon</fn></actor>
-       <as><preTitle>Sheriff</preTitle><fn>Kretzer</fn></as>
+       <as><prefix>Sheriff</prefix><fn>Kretzer</fn></as>
       </role>
       <role>
        <actor><gn>James</gn><fn>Freedson-Jackson</fn></actor>
