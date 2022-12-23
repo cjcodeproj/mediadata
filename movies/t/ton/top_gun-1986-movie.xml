@@ -92,7 +92,7 @@
      </directors>
      <writers>
       <writer><gn>Jim</gn><fn>Cash</fn></writer>
-      <writer><gn>Jack</gn><fn>Epps</fn><postTitle>Jr.</postTitle></writer>
+      <writer><gn>Jack</gn><fn>Epps</fn><suffix>Jr.</suffix></writer>
       <writer uncredited='true'><gn>Warren</gn><fn>Skaaren</fn></writer>
       <sources>
        <source>
@@ -114,7 +114,7 @@
       <composer><gn>Harold</gn><fn>Faltermeyer</fn></composer>
      </music>
      <artDept>
-      <productionDesigner><gn>John</gn><fn>DeCuir</fn><postTitle>Jr.</postTitle></productionDesigner>
+      <productionDesigner><gn>John</gn><fn>DeCuir</fn><suffix>Jr.</suffix></productionDesigner>
       <artDirector><gn>Tom</gn><fn>Burzinski</fn></artDirector>
       <setDecorator><gn>Robert</gn><mn>R.</mn><fn>Benton</fn></setDecorator>
      </artDept>
@@ -159,7 +159,7 @@
        <as><prefix>Lieutenant (Junior Grade)</prefix><gn>Ron</gn><nick>Slider</nick><fn>Kerner</fn></as>
       </role>
       <role>
-       <actor><gn>Clarence</gn><fn>Gilyard</fn><postTitle>Jr.</postTitle></actor>
+       <actor><gn>Clarence</gn><fn>Gilyard</fn><suffix>Jr.</suffix></actor>
        <as><prefix>Lieutenant (Junior Grade)</prefix><gn>Marcus</gn><nick>Sundown</nick><fn>Williams</fn></as>
       </role>
       <role>

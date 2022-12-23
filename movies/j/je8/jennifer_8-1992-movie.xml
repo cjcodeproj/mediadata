@@ -72,7 +72,7 @@
       <writer><gn>Bruce</gn><fn>Robinson</fn></writer>
      </writers>
      <editors>
-      <editor><gn>Conrad</gn><fn>Buff</fn><postTitle>IV</postTitle></editor>
+      <editor><gn>Conrad</gn><fn>Buff</fn><suffix>IV</suffix></editor>
      </editors>
      <cinemaphotographers>
       <cinemaphotographer><gn>Conrad</gn><mn>L.</mn><fn>Hall</fn></cinemaphotographer>

@@ -121,7 +121,7 @@
        <as><gn>Jimmy</gn><fn>Schwartz</fn></as>
       </role>
       <role>
-       <actor><gn>Lonnie</gn><mn>R.</mn><fn>Smith</fn><postTitle>Jr.</postTitle></actor>
+       <actor><gn>Lonnie</gn><mn>R.</mn><fn>Smith</fn><suffix>Jr.</suffix></actor>
        <as><prefix>Dr.</prefix><fn>Pettering</fn></as>
       </role>
      </cast>

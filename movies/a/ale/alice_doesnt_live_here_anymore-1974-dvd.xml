@@ -137,7 +137,7 @@
        <as><gn>Alice</gn><variant>age 8</variant></as>
       </role>
       <role>
-       <actor><gn>Alfred</gn><fn>Lutter</fn><postTitle>III</postTitle></actor>
+       <actor><gn>Alfred</gn><fn>Lutter</fn><suffix>III</suffix></actor>
        <as><gn>Tommy</gn></as>
       </role>
       <role>

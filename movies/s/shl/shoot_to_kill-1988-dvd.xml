@@ -87,7 +87,7 @@
       <writer role='story'><gn>Harv</gn><fn>Zimmel</fn></writer>
       <writer role='screenplay'><gn>Harv</gn><fn>Zimmel</fn></writer>
       <writer role='screenplay'><gn>Michael</gn><fn>Burton</fn></writer>
-      <writer role='screenplay'><gn>Daniel</gn><fn>Petrie</fn><postTitle>Jr</postTitle></writer>
+      <writer role='screenplay'><gn>Daniel</gn><fn>Petrie</fn><suffix>Jr</suffix></writer>
      </writers>
      <editors>
       <editor><gn>George</gn><fn>Bowers</fn></editor>

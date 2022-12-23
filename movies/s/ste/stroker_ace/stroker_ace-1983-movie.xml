@@ -63,7 +63,7 @@
       </group>
       <group relevance='4'>
        <properNoun><thing>Goodyear Blimp</thing></properNoun>
-       <properNoun><person><preTitle>Colonel</preTitle><gn>Harlan</gn><fn>Sanders</fn></person></properNoun>
+       <properNoun><person><prefix type='honorific'>Colonel</prefix><gn>Harlan</gn><fn>Sanders</fn></person></properNoun>
       </group>
      </keywords>
      <themes>

@@ -132,7 +132,7 @@
      </cinemaphotographers>
      <cast>
       <role>
-       <actor><gn>Robert</gn><fn>Downey</fn><postTitle>Jr</postTitle></actor>
+       <actor><gn>Robert</gn><fn>Downey</fn><suffix>Jr</suffix></actor>
        <as><gn>Harry</gn><fn>Lockhart</fn></as>
        <as><narrator/></as>
       </role>

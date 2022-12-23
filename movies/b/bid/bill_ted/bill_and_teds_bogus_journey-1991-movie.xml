@@ -135,7 +135,7 @@
        <as><prefix>Sir</prefix><gn>James</gn><fn>Martin</fn></as>
       </role>
       <role>
-       <actor><gn>Hal</gn><fn>Landon</fn><postTitle>Jr.</postTitle></actor>
+       <actor><gn>Hal</gn><fn>Landon</fn><suffix>Jr.</suffix></actor>
        <as><prefix>Captain</prefix><fn>Logan</fn></as>
       </role>
       <role>
@@ -159,7 +159,7 @@
        <as><fn>Bash</fn></as>
       </role>
       <role>
-       <actor><gn>Hal</gn><fn>Landon</fn><postTitle>Sr.</postTitle></actor>
+       <actor><gn>Hal</gn><fn>Landon</fn><suffix>Sr.</suffix></actor>
        <as><gn>Thomas</gn><fn>Edison</fn></as>
       </role>
       <role>
