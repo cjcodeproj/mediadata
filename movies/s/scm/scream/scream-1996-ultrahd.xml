@@ -164,7 +164,7 @@
       </role>
       <role>
        <actor><gn>Roger</gn><fn>Jackson</fn></actor>
-       <as><title>Phone Voice</title><variant>voice</variant></as>
+       <as><title>Phone Voice</title><aspect>voice</aspect></as>
       </role>
       <role>
        <actor><gn>Kevin</gn><mn>Patrick</mn><fn>Walls</fn></actor>

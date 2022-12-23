@@ -136,11 +136,11 @@
       </role>
       <role>
        <actor><gn>Bob</gn><fn>Beill</fn></actor>
-       <as><title>Houston</title><variant>voice</variant></as>
+       <as><title>Houston</title><aspect>voice</aspect></as>
       </role>
       <role>
        <actor><gn>Neil</gn><fn>Ross</fn></actor>
-       <as><title>Space Suit</title><variant>voice</variant></as>
+       <as><title>Space Suit</title><aspect>voice</aspect></as>
       </role>
      </cast>
     </crew>

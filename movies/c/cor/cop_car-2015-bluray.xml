@@ -147,7 +147,7 @@
       </role>
       <role>
        <actor><gn>Kyra</gn><fn>Sedgwick</fn></actor>
-       <as><title>Dispatch</title><variant>voice</variant></as>
+       <as><title>Dispatch</title><aspect>voice</aspect></as>
       </role>
      </cast>
     </crew>
