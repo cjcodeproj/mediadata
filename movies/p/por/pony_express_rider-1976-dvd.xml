@@ -105,43 +105,63 @@
      <cast>
       <role>
        <actor><gn>Stewart</gn><fn>Petersen</fn></actor>
-       <as><gn>Jimmie</gn><mn>D.</mn><fn>Richardson</fn></as>
+       <character>
+        <name><gn>Jimmie</gn><mn>D.</mn><fn>Richardson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Henry</gn><fn>Wilcoxn</fn></actor>
-       <as><gn>Trevor</gn><fn>Kingman</fn></as>
+       <character>
+        <name><gn>Trevor</gn><fn>Kingman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Buck</gn><fn>Taylor</fn></actor>
-       <as><gn>Bovey</gn><fn>Kingman</fn></as>
+       <character>
+        <name><gn>Bovey</gn><fn>Kingman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Maureen</gn><fn>McCormick</fn></actor>
-       <as><gn>Rose</gn><nick>of Sharon</nick></as>
+       <character>
+        <name><gn>Rose</gn><nick>of Sharon</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ken</gn><fn>Curtis</fn></actor>
-       <as><gn>Jed</gn><fn>Richardson</fn></as>
+       <character>
+        <name><gn>Jed</gn><fn>Richardson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Slim</gn><fn>Pickens</fn></actor>
-       <as><gn>Bob</gn><fn>Jay</fn></as>
+       <character>
+        <name><gn>Bob</gn><fn>Jay</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dub</gn><fn>Taylor</fn></actor>
-       <as><nick>Boomer</nick><fn>Riley</fn></as>
+       <character>
+        <name><nick>Boomer</nick><fn>Riley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ace</gn><fn>Reid</fn></actor>
-       <as><nick>Bullfrog</nick><fn>Fry</fn></as>
+       <character>
+        <name><nick>Bullfrog</nick><fn>Fry</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jack</gn><fn>Elam</fn></actor>
-       <as><nick>Crazy</nick><gn>Charlie</gn></as>
+       <character>
+        <name><nick>Crazy</nick><gn>Charlie</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Larry</gn><mn>D.</mn><fn>Mann</fn></actor>
-       <as><fn>Blackmore</fn></as>
+       <character>
+        <name><fn>Blackmore</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

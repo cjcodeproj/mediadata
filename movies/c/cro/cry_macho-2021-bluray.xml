@@ -105,15 +105,21 @@
      <cast>
       <role>
        <actor><gn>Clint</gn><fn>Eastwood</fn></actor>
-       <as><gn>Mike</gn><fn>Milo</fn></as>
+       <character>
+        <name><gn>Mike</gn><fn>Milo</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dwight</gn><fn>Yoakam</fn></actor>
-       <as><gn>Howard</gn><fn>Polk</fn></as>
+       <character>
+        <name><gn>Howard</gn><fn>Polk</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Eduardo</gn><fn>Minett</fn></actor>
-       <as><gn>Rafo</gn></as>
+       <character>
+        <name><gn>Rafo</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

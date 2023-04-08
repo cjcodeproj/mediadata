@@ -78,31 +78,45 @@
      <cast>
       <role>
        <actor><gn>Mark</gn><fn>Ruffalo</fn></actor>
-       <as><gn>Mike</gn><fn>Rezendes</fn></as>
+       <character>
+        <name><gn>Mike</gn><fn>Rezendes</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>Keaton</fn></actor>
-       <as><gn>Walter</gn><nick>Robby</nick><fn>Robinson</fn></as>
+       <character>
+        <name><gn>Walter</gn><nick>Robby</nick><fn>Robinson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rachel</gn><fn>McAdams</fn></actor>
-       <as><gn>Sacha</gn><fn>Pfeiffer</fn></as>
+       <character>
+        <name><gn>Sacha</gn><fn>Pfeiffer</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Liev</gn><fn>Schreiber</fn></actor>
-       <as><gn>Marty</gn><fn>Baron</fn></as>
+       <character>
+        <name><gn>Marty</gn><fn>Baron</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Slattery</fn></actor>
-       <as><gn>Ben</gn><fn>Bradlee</fn><suffix>Jr</suffix></as>
+       <character>
+        <name><gn>Ben</gn><fn>Bradlee</fn><suffix>Jr</suffix></name>
+       </character>
       </role>
       <role>
        <actor><gn>Brian</gn><mn>d'Arcy</mn><fn>James</fn></actor>
-       <as><gn>Matt</gn><fn>Carroll</fn></as>
+       <character>
+        <name><gn>Matt</gn><fn>Carroll</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Stanley</gn><fn>Tucci</fn></actor>
-       <as><gn>Mitchell</gn><fn>Garabedian</fn></as>
+       <character>
+        <name><gn>Mitchell</gn><fn>Garabedian</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

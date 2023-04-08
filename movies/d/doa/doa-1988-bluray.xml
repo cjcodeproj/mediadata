@@ -81,23 +81,33 @@
      <cast>
       <role>
        <actor><gn>Dennis</gn><fn>Quaid</fn></actor>
-       <as><gn>Dexter</gn><fn>Cornell</fn></as>
+       <character>
+        <name><gn>Dexter</gn><fn>Cornell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Meg</gn><fn>Ryan</fn></actor>
-       <as><gn>Sydney</gn><fn>Fuller</fn></as>
+       <character>
+        <name><gn>Sydney</gn><fn>Fuller</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Charlotte</gn><fn>Rampling</fn></actor>
-       <as><prefix>Mrs</prefix><fn>Fitzwaring</fn></as>
+       <character>
+        <name><prefix>Mrs</prefix><fn>Fitzwaring</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Daniel</gn><fn>Stern</fn></actor>
-       <as><gn>Hal</gn><fn>Petersham</fn></as>
+       <character>
+        <name><gn>Hal</gn><fn>Petersham</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jane</gn><fn>Kaczmarek</fn></actor>
-       <as><gn>Gail</gn><fn>Cornell</fn></as>
+       <character>
+        <name><gn>Gail</gn><fn>Cornell</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

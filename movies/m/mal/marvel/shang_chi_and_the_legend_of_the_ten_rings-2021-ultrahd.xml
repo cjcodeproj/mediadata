@@ -122,44 +122,64 @@
      <cast>
       <role>
        <actor><gn>Simu</gn><fn>Liu</fn></actor>
-       <as><gn>Shaun</gn></as>
-       <as><gn>Shang-Chi</gn></as>
+       <character>
+        <name><gn>Shaun</gn></name>
+        <alias><gn>Shang-Chi</gn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Tony</gn><mn>Chiu-Wai</mn><fn>Leung</fn></actor>
-       <as><gn>Xu</gn><fn>Wenwu</fn></as>
+       <character>
+        <name><gn>Xu</gn><fn>Wenwu</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>Awkwafina</gn></actor>
-       <as><gn>Katy</gn></as>
+       <actor><pcn>Awkwafina</pcn></actor>
+       <character>
+        <name><gn>Katy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ben</gn><fn>Kingsley</fn></actor>
-       <as><gn>Trevor</gn><fn>Slattery</fn></as>
+       <character>
+        <name><gn>Trevor</gn><fn>Slattery</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Meng'er</gn><fn>Zhang</fn></actor>
-       <as><gn>Xialing</gn></as>
+       <character>
+        <name><gn>Xialing</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Fala</gn><fn>Chen</fn></actor>
-       <as><gn>Li</gn></as>
+       <character>
+        <name><gn>Li</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michelle</gn><fn>Yeoh</fn></actor>
-       <as><gn>Ying</gn><fn>Nan</fn></as>
+       <character>
+        <name><gn>Ying</gn><fn>Nan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Wah</gn><fn>Yuen</fn></actor>
-       <as><prefix>Master</prefix><gn>Guang</gn><fn>Bo</fn></as>
+       <character>
+        <name><prefix>Master</prefix><gn>Guang</gn><fn>Bo</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Florian</gn><fn>Munteanu</fn></actor>
-       <as><nick>Razor Fist</nick></as>
+       <character>
+        <name><nick>Razor Fist</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Andy</gn><fn>Le</fn></actor>
-       <as><nick>Death Dealer</nick></as>
+       <character>
+        <name><nick>Death Dealer</nick></name>
+       </character>
       </role>
      </cast>
     </crew>

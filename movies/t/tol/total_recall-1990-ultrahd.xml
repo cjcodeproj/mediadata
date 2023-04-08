@@ -121,36 +121,52 @@
      <cast>
       <role>
        <actor><gn>Arnold</gn><fn>Schwarzenegger</fn></actor>
-       <as><gn>Quaid</gn></as>
+       <character>
+        <name><gn>Quaid</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rachel</gn><fn>Ticotin</fn></actor>
-       <as><gn>Melina</gn></as>
+       <character>
+        <name><gn>Melina</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sharon</gn><fn>Stone</fn></actor>
-       <as><gn>Lon</gn></as>
+       <character>
+        <name><gn>Lon</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ronnie</gn><fn>Cox</fn></actor>
-       <as><fn>Cohaagen</fn></as>
+       <character>
+        <name><fn>Cohaagen</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>Ironside</fn></actor>
-       <as><fn>Richter</fn></as>
+       <character>
+        <name><fn>Richter</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Marshall</gn><fn>Bell</fn></actor>
-       <as><gn>George</gn></as>
-       <as><gn>Kuato</gn></as>
+       <character>
+        <name><gn>George</gn></name>
+        <alias><gn>Kuato</gn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Mel</gn><fn>Johnson</fn><suffix>Jr</suffix></actor>
-       <as><gn>Benny</gn></as>
+       <character>
+        <name><gn>Benny</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Priscilla</gn><fn>Allen</fn></actor>
-       <as><title>Fat Lady</title></as>
+       <character>
+        <unnamed>Fat Lady</unnamed>
+       </character>
       </role>
      </cast>
     </crew>

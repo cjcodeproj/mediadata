@@ -115,66 +115,96 @@
      <cast>
       <role>
        <actor><gn>Keanu</gn><fn>Lastname</fn></actor>
-       <as><gn>Neo</gn></as>
-       <as><gn>Thomas</gn><fn>Anderson</fn></as>
+       <character>
+        <name><pcn>Neo</pcn></name>
+        <alias><gn>Thomas</gn><fn>Anderson</fn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Carrie-Anne</gn><fn>Moss</fn></actor>
-       <as><gn>Trinity</gn></as>
-       <as><gn>Tiffany</gn></as>
+       <character>
+        <name><pcn>Trinity</pcn></name>
+        <alias><gn>Tiffany</gn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Yahya</gn><fn>Abdul-Mateen</fn><suffix>II</suffix></actor>
-       <as><gn>Morpheus</gn></as>
-       <as><prefix>Agent</prefix><fn>Smith</fn></as>
+       <character>
+        <name><pcn>Morpheus</pcn></name>
+        <alias><prefix>Agent</prefix><fn>Smith</fn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Jonathan</gn><fn>Groff</fn></actor>
-       <as><fn>Smith</fn></as>
+       <character>
+        <name><fn>Smith</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jessica</gn><fn>Henwick</fn></actor>
-       <as><gn>Bugs</gn></as>
+       <character>
+        <name><gn>Bugs</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Neil</gn><mn>Patrick</mn><fn>Harris</fn></actor>
-       <as><title>The Analyst</title></as>
+       <character>
+        <unnamed>The Analyst</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Jada</gn><fn>Pinkett Smith</fn></actor>
-       <as><gn>Niobe</gn></as>
+       <character>
+        <name><gn>Niobe</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Priyanka</gn><mn>Chopra</mn><fn>Jonas</fn></actor>
-       <as><gn>Sati</gn></as>
+       <character>
+        <name><gn>Sati</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Christina</gn><fn>Ricci</fn></actor>
-       <as><gn>Gwen</gn><fn>de Vere</fn></as>
+       <character>
+        <name><gn>Gwen</gn><fn>de Vere</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lambert</gn><fn>Wilson</fn></actor>
-       <as><title>The Merovingian</title></as>
+       <character>
+        <name><pcn>The Merovingian</pcn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Andrew</gn><mn>Lewis</mn><fn>Caldwell</fn></actor>
-       <as><gn>Jude</gn></as>
+       <character>
+        <name><gn>Jude</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Toby</gn><fn>Onwumere</fn></actor>
-       <as><gn>Sequoia</gn></as>
+       <character>
+        <name><gn>Sequoia</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Max</gn><fn>Riemelt</fn></actor>
-       <as><fn>Sheperd</fn></as>
+       <character>
+        <name><fn>Sheperd</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Joshua</gn><fn>Grothe</fn></actor>
-       <as><fn>FunktIøn</fn></as>
+       <character>
+        <name><fn>FunktIøn</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Brian</gn><mn>J.</mn><fn>Smith</fn></actor>
-       <as><fn>Berg</fn></as>
+       <character>
+        <name><fn>Berg</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

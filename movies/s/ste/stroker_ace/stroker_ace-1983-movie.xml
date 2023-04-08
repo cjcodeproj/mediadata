@@ -99,43 +99,63 @@
      <cast>
       <role>
        <actor><gn>Burt</gn><fn>Reynolds</fn></actor>
-       <as><gn>Stroker</gn><fn>Ace</fn></as>
+       <character>
+        <name><gn>Stroker</gn><fn>Ace</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ned</gn><fn>Beatty</fn></actor>
-       <as><gn>Clyde</gn><fn>Torkle</fn></as>
+       <character>
+        <name><gn>Clyde</gn><fn>Torkle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jim</gn><fn>Nabors</fn></actor>
-       <as><gn>Lugs</gn></as>
+       <character>
+        <name><gn>Lugs</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Parker</gn><fn>Stevenson</fn></actor>
-       <as><gn>Aubrey</gn><fn>James</fn></as>
+       <character>
+        <name><gn>Aubrey</gn><fn>James</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Loni</gn><fn>Anderson</fn></actor>
-       <as><gn>Pembrook</gn><fn>Feeney</fn></as>
+       <character>
+        <name><gn>Pembrook</gn><fn>Feeney</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Byner</fn></actor>
-       <as><gn>Doc</gn><fn>Seegle</fn></as>
+       <character>
+        <name><gn>Doc</gn><fn>Seegle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Frank</gn><mn>O</mn><fn>Hill</fn></actor>
-       <as><gn>Dad</gn><fn>Seegle</fn></as>
+       <character>
+        <name><gn>Dad</gn><fn>Seegle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Cassandra</gn><fn>Peterson</fn></actor>
-       <as><title>Girl With Lugs</title></as>
+       <character>
+        <unnamed>Girl With Lugs</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Dale</gn><fn>Earnhardt</fn></actor>
-       <as><self fictionalVariant='true'/></as>
+       <character>
+        <self/>
+       </character>
       </role>
       <role>
        <actor><gn>Kyle</gn><fn>Petty</fn></actor>
-       <as><self fictionalVariant='true'/></as>
+       <character>
+        <self/>
+       </character>
       </role>
      </cast>
     </crew>

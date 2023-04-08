@@ -103,21 +103,29 @@
      <editor><gn>Tim</gn><fn>Board</fn></editor>
     </editors>
     <cast>
-     <role billing='1'>
+     <role>
       <actor><gn>Lily</gn><fn>Tomlin</fn></actor>
-      <as><gn>Violet</gn><fn>Newstead</fn></as>
+       <character>
+        <name><gn>Violet</gn><fn>Newstead</fn></name>
+       </character>
      </role>
-     <role billing='1'>
+     <role>
       <actor><gn>Jane</gn><fn>Fonda</fn></actor>
-      <as><gn>Judy</gn><fn>Bernly</fn></as>
+       <character>
+        <name><gn>Judy</gn><fn>Bernly</fn></name>
+       </character>
      </role>
-     <role billing='1'>
+     <role>
       <actor><gn>Dolly</gn><fn>Parton</fn></actor>
-      <as><gn>Doralee</gn><fn>Rhodes</fn></as>
+       <character>
+        <name><gn>Doralee</gn><fn>Rhodes</fn></name>
+       </character>
      </role>
-     <role billing='2'>
+     <role>
       <actor><gn>Dabney</gn><fn>Coleman</fn></actor>
-      <as><gn>Franklin</gn><fn>Hart</fn><suffix>Jr.</suffix></as>
+       <character>
+        <name><gn>Franklin</gn><fn>Hart</fn><suffix>Jr.</suffix></name>
+       </character>
      </role>
     </cast>
    </crew>

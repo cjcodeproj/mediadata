@@ -89,47 +89,69 @@
      <cast>
       <role>
        <actor><gn>Daniel</gn><fn>Craig</fn></actor>
-       <as><gn>James</gn><fn>Bond</fn></as>
+       <character>
+        <name><gn>James</gn><fn>Bond</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Christoph</gn><fn>Walz</fn></actor>
-       <as><fn>Blofeld</fn></as>
+       <character>
+        <name><fn>Blofeld</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Léa</gn><fn>Seydoux</fn></actor>
-       <as><gn>Madeleine</gn></as>
+       <character>
+        <name><gn>Madeleine</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ralph</gn><fn>Fiennes</fn></actor>
-       <as><nick>M</nick></as>
+       <character>
+        <name><pcn>M</pcn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ben</gn><fn>Whishaw</fn></actor>
-       <as><nick>Q</nick></as>
+       <character>
+        <name><pcn>Q</pcn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Naomi</gn><fn>Harris</fn></actor>
-       <as><fn>Moneypenny</fn></as>
+       <character>
+        <name><fn>Moneypenny</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dave</gn><fn>Bautista</fn></actor>
-       <as><gn>Hinx</gn></as>
+       <character>
+        <name><gn>Hinx</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Andrew</gn><fn>Scott</fn></actor>
-       <as><nick>C</nick></as>
+       <character>
+        <name><pcn>C</pcn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rory</gn><fn>Kinnear</fn></actor>
-       <as><fn>Tanner</fn></as>
+       <character>
+        <name><fn>Tanner</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jesper</gn><fn>Christensen</fn></actor>
-       <as><prefix>Mr.</prefix><fn>White</fn></as>
+       <character>
+        <name><prefix>Mr.</prefix><fn>White</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Alessandro</gn><fn>Cremora</fn></actor>
-       <as><gn>Marco</gn><fn>Sciarra</fn></as>
+       <character>
+        <name><gn>Marco</gn><fn>Sciarra</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

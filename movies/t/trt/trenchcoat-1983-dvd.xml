@@ -75,15 +75,21 @@
      <cast>
       <role>
        <actor><gn>Margot</gn><fn>Kidder</fn></actor>
-       <as><gn>Mickey</gn><fn>Raymond</fn></as>
+       <character>
+        <name><gn>Mickey</gn><fn>Raymond</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Hayes</fn></actor>
-       <as><gn>Terry</gn><fn>Leonard</fn></as>
+       <character>
+        <name><gn>Terry</gn><fn>Leonard</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>David</gn><fn>Suchet</fn></actor>
-       <as><prefix>Inspector</prefix><fn>Stagnos</fn></as>
+       <character>
+        <name><prefix>Inspector</prefix><fn>Stagnos</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

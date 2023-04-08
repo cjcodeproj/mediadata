@@ -77,27 +77,39 @@
      <cast>
       <role>
        <actor><gn>Michael</gn><fn>Douglas</fn></actor>
-       <as><prefix>Detective</prefix><gn>Nick</gn><fn>Curran</fn></as>
+       <character>
+        <name><prefix>Detective</prefix><gn>Nick</gn><fn>Curran</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sharon</gn><fn>Stone</fn></actor>
-       <as><gn>Catherine</gn><fn>Tramell</fn></as>
+       <character>
+        <name><gn>Catherine</gn><fn>Tramell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>George</gn><fn>Dzundza</fn></actor>
-       <as><gn>Gus</gn><fn>Moran</fn></as>
+       <character>
+        <name><gn>Gus</gn><fn>Moran</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeanne</gn><fn>Tripplehorn</fn></actor>
-       <as><prefix>Dr</prefix><gn>Beth</gn><fn>Garner</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Beth</gn><fn>Garner</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Denis</gn><fn>Arndt</fn></actor>
-       <as><prefix>Lieutenant</prefix><fn>Walker</fn></as>
+       <character>
+        <name><prefix>Lieutenant</prefix><fn>Walker</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Leilani</gn><fn>Sarelle</fn></actor>
-       <as><gn>Roxy</gn><fn>Hardy</fn></as>
+       <character>
+        <name><gn>Roxy</gn><fn>Hardy</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

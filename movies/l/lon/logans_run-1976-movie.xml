@@ -99,47 +99,70 @@
      <cast>
       <role>
        <actor><gn>Michael</gn><fn>York</fn></actor>
-       <as><gn>Logan</gn></as>
+       <character>
+        <name><gn>Logan</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Jordan</fn></actor>
-       <as><gn>Francis</gn></as>
+       <character>
+        <name><gn>Francis</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jenny</gn><fn>Agutter</fn></actor>
-       <as><gn>Jessica</gn></as>
+       <character>
+        <name><gn>Jessica</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Roscoe Lee</gn><fn>Browne</fn></actor>
-       <as><gn>Box</gn></as>
+       <character>
+        <name><gn>Box</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Farrah</gn><fn>Fawcett</fn></actor>
-       <as><gn>Holly</gn></as>
+       <character>
+        <name><gn>Holly</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>Anderson</fn><suffix>Jr.</suffix></actor>
-       <as><nick>Doc</nick></as>
+       <character>
+        <name><nick>Doc</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Peter</gn><fn>Usinov</fn></actor>
-       <as><title>Old Man</title></as>
+       <character>
+        <unnamed>Old Man</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Randolph</gn><fn>Roberts</fn></actor>
-       <as><title>2nd Santuary Man</title></as>
+       <character>
+        <unnamed>2nd Santuary Man</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Lara</gn><fn>Lindsay</fn></actor>
-       <as><title>The Woman Runner</title></as>
+       <character>
+        <unnamed>The Woman Runner</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Gary</gn><fn>Morgan</fn></actor>
-       <as><gn>Billy</gn></as>
+       <character>
+        <name><gn>Billy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Virginia Ann</gn><fn>Ford</fn></actor>
-       <as><title>The City Computer</title></as>  <!-- uncredited -->
+       <character uncredited='true'>
+        <unnamed>The City Computer</unnamed>
+        <variant>voice</variant>
+       </character>
       </role>
      </cast>
     </crew>

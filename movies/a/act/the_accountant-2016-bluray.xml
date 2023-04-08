@@ -102,35 +102,51 @@
      <cast>
       <role>
        <actor><gn>Ben</gn><fn>Affleck</fn></actor>
-       <as><gn>Christian</gn><fn>Wolff</fn></as>
+       <character>
+        <name><gn>Christian</gn><fn>Wolff</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ana</gn><fn>Kendrick</fn></actor>
-       <as><gn>Dana</gn><fn>Cummings</fn></as>
+       <character>
+        <name><gn>Dana</gn><fn>Cummings</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>J</gn><mn>K</mn><fn>Simmons</fn></actor>
-       <as><gn>Ray</gn><fn>King</fn></as>
+       <actor><pgn>J. K.</pgn><fn>Simmons</fn></actor>
+       <character>
+        <name><gn>Ray</gn><fn>King</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeffrey</gn><fn>Tambor</fn></actor>
-       <as><gn>Francis</gn><fn>Silverberg</fn></as>
+       <character>
+        <name><gn>Francis</gn><fn>Silverberg</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jon</gn><fn>Bernthal</fn></actor>
-       <as><gn>Brax</gn></as>
+       <character>
+        <name><gn>Brax</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Cynthia</gn><fn>Addai-Robinson</fn></actor>
-       <as><gn>Marybeth</gn><fn>Medina</fn></as>
+       <character>
+        <name><gn>Marybeth</gn><fn>Medina</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Lithgow</fn></actor>
-       <as><gn>Lamar</gn><fn>Blackburn</fn></as>
+       <character>
+        <name><gn>Lamar</gn><fn>Blackburn</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jean</gn><fn>Smart</fn></actor>
-       <as><gn>Rita</gn><fn>Blackburn</fn></as>
+       <character>
+        <name><gn>Rita</gn><fn>Blackburn</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

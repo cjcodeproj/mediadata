@@ -93,24 +93,34 @@
      <cast>
       <role>
        <actor><gn>Brian</gn><fn>Bosworth</fn></actor>
-       <as><gn>Joe</gn><fn>Huff</fn></as>
-       <as><gn>John</gn><fn>Stone</fn></as>
+       <character>
+        <name><gn>Joe</gn><fn>Huff</fn></name>
+        <alias><gn>John</gn><fn>Stone</fn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Lance</gn><fn>Henriksen</fn></actor>
-       <as><nick>Chains</nick><fn>Cooper</fn></as>
+       <character>
+        <name><nick>Chains</nick><fn>Cooper</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>William</gn><fn>Forsythe</fn></actor>
-       <as><nick>Ice</nick></as>
+       <character>
+        <name><nick>Ice</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Arabella</gn><fn>Holzbog</fn></actor>
-       <as><gn>Nancy</gn></as>
+       <character>
+        <name><gn>Nancy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sam</gn><fn>McMurray</fn></actor>
-       <as><fn>Lance</fn></as>
+       <character>
+        <name><fn>Lance</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

@@ -109,47 +109,69 @@
      <cast>
       <role>
        <actor><gn>Kenneth</gn><fn>Branagh</fn></actor>
-       <as><gn>Hercule</gn><fn>Poirot</fn></as>
+       <character>
+        <name><gn>Hercule</gn><fn>Poirot</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tom</gn><fn>Bateman</fn></actor>
-       <as><fn>Bouc</fn></as>
+       <character>
+        <name><fn>Bouc</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Annette</gn><fn>Bening</fn></actor>
-       <as><gn>Euphemia</gn><fn>Bouc</fn></as>
+       <character>
+        <name><gn>Euphemia</gn><fn>Bouc</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Gal</gn><fn>Gadot</fn></actor>
-       <as><gn>Linnet</gn><fn>Ridgeway</fn></as>
+       <character>
+        <name><gn>Linnet</gn><fn>Ridgeway</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Arnie</gn><fn>Hammer</fn></actor>
-       <as><gn>Simon</gn><fn>Doyle</fn></as>
+       <character>
+        <name><gn>Simon</gn><fn>Doyle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jennifer</gn><fn>Saunders</fn></actor>
-       <as><gn>Marie</gn><fn>Van Schuyler</fn></as>
+       <character>
+        <name><gn>Marie</gn><fn>Van Schuyler</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dawn</gn><fn>French</fn></actor>
-       <as><fn>Bowers</fn></as>
+       <character>
+        <name><fn>Bowers</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Russell</gn><fn>Brand</fn></actor>
-       <as><fn>Windlesham</fn></as>
+       <character>
+        <name><fn>Windlesham</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sophie</gn><fn>Okonedo</fn></actor>
-       <as><gn>Salome</gn><fn>Otterbourne</fn></as>
+       <character>
+        <name><gn>Salome</gn><fn>Otterbourne</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Letitia</gn><fn>Wright</fn></actor>
-       <as><gn>Rosalie</gn><fn>Otterbourne</fn></as>
+       <character>
+        <name><gn>Rosalie</gn><fn>Otterbourne</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ali</gn><fn>Fazal</fn></actor>
-       <as><fn>Katchadourian</fn></as>
+       <character>
+        <name><fn>Katchadourian</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

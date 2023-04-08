@@ -104,47 +104,69 @@
      <cast>
       <role>
        <actor><gn>Halle</gn><fn>Berry</fn></actor>
-       <as><gn>Jocinda</gn><fn>Fowler</fn></as>
+       <character>
+        <name><gn>Jocinda</gn><fn>Fowler</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Patrick</gn><fn>Wilson</fn></actor>
-       <as><gn>Brian</gn><fn>Harper</fn></as>
+       <character>
+        <name><gn>Brian</gn><fn>Harper</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Bradley</fn></actor>
-       <as><gn>K</gn><mn>C</mn><fn>Houseman</fn></as>
+       <character>
+        <name><pgn>K C</pgn><fn>Houseman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Charlie</gn><fn>Plummer</fn></actor>
-       <as><gn>Sonny</gn><fn>Harper</fn></as>
+       <character>
+        <name><gn>Sonny</gn><fn>Harper</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Wenwen</gn><fn>Yu</fn></actor>
-       <as><gn>Michelle</gn></as>
+       <character>
+        <name><gn>Michelle</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>Peña</fn></actor>
-       <as><gn>Tom</gn><fn>Lopez</fn></as>
+       <character>
+        <name><gn>Tom</gn><fn>Lopez</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Carolina</gn><fn>Bartczak</fn></actor>
-       <as><gn>Brenda</gn><fn>Lopez</fn></as>
+       <character>
+        <name><gn>Brenda</gn><fn>Lopez</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Chris</gn><fn>Sandiford</fn></actor>
-       <as><fn>Mosley</fn></as>
+       <character>
+        <name><fn>Mosley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jonathan</gn><mn>MAxwell</mn><fn>Silver</fn></actor>
-       <as><fn>Johansen</fn></as>
+       <character>
+        <name><fn>Johansen</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Eme</gn><fn>Ikwuakor</fn></actor>
-       <as><fn>Johansen</fn></as>
+       <character>
+        <name><fn>Johansen</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Stephen</gn><fn>Bogaert</fn></actor>
-       <as><prefix>NASA Director</prefix><gn>Albert</gn><fn>Hutchings</fn></as>
+       <character>
+        <name><prefix>NASA Director</prefix><gn>Albert</gn><fn>Hutchings</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

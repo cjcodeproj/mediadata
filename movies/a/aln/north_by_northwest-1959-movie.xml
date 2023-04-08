@@ -88,15 +88,21 @@
      <cast>
       <role>
        <actor><gn>Cary</gn><fn>Grant</fn></actor>
-       <as><gn>Roger</gn><fn>Thornhill</fn></as>
+       <character>
+        <name><gn>Roger</gn><fn>Thornhill</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Eva</gn><mn>Marie</mn><fn>Saint</fn></actor>
-       <as><gn>Eve</gn><fn>Kendall</fn></as>
+       <character>
+        <name><gn>Eve</gn><fn>Kendall</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>James</gn><fn>Mason</fn></actor>
-       <as><gn>Phillip</gn><fn>Vandamm</fn></as>
+       <character>
+        <name><gn>Phillip</gn><fn>Vandamm</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

@@ -137,71 +137,105 @@
      <cast>
       <role>
        <actor><gn>John</gn><fn>Travolta</fn></actor>
-       <as><gn>Vincent</gn><fn>Vega</fn></as>
+       <character>
+        <name><gn>Vincent</gn><fn>Vega</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Uma</gn><fn>Thurman</fn></actor>
-       <as><gn>Mia</gn><fn>Wallace</fn></as>
+       <character>
+        <name><gn>Mia</gn><fn>Wallace</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Samuel</gn><mn>L</mn><fn>Jackson</fn></actor>
-       <as><gn>Jules</gn><fn>Winnfield</fn></as>
+       <character>
+        <name><gn>Jules</gn><fn>Winnfield</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Harvey</gn><fn>Keitel</fn></actor>
-       <as><gn>Winston</gn><fn>Wolf</fn></as>
+       <character>
+        <name><gn>Winston</gn><fn>Wolf</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tim</gn><fn>Roth</fn></actor>
-       <as><nick>Pumpkin</nick></as>
+       <character>
+        <name><nick>Pumpkin</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Amanda</gn><fn>Plumber</fn></actor>
-       <as><nick>Honey Bunny</nick></as>
+       <character>
+        <name><nick>Honey Bunny</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Maria</gn><fn>de Medeiros</fn></actor>
-       <as><gn>Fabienne</gn></as>
+       <character>
+        <name><gn>Fabienne</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ving</gn><fn>Rhames</fn></actor>
-       <as><gn>Marsellus</gn><fn>Wallace</fn></as>
+       <character>
+        <name><gn>Marsellus</gn><fn>Wallace</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Eric</gn><fn>Stolz</fn></actor>
-       <as><gn>Lance</gn></as>
+       <character>
+        <name><gn>Lance</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rosanna</gn><fn>Arquette</fn></actor>
-       <as><gn>Jody</gn></as>
+       <character>
+        <name><gn>Jody</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Christopher</gn><fn>Walken</fn></actor>
-       <as><prefix>Captain</prefix><fn>Koons</fn></as>
+       <character>
+        <name><prefix>Captain</prefix><fn>Koons</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bruce</gn><fn>Willis</fn></actor>
-       <as><gn>Butch</gn><fn>Coolidge</fn></as>
+       <character>
+        <name><gn>Butch</gn><fn>Coolidge</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Steve</gn><fn>Buscemi</fn></actor>
-       <as><gn>Buddy</gn><fn>Holly</fn></as>
+       <character>
+        <name><gn>Buddy</gn><fn>Holly</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kathy</gn><fn>Griffin</fn></actor>
-       <as><self/></as>
+       <character>
+        <self/>
+       </character>
       </role>
       <role>
        <actor><gn>Duane</gn><fn>Whitaker</fn></actor>
-       <as><gn>Maynard</gn></as>
+       <character>
+        <name><gn>Maynard</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Peter</gn><fn>Greene</fn></actor>
-       <as><gn>Zed</gn></as>
+       <character>
+        <name><gn>Zed</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Quentin</gn><fn>Tarantino</fn></actor>
-       <as><gn>Jimmie</gn></as>
+       <character>
+        <name><gn>Jimmie</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

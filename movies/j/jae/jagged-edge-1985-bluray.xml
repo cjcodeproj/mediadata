@@ -93,27 +93,39 @@
      <cast>
       <role>
        <actor><gn>Jeff</gn><fn>Bridges</fn></actor>
-       <as><gn>Jack</gn><fn>Forrester</fn></as>
+       <character>
+        <name><gn>Jack</gn><fn>Forrester</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Glenn</gn><fn>Close</fn></actor>
-       <as><gn>Teddy</gn><fn>Barnes</fn></as>
+       <character>
+        <name><gn>Teddy</gn><fn>Barnes</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Loggia</fn></actor>
-       <as><gn>Sam</gn><fn>Ransom</fn></as>
+       <character>
+        <name><gn>Sam</gn><fn>Ransom</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Peter</gn><fn>Coyote</fn></actor>
-       <as><gn>Thomas</gn><fn>Kransy</fn></as>
+       <character>
+        <name><gn>Thomas</gn><fn>Kransy</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>Dorn</fn></actor>
-       <as><gn>Dan</gn><fn>Hislan</fn></as>
+       <character>
+        <name><gn>Dan</gn><fn>Hislan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lance</gn><fn>Henriksen</fn></actor>
-       <as><gn>Frank</gn><fn>Martin</fn></as>
+       <character>
+        <name><gn>Frank</gn><fn>Martin</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

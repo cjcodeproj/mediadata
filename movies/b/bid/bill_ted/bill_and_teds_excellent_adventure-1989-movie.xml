@@ -91,75 +91,111 @@
      <cast>
       <role>
        <actor><gn>Keanu</gn><fn>Reeves</fn></actor>
-       <as><gn>Ted</gn><nick>Theodore</nick><fn>Logan</fn></as>
+       <character>
+        <name><gn>Ted</gn><nick>Theodore</nick><fn>Logan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Alex</gn><fn>Winter</fn></actor>
-       <as><gn>Bill</gn><mn>S.</mn><fn>Preston</fn></as>
+       <character>
+        <name><gn>Bill</gn><mn>S.</mn><fn>Preston</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>George</gn><fn>Carlin</fn></actor>
-       <as><gn>Rufus</gn></as>
+       <character>
+        <name><gn>Rufus</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Terry</gn><fn>Camilleri</fn></actor>
-       <as><gn>Napoleon</gn></as>
+       <character>
+        <name><gn>Napoleon</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dan</gn><fn>Shor</fn></actor>
-       <as><gn>Billy</gn><nick>The Kid</nick></as>
+       <character>
+        <name><gn>Billy</gn><nick>The Kid</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tony</gn><fn>Steedman</fn></actor>
-       <as><gn>Socrates</gn></as>
+       <character>
+        <name><gn>Socrates</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rod</gn><fn>Loomis</fn></actor>
-       <as><fn>Freud</fn></as>
+       <character>
+        <name><fn>Freud</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Al</gn><fn>Leong</fn></actor>
-       <as><gn>Genghis</gn><fn>Khan</fn></as>
+       <character>
+        <name><gn>Genghis</gn><fn>Khan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jane</gn><fn>Wiedlin</fn></actor>
-       <as><gn>Joan</gn><nick>of Arc</nick></as>
+       <character>
+        <name><gn>Joan</gn><fn>of Arc</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><mn>V.</mn><fn>Barron</fn></actor>
-       <as><gn>Abraham</gn><fn>Lincoln</fn></as>
+       <character>
+        <name><gn>Abraham</gn><fn>Lincoln</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Clifford</gn><fn>David</fn></actor>
-       <as><fn>Beethoven</fn></as>
+       <character>
+        <name><fn>Beethoven</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Hal</gn><fn>Landon</fn><suffix>Jr.</suffix></actor>
-       <as><prefix>Captain</prefix><gn>Logan</gn></as>
+       <character>
+        <name><prefix>Captain</prefix><gn>Logan</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bernie</gn><fn>Casey</fn></actor>
-       <as><prefix>Mr.</prefix><fn>Ryan</fn></as>
+       <character>
+        <name><prefix>Mr.</prefix><fn>Ryan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Amy</gn><fn>Stoch</fn></actor>
-       <as><gn>Missy</gn></as>
+       <character>
+        <name><gn>Missy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>J.</gn><mn>Patrick</mn><fn>McNamara</fn></actor>
-       <as><prefix>Mr.</prefix><fn>Preston</fn></as>
+       <character>
+        <name><prefix>Mr.</prefix><fn>Preston</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Frazier</gn><fn>Bain</fn></actor>
-       <as><gn>Deacon</gn></as>
+       <character>
+        <name><gn>Deacon</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Diane</gn><fn>Franklin</fn></actor>
-       <as><prefix>Princess</prefix><gn>Joanna</gn></as>
+       <character>
+        <name><prefix>Princess</prefix><gn>Joanna</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kimberley</gn><fn>Kates</fn></actor>
-       <as><prefix>Princess</prefix><gn>Elizabeth</gn></as>
+       <character>
+        <name><prefix>Princess</prefix><gn>Elizabeth</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

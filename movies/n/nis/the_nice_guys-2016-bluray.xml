@@ -112,55 +112,81 @@
      <cast>
       <role>
        <actor><gn>Russell</gn><fn>Crowe</fn></actor>
-       <as><gn>Jackson</gn><fn>Healy</fn></as>
+       <character>
+        <name><gn>Jackson</gn><fn>Healy</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ryan</gn><fn>Gosling</fn></actor>
-       <as><gn>Holland</gn><fn>March</fn></as>
+       <character>
+        <name><gn>Holland</gn><fn>March</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Angourie</gn><fn>Rice</fn></actor>
-       <as><gn>Holly</gn><fn>March</fn></as>
+       <character>
+        <name><gn>Holly</gn><fn>March</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Matt</gn><fn>Bomer</fn></actor>
-       <as><gn>John Boy</gn></as>
+       <character>
+        <name><gn>John Boy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Margaret</gn><fn>Qualley</fn></actor>
-       <as><gn>Amelia</gn><fn>Kuttner</fn></as>
+       <character>
+        <name><gn>Amelia</gn><fn>Kuttner</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Yaya</gn><fn>DaCosta</fn></actor>
-       <as><gn>Tally</gn></as>
+       <character>
+        <name><gn>Tally</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Keith</gn><fn>David</fn></actor>
-       <as><title>Older Guy</title></as>
+       <character>
+        <unnamed>Older Guy</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Beau</gn><fn>Knapp</fn></actor>
-       <as><nick>Blueface</nick></as>
+       <character>
+        <name><nick>Blueface</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lois</gn><fn>Smith</fn></actor>
-       <as><prefix>Mrs.</prefix><fn>Glenn</fn></as>
+       <character>
+        <name><prefix>Mrs.</prefix><fn>Glenn</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Murielle</gn><fn>Telio</fn></actor>
-       <as><nick>Misty Mountains</nick></as>
+       <character>
+        <name><pcn>Misty Mountains</pcn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Gil</gn><fn>Gerard</fn></actor>
-       <as><gn>Bergen</gn><fn>Paulsen</fn></as>
+       <character>
+        <name><gn>Bergen</gn><fn>Paulsen</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Daisy</gn><fn>Tahan</fn></actor>
-       <as><gn>Jessica</gn></as>
+       <character>
+        <name><gn>Jessica</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kim</gn><fn>Basinger</fn></actor>
-       <as><gn>Judith</gn><fn>Kuttner</fn></as>
+       <character>
+        <name><gn>Judith</gn><fn>Kuttner</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

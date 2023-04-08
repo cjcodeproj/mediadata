@@ -99,75 +99,111 @@
      <cast>
       <role>
        <actor><gn>Sidney</gn><fn>Poitier</fn></actor>
-       <as><gn>Warren</gn><fn>Stantin</fn></as>
+       <character>
+        <name><gn>Warren</gn><fn>Stantin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tom</gn><fn>Berenger</fn></actor>
-       <as><gn>Jonathan</gn><fn>Knox</fn></as>
+       <character>
+        <name><gn>Jonathan</gn><fn>Knox</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kirstie</gn><fn>Alley</fn></actor>
-       <as><gn>Sarah</gn><fn>Rennell</fn></as>
+       <character>
+        <name><gn>Sarah</gn><fn>Rennell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Clancy</gn><fn>Brown</fn></actor>
-       <as><gn>Steve</gn></as>
+       <character>
+        <name><gn>Steve</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Maser</fn></actor>
-       <as><gn>Norman</gn></as>
+       <character>
+        <name><gn>Norman</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Andrew</gn><fn>Robinson</fn></actor>
-       <as><gn>Harvey</gn></as>
+       <character>
+        <name><gn>Harvey</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kevin</gn><fn>Scannell</fn></actor>
-       <as><gn>Ben</gn></as>
+       <character>
+        <name><gn>Ben</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Frederick</gn><fn>Coffin</fn></actor>
-       <as><gn>Ralph</gn></as>
+       <character>
+        <name><gn>Ralph</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>MacRae</fn></actor>
-       <as><fn>Fournier</fn></as>
+       <character>
+        <name><fn>Fournier</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Lesser</fn></actor>
-       <as><fn>Minelli</fn></as>
+       <character>
+        <name><fn>Minelli</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Milton</gn><fn>Selzer</fn></actor>
-       <as><prefix>Mr.</prefix><fn>Berger</fn></as>
+       <character>
+        <name><prefix>Mr.</prefix><fn>Berger</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Les</gn><fn>Lannom</fn></actor>
-       <as><prefix>Sheriff</prefix><fn>Arnett</fn></as>
+       <character>
+        <name><prefix>Sheriff</prefix><fn>Arnett</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Walter</gn><fn>Marsh</fn></actor>
-       <as><gn>Sam</gn><fn>Baker</fn></as>
+       <character>
+        <name><gn>Sam</gn><fn>Baker</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Frank</gn><mn>C.</mn><fn>Turner</fn></actor>
-       <as><gn>Crilly</gn></as>
+       <character>
+        <name><gn>Crilly</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sam</gn><fn>Hiona</fn></actor>
-       <as><prefix>Superintendent</prefix><fn>Hsu</fn></as>
+       <character>
+        <name><prefix>Superintendent</prefix><fn>Hsu</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>Chapman</fn></actor>
-       <as><title>Lawyer</title></as>
+       <character>
+        <unnamed>Lawyer</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Janet</gn><fn>Rotblatt</fn></actor>
-       <as><prefix>Mrs.</prefix><fn>Berger</fn></as>
+       <character>
+        <name><prefix>Mrs.</prefix><fn>Berger</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ken</gn><fn>Camroux-Taylor</fn></actor>
-       <as><fn>Denham</fn></as>
+       <character>
+        <name><fn>Denham</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

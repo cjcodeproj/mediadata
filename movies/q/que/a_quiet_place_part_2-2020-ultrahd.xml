@@ -109,27 +109,39 @@
      <cast>
       <role>
        <actor><gn>Emily</gn><fn>Blunt</fn></actor>
-       <as><gn>Evelyn</gn><fn>Abbott</fn></as>
+       <character>
+        <name><gn>Evelyn</gn><fn>Abbott</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Millicent</gn><fn>Simmonds</fn></actor>
-       <as><gn>Regan</gn><fn>Abbott</fn></as>
+       <character>
+        <name><gn>Regan</gn><fn>Abbott</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Cillian</gn><fn>Murphy</fn></actor>
-       <as><gn>Emmett</gn></as>
+       <character>
+        <name><gn>Emmett</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Noah</gn><fn>Jupe</fn></actor>
-       <as><gn>Marcus</gn><fn>Abbott</fn></as>
+       <character>
+        <name><gn>Marcus</gn><fn>Abbott</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Krasinski</fn></actor>
-       <as><gn>Lee</gn><fn>Abbott</fn></as>
+       <character>
+        <name><gn>Lee</gn><fn>Abbott</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Djimon</gn><fn>Hounsou</fn></actor>
-       <as><title>Man on Island</title></as>
+       <character>
+        <unnamed>Man on Island</unnamed>
+       </character>
       </role>
      </cast>
     </crew>

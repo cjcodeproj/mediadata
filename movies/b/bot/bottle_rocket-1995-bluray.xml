@@ -101,27 +101,39 @@
      <cast>
       <role>
        <actor><gn>Luke</gn><fn>Wilson</fn></actor>
-       <as><gn>Anthony</gn><fn>Adams</fn></as>
+       <character>
+        <name><gn>Anthony</gn><fn>Adams</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Owen</gn><fn>Wilson</fn></actor>
-       <as><gn>Dignan</gn></as>
+       <character>
+        <name><gn>Dignan</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ned</gn><fn>Dowd</fn></actor>
-       <as><prefix>Dr</prefix><fn>Nichols</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><fn>Nichols</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Shea</gn><fn>Fowler</fn></actor>
-       <as><gn>Grace</gn></as>
+       <character>
+        <name><gn>Grace</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Haley</gn><fn>Miller</fn></actor>
-       <as><gn>Bernice</gn></as>
+       <character>
+        <name><gn>Bernice</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Musgrave</fn></actor>
-       <as><gn>Bob</gn><fn>Maplethorpe</fn></as>
+       <character>
+        <name><gn>Bob</gn><fn>Maplethorpe</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

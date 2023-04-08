@@ -93,35 +93,51 @@
      <cast>
       <role>
        <actor><gn>Gwyneth</gn><fn>Paltrow</fn></actor>
-       <as><gn>Beth</gn><fn>Emhoff</fn></as>
+       <character>
+        <name><gn>Beth</gn><fn>Emhoff</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Matt</gn><fn>Damon</fn></actor>
-       <as><gn>Mitch</gn><fn>Emhoff</fn></as>
+       <character>
+        <name><gn>Mitch</gn><fn>Emhoff</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Laurence</gn><fn>Fishburne</fn></actor>
-       <as><prefix>Dr</prefix><gn>Ellis</gn><fn>Cheever</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Ellis</gn><fn>Cheever</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jude</gn><fn>Law</fn></actor>
-       <as><gn>Alan</gn><fn>Krumwiede</fn></as>
+       <character>
+        <name><gn>Alan</gn><fn>Krumwiede</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kate</gn><fn>Winslet</fn></actor>
-       <as><prefix>Dr</prefix><gn>Erin</gn><fn>Mears</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Erin</gn><fn>Mears</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Enrico</gn><fn>Colantoni</fn></actor>
-       <as><gn>Dennis</gn><fn>French</fn></as>
+       <character>
+        <name><gn>Dennis</gn><fn>French</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Elliiot</gn><fn>Gould</fn></actor>
-       <as><prefix>Dr</prefix><gn>Ian</gn><fn>Sussman</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Ian</gn><fn>Sussman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bryan</gn><fn>Cranston</fn></actor>
-       <as><prefix>Rear Admiral</prefix><gn>Lyle</gn><fn>Haggerty</fn></as>
+       <character>
+        <name><prefix>Rear Admiral</prefix><gn>Lyle</gn><fn>Haggerty</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

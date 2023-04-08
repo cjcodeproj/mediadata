@@ -100,39 +100,57 @@
      <cast>
       <role>
        <actor><gn>Dwayne</gn><fn>Johnson</fn></actor>
-       <as><gn>Davis</gn><fn>Okoye</fn></as>
+       <character>
+        <name><gn>Davis</gn><fn>Okoye</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Naomie</gn><fn>Harris</fn></actor>
-       <as><prefix>Dr</prefix><gn>Kate</gn><fn>Caldwell</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Kate</gn><fn>Caldwell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Malin</gn><fn>Akerman</fn></actor>
-       <as><gn>Claire</gn><fn>Wyden</fn></as>
+       <character>
+        <name><gn>Claire</gn><fn>Wyden</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeffrey</gn><mn>Dean</mn><fn>Morgan</fn></actor>
-       <as><gn>Harvey</gn><fn>Russell</fn></as>
+       <character>
+        <name><gn>Harvey</gn><fn>Russell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jake</gn><fn>Laxy</fn></actor>
-       <as><gn>Brett</gn><fn>Wyden</fn></as>
+       <character>
+        <name><gn>Brett</gn><fn>Wyden</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Joe</gn><fn>Manganiello</fn></actor>
-       <as><fn>Burke</fn></as>
+       <character>
+        <name><fn>Burke</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Marley</gn><fn>Shelton</fn></actor>
-       <as><prefix>Dr</prefix><gn>Kerry</gn><fn>Atkins</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Kerry</gn><fn>Atkins</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>P</gn><mn>J</mn><fn>Byrne</fn></actor>
-       <as><fn>Nelson</fn></as>
+       <character>
+        <name><fn>Nelson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Demetrius</gn><fn>Grosse</fn></actor>
-       <as><prefix>Colonel</prefix><fn>Blake</fn></as>
+       <character>
+        <name><prefix>Colonel</prefix><fn>Blake</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

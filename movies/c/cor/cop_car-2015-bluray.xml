@@ -123,31 +123,46 @@
      <cast>
       <role>
        <actor><gn>Kevin</gn><fn>Bacon</fn></actor>
-       <as><prefix>Sheriff</prefix><fn>Kretzer</fn></as>
+       <character>
+        <name><prefix>Sheriff</prefix><fn>Kretzer</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>James</gn><fn>Freedson-Jackson</fn></actor>
-       <as><gn>Travis</gn></as>
+       <character>
+        <name><gn>Travis</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Hays</gn><fn>Wellford</fn></actor>
-       <as><gn>Harrison</gn></as>
+       <character>
+        <name><gn>Harrison</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Camryn</gn><fn>Manheim</fn></actor>
-       <as><gn>Bev</gn></as>
+       <character>
+        <name><gn>Bev</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Shea</gn><fn>Whigham</fn></actor>
-       <as><title>Man</title></as>
+       <character>
+        <unnamed>Man</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Sean</gn><fn>Hartley</fn></actor>
-       <as><title>Motorcycle Cop</title></as>
+       <character>
+        <unnamed>Motorcycle Cop</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Kyra</gn><fn>Sedgwick</fn></actor>
-       <as><title>Dispatch</title><aspect>voice</aspect></as>
+       <character>
+        <unnamed>Dispatch</unnamed>
+        <aspect>voice</aspect>
+       </character>
       </role>
      </cast>
     </crew>

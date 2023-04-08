@@ -94,63 +94,93 @@
      <cast>
       <role>
        <actor><gn>Sean</gn><fn>Astin</fn></actor>
-       <as><gn>Mikey</gn></as>
+       <character>
+        <name><gn>Mikey</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Josh</gn><fn>Brolin</fn></actor>
-       <as><gn>Brand</gn></as>
+       <character>
+        <name><gn>Brand</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeff</gn><fn>Cohen</fn></actor>
-       <as><nick>Chunk</nick></as>
+       <character>
+        <name><nick>Chunk</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Corey</gn><fn>Feldman</fn></actor>
-       <as><nick>Mouth</nick></as>
+       <character>
+        <name><nick>Mouth</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ke Huy</gn><fn>Quan</fn></actor>
-       <as><nick>Data</nick></as>
+       <character>
+        <name><nick>Data</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kerri</gn><fn>Green</fn></actor>
-       <as><gn>Andy</gn></as>
+       <character>
+        <name><gn>Andy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Martha</gn><fn>Plimpton</fn></actor>
-       <as><gn>Stef</gn></as>
+       <character>
+        <name><gn>Stef</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Matuszak</fn></actor>
-       <as><gn>Sloth</gn></as>
+       <character>
+        <name><gn>Sloth</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Davi</fn></actor>
-       <as><gn>Jake</gn></as>
+       <character>
+        <name><gn>Jake</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Joe</gn><fn>Pantoliano</fn></actor>
-       <as><gn>Francis</gn></as>
+       <character>
+        <name><gn>Francis</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Anne</gn><fn>Ramsey</fn></actor>
-       <as><nick>Mama</nick><fn>Fratelli</fn></as>
+       <character>
+        <name><nick>Mama</nick><fn>Fratelli</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lupe</gn><fn>Ontiveros</fn></actor>
-       <as><gn>Rosalita</gn></as>
+       <character>
+        <name><gn>Rosalita</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mary</gn><mn>Ellen</mn><fn>Trainor</fn></actor>
-       <as><prefix>Mrs.</prefix><fn>Walsh</fn></as>
+       <character>
+        <name><prefix>Mrs.</prefix><fn>Walsh</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Keith</gn><fn>Walker</fn></actor>
-       <as><prefix>Mr.</prefix><fn>Walsh</fn></as>
+       <character>
+        <name><prefix>Mr.</prefix><fn>Walsh</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Steve</gn><fn>Antin</fn></actor>
-       <as><gn>Troy</gn></as>
+       <character>
+        <name><gn>Troy</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

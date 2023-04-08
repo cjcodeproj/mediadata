@@ -68,35 +68,51 @@
      <cast>
       <role>
        <actor><gn>Burt</gn><fn>Reynolds</fn></actor>
-       <as><fn>Sharky</fn></as>
+       <character>
+        <name><fn>Sharky</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rachel</gn><fn>Ward</fn></actor>
-       <as><gn>Dominoe</gn></as>
+       <character>
+        <name><gn>Dominoe</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Vittorio</gn><fn>Gassman</fn></actor>
-       <as><gn>Victor</gn></as>
+       <character>
+        <name><gn>Victor</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Brian</gn><fn>Keith</fn></actor>
-       <as><fn>Papa</fn></as>
+       <character>
+        <name><fn>Papa</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Earl</gn><fn>Holliman</fn></actor>
-       <as><fn>Hotchkins</fn></as>
+       <character>
+        <name><fn>Hotchkins</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Charles</gn><fn>Durning</fn></actor>
-       <as><gn>Friscoe</gn></as>
+       <character>
+        <name><gn>Friscoe</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bernie</gn><fn>Casey</fn></actor>
-       <as><fn>Arch</fn></as>
+       <character>
+        <name><fn>Arch</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Henry</gn><fn>Silva</fn></actor>
-       <as><gn>Billy</gn><fn>Score</fn></as>
+       <character>
+        <name><gn>Billy</gn><fn>Score</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

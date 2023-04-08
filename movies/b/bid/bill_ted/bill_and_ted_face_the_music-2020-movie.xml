@@ -115,59 +115,87 @@
      <cast>
       <role>
        <actor><gn>Keanu</gn><fn>Reeves</fn></actor>
-       <as><gn>Ted</gn></as>
+       <character>
+        <name><gn>Ted</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Alex</gn><fn>Winter</fn></actor>
-       <as><gn>Bill</gn></as>
+       <character>
+        <name><gn>Bill</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kristen</gn><fn>Schaal</fn></actor>
-       <as><gn>Kelly</gn></as>
+       <character>
+        <name><gn>Kelly</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Samara</gn><fn>Weaving</fn></actor>
-       <as><gn>Thea</gn></as>
+       <character>
+        <name><gn>Thea</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bridgette</gn><fn>Lundy-Paine</fn></actor>
-       <as><gn>Billie</gn></as>
+       <character>
+        <name><gn>Billie</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>William</gn><fn>Sadler</fn></actor>
-       <as><title>Death</title></as>
+       <character>
+        <name><pcn>Death</pcn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Anthony</gn><fn>Carrigan</fn></actor>
-       <as><gn>Dennis</gn><mn>Caleb</mn><fn>McCoy</fn></as>
+       <character>
+        <name><gn>Dennis</gn><mn>Caleb</mn><fn>McCoy</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Erinn</gn><fn>Hayes</fn></actor>
-       <as><gn>Elizabeth</gn></as>
+       <character>
+        <name><gn>Elizabeth</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jayma</gn><fn>Mays</fn></actor>
-       <as><gn>Joanna</gn></as>
+       <character>
+        <name><gn>Joanna</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Hal</gn><fn>Landon</fn><suffix>Jr.</suffix></actor>
-       <as><prefix>Chief</prefix><fn>Logan</fn></as>
+       <character>
+        <name><prefix>Chief</prefix><fn>Logan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Beck</gn><fn>Bennett</fn></actor>
-       <as><gn>Deacon</gn></as>
+       <character>
+        <name><gn>Deacon</gn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>Kid</gn><fn>Cudi</fn></actor>  <!-- stage name -->
-       <as><self/></as>
+       <actor><pcn>Kid Cudi</pcn></actor>
+       <character>
+        <self/>
+       </character>
       </role>
       <role>
        <actor><gn>Amy</gn><fn>Stoch</fn></actor>
-       <as><gn>Missy</gn></as>
+       <character>
+        <name><gn>Missy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Holland</gn><fn>Taylor</fn></actor>
-       <as><title>The Great Leader</title></as>
+       <character>
+        <name><pcn>The Great Leader</pcn></name>
+       </character>
       </role>
      </cast>
     </crew>

@@ -80,47 +80,69 @@
      <cast>
       <role>
        <actor><gn>Roger</gn><fn>Moore</fn></actor>
-       <as><gn>James</gn><fn>Bond</fn></as>
+       <character>
+        <name><gn>James</gn><fn>Bond</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Christopher</gn><fn>Lee</fn></actor>
-       <as><gn>Francisco</gn><fn>Scaramanga</fn></as>
+       <character>
+        <name><gn>Francisco</gn><fn>Scaramanga</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Britt</gn><fn>Ekland</fn></actor>
-       <as><fn>Goodnight</fn></as>
+       <character>
+        <name><fn>Goodnight</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Maud</gn><fn>Adams</fn></actor>
-       <as><gn>Andrea</gn><fn>Anders</fn></as>
+       <character>
+        <name><gn>Andrea</gn><fn>Anders</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Hervé</gn><fn>Villechaize</fn></actor>
-       <as><nick>Nick Nack</nick></as>
+       <character>
+        <name><nick>Nick Nack</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Clifton</gn><fn>James</fn></actor>
-       <as><gn>J.</gn><mn>W.</mn><fn>Pepper</fn></as>
+       <character>
+        <name><pgn>J. W.</pgn><fn>Pepper</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Loo</fn></actor>
-       <as><fn>Hai Fat</fn></as>
+       <character>
+        <name><fn>Hai Fat</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Soon-Tek</gn><fn>Oh</fn></actor>
-       <as><fn>Hip</fn></as>
+       <character>
+        <name><fn>Hip</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bernard</gn><fn>Lee</fn></actor>
-       <as><nick>M</nick></as>
+       <character>
+        <name><pcn>M</pcn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lois</gn><fn>Maxwell</fn></actor>
-       <as><prefix>Miss</prefix><fn>Moneypenny</fn></as>
+       <character>
+        <name><prefix>Miss</prefix><fn>Moneypenny</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Desmond</gn><fn>Llewelyn</fn></actor>
-       <as><nick>Q</nick></as>
+       <character>
+        <name><pcn>Q</pcn></name>
+       </character>
       </role>
      </cast>
     </crew>

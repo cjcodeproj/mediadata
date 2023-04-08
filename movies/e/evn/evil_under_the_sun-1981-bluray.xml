@@ -117,47 +117,69 @@
      <cast>
       <role>
        <actor><gn>Peter</gn><fn>Usinov</fn></actor>
-       <as><gn>Hercule</gn><fn>Poirot</fn></as>
+       <character>
+        <name><gn>Hercule</gn><fn>Poirot</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Colin</gn><fn>Blakely</fn></actor>
-       <as><prefix>Sir</prefix><gn>Horace</gn><fn>Blatt</fn></as>
+       <character>
+        <name><prefix>Sir</prefix><gn>Horace</gn><fn>Blatt</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jane</gn><fn>Birkin</fn></actor>
-       <as><gn>Christina</gn><fn>Redfern</fn></as>
+       <character>
+        <name><gn>Christina</gn><fn>Redfern</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Nicholas</gn><fn>Clay</fn></actor>
-       <as><gn>Patrick</gn><fn>Redfern</fn></as>
+       <character>
+        <name><gn>Patrick</gn><fn>Redfern</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Maggie</gn><fn>Smith</fn></actor>
-       <as><gn>Daphne</gn><fn>Castle</fn></as>
+       <character>
+        <name><gn>Daphne</gn><fn>Castle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Roddy</gn><fn>McDowall</fn></actor>
-       <as><gn>Rex</gn><fn>Brewster</fn></as>
+       <character>
+        <name><gn>Rex</gn><fn>Brewster</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sylvia</gn><fn>Miles</fn></actor>
-       <as><gn>Myra</gn><fn>Gardener</fn></as>
+       <character>
+        <name><gn>Myra</gn><fn>Gardener</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>James</gn><fn>Mason</fn></actor>
-       <as><gn>Odell</gn><fn>Gardener</fn></as>
+       <character>
+        <name><gn>Odell</gn><fn>Gardener</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Denis</gn><fn>Quilley</fn></actor>
-       <as><gn>Kenneth</gn><fn>Marshall</fn></as>
+       <character>
+        <name><gn>Kenneth</gn><fn>Marshall</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Diana</gn><fn>Rigg</fn></actor>
-       <as><gn>Arlena</gn><mn>Stuart</mn><fn>Marshall</fn></as>
+       <character>
+        <name><gn>Arlena</gn><mn>Stuart</mn><fn>Marshall</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Emily</gn><fn>Hone</fn></actor>
-       <as><gn>Linda</gn><fn>Marshall</fn></as>
+       <character>
+        <name><gn>Linda</gn><fn>Marshall</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

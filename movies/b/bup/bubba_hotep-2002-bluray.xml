@@ -102,28 +102,40 @@
      <cast>
       <role>
        <actor><gn>Bruce</gn><fn>Campbell</fn></actor>
-       <as><gn>Elvis</gn><fn>Presley</fn></as>
-       <as><gn>Sebastian</gn><fn>Haff</fn></as>
+       <character>
+        <name><gn>Elvis</gn><fn>Presley</fn></name>
+        <alias><gn>Sebastian</gn><fn>Haff</fn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Ossie</gn><fn>Davis</fn></actor>
-       <as><gn>Jack</gn></as>
+       <character>
+        <name><gn>Jack</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ella</gn><fn>Joyce</fn></actor>
-       <as><title>The Nurse</title></as>
+       <character>
+        <unnamed>The Nurse</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Bob</gn><fn>Ivy</fn></actor>
-       <as><gn>Bubba</gn><fn>Ho-Tep</fn></as>
+       <character>
+        <name><gn>Bubba</gn><fn>Ho-Tep</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Daniel</gn><fn>Roebuck</fn></actor>
-       <as><title>Hearse Driver</title></as>
+       <character>
+        <unnamed>Hearse Driver</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Daniel</gn><fn>Schweiger</fn></actor>
-       <as><title>Hearse Driver</title></as>
+       <character>
+        <unnamed>Hearse Driver</unnamed>
+       </character>
       </role>
      </cast>
     </crew>

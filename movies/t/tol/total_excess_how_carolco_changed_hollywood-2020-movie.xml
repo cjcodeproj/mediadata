@@ -58,39 +58,39 @@
      <cast>
       <role>
        <actor><gn>Larry</gn><fn>Blamire</fn></actor>
-       <as><narrator/></as>
+       <narrator/>
       </role>
       <role>
        <actor><gn>Paul</gn><fn>Verhoeven</fn></actor>
-       <as><self/></as>
+       <self/>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>Douglas</fn></actor>
-       <as><self/></as>
+       <self/>
       </role>
       <role>
        <actor><gn>Mark</gn><fn>Goldblatt</fn></actor>
-       <as><self/></as>
+       <self/>
       </role>
       <role>
        <actor><gn>Oliver</gn><fn>Stone</fn></actor>
-       <as><self/></as>
+       <self/>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Townson</fn></actor>
-       <as><self/></as>
+       <self/>
       </role>
       <role>
        <actor><gn>David</gn><mn>J</mn><fn>Moore</fn></actor>
-       <as><self/></as>
+       <self/>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Latham Brown</fn></actor>
-       <as><self/></as>
+       <self/>
       </role>
       <role>
        <actor><gn>Mark</gn><fn>Helfrich</fn></actor>
-       <as><self/></as>
+       <self/>
       </role>
      </cast>
     </crew>

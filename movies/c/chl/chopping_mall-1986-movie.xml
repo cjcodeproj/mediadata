@@ -70,55 +70,82 @@
      <cast>
       <role>
        <actor><gn>Kelli</gn><fn>Maroney</fn></actor>
-       <as><gn>Alison</gn><fn>Parks</fn></as>
+       <character>
+        <name><gn>Alison</gn><fn>Parks</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tony</gn><fn>O'Dell</fn></actor>
-       <as><gn>Ferdy</gn><fn>Meisel</fn></as>
+       <character>
+        <name><gn>Ferdy</gn><fn>Meisel</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rusell</gn><fn>Todd</fn></actor>
-       <as><gn>Rick</gn><fn>Stanton</fn></as>
+       <character>
+        <name><gn>Rick</gn><fn>Stanton</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Karrie</gn><fn>Emerson</fn></actor>
-       <as><gn>Linda</gn><fn>Stanton</fn></as>
+       <character>
+        <name><gn>Linda</gn><fn>Stanton</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Barbara</gn><fn>Crampton</fn></actor>
-       <as><gn>Suzie</gn><fn>Lynn</fn></as>
+       <character>
+        <name><gn>Suzie</gn><fn>Lynn</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Nick</gn><fn>Segal</fn></actor>
-       <as><gn>Greg</gn><fn>Williams</fn></as>
+       <character>
+        <name><gn>Greg</gn><fn>Williams</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Terlesky</fn></actor>
-       <as><gn>Mike</gn><fn>Brennan</fn></as>
+       <character>
+        <name><gn>Mike</gn><fn>Brennan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Suzee</gn><fn>Slater</fn></actor>
-       <as><gn>Leslie</gn><fn>Todd</fn></as>
+       <character>
+        <name><gn>Leslie</gn><fn>Todd</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dick</gn><fn>Miller</fn></actor>
-       <as><gn>Walter</gn><fn>Paisley</fn></as>
+       <character>
+        <name><gn>Walter</gn><fn>Paisley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Paul</gn><fn>Bartel</fn></actor>
-       <as><gn>Paul</gn><fn>Bland</fn></as>
+       <character>
+        <name><gn>Paul</gn><fn>Bland</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mark</gn><fn>Waronov</fn></actor>
-       <as><gn>Mary</gn><fn>Bland</fn></as>
+       <character>
+        <name><gn>Mary</gn><fn>Bland</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Gerrit</gn><fn>Graham</fn></actor>
-       <as><prefix>Technician</prefix><fn>Nessler</fn></as>
+       <character>
+        <name><prefix>Technician</prefix><fn>Nessler</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jim</gn><fn>Wynorski</fn></actor>
-       <as><title>Killbots</title><aspect>voice</aspect></as>
+       <character>
+        <unnamed>Killbots</unnamed>
+        <aspect>voice</aspect>
+       </character>
       </role>
      </cast>
     </crew>

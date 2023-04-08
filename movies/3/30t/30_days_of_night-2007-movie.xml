@@ -104,27 +104,39 @@
      <cast>
       <role>
        <actor><gn>Josh</gn><fn>Hartnett</fn></actor>
-       <as><gn>Eben</gn><fn>Oleson</fn></as>
+       <character>
+        <name><gn>Eben</gn><fn>Oleson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Melissa</gn><fn>George</fn></actor>
-       <as><gn>Stella</gn><fn>Oleson</fn></as>
+       <character>
+        <name><gn>Stella</gn><fn>Oleson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Danny</gn><fn>Huston</fn></actor>
-       <as><fn>Marlow</fn></as>
+       <character>
+        <name><fn>Marlow</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ben</gn><fn>Foster</fn></actor>
-       <as><title>The Stranger</title></as>
+       <character>
+        <unnamed>The Stranger</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Mark</gn><fn>Boone</fn><suffix>Junior</suffix></actor>
-       <as><gn>Beau</gn><fn>Brower</fn></as>
+       <character>
+        <name><gn>Beau</gn><fn>Brower</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mark</gn><fn>Rendall</fn></actor>
-       <as><gn>Jake</gn><fn>Oleson</fn></as>
+       <character>
+        <name><gn>Jake</gn><fn>Oleson</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

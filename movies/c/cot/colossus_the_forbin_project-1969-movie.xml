@@ -83,27 +83,39 @@
      <cast>
       <role>
        <actor><gn>Eric</gn><fn>Braeden</fn></actor>
-       <as><prefix>Dr</prefix><gn>Charles</gn><fn>Forbin</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Charles</gn><fn>Forbin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Susan</gn><fn>Clark</fn></actor>
-       <as><prefix>Dr</prefix><gn>Cleo</gn><fn>Markham</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Cleo</gn><fn>Markham</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Gordon</gn><fn>Pinsent</fn></actor>
-       <as><title>The President</title></as>
+       <character>
+        <unnamed>The President</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>William</gn><fn>Schallert</fn></actor>
-       <as><prefix>CIA Director</prefix><fn>Grauber</fn></as>
+       <character>
+        <name><prefix>CIA Director</prefix><fn>Grauber</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Leonid</gn><fn>Rostoff</fn></actor>
-       <as><title>Russian Chairman</title></as>
+       <character>
+        <unnamed>Russian Chairman</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Georg</gn><mn>Stanford</mn><fn>Brown</fn></actor>
-       <as><prefix>Dr</prefix><gn>John</gn><fn>Fischer</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>John</gn><fn>Fischer</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

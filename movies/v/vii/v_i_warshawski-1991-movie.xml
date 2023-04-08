@@ -86,51 +86,75 @@
      <cast>
       <role>
        <actor><gn>Kathleen</gn><fn>Turner</fn></actor>
-       <as><gn>Vic</gn></as>
+       <character>
+        <name><gn>Vic</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jay</gn><mn>O.</mn><fn>Sanders</fn></actor>
-       <as><gn>Murray</gn></as>
+       <character>
+        <name><gn>Murray</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Charles</gn><fn>Durning</fn></actor>
-       <as><prefix>Lt.</prefix><fn>Mallory</fn></as>
+       <character>
+        <name><prefix>Lt.</prefix><fn>Mallory</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Angela</gn><fn>Goethals</fn></actor>
-       <as><gn>Kat</gn></as>
+       <character>
+        <name><gn>Kat</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Nancy</gn><fn>Paul</fn></actor>
-       <as><gn>Paige</gn></as>
+       <character>
+        <name><gn>Paige</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Frederick</gn><fn>Coffin</fn></actor>
-       <as><fn>Horton</fn></as>
+       <character>
+        <name><fn>Horton</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Charles</gn><fn>McCaughan</fn></actor>
-       <as><fn>Trumble</fn></as>
+       <character>
+        <name><fn>Trumble</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Stephen</gn><fn>Meadows</fn></actor>
-       <as><nick>Boom-Boom</nick></as>
+       <character>
+        <name><nick>Boom-Boom</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Wayne</gn><fn>Knight</fn></actor>
-       <as><fn>Smeissen</fn></as>
+       <character>
+        <name><fn>Smeissen</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lynnie</gn><fn>Godfrey</fn></actor>
-       <as><gn>Sal</gn></as>
+       <character>
+        <name><gn>Sal</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Anne</gn><fn>Pitoniak</fn></actor>
-       <as><gn>Lotty</gn></as>
+       <character>
+        <name><gn>Lotty</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Stephen</gn><fn>Root</fn></actor>
-       <as><gn>Mickey</gn></as>
+       <character>
+        <name><gn>Mickey</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

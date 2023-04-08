@@ -98,43 +98,63 @@
      <cast>
       <role>
        <actor><gn>Al</gn><fn>Pacino</fn></actor>
-       <as><gn>Walter</gn></as>
+       <character>
+        <name><gn>Walter</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Matthew</gn><fn>McConaughey</fn></actor>
-       <as><gn>Brandon</gn></as>
+       <character>
+        <name><gn>Brandon</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rene</gn><fn>Russo</fn></actor>
-       <as><gn>Toni</gn></as>
+       <character>
+        <name><gn>Toni</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Armand</gn><fn>Assante</fn></actor>
-       <as><gn>Novian</gn></as>
+       <character>
+        <name><gn>Novian</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeremy</gn><fn>Piven</fn></actor>
-       <as><gn>Jerry</gn></as>
+       <character>
+        <name><gn>Jerry</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jaimie</gn><fn>King</fn></actor>
-       <as><gn>Alexandria</gn></as>
+       <character>
+        <name><gn>Alexandria</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kevin</gn><fn>Chapman</fn></actor>
-       <as><nick>Southie</nick></as>
+       <character>
+        <name><nick>Southie</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ralph</gn><fn>Garman</fn></actor>
-       <as><gn>Reggie</gn></as>
+       <character>
+        <name><gn>Reggie</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Gedde</gn><fn>Watanabe</fn></actor>
-       <as><gn>Milton</gn></as>
+       <character>
+        <name><gn>Milton</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Carly</gn><fn>Pope</fn></actor>
-       <as><gn>Tammy</gn></as>
+       <character>
+        <name><gn>Tammy</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

@@ -109,23 +109,33 @@
      <cast>
       <role>
        <actor><gn>Ronny</gn><fn>Cox</fn></actor>
-       <as><gn>Pete</gn><fn>Canfield</fn></as>
+       <character>
+        <name><gn>Pete</gn><fn>Canfield</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Art</gn><fn>Hindle</fn></actor>
-       <as><gn>Roger</gn><fn>Bower</fn></as>
+       <character>
+        <name><gn>Roger</gn><fn>Bower</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>M</gn><mn>Emmet</mn><fn>Walsh</fn></actor>
-       <as><prefix>Colonel</prefix><fn>Crouse</fn></as>
+       <character>
+        <name><prefix>Colonel</prefix><fn>Crouse</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tim</gn><fn>Maier</fn></actor>
-       <as><gn>Craig</gn><fn>Jensen</fn></as>
+       <character>
+        <name><gn>Craig</gn><fn>Jensen</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lois</gn><fn>Chiles</fn></actor>
-       <as><gn>Ruth</gn></as>
+       <character>
+        <name><gn>Ruth</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

@@ -102,31 +102,46 @@
      <cast>
       <role>
        <actor><gn>Tom</gn><fn>Hanks</fn></actor>
-       <as><gn>Sam</gn><fn>Baldwin</fn></as>
+       <character>
+        <name><gn>Sam</gn><fn>Baldwin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ross</gn><fn>Malinger</fn></actor>
-       <as><gn>Jonah</gn><fn>Baldwin</fn></as>
+       <character>
+        <name><gn>Jonah</gn><fn>Baldwin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Meg</gn><fn>Ryan</fn></actor>
-       <as><gn>Annie</gn><fn>Reed</fn></as>
+       <character>
+        <name><gn>Annie</gn><fn>Reed</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bill</gn><fn>Pullman</fn></actor>
-       <as><gn>Walter</gn></as>
+       <character>
+        <name><gn>Walter</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>David</gn><fn>Hyde Pierce</fn></actor>
-       <as><gn>Dennis</gn><fn>Reed</fn></as>
+       <character>
+        <name><gn>Dennis</gn><fn>Reed</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rosie</gn><fn>O'Donnell</fn></actor>
-       <as><gn>Becky</gn></as>
+       <character>
+        <name><gn>Becky</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Caroline</gn><fn>Aaron</fn></actor>
-       <as><prefix>Dr</prefix><gn>Marsha</gn><fn>Fieldstone</fn><aspect>voice</aspect></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Marsha</gn><fn>Fieldstone</fn></name>
+        <aspect>voice</aspect>
+       </character>
       </role>
      </cast>
     </crew>

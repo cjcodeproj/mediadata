@@ -105,83 +105,123 @@
      <cast>
       <role>
        <actor><gn>Michael</gn><fn>Keaton</fn></actor>
-       <as><gn>Henry</gn><fn>Hackett</fn></as>
+       <character>
+        <name><gn>Henry</gn><fn>Hackett</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Duvall</fn></actor>
-       <as><gn>Bernie</gn><fn>White</fn></as>
+       <character>
+        <name><gn>Bernie</gn><fn>White</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Glenn</gn><fn>Close</fn></actor>
-       <as><gn>Alicia</gn><fn>Clark</fn></as>
+       <character>
+        <name><gn>Alicia</gn><fn>Clark</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Marisa</gn><fn>Tomei</fn></actor>
-       <as><gn>Martha</gn><fn>Hackett</fn></as>
+       <character>
+        <name><gn>Martha</gn><fn>Hackett</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Randy</gn><fn>Quaid</fn></actor>
-       <as><gn>Michael</gn><fn>McDougal</fn></as>
+       <character>
+        <name><gn>Michael</gn><fn>McDougal</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jason</gn><fn>Robards</fn></actor>
-       <as><gn>Graham</gn><fn>Keighley</fn></as>
+       <character>
+        <name><gn>Graham</gn><fn>Keighley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jason</gn><fn>Alexander</fn></actor>
-       <as><gn>Marion</gn><fn>Sandusky</fn></as>
+       <character>
+        <name><gn>Marion</gn><fn>Sandusky</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Spalding</gn><fn>Gray</fn></actor>
-       <as><gn>Paul</gn><fn>Bladden</fn></as>
+       <character>
+        <name><gn>Paul</gn><fn>Bladden</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Catherine</gn><fn>O'Hara</fn></actor>
-       <as><gn>Susan</gn></as>
+       <character>
+        <name><gn>Susan</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lynne</gn><fn>Thigpen</fn></actor>
-       <as><gn>Janet</gn></as>
+       <character>
+        <name><gn>Janet</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jack</gn><fn>Kehoe</fn></actor>
-       <as><gn>Phil</gn></as>
+       <character>
+        <name><gn>Phil</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Roma</gn><fn>Maffia</fn></actor>
-       <as><gn>Carmen</gn></as>
+       <character>
+        <name><gn>Carmen</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Clint</gn><fn>Howard</fn></actor>
-       <as><gn>Ray</gn><fn>Blaisch</fn></as>
+       <character>
+        <name><gn>Ray</gn><fn>Blaisch</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Geoffrey</gn><fn>Owens</fn></actor>
-       <as><gn>Lou</gn></as>
+       <character>
+        <name><gn>Lou</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Amelia</gn><fn>Campbell</fn></actor>
-       <as><gn>Robin</gn></as>
+       <character>
+        <name><gn>Robin</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jill</gn><fn>Hennessy</fn></actor>
-       <as><gn>Deanne</gn><fn>White</fn></as>
+       <character>
+        <name><gn>Deanne</gn><fn>White</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>William</gn><fn>Prince</fn></actor>
-       <as><gn>Howard</gn><fn>Hackett</fn></as>
+       <character>
+        <name><gn>Howard</gn><fn>Hackett</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Augusta</gn><fn>Dabney</fn></actor>
-       <as><gn>Sarah</gn><fn>Hackett</fn></as>
+       <character>
+        <name><gn>Sarah</gn><fn>Hackett</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bruce</gn><fn>Altman</fn></actor>
-       <as><gn>Carl</gn></as>
+       <character>
+        <name><gn>Carl</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jack</gn><fn>McGee</fn></actor>
-       <as><fn>Wilder</fn></as>
+       <character>
+        <name><fn>Wilder</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

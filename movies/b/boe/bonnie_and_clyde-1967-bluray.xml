@@ -106,39 +106,57 @@
      <cast>
       <role>
        <actor><gn>Warren</gn><fn>Beatty</fn></actor>
-       <as><gn>Clyde</gn><fn>Barrow</fn></as>
+       <character>
+        <name><gn>Clyde</gn><fn>Barrow</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Faye</gn><fn>Dunaway</fn></actor>
-       <as><gn>Bonnie</gn><fn>Parker</fn></as>
+       <character>
+        <name><gn>Bonnie</gn><fn>Parker</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Miochael</gn><mn>J</mn><fn>Pollard</fn></actor>
-       <as><gn>C</gn><mn>W</mn><fn>Moss</fn></as>
+       <character>
+        <name><pgn>C W</pgn><fn>Moss</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Gene</gn><fn>Hackman</fn></actor>
-       <as><gn>Buck</gn><fn>Barrow</fn></as>
+       <character>
+        <name><gn>Buck</gn><fn>Barrow</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Estelle</gn><fn>Parsons</fn></actor>
-       <as><gn>Blanche</gn></as>
+       <character>
+        <name><gn>Blanche</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Denver</gn><fn>Pyle</fn></actor>
-       <as><gn>Frank</gn><fn>Hammer</fn></as>
+       <character>
+        <name><gn>Frank</gn><fn>Hammer</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dub</gn><fn>Taylor</fn></actor>
-       <as><gn>Ivan</gn><fn>Moss</fn></as>
+       <character>
+        <name><gn>Ivan</gn><fn>Moss</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Evans</gn><fn>Evans</fn></actor>
-       <as><gn>Velma</gn><fn>Davis</fn></as>
+       <character>
+        <name><gn>Velma</gn><fn>Davis</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Gene</gn><fn>Wilder</fn></actor>
-       <as><gn>Eugene</gn><fn>Gizzard</fn></as>
+       <character>
+        <name><gn>Eugene</gn><fn>Gizzard</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

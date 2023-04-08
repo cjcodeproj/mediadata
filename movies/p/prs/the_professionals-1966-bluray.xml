@@ -140,35 +140,51 @@
      <cast>
       <role>
        <actor><gn>Burt</gn><fn>Lancaster</fn></actor>
-       <as><fn>Dolworth</fn></as>
+       <character>
+        <name><fn>Dolworth</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lee</gn><fn>Marvin</fn></actor>
-       <as><fn>Fardan</fn></as>
+       <character>
+        <name><fn>Fardan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Ryan</fn></actor>
-       <as><fn>Ehrengard</fn></as>
+       <character>
+        <name><fn>Ehrengard</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Woody</gn><fn>Strode</fn></actor>
-       <as><gn>Jake</gn></as>
+       <character>
+        <name><gn>Jake</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jack</gn><fn>Palance</fn></actor>
-       <as><gn>Jesus</gn><fn>Raza</fn></as>
+       <character>
+        <name><gn>Jesus</gn><fn>Raza</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Claudia</gn><fn>Cardinale</fn></actor>
-       <as><gn>Maria</gn></as>
+       <character>
+        <name><gn>Maria</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ralph</gn><fn>Bellamy</fn></actor>
-       <as><gn>Grant</gn></as>
+       <character>
+        <name><gn>Grant</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Joe</gn><fn>De Santis</fn></actor>
-       <as><fn>Ortega</fn></as>
+       <character>
+        <name><fn>Ortega</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

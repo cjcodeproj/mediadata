@@ -107,35 +107,51 @@
      <cast>
       <role>
        <actor><gn>Robert</gn><fn>Forster</fn></actor>
-       <as><gn>David</gn></as>
+       <character>
+        <name><gn>David</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robin</gn><fn>Riker</fn></actor>
-       <as><gn>Marisa</gn></as>
+       <character>
+        <name><gn>Marisa</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><mn>V.</mn><fn>Gazzo</fn></actor>
-       <as><prefix>Chief</prefix><fn>Clark</fn></as>
+       <character>
+        <name><prefix>Chief</prefix><fn>Clark</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sydney</gn><fn>Lassick</fn></actor>
-       <as><fn>Gutchel</fn></as>
+       <character>
+        <name><fn>Gutchel</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jack</gn><fn>Carter</fn></actor>
-       <as><title>Mayor</title></as>
+       <character>
+        <unnamed>Mayor</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Perry</gn><fn>Lang</fn></actor>
-       <as><gn>Kelly</gn></as>
+       <character>
+        <name><gn>Kelly</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Henry</gn><fn>Silva</fn></actor>
-       <as><gn>Brock</gn></as>
+       <character>
+        <name><gn>Brock</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bart</gn><fn>Braverman</fn></actor>
-       <as><fn>Kemp</fn></as>
+       <character>
+        <name><fn>Kemp</fn></name>
+       </character>
       </role>
      </cast>
     </crew>
