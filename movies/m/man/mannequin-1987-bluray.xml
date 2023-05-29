@@ -97,31 +97,45 @@
      <cast>
       <role>
        <actor><gn>Andrew</gn><fn>McCarthy</fn></actor>
-       <as><gn>Jonathan</gn><fn>Switcher</fn></as>
+       <character>
+        <name><gn>Jonathan</gn><fn>Switcher</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kim</gn><fn>Cattrall</fn></actor>
-       <as><gn>Emmy</gn></as>
+       <character>
+        <name><gn>Emmy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Estelle</gn><fn>Getty</fn></actor>
-       <as><gn>Claire</gn><fn>Timkin</fn></as>
+       <character>
+        <name><gn>Claire</gn><fn>Timkin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>James</gn><fn>Spader</fn></actor>
-       <as><fn>Richards</fn></as>
+       <character>
+        <name><fn>Richards</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>G</gn><mn>W</mn><fn>Bailey</fn></actor>
-       <as><gn>Felix</gn></as>
+       <actor><pgn>G. W.</pgn><fn>Bailey</fn></actor>
+       <character>
+        <name><gn>Felix</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Meschach</gn><fn>Taylor</fn></actor>
-       <as><nick>Hollywood</nick></as>
+       <character>
+        <name><nick>Hollywood</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Carole</gn><fn>Davis</fn></actor>
-       <as><gn>Roxie</gn></as>
+       <character>
+        <name><gn>Roxie</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

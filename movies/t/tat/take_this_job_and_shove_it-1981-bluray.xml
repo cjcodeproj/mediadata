@@ -94,31 +94,45 @@
      <cast>
       <role>
        <actor><gn>Robert</gn><fn>Hayes</fn></actor>
-       <as><gn>Frank</gn><fn>Macklin</fn></as>
+       <character>
+        <name><gn>Frank</gn><fn>Macklin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Barbara</gn><fn>Hershey</fn></actor>
-       <as><gn>JM</gn><fn>Halstead</fn></as>
+       <character>
+        <name><gn>JM</gn><fn>Halstead</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>David</gn><fn>Keith</fn></actor>
-       <as><gn>Harry</gn><fn>Meade</fn></as>
+       <character>
+        <name><gn>Harry</gn><fn>Meade</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tim</gn><fn>Thomerson</fn></actor>
-       <as><gn>Ray</gn><fn>Binkowski</fn></as>
+       <character>
+        <name><gn>Ray</gn><fn>Binkowski</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Art</gn><fn>Carney</fn></actor>
-       <as><gn>Charlie</gn><fn>Pickett</fn></as>
+       <character>
+        <name><gn>Charlie</gn><fn>Pickett</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Eddie</gn><fn>Albert</fn></actor>
-       <as><gn>Samuel</gn><fn>Ellison</fn></as>
+       <character>
+        <name><gn>Samuel</gn><fn>Ellison</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Martin</gn><fn>Mull</fn></actor>
-       <as><gn>Dick</gn><fn>Ebersol</fn></as>
+       <character>
+        <name><gn>Dick</gn><fn>Ebersol</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

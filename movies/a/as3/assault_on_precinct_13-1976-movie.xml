@@ -94,43 +94,63 @@
      <cast>
       <role>
        <actor><gn>Austin</gn><fn>Stoker</fn></actor>
-       <as><gn>Ethan</gn><fn>Bishop</fn></as>
+       <character>
+        <name><gn>Ethan</gn><fn>Bishop</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Darwin</gn><fn>Joston</fn></actor>
-       <as><gn>Napoleon</gn><fn>Wilson</fn></as>
+       <character>
+        <name><gn>Napoleon</gn><fn>Wilson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Laurie</gn><fn>Zimmer</fn></actor>
-       <as><gn>Leigh</gn></as>
+       <character>
+        <name><gn>Leigh</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Martin</gn><fn>West</fn></actor>
-       <as><fn>Lawson</fn></as>
+       <character>
+        <name><fn>Lawson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tony</gn><fn>Burton</fn></actor>
-       <as><fn>Wells</fn></as>
+       <character>
+        <name><fn>Wells</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Charles</gn><fn>Cyphers</fn></actor>
-       <as><fn>Starker</fn></as>
+       <character>
+        <name><fn>Starker</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Nancy</gn><fn>Kyes</fn></actor>
-       <as><gn>Julie</gn></as>
+       <character>
+        <name><gn>Julie</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Peter</gn><fn>Bruni</fn></actor>
-       <as><title>Ice Cream Man</title></as>
+       <character>
+        <unnamed>Ice Cream Man</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Kim</gn><fn>Richards</fn></actor>
-       <as><gn>Kathy</gn></as>
+       <character>
+        <name><gn>Kathy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Frank</gn><fn>Doubleday</fn></actor>
-       <as><nick>White Warlord</nick></as>
+       <character>
+        <name><nick>White Warlord</nick></name>
+       </character>
       </role>
      </cast>
     </crew>

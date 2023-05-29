@@ -97,59 +97,87 @@
      <cast>
       <role>
        <actor><gn>Tom</gn><fn>Cruise</fn></actor>
-       <as><gn>Barry</gn><fn>Seal</fn></as>
+       <character>
+        <name><gn>Barry</gn><fn>Seal</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Domhall</gn><fn>Gleeson</fn></actor>
-       <as><gn>Monty</gn><nick>Schafer</nick></as>
+       <character>
+        <name><gn>Monty</gn><nick>Schafer</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sarah</gn><fn>Wright</fn></actor>
-       <as><gn>Lucy</gn><fn>Seal</fn></as>
+       <character>
+        <name><gn>Lucy</gn><fn>Seal</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jesse</gn><fn>Plemons</fn></actor>
-       <as><preTitle>Sheriff</preTitle><fn>Downing</fn></as>
+       <character>
+        <name><prefix>Sheriff</prefix><fn>Downing</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Caleb</gn><mn>Landry</mn><fn>Jones</fn></actor>
-       <as><gn>J.</gn><mn>B.</mn></as>
+       <character>
+        <name><pgn>J. B.</pgn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lola</gn><fn>Kirke</fn></actor>
-       <as><gn>Judy</gn><fn>Downing</fn></as>
+       <character>
+        <name><gn>Judy</gn><fn>Downing</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jayma</gn><fn>Mays</fn></actor>
-       <as><gn>Dana</gn><fn>Sibota</fn></as>
+       <character>
+        <name><gn>Dana</gn><fn>Sibota</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Alejandro</gn><fn>Edda</fn></actor>
-       <as><gn>Jorge</gn><fn>Ochao</fn></as>
+       <character>
+        <name><gn>Jorge</gn><fn>Ochao</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Benito</gn><fn>Martinez</fn></actor>
-       <as><gn>James</gn><fn>Rangel</fn></as>
+       <character>
+        <name><gn>James</gn><fn>Rangel</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>E.</gn><mn>Roger</mn><fn>Mitchell</fn></actor>
-       <as><preTitle>Agent</preTitle><gn>Craig</gn><fn>McCall</fn></as>
+       <actor><pgn>E. Roger</pgn><fn>Mitchell</fn></actor>
+       <character>
+        <name><prefix>Agent</prefix><gn>Craig</gn><fn>McCall</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jed</gn><fn>Rees</fn></actor>
-       <as><gn>Louis</gn><fn>Finkle</fn></as>
+       <character>
+        <name><gn>Louis</gn><fn>Finkle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Fredy</gn><fn>Yate</fn></actor>
-       <as><gn>Carlos</gn><fn>Lehder</fn></as>
+       <character>
+        <name><gn>Carlos</gn><fn>Lehder</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mauricio</gn><fn>Mejía</fn></actor>
-       <as><gn>Pablo</gn><fn>Escobar</fn></as>
+       <character>
+        <name><gn>Pablo</gn><fn>Escobar</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Farrior</fn></actor>
-       <as><gn>Oliver</gn><fn>North</fn></as>
+       <character>
+        <name><gn>Oliver</gn><fn>North</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

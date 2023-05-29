@@ -111,15 +111,21 @@
      <cast>
       <role>
        <actor><gn>Chris</gn><fn>Rock</fn></actor>
-       <as><preTitle>Detective</preTitle><gn>Zeke</gn><fn>Banks</fn></as>
+       <character>
+        <name><prefix>Detective</prefix><gn>Zeke</gn><fn>Banks</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Max</gn><fn>Minghella</fn></actor>
-       <as><preTitle>Detective</preTitle><gn>William</gn><fn>Schenk</fn></as>
+       <character>
+        <name><prefix>Detective</prefix><gn>William</gn><fn>Schenk</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Samuel</gn><mn>L</mn><fn>Jackson</fn></actor>
-       <as><gn>Marcus</gn><fn>Banks</fn></as>
+       <character>
+        <name><gn>Marcus</gn><fn>Banks</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

@@ -69,35 +69,51 @@
      <cast>
       <role>
        <actor><gn>James</gn><fn>Stewart</fn></actor>
-       <as><gn>L.B.</gn><fn>Jefferies</fn></as>
+       <character>
+        <name><pgn>L.B.</pgn><fn>Jefferies</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Grace</gn><fn>Kelly</fn></actor>
-       <as><gn>Lisa</gn><fn>Fremont</fn></as>
+       <character>
+        <name><gn>Lisa</gn><fn>Fremont</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Wendell</gn><fn>Corey</fn></actor>
-       <as><gn>Tom</gn><fn>Doyle</fn></as>
+       <character>
+        <name><gn>Tom</gn><fn>Doyle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Thelma</gn><fn>Ritter</fn></actor>
-       <as><gn>Stella</gn></as>
+       <character>
+        <name><gn>Stella</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Raymond</gn><fn>Burr</fn></actor>
-       <as><gn>Lars</gn><fn>Thorwald</fn></as>
+       <character>
+        <name><gn>Lars</gn><fn>Thorwald</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Judith</gn><fn>Evelyn</fn></actor>
-       <as><preTitle>Miss</preTitle><fn>Lonelyhearts</fn></as>
+       <character>
+        <name><prefix>Miss</prefix><fn>Lonelyhearts</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ross</gn><fn>Bagdasarian</fn></actor>
-       <as><title>Songwriter</title></as>
+       <character>
+        <unnamed>Songwriter</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Georgine</gn><fn>Darcy</fn></actor>
-       <as><preTitle>Miss</preTitle><fn>Torso</fn></as>
+       <character>
+        <name><prefix>Miss</prefix><fn>Torso</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

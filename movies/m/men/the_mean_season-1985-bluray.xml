@@ -87,35 +87,51 @@
      <cast>
       <role>
        <actor><gn>Kurt</gn><fn>Russell</fn></actor>
-       <as><gn>Malcom</gn><fn>Anderson</fn></as>
+       <character>
+        <name><gn>Malcom</gn><fn>Anderson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mariel</gn><fn>Hemmingway</fn></actor>
-       <as><gn>Christine</gn><fn>Connelly</fn></as>
+       <character>
+        <name><gn>Christine</gn><fn>Connelly</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Jordan</fn></actor>
-       <as><gn>Alan</gn><fn>Delour</fn></as>
+       <character>
+        <name><gn>Alan</gn><fn>Delour</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Masur</fn></actor>
-       <as><gn>Bill</gn><fn>Nolan</fn></as>
+       <character>
+        <name><gn>Bill</gn><fn>Nolan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Bradford</fn></actor>
-       <as><gn>Phil</gn><fn>Wilson</fn></as>
+       <character>
+        <name><gn>Phil</gn><fn>Wilson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Joe</gn><fn>Pantoliano</fn></actor>
-       <as><gn>Andy</gn><fn>Porter</fn></as>
+       <character>
+        <name><gn>Andy</gn><fn>Porter</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Andy</gn><fn>Garcia</fn></actor>
-       <as><gn>Ray</gn><fn>Martinez</fn></as>
+       <character>
+        <name><gn>Ray</gn><fn>Martinez</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rose</gn><fn>Portillo</fn></actor>
-       <as><gn>Kathy</gn><fn>Vasquez</fn></as>
+       <character>
+        <name><gn>Kathy</gn><fn>Vasquez</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

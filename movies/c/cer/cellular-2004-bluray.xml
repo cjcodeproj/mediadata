@@ -94,27 +94,39 @@
      <cast>
       <role>
        <actor><gn>Kim</gn><fn>Basinger</fn></actor>
-       <as><gn>Jessica</gn><fn>Martin</fn></as>
+       <character>
+        <name><gn>Jessica</gn><fn>Martin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Chris</gn><fn>Evans</fn></actor>
-       <as><gn>Ryan</gn></as>
+       <character>
+        <name><gn>Ryan</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jason</gn><fn>Statham</fn></actor>
-       <as><gn>Ethan</gn></as>
+       <character>
+        <name><gn>Ethan</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Burgi</fn></actor>
-       <as><gn>Craig</gn><fn>Martin</fn></as>
+       <character>
+        <name><gn>Craig</gn><fn>Martin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>William</gn><mn>H</mn><fn>Macy</fn></actor>
-       <as><preTitle>Sgt</preTitle><gn>Bob</gn><fn>Mooney</fn></as>
+       <character>
+        <name><prefix>Sgt</prefix><gn>Bob</gn><fn>Mooney</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Adam</gn><mn>Taylor</mn><fn>Gordon</fn></actor>
-       <as><gn>Ricky</gn><fn>Martin</fn></as>
+       <character>
+        <name><gn>Ricky</gn><fn>Martin</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

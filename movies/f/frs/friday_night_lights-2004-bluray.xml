@@ -111,7 +111,7 @@
      </writers>
      <editors>
       <editor><gn>Gabrielle</gn><fn>Fasulo</fn></editor>
-      <editor><gn>Colby</gn><fn>Parker</fn><postTitle>Jr.</postTitle></editor>
+      <editor><gn>Colby</gn><fn>Parker</fn><suffix>Jr.</suffix></editor>
       <editor><gn>Brian</gn><fn>Reitzell</fn></editor>
       <editor><gn>David</gn><fn>Torn</fn></editor>
      </editors>
@@ -137,47 +137,69 @@
      <cast>
       <role>
        <actor><gn>Billy Bob</gn><fn>Thornton</fn></actor>
-       <as><preTitle>Coach</preTitle><gn>Gary</gn><fn>Gaines</fn></as>
+       <character>
+        <name><prefix>Coach</prefix><gn>Gary</gn><fn>Gaines</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lucas</gn><fn>Black</fn></actor>
-       <as><gn>Mike</gn><fn>Winchell</fn></as>
+       <character>
+        <name><gn>Mike</gn><fn>Winchell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Garrett</gn><fn>Hedlund</fn></actor>
-       <as><gn>Don</gn><fn>Billingsley</fn></as>
+       <character>
+        <name><gn>Don</gn><fn>Billingsley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Derek</gn><fn>Luke</fn></actor>
-       <as><gn>Boobie</gn><fn>Miles</fn></as>
+       <character>
+        <name><gn>Boobie</gn><fn>Miles</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jay</gn><fn>Hernandez</fn></actor>
-       <as><gn>Brian</gn><fn>Chavez</fn></as>
+       <character>
+        <name><gn>Brian</gn><fn>Chavez</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lee</gn><fn>Jackson</fn></actor>
-       <as><gn>Ivory</gn><fn>Christian</fn></as>
+       <character>
+        <name><gn>Ivory</gn><fn>Christian</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lee</gn><fn>Thompson Young</fn></actor>
-       <as><gn>Chris</gn><fn>Comer</fn></as>
+       <character>
+        <name><gn>Chris</gn><fn>Comer</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tim</gn><fn>McGraw</fn></actor>
-       <as><gn>Charles</gn><fn>Billingsley</fn></as>
+       <character>
+        <name><gn>Charles</gn><fn>Billingsley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Grover</gn><fn>Coulson</fn></actor>
-       <as><gn>L.</gn><mn>V.</mn><fn>Miles</fn></as>
+       <character>
+        <name><pgn>L. V.</pgn><fn>Miles</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Connie</gn><fn>Britton</fn></actor>
-       <as><gn>Sharon</gn><fn>Gaines</fn></as>
+       <character>
+        <name><gn>Sharon</gn><fn>Gaines</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Connie</gn><fn>Cooper</fn></actor>
-       <as><preTitle>Mrs.</preTitle><fn>Winchell</fn></as>
+       <character>
+        <name><prefix>Mrs.</prefix><fn>Winchell</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

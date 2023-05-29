@@ -113,19 +113,27 @@
      <cast>
       <role>
        <actor><gn>Burt</gn><fn>Reynolds</fn></actor>
-       <as><gn>Lewis</gn></as>
+       <character>
+        <name><gn>Lewis</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jon</gn><fn>Voight</fn></actor>
-       <as><gn>Ed</gn></as>
+       <character>
+        <name><gn>Ed</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ned</gn><fn>Beatty</fn></actor>
-       <as><gn>Bobby</gn></as>
+       <character>
+        <name><gn>Bobby</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ronny</gn><fn>Cox</fn></actor>
-       <as><gn>Drew</gn></as>
+       <character>
+        <name><gn>Drew</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

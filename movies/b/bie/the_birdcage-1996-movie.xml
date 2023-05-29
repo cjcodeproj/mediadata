@@ -113,55 +113,81 @@
      <cast>
       <role>
        <actor><gn>Robin</gn><fn>Williams</fn></actor>
-       <as><gn>Armand</gn><fn>Goldman</fn></as>
+       <character>
+        <name><gn>Armand</gn><fn>Goldman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Gene</gn><fn>Hackman</fn></actor>
-       <as><preTitle>Senator</preTitle><fn>Keeley</fn></as>
+       <character>
+        <name><prefix>Senator</prefix><fn>Keeley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Nathan</gn><fn>Lane</fn></actor>
-       <as><gn>Albert</gn></as>
+       <character>
+        <name><gn>Albert</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dianne</gn><fn>Wiest</fn></actor>
-       <as><gn>Louise</gn><fn>Keeley</fn></as>
+       <character>
+        <name><gn>Louise</gn><fn>Keeley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dan</gn><fn>Futterman</fn></actor>
-       <as><gn>Val</gn><fn>Goldman</fn></as>
+       <character>
+        <name><gn>Val</gn><fn>Goldman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Calista</gn><fn>Flockhart</fn></actor>
-       <as><gn>Barbara</gn><fn>Keeley</fn></as>
+       <character>
+        <name><gn>Barbara</gn><fn>Keeley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Hank</gn><fn>Azaria</fn></actor>
-       <as><gn>Agador</gn></as>
+       <character>
+        <name><gn>Agador</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Christine</gn><fn>Baranski</fn></actor>
-       <as><gn>Katharine</gn></as>
+       <character>
+        <name><gn>Katharine</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tom</gn><fn>McGowan</fn></actor>
-       <as><gn>Harry</gn><fn>Radman</fn></as>
+       <character>
+        <name><gn>Harry</gn><fn>Radman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Grant</gn><fn>Heslov</fn></actor>
-       <as><title>Photographer</title></as>
+       <character>
+        <unnamed>Photographer</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Kirby</gn><fn>Mitchell</fn></actor>
-       <as><title>Chauffeur</title></as>
+       <character>
+        <unnamed>Chauffeur</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>James</gn><fn>Lally</fn></actor>
-       <as><title>Stage Manager</title></as>
+       <character>
+        <unnamed>Stage Manager</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Luca</gn><fn>Tommassini</fn></actor>
-       <as><nick>Celsius</nick></as>
+       <character>
+        <name><nick>Celsius</nick></name>
+       </character>
       </role>
      </cast>
     </crew>

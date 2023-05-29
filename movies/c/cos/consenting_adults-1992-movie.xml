@@ -86,43 +86,63 @@
      <cast>
       <role>
        <actor><gn>Kevin</gn><fn>Kline</fn></actor>
-       <as><gn>Richard</gn><fn>Parker</fn></as>
+       <character>
+        <name><gn>Richard</gn><fn>Parker</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mary</gn><mn>Elizabeth</mn><fn>Mastrantonio</fn></actor>
-       <as><gn>Priscilla</gn><fn>Parker</fn></as>
+       <character>
+        <name><gn>Priscilla</gn><fn>Parker</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kevin</gn><fn>Spacey</fn></actor>
-       <as><gn>Eddie</gn><fn>Otis</fn></as>
+       <character>
+        <name><gn>Eddie</gn><fn>Otis</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rebecca</gn><fn>Miller</fn></actor>
-       <as><gn>Kay</gn><fn>Otis</fn></as>
+       <character>
+        <name><gn>Kay</gn><fn>Otis</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Forest</gn><fn>Whitaker</fn></actor>
-       <as><gn>David</gn><fn>Duttonville</fn></as>
+       <character>
+        <name><gn>David</gn><fn>Duttonville</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>E.</gn><mn>G.</mn><fn>Marshall</fn></actor>
-       <as><gn>George</gn><fn>Gordon</fn></as>
+       <actor><pgn>E. G.</pgn><fn>Marshall</fn></actor>
+       <character>
+        <name><gn>George</gn><fn>Gordon</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kimberly</gn><fn>McCullough</fn></actor>
-       <as><gn>Lori</gn><fn>Parker</fn></as>
+       <character>
+        <name><gn>Lori</gn><fn>Parker</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Billie</gn><fn>Neal</fn></actor>
-       <as><gn>Annie</gn><fn>Duttonville</fn></as>
+       <character>
+        <name><gn>Annie</gn><fn>Duttonville</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Benjamin</gn><fn>Hendrickson</fn></actor>
-       <as><gn>Jimmy</gn><fn>Schwartz</fn></as>
+       <character>
+        <name><gn>Jimmy</gn><fn>Schwartz</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>Lonnie</gn><mn>R.</mn><fn>Smith</fn><postTitle>Jr.</postTitle></actor>
-       <as><preTitle>Dr.</preTitle><fn>Pettering</fn></as>
+       <actor><gn>Lonnie</gn><mn>R.</mn><fn>Smith</fn><suffix>Jr.</suffix></actor>
+       <character>
+        <name><prefix>Dr.</prefix><fn>Pettering</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

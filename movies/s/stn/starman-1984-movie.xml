@@ -90,27 +90,42 @@
      <cast>
       <role>
        <actor><gn>Jeff</gn><fn>Bridges</fn></actor>
-       <as><title>Starman</title></as>
+       <character>
+        <unnamed>Starman</unnamed>
+       </character>
+       <character>
+        <name><gn>Scott</gn><fn>Hayden</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Karen</gn><fn>Allen</fn></actor>
-       <as><gn>Jennifer</gn><fn>Hayden</fn></as>
+       <character>
+        <name><gn>Jennifer</gn><fn>Hayden</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Charles</gn><mn>Martin</mn><fn>Smith</fn></actor>
-       <as><gn>Mark</gn><fn>Shermin</fn></as>
+       <character>
+        <name><gn>Mark</gn><fn>Shermin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Jaeckel</fn></actor>
-       <as><gn>George</gn><fn>Fox</fn></as>
+       <character>
+        <name><gn>George</gn><fn>Fox</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Phalen</fn></actor>
-       <as><preTitle>Major</preTitle><fn>Bell</fn></as>
+       <character>
+        <name><prefix>Major</prefix><fn>Bell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tony</gn><fn>Edwards</fn></actor>
-       <as><preTitle>Sergeant</preTitle><fn>Lemon</fn></as>
+       <character>
+        <name><prefix>Sergeant</prefix><fn>Lemon</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

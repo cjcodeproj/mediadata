@@ -92,43 +92,65 @@
      <cast>
       <role>
        <actor><gn>Luke</gn><fn>Perry</fn></actor>
-       <as><gn>Lane</gn><fn>Frost</fn></as>
+       <character>
+        <name><gn>Lane</gn><fn>Frost</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>James</gn><fn>Rebhorn</fn></actor>
-       <as><gn>Clyde</gn><fn>Frost</fn></as>
+       <character>
+        <name><gn>Clyde</gn><fn>Frost</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Carrie</gn><fn>Snodgress</fn></actor>
-       <as><gn>Elsie</gn><fn>Frost</fn></as>
+       <character>
+        <name><gn>Elsie</gn><fn>Frost</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Stephen</gn><fn>Baldwin</fn></actor>
-       <as><gn>Tuff</gn><fn>Hedeman</fn></as>
+       <character>
+        <name><gn>Tuff</gn><fn>Hedeman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Red</gn><fn>Mitchell</fn></actor>
-       <as><gn>Cody</gn><fn>Lambert</fn></as>
+       <character>
+        <name><gn>Cody</gn><fn>Lambert</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Cynthia</gn><fn>Geary</fn></actor>
-       <as><gn>Kelly</gn><fn>Frost</fn></as>
+       <character>
+        <name><gn>Kelly</gn><fn>Frost</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Linden</gn><fn>Ashby</fn></actor>
-       <as><gn>Martin</gn><fn>Hudson</fn></as>
+       <character>
+        <name><gn>Martin</gn><fn>Hudson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Clint</gn><fn>Burkey</fn></actor>
-       <as><gn>Travis</gn></as>
+       <character>
+        <name><gn>Travis</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Cameron</gn><fn>Finley</fn></actor>
-       <as><gn>Lane</gn><fn>Frost</fn><variant>young</variant></as>
+       <character>
+        <name><gn>Lane</gn><fn>Frost</fn></name>
+        <variant>young</variant>
+       </character>
       </role>
       <role>
        <actor><gn>Dustin</gn><fn>Mayfield</fn></actor>
-       <as><gn>Lane</gn><fn>Frost</fn><variant>teenager</variant></as>
+       <character>
+        <name><gn>Lane</gn><fn>Frost</fn></name>
+        <variant>teenager</variant>
+       </character>
       </role>
      </cast>
     </crew>

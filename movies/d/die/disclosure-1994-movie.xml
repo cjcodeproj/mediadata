@@ -117,47 +117,69 @@
      <cast>
       <role>
        <actor><gn>Michael</gn><fn>Douglas</fn></actor>
-       <as><gn>Tom</gn><fn>Sanders</fn></as>
+       <character>
+        <name><gn>Tom</gn><fn>Sanders</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Demi</gn><fn>Moore</fn></actor>
-       <as><gn>Meredith</gn><fn>Johnson</fn></as>
+       <character>
+        <name><gn>Meredith</gn><fn>Johnson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Donald</gn><fn>Sutherland</fn></actor>
-       <as><gn>Bob</gn><fn>Garvin</fn></as>
+       <character>
+        <name><gn>Bob</gn><fn>Garvin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Caroline</gn><fn>Goodall</fn></actor>
-       <as><gn>Susan</gn><fn>Hendler</fn></as>
+       <character>
+        <name><gn>Susan</gn><fn>Hendler</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Roma</gn><fn>Maffia</fn></actor>
-       <as><gn>Catherine</gn><fn>Alvarez</fn></as>
+       <character>
+        <name><gn>Catherine</gn><fn>Alvarez</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dylan</gn><fn>Baker</fn></actor>
-       <as><gn>Phillip</gn><fn>Blackburn</fn></as>
+       <character>
+        <name><gn>Phillip</gn><fn>Blackburn</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rosemary</gn><fn>Forsyth</fn></actor>
-       <as><gn>Stephanie</gn><fn>Kaplan</fn></as>
+       <character>
+        <name><gn>Stephanie</gn><fn>Kaplan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dennis</gn><fn>Miller</fn></actor>
-       <as><gn>Mark</gn><fn>Lewyn</fn></as>
+       <character>
+        <name><gn>Mark</gn><fn>Lewyn</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Suzie</gn><fn>Plakson</fn></actor>
-       <as><gn>Mary Ann</gn><fn>Hunter</fn></as>
+       <character>
+        <name><gn>Mary Ann</gn><fn>Hunter</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Nicholas</gn><fn>Sadler</fn></actor>
-       <as><gn>Don</gn><fn>Cherry</fn></as>
+       <character>
+        <name><gn>Don</gn><fn>Cherry</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jacqueline</gn><fn>Kim</fn></actor>
-       <as><gn>Cindy</gn><fn>Chang</fn></as>
+       <character>
+        <name><gn>Cindy</gn><fn>Chang</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

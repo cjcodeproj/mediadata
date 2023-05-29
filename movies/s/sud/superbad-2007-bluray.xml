@@ -120,52 +120,76 @@
      <cast>
       <role>
        <actor><gn>Jonah</gn><fn>Hill</fn></actor>
-       <as><gn>Seth</gn></as>
+       <character>
+        <name><gn>Seth</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>Cera</fn></actor>
-       <as><gn>Evan</gn></as>
+       <character>
+        <name><gn>Evan</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Christopher</gn><fn>Mintz-Plasse</fn></actor>
-       <as><fn>Fogell</fn></as>
-       <as><nick>McLovin</nick></as>
+       <character>
+        <name><fn>Fogell</fn></name>
+        <alias><nick>McLovin</nick></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Bill</gn><fn>Hader</fn></actor>
-       <as><preTitle>Officer</preTitle><fn>Slater</fn></as>
+       <character>
+        <name><prefix>Officer</prefix><fn>Slater</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Seth</gn><fn>Rogen</fn></actor>
-       <as><preTitle>Offier</preTitle><fn>Michaels</fn></as>
+       <character>
+        <name><prefix>Offier</prefix><fn>Michaels</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Martha</gn><fn>MacIsaac</fn></actor>
-       <as><gn>Becca</gn></as>
+       <character>
+        <name><gn>Becca</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Emma</gn><fn>Stone</fn></actor>
-       <as><gn>Jules</gn></as>
+       <character>
+        <name><gn>Jules</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Aviva</gn><fn>Baumann</fn></actor>
-       <as><gn>Nicola</gn></as>
+       <character>
+        <name><gn>Nicola</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Joe</gn><fn>Lo Truglio</fn></actor>
-       <as><gn>Francis</gn><nick>The Driver</nick></as>
+       <character>
+        <name><gn>Francis</gn><nick>The Driver</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kevin</gn><fn>Corrigan</fn></actor>
-       <as><gn>Mark</gn></as>
+       <character>
+        <name><gn>Mark</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Clement</gn><fn>Blake</fn></actor>
-       <as><title>Homeless Guy</title></as>
+       <character>
+        <unnamed>Homeless Guy</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Erica</gn><mn>Vittina</mn><fn>Phillips</fn></actor>
-       <as><title>Liquor Store Cashier</title></as>
+       <character>
+        <unnamed>Liquor Store Cashier</unnamed>
+       </character>
       </role>
      </cast>
     </crew>

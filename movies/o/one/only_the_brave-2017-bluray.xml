@@ -124,51 +124,75 @@
      <cast>
       <role>
        <actor><gn>Josh</gn><fn>Brolin</fn></actor>
-       <as><gn>Eric</gn><fn>Marsh</fn></as>
+       <character>
+        <name><gn>Eric</gn><fn>Marsh</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Miles</gn><fn>Teller</fn></actor>
-       <as><gn>Brendan</gn><fn>McDonough</fn></as>
+       <character>
+        <name><gn>Brendan</gn><fn>McDonough</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeff</gn><fn>Bridges</fn></actor>
-       <as><gn>Duane</gn><fn>Steinbrink</fn></as>
+       <character>
+        <name><gn>Duane</gn><fn>Steinbrink</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jennifer</gn><fn>Connelly</fn></actor>
-       <as><gn>Amanda</gn><fn>Marsh</fn></as>
+       <character>
+        <name><gn>Amanda</gn><fn>Marsh</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>James</gn><mn>Badge</mn><fn>Dale</fn></actor>
-       <as><gn>Jesse</gn><fn>Steed</fn></as>
+       <character>
+        <name><gn>Jesse</gn><fn>Steed</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Taylor</gn><fn>Kitsch</fn></actor>
-       <as><gn>Christopher</gn><fn>MacKenzie</fn></as>
+       <character>
+        <name><gn>Christopher</gn><fn>MacKenzie</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Andie</gn><fn>MacDowell</fn></actor>
-       <as><gn>Marvel</gn><fn>Steinbrink</fn></as>
+       <character>
+        <name><gn>Marvel</gn><fn>Steinbrink</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Geoff</gn><fn>Stults</fn></actor>
-       <as><gn>Travis</gn><fn>Turbyfill</fn></as>
+       <character>
+        <name><gn>Travis</gn><fn>Turbyfill</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Alex</gn><fn>Russell</fn></actor>
-       <as><gn>Andrew</gn><fn>Ashcraft</fn></as>
+       <character>
+        <name><gn>Andrew</gn><fn>Ashcraft</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Thad</gn><fn>Luckinbill</fn></actor>
-       <as><gn>Scott</gn><fn>Norris</fn></as>
+       <character>
+        <name><gn>Scott</gn><fn>Norris</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ben</gn><fn>Hardy</fn></actor>
-       <as><gn>Wade</gn><fn>Parker</fn></as>
+       <character>
+        <name><gn>Wade</gn><fn>Parker</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Scott</gn><fn>Haze</fn></actor>
-       <as><gn>Clayton</gn><fn>Whitted</fn></as>
+       <character>
+        <name><gn>Clayton</gn><fn>Whitted</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

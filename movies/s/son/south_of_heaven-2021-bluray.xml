@@ -97,31 +97,45 @@
      <cast>
       <role>
        <actor><gn>Jason</gn><fn>Sudeikis</fn></actor>
-       <as><gn>Jimmy</gn><fn>Ray</fn></as>
+       <character>
+        <name><gn>Jimmy</gn><fn>Ray</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Evangeline</gn><fn>Lilly</fn></actor>
-       <as><gn>Annie</gn><fn>Ray</fn></as>
+       <character>
+        <name><gn>Annie</gn><fn>Ray</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mike</gn><fn>Colter</fn></actor>
-       <as><gn>Whit</gn><fn>Price</fn></as>
+       <character>
+        <name><gn>Whit</gn><fn>Price</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Shea</gn><fn>Whigham</fn></actor>
-       <as><fn>Schmidt</fn></as>
+       <character>
+        <name><fn>Schmidt</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeremy</gn><fn>Bobb</fn></actor>
-       <as><nick>Honest</nick><gn>Frank</gn></as>
+       <character>
+        <name><nick>Honest</nick><gn>Frank</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Amaury</gn><fn>Nolasco</fn></actor>
-       <as><gn>Manny</gn></as>
+       <character>
+        <name><gn>Manny</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Thaddeus</gn><mn>J</mn><fn>Mixson</fn></actor>
-       <as><gn>Tommy</gn><fn>Price</fn></as>
+       <character>
+        <name><gn>Tommy</gn><fn>Price</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

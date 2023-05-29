@@ -107,64 +107,96 @@
      <cast>
       <role>
        <actor><gn>Keanu</gn><fn>Reeves</fn></actor>
-       <as><gn>Ted</gn></as>
+       <character>
+        <name><gn>Ted</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Alex</gn><fn>Winter</fn></actor>
-       <as><gn>Bill</gn></as>
-       <as><preTitle>Granny</preTitle><fn>Preston</fn></as>
+       <character>
+        <name><gn>Bill</gn></name>
+       </character>
+       <character>
+        <name><prefix>Granny</prefix><fn>Preston</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>William</gn><fn>Sadler</fn></actor>
-       <as><title>Grim Reaper</title></as>
+       <character>
+        <name><pcn>Grim Reaper</pcn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Pam</gn><fn>Grier</fn></actor>
-       <as><preTitle>Ms.</preTitle><fn>Wardroe</fn></as>
+       <character>
+        <name><prefix>Ms.</prefix><fn>Wardroe</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>George</gn><fn>Carlin</fn></actor>
-       <as><gn>Rufus</gn></as>
+       <character>
+        <name><gn>Rufus</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Amy</gn><fn>Stoch</fn></actor>
-       <as><gn>Missy</gn></as>
+       <character>
+        <name><gn>Missy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jim</gn><fn>Martin</fn></actor>
-       <as><preTitle>Sir</preTitle><gn>James</gn><fn>Martin</fn></as>
+       <character>
+        <name><prefix>Sir</prefix><gn>James</gn><fn>Martin</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>Hal</gn><fn>Landon</fn><postTitle>Jr.</postTitle></actor>
-       <as><preTitle>Captain</preTitle><fn>Logan</fn></as>
+       <actor><gn>Hal</gn><fn>Landon</fn><suffix>Jr.</suffix></actor>
+       <character>
+        <name><prefix>Captain</prefix><fn>Logan</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Anette</gn><fn>Azcuy</fn></actor>
-       <as><gn>Elizabeth</gn></as>
+       <character>
+        <name><gn>Elizabeth</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sarah</gn><fn>Trigger</fn></actor>
-       <as><gn>Joanna</gn></as>
+       <character>
+        <name><gn>Joanna</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Chelcie</gn><fn>Ross</fn></actor>
-       <as><preTitle>Colonel</preTitle><fn>Oats</fn></as>
+       <character>
+        <name><prefix>Colonel</prefix><fn>Oats</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>Taj</gn><fn>Mahal</fn></actor> <!-- stage name -->
-       <as><title>Gatekeeper</title></as>
+       <actor><pcn>Taj Mahal</pcn></actor>
+       <character>
+        <unnamed>Gatekeeper</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Noble</fn></actor>
-       <as><fn>Bash</fn></as>
+       <character>
+        <name><fn>Bash</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>Hal</gn><fn>Landon</fn><postTitle>Sr.</postTitle></actor>
-       <as><gn>Thomas</gn><fn>Edison</fn></as>
+       <actor><gn>Hal</gn><fn>Landon</fn><suffix>Sr.</suffix></actor>
+       <character>
+        <name><gn>Thomas</gn><fn>Edison</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>J.</gn><mn>Patrick</mn><fn>McNamara</fn></actor>
-       <as><preTitle>Mr.</preTitle><fn>Preston</fn></as>
+       <character>
+        <name><prefix>Mr.</prefix><fn>Preston</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

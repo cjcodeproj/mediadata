@@ -110,31 +110,45 @@
      <cast>
       <role>
        <actor><gn>Val</gn><fn>Kilmer</fn></actor>
-       <as><gn>Ray</gn><fn>Levoi</fn></as>
+       <character>
+        <name><gn>Ray</gn><fn>Levoi</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sam</gn><fn>Shepard</fn></actor>
-       <as><gn>Frank</gn><fn>Coutelle</fn></as>
+       <character>
+        <name><gn>Frank</gn><fn>Coutelle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Graham</gn><fn>Greene</fn></actor>
-       <as><gn>Walter</gn><fn>Crow Horse</fn></as>
+       <character>
+        <name><gn>Walter</gn><fn>Crow Horse</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Fred</gn><fn>Ward</fn></actor>
-       <as><gn>Jack</gn><fn>Milton</fn></as>
+       <character>
+        <name><gn>Jack</gn><fn>Milton</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Fred</gn><fn>Thompson</fn></actor>
-       <as><gn>William</gn><fn>Dawes</fn></as>
+       <character>
+        <name><gn>William</gn><fn>Dawes</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sheila</gn><fn>Tousey</fn></actor>
-       <as><gn>Maggie</gn><fn>Eagle Bear</fn></as>
+       <character>
+        <name><gn>Maggie</gn><fn>Eagle Bear</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ted</gn><fn>Thin Elk</fn></actor>
-       <as><preTitle>Grandpa</preTitle><gn>Sam</gn><fn>Reaches</fn></as>
+       <character>
+        <name><prefix>Grandpa</prefix><gn>Sam</gn><fn>Reaches</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

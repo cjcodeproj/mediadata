@@ -94,15 +94,21 @@
      <cast>
       <role>
        <actor><gn>Jean-Claude</gn><fn>Van Damme</fn></actor>
-       <as><gn>Jacques</gn><fn>Kristoff</fn></as>
+       <character>
+        <name><gn>Jacques</gn><fn>Kristoff</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tomas</gn><fn>Arana</fn></actor>
-       <as><gn>Mason</gn><fn>Cole</fn></as>
+       <character>
+        <name><gn>Mason</gn><fn>Cole</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Laura</gn><fn>Harring</fn></actor>
-       <as><gn>Galina</gn><fn>Konstantin</fn></as>
+       <character>
+        <name><gn>Galina</gn><fn>Konstantin</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

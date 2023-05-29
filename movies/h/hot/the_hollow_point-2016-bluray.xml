@@ -116,35 +116,51 @@
      <cast>
       <role>
        <actor><gn>Patrick</gn><fn>Wilson</fn></actor>
-       <as><gn>Wallace</gn></as>
+       <character>
+        <name><gn>Wallace</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ian</gn><fn>McShane</fn></actor>
-       <as><gn>Leland</gn></as>
+       <character>
+        <name><gn>Leland</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Leguizamo</fn></actor>
-       <as><gn>Atticus</gn></as>
+       <character>
+        <name><gn>Atticus</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lynn</gn><fn>Collins</fn></actor>
-       <as><gn>Marla</gn></as>
+       <character>
+        <name><gn>Marla</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jim</gn><fn>Belushi</fn></actor>
-       <as><gn>Shep</gn><fn>Diaz</fn></as>
+       <character>
+        <name><gn>Shep</gn><fn>Diaz</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Karli</gn><fn>Hall</fn></actor>
-       <as><gn>Lilly</gn></as>
+       <character>
+        <name><gn>Lilly</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>David</gn><mn>H</mn><fn>Stevens</fn></actor>
-       <as><gn>Ken</gn><fn>Mercy</fn></as>
+       <character>
+        <name><gn>Ken</gn><fn>Mercy</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Derek</gn><fn>Boone</fn></actor>
-       <as><gn>Samuel</gn><fn>Gibbons</fn></as>
+       <character>
+        <name><gn>Samuel</gn><fn>Gibbons</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

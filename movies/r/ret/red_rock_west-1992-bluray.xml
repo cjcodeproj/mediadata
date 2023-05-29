@@ -108,31 +108,45 @@
      <cast>
       <role>
        <actor><gn>Nicholas</gn><fn>Cage</fn></actor>
-       <as><gn>Michael</gn></as>
+       <character>
+        <name><gn>Michael</gn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>J.T.</gn><fn>Walsh</fn></actor>
-       <as><gn>Wayne</gn></as>
+       <actor><pgn>J. T.</pgn><fn>Walsh</fn></actor>
+       <character>
+        <name><gn>Wayne</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lara</gn><mn>Flynn</mn><fn>Boyle</fn></actor>
-       <as><gn>Suzanne</gn></as>
+       <character>
+        <name><gn>Suzanne</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dennis</gn><fn>Hopper</fn></actor>
-       <as><gn>Lyle</gn></as>
+       <character>
+        <name><gn>Lyle</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Timothy</gn><fn>Carhart</fn></actor>
-       <as><preTitle>Deputy</preTitle><fn>Greytack</fn></as>
+       <character>
+        <name><prefix>Deputy</prefix><fn>Greytack</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dan</gn><fn>Shor</fn></actor>
-       <as><preTitle>Deputy</preTitle><fn>Bowman</fn></as>
+       <character>
+        <name><prefix>Deputy</prefix><fn>Bowman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dwight</gn><fn>Yoakam</fn></actor>
-       <as><title>Truck Driver</title></as>
+       <character>
+        <unnamed>Truck Driver</unnamed>
+       </character>
       </role>
      </cast>
     </crew>

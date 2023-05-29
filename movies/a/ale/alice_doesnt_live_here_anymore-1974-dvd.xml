@@ -126,51 +126,76 @@
      <cast>
       <role>
        <actor><gn>Ellen</gn><fn>Burstyn</fn></actor>
-       <as><gn>Alice</gn><fn>Hyatt</fn></as>
+       <character>
+        <name><gn>Alice</gn><fn>Hyatt</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kris</gn><fn>Kristofferson</fn></actor>
-       <as><gn>David</gn></as>
+       <character>
+        <name><gn>David</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mia</gn><fn>Bendixsen</fn></actor>
-       <as><gn>Alice</gn><variant>age 8</variant></as>
+       <character>
+        <name><gn>Alice</gn></name>
+        <variant>age 8</variant>
+       </character>
       </role>
       <role>
-       <actor><gn>Alfred</gn><fn>Lutter</fn><postTitle>III</postTitle></actor>
-       <as><gn>Tommy</gn></as>
+       <actor><gn>Alfred</gn><fn>Lutter</fn><suffix>III</suffix></actor>
+       <character>
+        <name><gn>Tommy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Billy</gn><fn>Green Bush</fn></actor>
-       <as><gn>Donald</gn></as>
+       <character>
+        <name><gn>Donald</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lelia</gn><fn>Goldoni</fn></actor>
-       <as><gn>Bea</gn></as>
+       <character>
+        <name><gn>Bea</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Harvey</gn><fn>Keitel</fn></actor>
-       <as><gn>Ben</gn></as>
+       <character>
+        <name><gn>Ben</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lane</gn><fn>Bradbury</fn></actor>
-       <as><gn>Rita</gn></as>
+       <character>
+        <name><gn>Rita</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Diane</gn><fn>Ladd</fn></actor>
-       <as><gn>Flo</gn></as>
+       <character>
+        <name><gn>Flo</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Vic</gn><fn>Tayback</fn></actor>
-       <as><gn>Mel</gn></as>
+       <character>
+        <name><gn>Mel</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Valerie</gn><fn>Curtin</fn></actor>
-       <as><gn>Vera</gn></as>
+       <character>
+        <name><gn>Vera</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jodie</gn><fn>Foster</fn></actor>
-       <as><gn>Audrey</gn></as>
+       <character>
+        <name><gn>Audrey</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

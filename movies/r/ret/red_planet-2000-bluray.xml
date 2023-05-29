@@ -104,43 +104,65 @@
      <cast>
       <role>
        <actor><gn>Val</gn><fn>Kilmer</fn></actor>
-       <as><fn>Gallagher</fn></as>
+       <character>
+        <name><fn>Gallagher</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Carrie-Anne</gn><fn>Moss</fn></actor>
-       <as><fn>Bowman</fn></as>
+       <character>
+        <name><fn>Bowman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tom</gn><fn>Sizemore</fn></actor>
-       <as><fn>Burchenal</fn></as>
+       <character>
+        <name><fn>Burchenal</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Benjamin</gn><fn>Bratt</fn></actor>
-       <as><fn>Santen</fn></as>
+       <character>
+        <name><fn>Santen</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Simon</gn><fn>Baker</fn></actor>
-       <as><fn>Pettengil</fn></as>
+       <character>
+        <name><fn>Pettengil</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Terrence</gn><fn>Stamp</fn></actor>
-       <as><fn>Chantilas</fn></as>
+       <character>
+        <name><fn>Chantilas</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jessica</gn><fn>Morton</fn></actor>
-       <as><title>Website Fan</title></as>
+       <character>
+        <unnamed>Website Fan</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Caroline</gn><fn>Bossi</fn></actor>
-       <as><title>Website Fan</title></as>
+       <character>
+        <unnamed>Website Fan</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Bob</gn><fn>Beill</fn></actor>
-       <as><title>Houston</title><variant>voice</variant></as>
+       <character>
+        <unnamed>Houston</unnamed>
+        <aspect>voice</aspect>
+       </character>
       </role>
       <role>
        <actor><gn>Neil</gn><fn>Ross</fn></actor>
-       <as><title>Space Suit</title><variant>voice</variant></as>
+       <character>
+        <unnamed>Space Suit</unnamed>
+        <aspect>voice</aspect>
+       </character>
       </role>
      </cast>
     </crew>

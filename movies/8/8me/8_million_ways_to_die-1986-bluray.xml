@@ -111,23 +111,33 @@
      <cast>
       <role>
        <actor><gn>Jeff</gn><fn>Bridges</fn></actor>
-       <as><gn>Scugger</gn></as>
+       <character>
+        <name><gn>Scugger</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rosanna</gn><fn>Arquette</fn></actor>
-       <as><gn>Sarah</gn></as>
+       <character>
+        <name><gn>Sarah</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Alenaxdra</gn><fn>Paul</fn></actor>
-       <as><gn>Sunny</gn></as>
+       <character>
+        <name><gn>Sunny</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Randy</gn><fn>Brooks</fn></actor>
-       <as><gn>Chance</gn></as>
+       <character>
+        <name><gn>Chance</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Andy</gn><fn>Garcia</fn></actor>
-       <as><gn>Angel</gn><fn>Maldonado</fn></as>
+       <character>
+        <name><gn>Angel</gn><fn>Maldonado</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

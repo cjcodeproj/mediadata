@@ -44,7 +44,7 @@
     <story>
      <plot>
       <chr>Homer Simpson</chr> accidentally causes an environmental disaster in Springfield, leading the town to be enclosed in a
-      gigantic dome, cutting off the town from the rest of the world.  The Simpsons family manages to escape, and build a 
+      gigantic dome, cutting off the town from the rest of the world.  The Simpsons family manages to escape, and build a
       new life in Alaska.  But they feel an obligation to return once they realize that the EPA wants to destroy Springfield
       and everyone in it.
      </plot>
@@ -112,160 +112,354 @@
      <cast>
       <role>
        <actor><gn>Dan</gn><fn>Castellaneta</fn></actor>
-       <as><gn>Homer</gn><fn>Simpson</fn></as>
-       <as><gn>Itchy</gn></as>
-       <as><gn>Barney</gn></as>
-       <as><preTitle>Grandpa</preTitle><fn>Simpson</fn></as>
-       <as><title>Stage Manager</title></as>
-       <as><gn>Krusty</gn><nick>The Clown</nick></as>
-       <as><preTitle>Mayor</preTitle><fn>Quimby</fn></as>
-       <as><title>Mayer's Aide</title></as>
-       <as><title>Multi-Eyes Squirrel</title></as>
-       <as><title>Panicky Man</title></as>
-       <as><nick>Sideshow</nick><gn>Mel</gn></as>
-       <as><preTitle>Mr.</preTitle><fn>Teeny</fn></as>
-       <as><title>EPA Official</title></as>
-       <as><title>Kissing Cop</title></as>
-       <as><title>Bear</title></as>
-       <as><title>Boy On Phone</title></as>
-       <as><title>NSA Worker</title></as>
-       <as><title>Officer</title></as>
-       <as><gn>Santa's Little Helper</gn></as>
-       <as><title>Squeaky-Voiced Teen</title></as>
-       <as><preTitle>Groundskeeper</preTitle><gn>Willy</gn></as>
+       <character>
+        <name><gn>Homer</gn><fn>Simpson</fn></name>
+       </character>
+       <character>
+        <name><gn>Itchy</gn></name>
+       </character>
+       <character>
+        <name><gn>Barney</gn></name>
+       </character>
+       <character>
+        <name><prefix>Grandpa</prefix><fn>Simpson</fn></name>
+       </character>
+       <character>
+        <unnamed>Stage Manager</unnamed>
+       </character>
+       <character>
+        <name><gn>Krusty</gn><nick>The Clown</nick></name>
+       </character>
+       <character>
+        <name><prefix>Mayor</prefix><fn>Quimby</fn></name>
+       </character>
+       <character>
+        <unnamed>Mayer's Aide</unnamed>
+       </character>
+       <character>
+        <unnamed>Multi-Eyes Squirrel</unnamed>
+       </character>
+       <character>
+        <unnamed>Panicky Man</unnamed>
+       </character>
+       <character>
+        <name><nick>Sideshow</nick><gn>Mel</gn></name>
+       </character>
+       <character>
+        <name><prefix>Mr.</prefix><fn>Teeny</fn></name>
+       </character>
+       <character>
+        <unnamed>EPA Official</unnamed>
+       </character>
+       <character>
+        <unnamed>Kissing Cop</unnamed>
+       </character>
+       <character>
+        <unnamed>Bear</unnamed>
+       </character>
+       <character>
+        <unnamed>Boy On Phone</unnamed>
+       </character>
+       <character>
+        <unnamed>NSA Worker</unnamed>
+       </character>
+       <character>
+        <unnamed>Officer</unnamed>
+       </character>
+       <character>
+        <name><gn>Santa's Little Helper</gn></name>
+       </character>
+       <character>
+        <unnamed>Squeaky-Voiced Teen</unnamed>
+       </character>
+       <character>
+        <name><prefix>Groundskeeper</prefix><gn>Willy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Julie</gn><fn>Kavner</fn></actor>
-       <as><gn>Marge</gn><fn>Simpson</fn></as>
-       <as><gn>Selma</gn><fn>Bouvier</fn></as>
-       <as><gn>Petty</gn><fn>Bouvier</fn></as>
+       <character>
+        <name><gn>Marge</gn><fn>Simpson</fn></name>
+       </character>
+       <character>
+        <name><gn>Selma</gn><fn>Bouvier</fn></name>
+       </character>
+       <character>
+        <name><gn>Petty</gn><fn>Bouvier</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Nancy</gn><fn>Cartwright</fn></actor>
-       <as><gn>Bart</gn><fn>Simpson</fn></as>
-       <as><gn>Maggie</gn><fn>Simpson</fn></as>
-       <as><gn>Ralph</gn><fn>Wiggum</fn></as>
-       <as><gn>Melson</gn><fn>Muntz</fn></as>
-       <as><gn>Todd</gn><fn>Flanders</fn></as>
-       <as><title>TV Daughter</title></as>
-       <as><title>Woman On Phone</title></as>
+       <character>
+        <name><gn>Bart</gn><fn>Simpson</fn></name>
+       </character>
+       <character>
+        <name><gn>Maggie</gn><fn>Simpson</fn></name>
+       </character>
+       <character>
+        <name><gn>Ralph</gn><fn>Wiggum</fn></name>
+       </character>
+       <character>
+        <name><gn>Melson</gn><fn>Muntz</fn></name>
+       </character>
+       <character>
+        <name><gn>Todd</gn><fn>Flanders</fn></name>
+       </character>
+       <character>
+        <unnamed>TV Daughter</unnamed>
+       </character>
+       <character>
+        <unnamed>Woman On Phone</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Yeardley</gn><fn>Smith</fn></actor>
-       <as><gn>Lisa</gn><fn>Simpson</fn></as>
+       <character>
+        <name><gn>Lisa</gn><fn>Simpson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Hank</gn><fn>Azaria</fn></actor>
-       <as><preTitle>Professor</preTitle><fn>Frink</fn></as>
-       <as><title>Comic Book Guy</title></as>
-       <as><gn>Moe</gn><fn>Szyslak</fn></as>
-       <as><preTitle>Chief</preTitle><fn>Wiggum</fn></as>
-       <as><gn>Lou</gn></as>
-       <as><gn>Carl</gn></as>
-       <as><gn>Cletus</gn></as>
-       <as><title>Bumblebee Man</title></as>
-       <as><title>Male EPA Worker</title></as>
-       <as><title>Dome Depot Announcer</title></as>
-       <as><title>Kissing Cop</title></as>
-       <as><title>Carnival Barker</title></as>
-       <as><title>Counter Man</title></as>
-       <as><gn>Apu</gn></as>
-       <as><gn>Drederick</gn><fn>Tatum</fn></as>
-       <as><title>Sea Captain</title></as>
-       <as><title>EPA Passenger</title></as>
-       <as><title>Robot</title></as>
-       <as><preTitle>Dr.</preTitle><gn>Nick</gn><fn>Riviera</fn></as>
-       <as><title>Wise Guy</title></as>
+       <character>
+        <name><prefix>Professor</prefix><fn>Frink</fn></name>
+       </character>
+       <character>
+        <unnamed>Comic Book Guy</unnamed>
+       </character>
+       <character>
+        <name><gn>Moe</gn><fn>Szyslak</fn></name>
+       </character>
+       <character>
+        <name><prefix>Chief</prefix><fn>Wiggum</fn></name>
+       </character>
+       <character>
+        <name><gn>Lou</gn></name>
+       </character>
+       <character>
+        <name><gn>Carl</gn></name>
+       </character>
+       <character>
+        <name><gn>Cletus</gn></name>
+       </character>
+       <character>
+        <unnamed>Bumblebee Man</unnamed>
+       </character>
+       <character>
+        <unnamed>Male EPA Worker</unnamed>
+       </character>
+       <character>
+        <unnamed>Dome Depot Announcer</unnamed>
+       </character>
+       <character>
+        <unnamed>Kissing Cop</unnamed>
+       </character>
+       <character>
+        <unnamed>Carnival Barker</unnamed>
+       </character>
+       <character>
+        <unnamed>Counter Man</unnamed>
+       </character>
+       <character>
+        <name><gn>Apu</gn></name>
+       </character>
+       <character>
+        <name><gn>Drederick</gn><fn>Tatum</fn></name>
+       </character>
+       <character>
+        <unnamed>Sea Captain</unnamed>
+       </character>
+       <character>
+        <unnamed>EPA Passenger</unnamed>
+       </character>
+       <character>
+        <unnamed>Robot</unnamed>
+       </character>
+       <character>
+        <name><prefix>Dr.</prefix><gn>Nick</gn><fn>Riviera</fn></name>
+       </character>
+       <character>
+        <unnamed>Wise Guy</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Harry</gn><fn>Shearer</fn></actor>
-       <as><gn>Scratchy</gn></as>
-       <as><preTitle>Mr.</preTitle><fn>Burns</fn></as>
-       <as><preTitle>Reverand</preTitle><fn>Lovejoy</fn></as>
-       <as><gn>Ned</gn><fn>Flanders</fn></as>
-       <as><gn>Lenny</gn></as>
-       <as><nick>Skull</nick></as>
-       <as><preTitle>President</preTitle><gn>Arnold</gn><fn>Schwarzenegger</fn></as>
-       <as><gn>Kent</gn><fn>Brockman</fn></as>
-       <as><preTitle>Principal</preTitle><fn>Skinner</fn></as>
-       <as><preTitle>Dr.</preTitle><fn>Hibbert</fn></as>
-       <as><fn>Smithers</fn></as>
-       <as><title>Toll Booth Man</title></as>
-       <as><title>Guard</title></as>
-       <as><gn>Otto</gn></as>
-       <as><gn>Kang</gn></as>
+       <character>
+        <name><gn>Scratchy</gn></name>
+       </character>
+       <character>
+        <name><prefix>Mr.</prefix><fn>Burns</fn></name>
+       </character>
+       <character>
+        <name><prefix>Reverand</prefix><fn>Lovejoy</fn></name>
+       </character>
+       <character>
+        <name><gn>Ned</gn><fn>Flanders</fn></name>
+       </character>
+       <character>
+        <name><gn>Lenny</gn></name>
+       </character>
+       <character>
+        <name><nick>Skull</nick></name>
+       </character>
+       <character>
+        <name><prefix>President</prefix><gn>Arnold</gn><fn>Schwarzenegger</fn></name>
+       </character>
+       <character>
+        <name><gn>Kent</gn><fn>Brockman</fn></name>
+       </character>
+       <character>
+        <name><prefix>Principal</prefix><fn>Skinner</fn></name>
+       </character>
+       <character>
+        <name><prefix>Dr.</prefix><fn>Hibbert</fn></name>
+       </character>
+       <character>
+        <name><fn>Smithers</fn></name>
+       </character>
+       <character>
+        <unnamed>Toll Booth Man</unnamed>
+       </character>
+       <character>
+        <unnamed>Guard</unnamed>
+       </character>
+       <character>
+        <name><gn>Otto</gn></name>
+       </character>
+       <character>
+        <name><gn>Kang</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Pamela</gn><fn>Hayden</fn></actor>
-       <as><gn>Milhouse</gn><fn>Van Houten</fn></as>
-       <as><gn>Rod</gn><fn>Flanders</fn></as>
-       <as><gn>Jimbo</gn></as>
+       <character>
+        <name><gn>Milhouse</gn><fn>Van Houten</fn></name>
+       </character>
+       <character>
+        <name><gn>Rod</gn><fn>Flanders</fn></name>
+       </character>
+       <character>
+        <name><gn>Jimbo</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tress</gn><fn>MacNeille</fn></actor>
-       <as><nick>Booberella</nick></as>
-       <as><title>Sweet Old Lady</title></as>
-       <as><gn>Colin</gn></as>
-       <as><gn>Agnes</gn><fn>Skinner</fn></as>
-       <as><title>Nelson's Mother</title></as>
-       <as><title>Pig</title></as>
-       <as><title>Crazy Cat Lady</title></as>
-       <as><title>Female EPA Worker</title></as>
-       <as><title>G.P.S. Woman</title></as>
-       <as><gn>Cookie</gn><fn>Kwan</fn></as>
-       <as><gn>Lindsey</gn><fn>Naegle</fn></as>
-       <as><title>TV Son</title></as>
-       <as><title>Medicine Woman</title></as>
-       <as><title>Girl On Phone</title></as>
+       <character>
+        <name><nick>Booberella</nick></name>
+       </character>
+       <character>
+        <unnamed>Sweet Old Lady</unnamed>
+       </character>
+       <character>
+        <name><gn>Colin</gn></name>
+       </character>
+       <character>
+        <name><gn>Agnes</gn><fn>Skinner</fn></name>
+       </character>
+       <character>
+        <unnamed>Nelson's Mother</unnamed>
+       </character>
+       <character>
+        <unnamed>Pig</unnamed>
+       </character>
+       <character>
+        <unnamed>Crazy Cat Lady</unnamed>
+       </character>
+       <character>
+        <unnamed>Female EPA Worker</unnamed>
+       </character>
+       <character>
+        <unnamed>G.P.S. Woman</unnamed>
+       </character>
+       <character>
+        <name><gn>Cookie</gn><fn>Kwan</fn></name>
+       </character>
+       <character>
+        <name><gn>Lindsey</gn><fn>Naegle</fn></name>
+       </character>
+       <character>
+        <unnamed>TV Son</unnamed>
+       </character>
+       <character>
+        <unnamed>Medicine Woman</unnamed>
+       </character>
+       <character>
+        <unnamed>Girl On Phone</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Albert</gn><fn>Brooks</fn></actor>
-       <as><gn>Russ</gn><fn>Cargill</fn></as>
+       <character>
+        <name><gn>Russ</gn><fn>Cargill</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Karl</gn><fn>Weidergott</fn></actor>
-       <as><title>Man</title></as>
-       <as><title>EPA Driver</title></as>
+       <character>
+        <unnamed>Man</unnamed>
+       </character>
+       <character>
+        <unnamed>EPA Driver</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Marcia</gn><fn>Wallace</fn></actor>
-       <as><preTitle>Mrs.</preTitle><fn>Krabappel</fn></as> <!-- scenes deleted -->
+       <character>
+        <name><prefix>Mrs.</prefix><fn>Krabappel</fn></name> <!-- scenes deleted -->
+       </character>
       </role>
       <role>
        <actor><gn>Russi</gn><fn>Taylor</fn></actor>
-       <as><gn>Martin</gn><fn>Prince</fn></as>
+       <character>
+        <name><gn>Martin</gn><fn>Prince</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Phil</gn><fn>Rosenthal</fn></actor>
-       <as><title>TV Dad</title></as>
+       <character>
+        <unnamed>TV Dad</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Bilie Joe</gn><fn>Armstrong</fn></actor>  <!-- green day -->
-       <as><self/></as>
+       <character>
+        <self/>
+       </character>
       </role>
       <role>
        <actor><gn>Tré</gn><fn>Cool</fn></actor>  <!-- green day -->
-       <as><self/></as>
+       <character>
+        <self/>
+       </character>
       </role>
       <role>
        <actor><gn>Mike</gn><fn>Dirnt</fn></actor> <!-- green day -->
-       <as><self/></as>
+       <character>
+        <self/>
+       </character>
       </role>
       <role>
        <actor><gn>Joe</gn><fn>Mantegna</fn></actor>
-       <as><nick>Fat</nick><gn>Tony</gn></as>
+       <character>
+        <name><nick>Fat</nick><gn>Tony</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tom</gn><fn>Hanks</fn></actor>
-       <as><self fictionalVariant='true'/></as>
+       <character>
+        <self/>
+       </character>
       </role>
       <role>
        <actor><gn>Phil</gn><fn>Collins</fn></actor>
-       <as><title>Singer</title></as>  <!-- uncredited -->
+       <character uncredited='true'>
+        <unnamed>Singer</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Kian</gn><fn>Gibbs</fn></actor>
-       <as><title>DJ</title></as>  <!-- uncredited -->
+       <character uncredited='true'>
+        <unnamed>DJ</unnamed>
+       </character>
       </role>
      </cast>
     </crew>

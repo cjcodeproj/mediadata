@@ -92,7 +92,7 @@
      </directors>
      <writers>
       <writer><gn>Jim</gn><fn>Cash</fn></writer>
-      <writer><gn>Jack</gn><fn>Epps</fn><postTitle>Jr.</postTitle></writer>
+      <writer><gn>Jack</gn><fn>Epps</fn><suffix>Jr.</suffix></writer>
       <writer uncredited='true'><gn>Warren</gn><fn>Skaaren</fn></writer>
       <sources>
        <source>
@@ -114,7 +114,7 @@
       <composer><gn>Harold</gn><fn>Faltermeyer</fn></composer>
      </music>
      <artDept>
-      <productionDesigner><gn>John</gn><fn>DeCuir</fn><postTitle>Jr.</postTitle></productionDesigner>
+      <productionDesigner><gn>John</gn><fn>DeCuir</fn><suffix>Jr.</suffix></productionDesigner>
       <artDirector><gn>Tom</gn><fn>Burzinski</fn></artDirector>
       <setDecorator><gn>Robert</gn><mn>R.</mn><fn>Benton</fn></setDecorator>
      </artDept>
@@ -124,59 +124,87 @@
      <cast>
       <role>
        <actor><gn>Tom</gn><fn>Cruise</fn></actor>
-       <as><preTitle>Lieutenant</preTitle><gn>Pete</gn><nick>Maverick</nick><fn>Mitchell</fn></as>
+       <character>
+        <name><prefix>Lieutenant</prefix><gn>Pete</gn><nick>Maverick</nick><fn>Mitchell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kelly</gn><fn>McGillis</fn></actor>
-       <as><gn>Charlotte</gn><nick>Charlie</nick><fn>Blackwood</fn></as>
+       <character>
+        <name><gn>Charlotte</gn><nick>Charlie</nick><fn>Blackwood</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Val</gn><fn>Kilmer</fn></actor>
-       <as><preTitle>Lieutenant</preTitle><gn>Tom</gn><nick>Iceman</nick><fn>Kazansky</fn></as>
+       <character>
+        <name><prefix>Lieutenant</prefix><gn>Tom</gn><nick>Iceman</nick><fn>Kazansky</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Anthony</gn><fn>Edwards</fn></actor>
-       <as><preTitle>Lieutenant (Junior Grade)</preTitle><gn>Nick</gn><nick>Goose</nick><fn>Bradshaw</fn></as>
+       <character>
+        <name><prefix>Lieutenant (Junior Grade)</prefix><gn>Nick</gn><nick>Goose</nick><fn>Bradshaw</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tom</gn><fn>Skerritt</fn></actor>
-       <as><preTitle>Commandeer</preTitle><gn>Mike</gn><nick>Viper</nick><fn>Metcalf</fn></as>
+       <character>
+        <name><prefix>Commandeer</prefix><gn>Mike</gn><nick>Viper</nick><fn>Metcalf</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>Ironside</fn></actor>
-       <as><preTitle>Lieutenant Commander</preTitle><gn>Rick</gn><nick>Jester</nick><fn>Heatherly</fn></as>
+       <character>
+        <name><prefix>Lieutenant Commander</prefix><gn>Rick</gn><nick>Jester</nick><fn>Heatherly</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Stockwell</fn></actor>
-       <as><preTitle>Lieutenant</preTitle><gn>Bill</gn><nick>Cougar</nick><fn>Cortell</fn></as>
+       <character>
+        <name><prefix>Lieutenant</prefix><gn>Bill</gn><nick>Cougar</nick><fn>Cortell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Barry</gn><fn>Tubb</fn></actor>
-       <as><preTitle>Lieutenant (Junior Grade)</preTitle><gn>Henry</gn><nick>Wolfman</nick><fn>Ruth</fn></as>
+       <character>
+        <name><prefix>Lieutenant (Junior Grade)</prefix><gn>Henry</gn><nick>Wolfman</nick><fn>Ruth</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rick</gn><fn>Rossovich</fn></actor>
-       <as><preTitle>Lieutenant (Junior Grade)</preTitle><gn>Ron</gn><nick>Slider</nick><fn>Kerner</fn></as>
+       <character>
+        <name><prefix>Lieutenant (Junior Grade)</prefix><gn>Ron</gn><nick>Slider</nick><fn>Kerner</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>Clarence</gn><fn>Gilyard</fn><postTitle>Jr.</postTitle></actor>
-       <as><preTitle>Lieutenant (Junior Grade)</preTitle><gn>Marcus</gn><nick>Sundown</nick><fn>Williams</fn></as>
+       <actor><gn>Clarence</gn><fn>Gilyard</fn><suffix>Jr.</suffix></actor>
+       <character>
+        <name><prefix>Lieutenant (Junior Grade)</prefix><gn>Marcus</gn><nick>Sundown</nick><fn>Williams</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Whip</gn><fn>Hubley</fn></actor>
-       <as><preTitle>Lieutenant</preTitle><gn>Rick</gn><nick>Hollywood</nick><fn>Neven</fn></as>
+       <character>
+        <name><prefix>Lieutenant</prefix><gn>Rick</gn><nick>Hollywood</nick><fn>Neven</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>James</gn><fn>Tolkan</fn></actor>
-       <as><preTitle>Commander</preTitle><gn>Tom</gn><nick>Stinger</nick><fn>Jardian</fn></as>
+       <character>
+        <name><prefix>Commander</prefix><gn>Tom</gn><nick>Stinger</nick><fn>Jardian</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Meg</gn><fn>Ryan</fn></actor>
-       <as><gn>Carole</gn><fn>Bradshaw</fn></as>
+       <character>
+        <name><gn>Carole</gn><fn>Bradshaw</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Adrian</gn><fn>Pasdar</fn></actor>
-       <as><preTitle>Lieutenant</preTitle><gn>Charles</gn><nick>Chipper</nick><fn>Piper</fn></as>
+       <character>
+        <name><prefix>Lieutenant</prefix><gn>Charles</gn><nick>Chipper</nick><fn>Piper</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

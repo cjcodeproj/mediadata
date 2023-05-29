@@ -72,7 +72,7 @@
       <writer><gn>Bruce</gn><fn>Robinson</fn></writer>
      </writers>
      <editors>
-      <editor><gn>Conrad</gn><fn>Buff</fn><postTitle>IV</postTitle></editor>
+      <editor><gn>Conrad</gn><fn>Buff</fn><suffix>IV</suffix></editor>
      </editors>
      <cinemaphotographers>
       <cinemaphotographer><gn>Conrad</gn><mn>L.</mn><fn>Hall</fn></cinemaphotographer>
@@ -80,43 +80,63 @@
      <cast>
       <role>
        <actor><gn>Andy</gn><fn>Garcia</fn></actor>
-       <as><gn>John</gn><fn>Berlin</fn></as>
+       <character>
+        <name><gn>John</gn><fn>Berlin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lance</gn><fn>Henriksen</fn></actor>
-       <as><gn>Freddy</gn><fn>Ross</fn></as>
+       <character>
+        <name><gn>Freddy</gn><fn>Ross</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Uma</gn><fn>Thurman</fn></actor>
-       <as><gn>Helena</gn></as>
+       <character>
+        <name><gn>Helena</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Graham</gn><fn>Beckel</fn></actor>
-       <as><gn>John</gn><fn>Taylor</fn></as>
+       <character>
+        <name><gn>John</gn><fn>Taylor</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kathy</gn><fn>Baker</fn></actor>
-       <as><gn>Margie</gn><fn>Ross</fn></as>
+       <character>
+        <name><gn>Margie</gn><fn>Ross</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kevin</gn><fn>Conway</fn></actor>
-       <as><fn>Citrine</fn></as>
+       <character>
+        <name><fn>Citrine</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Malkovich</fn></actor>
-       <as><fn>St. Anne</fn></as>
+       <character>
+        <name><fn>St. Anne</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Perry</gn><fn>Lang</fn></actor>
-       <as><fn>Travis</fn></as>
+       <character>
+        <name><fn>Travis</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Nicholas</gn><fn>Love</fn></actor>
-       <as><fn>Bisley</fn></as>
+       <character>
+        <name><fn>Bisley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michael</gn><fn>O'Neill</fn></actor>
-       <as><fn>Serato</fn></as>
+       <character>
+        <name><fn>Serato</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

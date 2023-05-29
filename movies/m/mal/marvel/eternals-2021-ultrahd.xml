@@ -117,51 +117,75 @@
      <cast>
       <role>
        <actor><gn>Gemma</gn><fn>Chan</fn></actor>
-       <as><gn>Sersi</gn></as>
+       <character>
+        <name><gn>Sersi</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Madden</fn></actor>
-       <as><gn>Ikaris</gn></as>
+       <character>
+        <name><gn>Ikaris</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Angelina</gn><fn>Jolie</fn></actor>
-       <as><gn>Thena</gn></as>
+       <character>
+        <name><gn>Thena</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Selma</gn><fn>Hayek</fn></actor>
-       <as><gn>Ajak</gn></as>
+       <character>
+        <name><gn>Ajak</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kit</gn><fn>Harrington</fn></actor>
-       <as><gn>Dane</gn><fn>Whitman</fn></as>
+       <character>
+        <name><gn>Dane</gn><fn>Whitman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kumail</gn><fn>Nanjiani</fn></actor>
-       <as><gn>Kingo</gn></as>
+       <character>
+        <name><gn>Kingo</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lia</gn><fn>McHugh</fn></actor>
-       <as><gn>Sprite</gn></as>
+       <character>
+        <name><gn>Sprite</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Brian</gn><mn>Tyree</mn><fn>Henry</fn></actor>
-       <as><gn>Phastos</gn></as>
+       <character>
+        <name><gn>Phastos</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lauren</gn><fn>Ridloff</fn></actor>
-       <as><gn>Makkari</gn></as>
+       <character>
+        <name><gn>Makkari</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Barry</gn><fn>Keoghan</fn></actor>
-       <as><gn>Druig</gn></as>
+       <character>
+        <name><gn>Druig</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ma</gn><fn>Dong-seok</fn></actor>
-       <as><gn>Gilgamesh</gn></as>
+       <character>
+        <name><gn>Gilgamesh</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Harish</gn><fn>Patel</fn></actor>
-       <as><gn>Karun</gn></as>
+       <character>
+        <name><gn>Karun</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

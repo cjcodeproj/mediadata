@@ -95,39 +95,57 @@
      <cast>
       <role>
        <actor><gn>Helen</gn><fn>Slater</fn></actor>
-       <as><gn>Billie Jean</gn></as>
+       <character>
+        <name><gn>Billie Jean</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Christian</gn><fn>Slater</fn></actor>
-       <as><gn>Binx</gn></as>
+       <character>
+        <name><gn>Binx</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Keith</gn><fn>Gordon</fn></actor>
-       <as><gn>Lloyd</gn></as>
+       <character>
+        <name><gn>Lloyd</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Bradford</fn></actor>
-       <as><fn>Pyatt</fn></as>
+       <character>
+        <name><fn>Pyatt</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Peter</gn><fn>Coyote</fn></actor>
-       <as><fn>Ringwald</fn></as>
+       <character>
+        <name><fn>Ringwald</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Martha</gn><fn>Gehman</fn></actor>
-       <as><gn>Ophelia</gn></as>
+       <character>
+        <name><gn>Ophelia</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Yeardley</gn><fn>Smith</fn></actor>
-       <as><gn>Putter</gn></as>
+       <character>
+        <name><gn>Putter</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dean</gn><fn>Stockwell</fn></actor>
-       <as><fn>Muldaur</fn></as>
+       <character>
+        <name><fn>Muldaur</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Barry</gn><fn>Tubb</fn></actor>
-       <as><gn>Hubie</gn><fn>Pyatt</fn></as>
+       <character>
+        <name><gn>Hubie</gn><fn>Pyatt</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

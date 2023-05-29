@@ -121,15 +121,21 @@
      <cast>
       <role>
        <actor><gn>Lady</gn><fn>Gaga</fn></actor>
-       <as><gn>Ally</gn></as>
+       <character>
+        <name><gn>Ally</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bradley</gn><fn>Cooper</fn></actor>
-       <as><gn>Jack</gn></as>
+       <character>
+        <name><gn>Jack</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sam</gn><fn>Elliot</fn></actor>
-       <as><gn>Bobby</gn></as>
+       <character>
+        <name><gn>Bobby</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

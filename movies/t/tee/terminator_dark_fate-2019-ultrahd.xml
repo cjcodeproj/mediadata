@@ -104,25 +104,35 @@
      <cast>
       <role>
        <actor><gn>Linda</gn><fn>Hamilton</fn></actor>
-       <as><gn>Sarah</gn><fn>Connor</fn></as>
+       <character>
+        <name><gn>Sarah</gn><fn>Connor</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Arnold</gn><fn>Schwarzenegger</fn></actor>
-       <as><gn>T-800</gn></as>
-       <as><gn>Carl</gn></as>
+       <character>
+        <name><pcn>T-800</pcn></name>
+        <alias><gn>Carl</gn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Mackenzie</gn><fn>Davis</fn></actor>
-       <as><gn>Grace</gn></as>
+       <character>
+        <name><gn>Grace</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Natalia</gn><fn>Reyes</fn></actor>
-       <as><gn>Dani</gn><fn>Ramos</fn></as>
+       <character>
+        <name><gn>Dani</gn><fn>Ramos</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Gabriel</gn><fn>Luna</fn></actor>
-       <as><gn>Gabriel</gn></as>
-       <as><gn>REV-9</gn></as>
+       <character>
+        <name><gn>Gabriel</gn></name>
+        <alias><pcn>REV-9</pcn></alias>
+       </character>
       </role>
      </cast>
     </crew>

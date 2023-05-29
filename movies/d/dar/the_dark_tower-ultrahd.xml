@@ -105,15 +105,21 @@
      <cast>
       <role>
        <actor><gn>Matthew</gn><fn>McConaughey</fn></actor>
-       <as><gn>Walter</gn></as>
+       <character>
+        <name><gn>Walter</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Idris</gn><fn>Elda</fn></actor>
-       <as><gn>Roland</gn></as>
+       <character>
+        <name><gn>Roland</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tom</gn><fn>Taylor</fn></actor>
-       <as><gn>Jake</gn></as>
+       <character>
+        <name><gn>Jake</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

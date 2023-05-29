@@ -93,23 +93,33 @@
      <cast>
       <role>
        <actor><gn>Tom</gn><fn>Atkins</fn></actor>
-       <as><gn>Frank</gn><fn>McCrae</fn></as>
+       <character>
+        <name><gn>Frank</gn><fn>McCrae</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bruce</gn><fn>Campbell</fn></actor>
-       <as><gn>Jack</gn><fn>Forrest</fn></as>
+       <character>
+        <name><gn>Jack</gn><fn>Forrest</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Laurene</gn><fn>Landon</fn></actor>
-       <as><gn>Theresa</gn><fn>Mallory</fn></as>
+       <character>
+        <name><gn>Theresa</gn><fn>Mallory</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Z'Dar</fn></actor>
-       <as><gn>Matt</gn><fn>Cordell</fn></as>
+       <character>
+        <name><gn>Matt</gn><fn>Cordell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rocky</gn><fn>Giordani</fn></actor>
-       <as><fn>Fowler</fn></as>
+       <character>
+        <name><fn>Fowler</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

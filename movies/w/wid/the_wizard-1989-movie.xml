@@ -93,40 +93,58 @@
      <cast>
       <role>
        <actor><gn>Fred</gn><fn>Savage</fn></actor>
-       <as><gn>Corey</gn><fn>Woods</fn></as>
+       <character>
+        <name><gn>Corey</gn><fn>Woods</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Luke</gn><fn>Edwards</fn></actor>
-       <as><gn>Jimmy</gn><fn>Woods</fn></as>
-       <as><gn>The Wizard</gn></as>
+       <character>
+        <name><gn>Jimmy</gn><fn>Woods</fn></name>
+        <alias><nick>The Wizard</nick></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Jenny</gn><fn>Lewis</fn></actor>
-       <as><gn>Haley</gn></as>
+       <character>
+        <name><gn>Haley</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Christian</gn><fn>Slater</fn></actor>
-       <as><gn>Nick</gn><fn>Woods</fn></as>
+       <character>
+        <name><gn>Nick</gn><fn>Woods</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Beau</gn><fn>Bridges</fn></actor>
-       <as><gn>Sam</gn><fn>Woods</fn></as>
+       <character>
+        <name><gn>Sam</gn><fn>Woods</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Will</gn><fn>Seltzer</fn></actor>
-       <as><fn>Putnam</fn></as>
+       <character>
+        <name><fn>Putnam</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Wendy</gn><fn>Phillips</fn></actor>
-       <as><gn>Christine</gn><fn>Bateman</fn></as>
+       <character>
+        <name><gn>Christine</gn><fn>Bateman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sam</gn><fn>McMurray</fn></actor>
-       <as><fn>Bateman</fn></as>
+       <character>
+        <name><fn>Bateman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Beth</gn><fn>Grant</fn></actor>
-       <as><title>Diner Manager</title></as>
+       <character>
+        <unnamed>Diner Manager</unnamed>
+       </character>
       </role>
      </cast>
     </crew>

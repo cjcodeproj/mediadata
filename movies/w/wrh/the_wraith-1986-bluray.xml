@@ -102,28 +102,40 @@
      <cast>
       <role>
        <actor><gn>Charlie</gn><fn>Sheen</fn></actor>
-       <as><gn>Jake</gn><fn>Kasey</fn></as>
-       <as><title>The Wraith</title></as>
+       <character>
+        <name><gn>Jake</gn><fn>Kasey</fn></name>
+        <alias><pcn>The Wraith</pcn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Nick</gn><fn>Cassavetes</fn></actor>
-       <as><gn>Packard</gn><fn>Walsh</fn></as>
+       <character>
+        <name><gn>Packard</gn><fn>Walsh</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Randy</gn><fn>Quaid</fn></actor>
-       <as><preTitle>Sheriff</preTitle><fn>Loomis</fn></as>
+       <character>
+        <name><prefix>Sheriff</prefix><fn>Loomis</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Matthew</gn><fn>Barry</fn></actor>
-       <as><gn>Billy</gn><fn>Hankins</fn></as>
+       <character>
+        <name><gn>Billy</gn><fn>Hankins</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sherilyn</gn><fn>Fenn</fn></actor>
-       <as><gn>Keri</gn><fn>Johnson</fn></as>
+       <character>
+        <name><gn>Keri</gn><fn>Johnson</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Clint</gn><fn>Howard</fn></actor>
-       <as><nick>Rughead</nick></as>
+       <character>
+        <name><nick>Rughead</nick></name>
+       </character>
       </role>
      </cast>
     </crew>

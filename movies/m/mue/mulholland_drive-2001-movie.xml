@@ -77,45 +77,67 @@
      <cast>
       <role>
        <actor><gn>Naomi</gn><fn>Watts</fn></actor>
-       <as><gn>Betty</gn></as>
-       <as><gn>Diane</gn><fn>Selwyn</fn></as>
+       <character>
+        <name><gn>Betty</gn></name>
+        <alias><gn>Diane</gn><fn>Selwyn</fn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Laura</gn><fn>Harring</fn></actor>
-       <as><gn>Rita</gn></as>
-       <as><gn>Camilla</gn><fn>Rhodes</fn></as>
+       <character>
+        <name><gn>Rita</gn></name>
+       </character>
+       <character>
+        <name><gn>Camilla</gn><fn>Rhodes</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Justin</gn><fn>Theroux</fn></actor>
-       <as><gn>Adam</gn></as>
+       <character>
+        <name><gn>Adam</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeanne</gn><fn>Bates</fn></actor>
-       <as><gn>Irene</gn></as>
+       <character>
+        <name><gn>Irene</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Forster</fn></actor>
-       <as><preTitle>Detective</preTitle><fn>McKnight</fn></as>
+       <character>
+        <name><prefix>Detective</prefix><fn>McKnight</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Brent</gn><fn>Briscoe</fn></actor>
-       <as><preTitle>Detective</preTitle><fn>Domgaard</fn></as>
+       <character>
+        <name><prefix>Detective</prefix><fn>Domgaard</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ann</gn><fn>Miller</fn></actor>
-       <as><gn>Coco</gn></as>
+       <character>
+        <name><gn>Coco</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mark</gn><fn>Pellegrino</fn></actor>
-       <as><gn>Joe</gn></as>
+       <character>
+        <name><gn>Joe</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Billy</gn><mn>Ray</mn><fn>Cyrus</fn></actor>
-       <as><gn>Gene</gn></as>
+       <character>
+        <name><gn>Gene</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Monty</gn><fn>Montgomery</fn></actor>
-       <as><title>Cowboy</title></as>
+       <character>
+        <unnamed>Cowboy</unnamed>
+       </character>
       </role>
      </cast>
     </crew>

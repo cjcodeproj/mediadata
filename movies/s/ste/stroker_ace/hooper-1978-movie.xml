@@ -60,35 +60,51 @@
      <cast>
       <role>
        <actor><gn>Burt</gn><fn>Reynolds</fn></actor>
-       <as><gn>Sonny</gn><fn>Hooper</fn></as>
+       <character>
+        <name><gn>Sonny</gn><fn>Hooper</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jan-Michael</gn><fn>Vincent</fn></actor>
-       <as><gn>Delmore</gn><nick>Ski</nick><fn>Shidski</fn></as>
+       <character>
+        <name><gn>Delmore</gn><nick>Ski</nick><fn>Shidski</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sally</gn><fn>Field</fn></actor>
-       <as><gn>Gwen</gn><fn>Doyle</fn></as>
+       <character>
+        <name><gn>Gwen</gn><fn>Doyle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Brian</gn><fn>Keith</fn></actor>
-       <as><gn>Jocko</gn><fn>Doyle</fn></as>
+       <character>
+        <name><gn>Jocko</gn><fn>Doyle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Marley</fn></actor>
-       <as><gn>Max</gn><fn>Berns</fn></as>
+       <character>
+        <name><gn>Max</gn><fn>Berns</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Robert</gn><fn>Klein</fn></actor>
-       <as><gn>Roger</gn><fn>Deal</fn></as>
+       <character>
+        <name><gn>Roger</gn><fn>Deal</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>James</gn><fn>Best</fn></actor>
-       <as><fn>Cully</fn></as>
+       <character>
+        <name><fn>Cully</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Adam</gn><fn>West</fn></actor>
-       <as><gn>Adam</gn></as>
+       <character>
+        <name><gn>Adam</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

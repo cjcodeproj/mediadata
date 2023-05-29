@@ -94,11 +94,15 @@
      <cast>
       <role>
        <actor><gn>Rutger</gn><fn>Hauer</fn></actor>
-       <as><gn>Harley</gn><fn>Stone</fn></as>
+       <character>
+        <name><gn>Harley</gn><fn>Stone</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kim</gn><fn>Cattrall</fn></actor>
-       <as><gn>Michelle</gn><fn>McLaine</fn></as>
+       <character>
+        <name><gn>Michelle</gn><fn>McLaine</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

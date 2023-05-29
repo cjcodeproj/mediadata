@@ -95,27 +95,39 @@
      <cast>
       <role>
        <actor><gn>Benedict</gn><fn>Cumberbatch</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Stephen</gn><fn>Strange</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Stephen</gn><fn>Strange</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Chiwetel</gn><fn>Ejiofor</fn></actor>
-       <as><gn>Mordo</gn></as>
+       <character>
+        <name><gn>Mordo</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rachel</gn><fn>McAdams</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Christine</gn><fn>Palmer</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Christine</gn><fn>Palmer</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Benedict</gn><fn>Wong</fn></actor>
-       <as><gn>Wong</gn></as>
+       <character>
+        <name><gn>Wong</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mads</gn><fn>Mikkelsen</fn></actor>
-       <as><gn>Kaecilius</gn></as>
+       <character>
+        <name><gn>Kaecilius</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tilda</gn><fn>Swinton</fn></actor>
-       <as><title>The Ancient One</title></as>
+       <character>
+        <name><pcn>The Ancient One</pcn></name>
+       </character>
       </role>
      </cast>
     </crew>

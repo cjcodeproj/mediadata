@@ -107,24 +107,32 @@
       <editor><gn>Al</gn><fn>Clark</fn></editor>
      </editors>
      <cinemaphotographers>
-      <cinemaphotographer><gn>Charles</gn><fn>Lawton</fn><postTitle>Jr</postTitle></cinemaphotographer>
+      <cinemaphotographer><gn>Charles</gn><fn>Lawton</fn><suffix>Jr</suffix></cinemaphotographer>
      </cinemaphotographers>
      <cast>
       <role>
        <actor><gn>Glenn</gn><fn>Ford</fn></actor>
-       <as><gn>Ben</gn><fn>Wade</fn></as>
+       <character>
+        <name><gn>Ben</gn><fn>Wade</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Van</gn><fn>Helfin</fn></actor>
-       <as><gn>Dan</gn><fn>Evans</fn></as>
+       <character>
+        <name><gn>Dan</gn><fn>Evans</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Felicia</gn><fn>Farr</fn></actor>
-       <as><gn>Emmy</gn></as>
+       <character>
+        <name><gn>Emmy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Leora</gn><fn>Dana</fn></actor>
-       <as><preTitle>Mrs</preTitle><gn>Alice</gn><fn>Evans</fn></as>
+       <character>
+        <name><prefix>Mrs</prefix><gn>Alice</gn><fn>Evans</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

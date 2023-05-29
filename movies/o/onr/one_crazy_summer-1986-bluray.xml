@@ -105,51 +105,75 @@
      <cast>
       <role>
        <actor><gn>John</gn><fn>Cusack</fn></actor>
-       <as><gn>Hoops</gn><fn>McCann</fn></as>
+       <character>
+        <name><gn>Hoops</gn><fn>McCann</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Demi</gn><fn>Moore</fn></actor>
-       <as><gn>Casssandra</gn><fn>Eldridge</fn></as>
+       <character>
+        <name><gn>Casssandra</gn><fn>Eldridge</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Joel</gn><fn>Murray</fn></actor>
-       <as><gn>George</gn><fn>Calamari</fn></as>
+       <character>
+        <name><gn>George</gn><fn>Calamari</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bobcat</gn><fn>Goldthwait</fn></actor>
-       <as><gn>Egg</gn><fn>Storn</fn></as>
+       <character>
+        <name><gn>Egg</gn><fn>Storn</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tom</gn><fn>Villard</fn></actor>
-       <as><gn>Clay</gn><fn>Stork</fn></as>
+       <character>
+        <name><gn>Clay</gn><fn>Stork</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kristen</gn><fn>Goelz</fn></actor>
-       <as><gn>Squid</gn><fn>Calamari</fn></as>
+       <character>
+        <name><gn>Squid</gn><fn>Calamari</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Curtis</gn><fn>Armstrong</fn></actor>
-       <as><gn>Ack Ack</gn><fn>Raymond</fn></as>
+       <character>
+        <name><gn>Ack Ack</gn><fn>Raymond</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Matuszak</fn></actor>
-       <as><gn>Stain</gn></as>
+       <character>
+        <name><gn>Stain</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Matt</gn><fn>Mulhern</fn></actor>
-       <as><gn>Teddy</gn><fn>Beckersted</fn></as>
+       <character>
+        <name><gn>Teddy</gn><fn>Beckersted</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Kimberly</gn><fn>Foster</fn></actor>
-       <as><gn>Cookie</gn><fn>Cambell</fn></as>
+       <character>
+        <name><gn>Cookie</gn><fn>Cambell</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeremy</gn><fn>Piven</fn></actor>
-       <as><gn>Ty</gn></as>
+       <character>
+        <name><gn>Ty</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Joe</gn><fn>Flaherty</fn></actor>
-       <as><preTitle>General</preTitle><fn>Raymond</fn></as>
+       <character>
+        <name><prefix>General</prefix><fn>Raymond</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

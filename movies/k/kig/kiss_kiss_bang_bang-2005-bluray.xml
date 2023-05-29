@@ -132,25 +132,34 @@
      </cinemaphotographers>
      <cast>
       <role>
-       <actor><gn>Robert</gn><fn>Downey</fn><postTitle>Jr</postTitle></actor>
-       <as><gn>Harry</gn><fn>Lockhart</fn></as>
-       <as><narrator/></as>
+       <actor><gn>Robert</gn><fn>Downey</fn><suffix>Jr</suffix></actor>
+       <character>
+        <name><gn>Harry</gn><fn>Lockhart</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Val</gn><fn>Kilmer</fn></actor>
-       <as><gn>Gay</gn><fn>Perry</fn></as>
+       <character>
+        <name><gn>Gay</gn><fn>Perry</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Michelle</gn><fn>Monaghan</fn></actor>
-       <as><gn>Harmony</gn><mn>Faith</mn><fn>Lane</fn></as>
+       <character>
+        <name><gn>Harmony</gn><mn>Faith</mn><fn>Lane</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Corbin</gn><fn>Bernsen</fn></actor>
-       <as><gn>Harlan</gn><fn>Dexter</fn></as>
+       <character>
+        <name><gn>Harlan</gn><fn>Dexter</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Larry</gn><fn>Miller</fn></actor>
-       <as><gn>Dabney</gn><fn>Shaw</fn></as>
+       <character>
+        <name><gn>Dabney</gn><fn>Shaw</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

@@ -73,19 +73,27 @@
      <cast>
       <role>
        <actor><gn>Robert</gn><fn>Blake</fn></actor>
-       <as><gn>John</gn><fn>Wintergreen</fn></as>
+       <character>
+        <name><gn>John</gn><fn>Wintergreen</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Billy</gn><fn>Green Bush</fn></actor>
-       <as><nick>Zipper</nick></as>
+       <character>
+        <name><nick>Zipper</nick></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mitchell</gn><fn>Ryanb</fn></actor>
-       <as><gn>Harve</gn><fn>Poole</fn></as>
+       <character>
+        <name><gn>Harve</gn><fn>Poole</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeannine</gn><fn>Riley</fn></actor>
-       <as><gn>Jolene</gn></as>
+       <character>
+        <name><gn>Jolene</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

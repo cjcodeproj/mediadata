@@ -100,47 +100,69 @@
      <cast>
       <role>
        <actor><gn>Sam</gn><fn>Neill</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Alan</gn><fn>Grant</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Alan</gn><fn>Grant</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Laura</gn><fn>Dern</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Ellie</gn><fn>Sattler</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Ellie</gn><fn>Sattler</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeff</gn><fn>Goldblum</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Ian</gn><fn>Malcom</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Ian</gn><fn>Malcom</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Attenborough</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>John</gn><fn>Hammond</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>John</gn><fn>Hammond</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bob</gn><fn>Peck</fn></actor>
-       <as><gn>Robert</gn><fn>Muldoon</fn></as>
+       <character>
+        <name><gn>Robert</gn><fn>Muldoon</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Martin</gn><fn>Ferrero</fn></actor>
-       <as><gn>Donald</gn><fn>Gennaro</fn></as>
+       <character>
+        <name><gn>Donald</gn><fn>Gennaro</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>BD</gn><fn>Wong</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Henry</gn><fn>Wu</fn></as>
+       <actor><pgn>BD</pgn><fn>Wong</fn></actor>
+       <character>
+        <name><prefix>Dr</prefix><gn>Henry</gn><fn>Wu</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Joseph</gn><fn>Mazzello</fn></actor>
-       <as><gn>Tim</gn><fn>Murphy</fn></as>
+       <character>
+        <name><gn>Tim</gn><fn>Murphy</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ariana</gn><fn>Richards</fn></actor>
-       <as><gn>Lex</gn><fn>Murphy</fn></as>
+       <character>
+        <name><gn>Lex</gn><fn>Murphy</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Samuel</gn><mn>L</mn><fn>Jackson</fn></actor>
-       <as><gn>Ray</gn><fn>Arnold</fn></as>
+       <character>
+        <name><gn>Ray</gn><fn>Arnold</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Wayne</gn><fn>Knight</fn></actor>
-       <as><gn>Dennis</gn><fn>Nedry</fn></as>
+       <character>
+        <name><gn>Dennis</gn><fn>Nedry</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

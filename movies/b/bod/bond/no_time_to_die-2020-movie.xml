@@ -88,55 +88,81 @@
      <cast>
       <role>
        <actor><gn>Daniel</gn><fn>Craig</fn></actor>
-       <as><gn>James</gn><fn>Bond</fn></as>
+       <character>
+        <name><gn>James</gn><fn>Bond</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Léa</gn><fn>Seydoux</fn></actor>
-       <as><gn>Madeleine</gn></as>
+       <character>
+        <name><gn>Madeleine</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rami</gn><fn>Malek</fn></actor>
-       <as><gn>Lyutsifer</gn><fn>Safin</fn></as>
+       <character>
+        <name><gn>Lyutsifer</gn><fn>Safin</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lashana</gn><fn>Lynch</fn></actor>
-       <as><gn>Nomi</gn></as>
+       <character>
+        <name><gn>Nomi</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ralph</gn><fn>Fiennes</fn></actor>
-       <as><nick>M</nick></as>
+       <character>
+        <name><pcn>M</pcn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ben</gn><fn>Whishaw</fn></actor>
-       <as><nick>Q</nick></as>
+       <character>
+        <name><pcn>Q</pcn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Rory</gn><fn>Kinnear</fn></actor>
-       <as><fn>Tanner</fn></as>
+       <character>
+        <name><fn>Tanner</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jeffrey</gn><fn>Wright</fn></actor>
-       <as><gn>Felix</gn><fn>Leiter</fn></as>
+       <character>
+        <name><gn>Felix</gn><fn>Leiter</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Billy</gn><fn>Magnussen</fn></actor>
-       <as><gn>Logan</gn><fn>Ash</fn></as>
+       <character>
+        <name><gn>Logan</gn><fn>Ash</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Christoph</gn><fn>Waltz</fn></actor>
-       <as><fn>Blofeld</fn></as>
+       <character>
+        <name><fn>Blofeld</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>David</gn><fn>Dencik</fn></actor>
-       <as><gn>Valdo</gn><fn>Obruchev</fn></as>
+       <character>
+        <name><gn>Valdo</gn><fn>Obruchev</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ana</gn><fn>de Armas</fn></actor>
-       <as><gn>Paloma</gn></as>
+       <character>
+        <name><gn>Paloma</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dali</gn><fn>Benssalah</fn></actor>
-       <as><gn>Primo</gn><nick>Cyclops</nick></as>
+       <character>
+        <name><gn>Primo</gn><nick>Cyclops</nick></name>
+       </character>
       </role>
      </cast>
     </crew>

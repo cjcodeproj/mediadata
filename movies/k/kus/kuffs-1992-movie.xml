@@ -70,56 +70,81 @@
      <cast>
       <role>
        <actor><gn>Christian</gn><fn>Slater</fn></actor>
-       <as><gn>George</gn><fn>Kuffs</fn></as>
-       <as><narrator/></as>
+       <character>
+        <name><gn>George</gn><fn>Kuffs</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Milla</gn><fn>Jovovich</fn></actor>
-       <as><gn>Maya</gn><fn>Carlton</fn></as>
+       <character>
+        <name><gn>Maya</gn><fn>Carlton</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bruce</gn><fn>Boxleitner</fn></actor>
-       <as><gn>Brad</gn><fn>Kuffs</fn></as>
+       <character>
+        <name><gn>Brad</gn><fn>Kuffs</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Leon</gn><fn>Rippy</fn></actor>
-       <as><fn>Kane</fn></as>
+       <character>
+        <name><fn>Kane</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Tony</gn><fn>Goldwyn</fn></actor>
-       <as><gn>Ted</gn><fn>Bukovsky</fn></as>
+       <character>
+        <name><gn>Ted</gn><fn>Bukovsky</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Joshua</gn><fn>Cadman</fn></actor>
-       <as><gn>Bill</gn><fn>Donnelly</fn></as>
+       <character>
+        <name><gn>Bill</gn><fn>Donnelly</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Mary</gn><mn>Ellen</mn><fn>Trainor</fn></actor>
-       <as><gn>Nikki</gn><fn>Allyn</fn></as>
+       <character>
+        <name><gn>Nikki</gn><fn>Allyn</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Don</gn><mn>S.</mn><fn>Davis</fn></actor>
-       <as><title>Police Gun Instructor</title></as>
+       <character>
+        <unnamed>Police Gun Instructor</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Craig</gn><fn>Benton</fn></actor>
-       <as><title>Paint Store Owner</title></as>
+       <character>
+        <unnamed>Paint Store Owner</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Ashley</gn><fn>Judd</fn></actor>
-       <as><gn>Wife of Paint Store Owner</gn></as>
+       <character>
+        <unnamed>Wife of Paint Store Owner</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Ric</gn><mn>Roman</mn><fn>Waugh</fn></actor>
-       <as><title>Hood</title></as>
+       <character>
+        <unnamed>Hood</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Steve</gn><fn>Holladay</fn></actor>
-       <as><title>Hood</title></as>
+       <character>
+        <unnamed>Hood</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Chad</gn><fn>Randall</fn></actor>
-       <as><title>Hood</title></as>
+       <character>
+        <unnamed>Hood</unnamed>
+       </character>
       </role>
      </cast>
     </crew>

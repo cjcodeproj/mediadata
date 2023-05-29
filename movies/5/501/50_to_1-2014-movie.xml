@@ -83,43 +83,63 @@
      <cast>
       <role>
        <actor><gn>Skeet</gn><fn>Ulrich</fn></actor>
-       <as><gn>Chip</gn><fn>Woolley</fn></as>
+       <character>
+        <name><gn>Chip</gn><fn>Woolley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Christian</gn><fn>Kane</fn></actor>
-       <as><gn>Mark</gn><fn>Allen</fn></as>
+       <character>
+        <name><gn>Mark</gn><fn>Allen</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>William</gn><fn>Devane</fn></actor>
-       <as><gn>Leonard</gn><nick>Doc</nick><fn>Blach</fn></as>
+       <character>
+        <name><gn>Leonard</gn><nick>Doc</nick><fn>Blach</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Madelyn</gn><fn>Deutch</fn></actor>
-       <as><gn>Alex</gn></as>
+       <character>
+        <name><gn>Alex</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Todd</gn><fn>Lowe</fn></actor>
-       <as><gn>Kelly</gn></as>
+       <character>
+        <name><gn>Kelly</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>David</gn><fn>Atkinson</fn></actor>
-       <as><gn>Bill</gn><fn>Woolley</fn></as>
+       <character>
+        <name><gn>Bill</gn><fn>Woolley</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Calvin</gn><fn>Borel</fn></actor>
-       <as><self/></as>
+       <character>
+        <self/>
+       </character>
       </role>
       <role>
        <actor><gn>Bruce</gn><mn>Wayne</mn><fn>Eckelman</fn></actor>
-       <as><gn>Bob</gn><fn>Baffert</fn></as>
+       <character>
+        <name><gn>Bob</gn><fn>Baffert</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Hugo</gn><fn>Perez</fn></actor>
-       <as><gn>Miguel</gn></as>
+       <character>
+        <name><gn>Miguel</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Eloy</gn><fn>Casados</fn></actor>
-       <as><gn>Charlie</gn><fn>Figueroa</fn></as>
+       <character>
+        <name><gn>Charlie</gn><fn>Figueroa</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

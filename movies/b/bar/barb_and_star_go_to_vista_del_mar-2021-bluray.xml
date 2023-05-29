@@ -98,24 +98,36 @@
      <cast>
       <role>
        <actor><gn>Kristen</gn><fn>Wiig</fn></actor>
-       <as><gn>Star</gn></as>
-       <as><gn>Sharon</gn><fn>Gordon Fisherman</fn></as>
+       <character>
+        <name><gn>Star</gn></name>
+       </character>
+       <character>
+        <name><gn>Sharon</gn><fn>Gordon Fisherman</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Annie</gn><fn>Mumolo</fn></actor>
-       <as><gn>Barb</gn></as>
+       <character>
+        <name><gn>Barb</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jamie</gn><fn>Doran</fn></actor>
-       <as><gn>Edgar</gn><fn>Pagét</fn></as>
+       <character>
+        <name><gn>Edgar</gn><fn>Pagét</fn></name>
+       </character>
       </role>
       <role>
-       <actor><gn>Damon</gn><fn>Waynes</fn><postTitle>Jr</postTitle></actor>
-       <as><gn>Darlie</gn><fn>Bunkle</fn></as>
+       <actor><gn>Damon</gn><fn>Waynes</fn><suffix>Jr</suffix></actor>
+       <character>
+        <name><gn>Darlie</gn><fn>Bunkle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Reyn</gn><fn>Doi</fn></actor>
-       <as><gn>Yoyo</gn></as>
+       <character>
+        <name><gn>Yoyo</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

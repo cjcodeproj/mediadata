@@ -108,44 +108,64 @@
      <cast>
       <role>
        <actor><gn>Dustin</gn><fn>Hoffman</fn></actor>
-       <as><gn>Michael</gn><fn>Dorsey</fn></as>
-       <as><gn>Dorothy</gn><fn>Michaels</fn></as>
+       <character>
+        <name><gn>Michael</gn><fn>Dorsey</fn></name>
+        <alias><gn>Dorothy</gn><fn>Michaels</fn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Jessica</gn><fn>Lange</fn></actor>
-       <as><gn>Julie</gn></as>
+       <character>
+        <name><gn>Julie</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Teri</gn><fn>Garr</fn></actor>
-       <as><gn>Sandy</gn></as>
+       <character>
+        <name><gn>Sandy</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Dabney</gn><fn>Coleman</fn></actor>
-       <as><gn>Ron</gn></as>
+       <character>
+        <name><gn>Ron</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Charles</gn><fn>Durning</fn></actor>
-       <as><gn>Les</gn></as>
+       <character>
+        <name><gn>Les</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Bill</gn><fn>Murray</fn></actor>
-       <as><gn>Jeff</gn></as>
+       <character>
+        <name><gn>Jeff</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Sydney</gn><fn>Pollack</fn></actor>
-       <as><gn>George</gn><fn>Fields</fn></as>
+       <character>
+        <name><gn>George</gn><fn>Fields</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>George</gn><fn>Gaynes</fn></actor>
-       <as><gn>John</gn><fn>Van Horn</fn></as>
+       <character>
+        <name><gn>John</gn><fn>Van Horn</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Geena</gn><fn>Davis</fn></actor>
-       <as><gn>April</gn></as>
+       <character>
+        <name><gn>April</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Doris</gn><fn>Belack</fn></actor>
-       <as><gn>Rita</gn></as>
+       <character>
+        <name><gn>Rita</gn></name>
+       </character>
       </role>
      </cast>
     </crew>

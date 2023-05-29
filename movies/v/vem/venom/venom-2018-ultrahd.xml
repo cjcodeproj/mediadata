@@ -113,33 +113,47 @@
      <cast>
       <role>
        <actor><gn>Tom</gn><fn>Hardy</fn></actor>
-       <as><gn>Eddie</gn><fn>Brock</fn></as>
-       <as><gn>Venom</gn></as>
+       <character>
+        <name><gn>Eddie</gn><fn>Brock</fn></name>
+        <alias><gn>Venom</gn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Michelle</gn><fn>Williams</fn></actor>
-       <as><gn>Anne</gn><fn>Waying</fn></as>
+       <character>
+        <name><gn>Anne</gn><fn>Waying</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Riz</gn><fn>Ahmed</fn></actor>
-       <as><gn>Carlton</gn><fn>Drake</fn></as>
-       <as><gn>Riot</gn></as>
+       <character>
+        <name><gn>Carlton</gn><fn>Drake</fn></name>
+        <alias><gn>Riot</gn></alias>
+       </character>
       </role>
       <role>
        <actor><gn>Scott</gn><fn>Haze</fn></actor>
-       <as><preTitle>Security Chief</preTitle><gn>Roland</gn><fn>Treece</fn></as>
+       <character>
+        <name><prefix>Security Chief</prefix><gn>Roland</gn><fn>Treece</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Reid</gn><fn>Scott</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Dan</gn><fn>Lewis</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Dan</gn><fn>Lewis</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jenny</gn><fn>Slate</fn></actor>
-       <as><preTitle>Dr</preTitle><gn>Dora</gn><fn>Skirth</fn></as>
+       <character>
+        <name><prefix>Dr</prefix><gn>Dora</gn><fn>Skirth</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Peggy</gn><fn>Lu</fn></actor>
-       <as><preTitle>Mrs</preTitle><fn>Chen</fn></as>
+       <character>
+        <name><prefix>Mrs</prefix><fn>Chen</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

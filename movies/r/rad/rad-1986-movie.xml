@@ -79,27 +79,39 @@
      <cast>
       <role>
        <actor><gn>Bill</gn><fn>Allen</fn></actor>
-       <as><gn>Cru</gn></as>
+       <character>
+        <name><gn>Cru</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Lori</gn><fn>Loughlin</fn></actor>
-       <as><gn>Christian</gn></as>
+       <character>
+        <name><gn>Christian</gn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Talia</gn><fn>Shire</fn></actor>
-       <as><preTitle>Mrs.</preTitle><fn>Jones</fn></as>
+       <character>
+        <name><prefix>Mrs.</prefix><fn>Jones</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ray</gn><fn>Walston</fn></actor>
-       <as><gn>Burton</gn><fn>Timmer</fn></as>
+       <character>
+        <name><gn>Burton</gn><fn>Timmer</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Alfie</gn><fn>Wise</fn></actor>
-       <as><gn>Eliott</gn><fn>Dole</fn></as>
+       <character>
+        <name><gn>Eliott</gn><fn>Dole</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Jack</gn><fn>Weston</fn></actor>
-       <as><gn>Duke</gn><fn>Best</fn></as>
+       <character>
+        <name><gn>Duke</gn><fn>Best</fn></name>
+       </character>
       </role>
      </cast>
     </crew>

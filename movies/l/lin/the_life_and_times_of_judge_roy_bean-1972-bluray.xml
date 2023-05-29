@@ -101,39 +101,57 @@
      <cast>
       <role>
        <actor><gn>Paul</gn><fn>Newman</fn></actor>
-       <as><preTitle>Judge</preTitle><gn>Roy</gn><fn>Bean</fn></as>
+       <character>
+        <name><prefix type='honorific'>Judge</prefix><gn>Roy</gn><fn>Bean</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Ava</gn><fn>Gardner</fn></actor>
-       <as><gn>Lilee</gn><fn>Langtry</fn></as>
+       <character>
+        <name><gn>Lilee</gn><fn>Langtry</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Victoria</gn><fn>Principal</fn></actor>
-       <as><gn>Maria</gn><fn>Elena</fn></as>
+       <character>
+        <name><gn>Maria</gn><fn>Elena</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Anthony</gn><fn>Perkins</fn></actor>
-       <as><preTitle>Rev</preTitle><fn>LaSalle</fn></as>
+       <character>
+        <name><prefix type='honorific'>Rev</prefix><fn>LaSalle</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>John</gn><fn>Huston</fn></actor>
-       <as><gn>Grizzly</gn><fn>Adams</fn></as>
+       <character>
+        <name><gn>Grizzly</gn><fn>Adams</fn></name>
+       </character>
       </role>
       <role>
        <actor><gn>Roy</gn><fn>Jensen</fn></actor>
-       <as><title>Outlaw</title></as>
+       <character>
+        <unnamed>Outlaw</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Gary</gn><fn>Combs</fn></actor>
-       <as><title>Outlaw</title></as>
+       <character>
+        <unnamed>Outlaw</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Bennie</gn><mn>E</mn><fn>Dobbins</fn></actor>
-       <as><title>Outlaw</title></as>
+       <character>
+        <unnamed>Outlaw</unnamed>
+       </character>
       </role>
       <role>
        <actor><gn>Richard</gn><fn>Farnsworth</fn></actor>
-       <as><title>Outlaw</title></as>
+       <character>
+        <unnamed>Outlaw</unnamed>
+       </character>
       </role>
      </cast>
     </crew>
