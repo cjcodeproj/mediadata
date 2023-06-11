@@ -5,7 +5,7 @@ CPATH=`dirname $0`
 . $CPATH/test_include.sh
 
 FILELIST=`find . -type f -name "*-bluray*.xml" -o -name "*-dvd.xml" -o -name "*-ultrahd.xml"  -o -name "*-vhs.xml"`
-# XPATH
+# XSDPATH
 
 COUNT=0
 ERRORS=0
@@ -17,8 +17,8 @@ CLEAN=()
 # Main Block
 #
 
-if [ -z $XPATH ]; then
-	echo "Need schema location in order for XML validation tests"
+if [ -z $XSDPATH ]; then
+	echo "Define XSDPATH if you want to do schema validation"
 fi
 
 for FI in $FILELIST
@@ -28,10 +28,11 @@ do
 	if [ $DEBUG ]; then
 		echo $FI
 	fi
-	if [ ! -z $XPATH ]; then
+	if [ ! -z $XSDPATH ]; then
 		testxml $FI
 	fi
 	testquotes $FI
+	# testtrailingws $FI
 	if [ -z $SKIPIT ]; then
 		testinstances $FI
 	fi
@@ -59,4 +60,4 @@ fi
 
 echo "Clean count: $CC"
 
-# echo ${CLEAN[*]}
+exit
