@@ -9,7 +9,7 @@ testxml()
 	if [ $? -ne 0 ]; then
 		echo " ERROR -- Validation error found in $1"
 		((ERRORS = $ERRORS +1))
-		xmllint --xinclude --path $XPATH --noout --schema media-schema.xsd $1
+		xmllint --xinclude --path $XSDPATH --noout --schema media-schema.xsd $1
 	fi
 
 }
@@ -73,7 +73,7 @@ testcomments()
 # See how many keywords the movie had
 testkeywords()
 {
-	xmllint --xpath $XPATH --noout $1 >/dev/null 2>&1
+	xmllint --xpath $XSDPATH --noout $1 >/dev/null 2>&1
 	KWCOUNT=`xmllint --xinclude --xpath "count(//*[local-name()='keywords']//*)" $1`
 	if (( KWCOUNT < 4)); then
 		echo " WARNING -- Less than 4 keywords in $1 ($KWCOUNT)"
